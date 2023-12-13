@@ -5601,7 +5601,7 @@
 				"$gameVariables.setValue(21,-1);"
 			]},
 			{"code":655,"indent":1,"parameters":[
-				"if(!($gameTemp._varId in $gameVariables._data)){"
+				"if($gameVariables._data[$gameTemp._varId]==null){"
 			]},
 			{"code":655,"indent":1,"parameters":[
 				"$gameVariables.setValue($gameTemp._varId,-1);"
