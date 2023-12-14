@@ -6723,25 +6723,22 @@
 				"} }"
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"{ let evt=$gameMap._events[this._eventId];"
+				"{ let evt=$gameMap._events[this._eventId],tmp;"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"if(typeof require==='function'){ try{"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				" evt._plyrUsrName=evt._plyrUsrName||require(\"os\").userInfo().username+'，';"
+				" tmp=require(\"os\").userInfo().username+'，';"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"}catch(e){"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"} }else evt._plyrUsrName=String.fromCharCode(0x200B);"
+				"} }"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"$gameVariables.setValue(22,evt._plyrUsrName);"
-			]},
-			{"code":655,"indent":0,"parameters":[
-				"$gameVariables.setValue(23,this._eventId);"
+				"evt._plyrUsrName=evt._plyrUsrName||tmp||String.fromCharCode(0x200B);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"}"
@@ -6756,10 +6753,10 @@
 				"\\F[黃金]\\V[21]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\EVALJSCODE\"$gameVariables.setValue(21,(Math.random()<0.5?$gameVariables.value(22):'')+'還想要知道什麼嗎？');\""
+				"\\EVALJSCODE\"$gameVariables.setValue(21,($gameMap._events[$gameMap._interpreter._eventId]._canUsrname&&Math.random()<0.5&&$gameMap._events[$gameMap._interpreter._eventId]._plyrUsrName||'')+'還想要知道什麼嗎？');\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\EVALJSCODE\"{ let evt=$gameMap._events[$gameVariables.value(23)]; for(let z=4;z--;){ const idx=(z*$dataMap.height+evt.y)*$dataMap.width+evt.x; if($dataMap.data[idx]===153){ evt._tInfo=[idx,$dataMap.data[idx],]; $dataMap.data[idx]=155; const tm=SceneManager._scene._spriteset._tilemap; tm._needsRepaint=true; tm.refresh(); } } }\""
+				"\\EVALJSCODE\"{ let evt=$gameMap._events[$gameMap._interpreter._eventId]; for(let z=4;z--;){ const idx=(z*$dataMap.height+evt.y)*$dataMap.width+evt.x; if($dataMap.data[idx]===153){ evt._tInfo=[idx,$dataMap.data[idx],]; $dataMap.data[idx]=155; const tm=SceneManager._scene._spriteset._tilemap; tm._needsRepaint=true; tm.refresh(); } } }\""
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
@@ -6837,13 +6834,13 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「貪食蛇小遊戲、怪物自動追人、高速版戰鬥"
+				"「貪吃蛇小遊戲、動態遊戲結束畫面、光影、"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"魔戒光影、動態遊戲結束畫面、道具說明等等"
+				"近怪物追人、道具額外說明、高速版戰鬥魔戒"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"．．．」"
+				"等等．．．」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -7141,6 +7138,130 @@
 			]},
 			{"code":404,"indent":0,"parameters":[
 			]},
+			{"code":111,"indent":0,"parameters":[
+				12,
+				"$gameMap._events[this._eventId]._canUsrname===undefined && $gameMap._events[this._eventId]._plyrUsrName && $gameMap._events[this._eventId]._plyrUsrName!==String.fromCharCode(0x200B)"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameMap._events[this._eventId]._canUsrnameAskedState=0;"
+			]},
+			{"code":112,"indent":1,"parameters":[
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"this._list[this._index+2].parameters[0]=$gameMap._events[this._eventId]._canUsrnameAskedState?\"\\\\F[黃金]真的嗎？\\n如果有人在看你的話，他會看到喔？\":\"\\\\F[黃金]可以尊稱您的大名嗎？\\n\\n(翻譯：我要撈你的電腦使用者名稱囉？)\"; this._list[this._index+3].parameters[2]=1+~~(Math.random()*(this._list[this._index+3].parameters[0].length-1));"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\F[黃金]"
+			]},
+			{"code":102,"indent":2,"parameters":[
+				[
+					"好啊！",
+					"不行！",
+					"不可以！",
+					"不要！"
+				],
+				1,
+				1,
+				2,
+				0
+			]},
+			{"code":402,"indent":2,"parameters":[
+				0,
+				"好啊！"
+			]},
+			{"code":111,"indent":3,"parameters":[
+				12,
+				"$gameMap._events[this._eventId]._canUsrnameAskedState"
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"$gameMap._events[this._eventId]._canUsrname=true;"
+			]},
+			{"code":355,"indent":4,"parameters":[
+				"this._list[this._index+2].parameters[0]=\"\\\\F[黃金]太棒了！請多多指教，\"+$gameMap._events[this._eventId]._plyrUsrName.slice(0,$gameMap._events[this._eventId]._plyrUsrName.length-1)+\"！\\n不過當你重新進房間後，我還會再問一次的！\";"
+			]},
+			{"code":101,"indent":4,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":4,"parameters":[
+				"\\F[黃金]"
+			]},
+			{"code":113,"indent":4,"parameters":[
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
+			{"code":355,"indent":3,"parameters":[
+				"$gameMap._events[this._eventId]._canUsrnameAskedState=1;"
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":402,"indent":2,"parameters":[
+				1,
+				"不行！"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":402,"indent":2,"parameters":[
+				2,
+				"不可以！"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":402,"indent":2,"parameters":[
+				3,
+				"不要！"
+			]},
+			{"code":113,"indent":3,"parameters":[
+			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":404,"indent":2,"parameters":[
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":413,"indent":1,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameMap._events[this._eventId]._canUsrname|=0;"
+			]},
+			{"code":111,"indent":1,"parameters":[
+				12,
+				"!$gameMap._events[this._eventId]._canUsrname"
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"BLR_studio_GOLD",
+				1,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"\\F[黃金]是嗎？真是可惜。"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"你重新進房間後，我會再問一次的！"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
 			{"code":122,"indent":0,"parameters":[
 				22,
 				22,
@@ -7156,7 +7277,7 @@
 				0
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"{ let evt=$gameMap._events[$gameVariables.value(23)]; if(evt._tInfo) $dataMap.data[evt._tInfo[0]]=evt._tInfo[1]; }"
+				"{ let evt=$gameMap._events[$gameMap._interpreter._eventId]; if(evt._tInfo) $dataMap.data[evt._tInfo[0]]=evt._tInfo[1]; }"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				23,
