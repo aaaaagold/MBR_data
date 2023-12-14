@@ -4093,23 +4093,34 @@
 			{"code":401,"indent":1,"parameters":[
 				"差點就沒命了．．．"
 			]},
-			{"code":250,"indent":1,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				1,
+				38,
+				0,
+				1,
+				1
+			]},
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
 				0,
 				2
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"從屁股上得到了\\V[38]條\\ni[18]"
 			]},
-			{"code":126,"indent":1,"parameters":[
+			{"code":126,"indent":2,"parameters":[
 				18,
 				0,
 				1,
 				38
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":121,"indent":1,"parameters":[
 				323,

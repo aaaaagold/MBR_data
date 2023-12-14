@@ -19998,7 +19998,10 @@
 				3
 			]},
 			{"code":250,"indent":0,"parameters":[
-				{"name":"Damage1","volume":90,"pitch":60,"pan":0}
+				{"name":"heartbeat01","volume":100,"pitch":100,"pan":0}
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameMap._events[34].fullScreenDiplopiaEffect_gen(0,0,0.9,0.1,0.1,0,0,0,60,15)"
 			]},
 			{"code":224,"indent":0,"parameters":[
 				[
@@ -20009,9 +20012,6 @@
 				],
 				60,
 				false
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"heartbeat01","volume":100,"pitch":100,"pan":0}
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"SceneManager._scene._chr2sp.get($gameMap._events[34]).setColorTone([0,0,0,255]);"

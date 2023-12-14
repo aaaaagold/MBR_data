@@ -54517,10 +54517,10 @@
 				"「萬靈淨化，除了解除全狀態異常外，更可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"替大家\\C[6]免疫狀態異常的攻擊\\C[0]，最重要的是，\\C[6]使用"
+				"替大家賦予萬靈，\\C[6]免疫狀態異常的攻擊\\C[0]，增加"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"它之後，再也不會把能力強化給消除掉了\\C[0]。」"
+				"裝備穿搭的靈活性。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_IceMoon",
@@ -60053,10 +60053,10 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":38,"indent":null}
 			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
 			{"code":242,"indent":0,"parameters":[
 				3
-			]},
-			{"code":243,"indent":0,"parameters":[
 			]},
 			{"code":230,"indent":0,"parameters":[
 				180

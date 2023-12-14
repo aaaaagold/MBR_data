@@ -5548,8 +5548,8 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People3",
-				7,
+				"Recolor_Soldiers",
+				0,
 				0,
 				2
 			]},
@@ -5572,8 +5572,8 @@
 				"「嗯！人都到齊了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People3",
-				7,
+				"Recolor_Soldiers",
+				0,
 				0,
 				2
 			]},

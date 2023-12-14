@@ -47078,10 +47078,10 @@
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":126,"indent":0,"parameters":[
-				3,
+				34,
 				0,
 				0,
-				10
+				1
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -47090,7 +47090,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得回復劑10瓶。"
+				"獲得\\ni[34]。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -47276,10 +47276,10 @@
 				{"name":"Item1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":126,"indent":0,"parameters":[
-				122,
+				123,
 				0,
 				0,
-				10
+				1
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -47288,7 +47288,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"獲得地脈之沙10個。"
+				"獲得\\ni[123]。"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

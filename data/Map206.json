@@ -2647,8 +2647,8 @@
 				{"code":1,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Recolor_Orcs",
-				4,
+				"Monster_ETNR_Monster01",
+				10,
 				0,
 				0
 			]},

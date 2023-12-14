@@ -57,7 +57,7 @@
 	{"type":1,"weaponImageId":15},
 	{"type":1,"weaponImageId":0},
 	{"type":1,"weaponImageId":25}
-],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"RockCave_ver2","battleback2Name":"","battlerHue":0,"battlerName":"Animal_13_mouse","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":109,"elements":[
+],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"RockCave_ver2","battleback2Name":"","battlerHue":0,"battlerName":"Animal_13_mouse","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":295,"elements":[
 	"",
 	"斬屬性",
 	"刺屬性",
@@ -189,14 +189,14 @@
 	"-天使專用-",
 	"末曲婚禮-雷娜組合",
 	"主線劇情發動了時間暫停",
-	"尚未使用，請用自己區段",
+	"神祇遺跡捷徑",
 	"柏林的信閃瞎眼",
 	"柏林的改圖",
 	"松鼠舞廳場景初始化",
 	"尚未使用，請用自己區段",
 	"尚未使用，請用自己區段",
 	"尚未使用，請用自己區段",
-	"尚未使用，請用自己區段",
+	"達西村陰暗隧道有踩到毒水",
 	"礦坑3F石像鬼01",
 	"礦坑3F石像鬼02",
 	"礦坑3F石像鬼03",
@@ -1316,7 +1316,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":9353923,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":99044770,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",

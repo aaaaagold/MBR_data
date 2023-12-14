@@ -1330,6 +1330,9 @@
 	null,
 	{"id":1,"name":"主線","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":230,"indent":0,"parameters":[
+				90
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				3,
@@ -1340,10 +1343,13 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[2]發生了什麼事了．．．\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[2]發生了什麼事了．．．\\|\\|\\|\\^\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -1380,6 +1386,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"\\C[4]\\}GS*_@I))F_)OF)WE\\|\\^\""
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -1480,6 +1489,9 @@
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"\\C[4]\\}#)UJ+_+_FDEFSD+_+%#)#)%GGG\\|\\^\""
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -1551,6 +1563,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"\\C[2]有人在跟我說話嗎？\\|\\|\\^\""
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2349,7 +2364,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]媽媽，為什麼我不可以穿裙子？\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]媽媽，為什麼我不可以穿裙子？\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2361,7 +2376,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]妳明明說生日禮物可以讓我自己選的！\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]妳明明說生日禮物可以讓我自己選的！\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2373,7 +2388,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]為什麼爸爸發那麼大的脾氣，把我最喜歡的裙子撕爛了！\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]為什麼爸爸發那麼大的脾氣，把我最喜歡的裙子撕爛了！\\|\\|\\|\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -2388,7 +2403,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]小唯，裙子是給女孩子穿的，你是男孩子。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]小唯，裙子是給女孩子穿的，你是男孩子。\\|\\|\\|\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -2403,7 +2418,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]男孩子就不可以穿裙子嗎？\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]男孩子就不可以穿裙子嗎？\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2415,7 +2430,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]明明很可愛的說．．．\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]明明很可愛的說．．．\\|\\|\\|\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -2430,7 +2445,10 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]小唯你還小，很多事情你還不懂。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]小唯你還小，很多事情你還不懂。\\|\\|\\|\\^\""
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2454,7 +2472,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]這件裙子，是媽媽昨晚給你縫的。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]這件裙子，是媽媽昨晚給你縫的。\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2466,7 +2484,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]雖然比不上昨天那件那麼漂亮．．．\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]雖然比不上昨天那件那麼漂亮．．．\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2478,7 +2496,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]爸爸媽媽不是有意的。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]爸爸媽媽不是有意的。\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2490,7 +2508,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]原諒爸爸媽媽好嗎？\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]原諒爸爸媽媽好嗎？\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2502,7 +2520,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]好可愛！謝謝媽媽！\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]好可愛！謝謝媽媽！\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2514,7 +2532,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]我現在就去試穿可以嗎？\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]我現在就去試穿可以嗎？\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2553,7 +2571,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]昨天晚上爸爸媽媽商量過了。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]昨天晚上爸爸媽媽商量過了。\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2565,7 +2583,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]等你成年後，如果還是想穿裙子。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]等你成年後，如果還是想穿裙子。\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2577,7 +2595,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]不論你做出怎樣的決定，爸爸媽媽都支持你。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]不論你做出怎樣的決定，爸爸媽媽都支持你。\\|\\|\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -2589,7 +2607,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[10]因為，你是我們的寶貝孩子。\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[10]因為，你是我們的寶貝孩子。\\|\\|\\|\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				240
@@ -2655,7 +2673,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[0]媽媽．．．\\|\\|\\^\""
+				"\\TXTCENTER:\"\\C[0]媽媽．．．\\|\\|\\|\\^\""
 			]},
 			{"code":230,"indent":0,"parameters":[
 				120

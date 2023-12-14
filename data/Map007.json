@@ -8733,8 +8733,8 @@
 	{"id":12,"name":"EV012","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"People4_bablfxgy","direction":6,"pattern":1,"characterIndex":3},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},

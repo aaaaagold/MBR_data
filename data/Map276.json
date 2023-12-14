@@ -6285,8 +6285,8 @@
 				{"code":38,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People3",
-				7,
+				"Recolor_Soldiers",
+				0,
 				0,
 				2
 			]},
@@ -6297,8 +6297,8 @@
 				"「國王陛下已經在揭見廳等候多時了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People3",
-				7,
+				"Recolor_Soldiers",
+				0,
 				0,
 				2
 			]},
@@ -8005,7 +8005,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「廢話！慶次找老娘玩ＳＭ，白嫖不給錢就算"
+				"「廢話！慶次找老娘玩SM，白嫖不給錢就算"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"了，還想羞辱老娘！」"

@@ -13381,6 +13381,7 @@
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
+					{"code":39,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
@@ -13426,6 +13427,9 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
 			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":39,"indent":null}
+			]},
 			{"code":205,"indent":0,"parameters":[
 				23,
 				{"list":[
@@ -13444,6 +13448,7 @@
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
+					{"code":39,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
@@ -13492,6 +13497,9 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
 			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":39,"indent":null}
+			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
 				{"list":[
@@ -13512,6 +13520,7 @@
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
 					{"code":1,"indent":null},
+					{"code":39,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
@@ -13561,6 +13570,9 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":39,"indent":null}
 			]},
 			{"code":205,"indent":0,"parameters":[
 				24,
@@ -14167,6 +14179,16 @@
 			{"code":314,"indent":0,"parameters":[
 				0,
 				0
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":40,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":40,"indent":null}
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,

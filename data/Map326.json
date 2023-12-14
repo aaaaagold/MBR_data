@@ -108080,6 +108080,33 @@
 			]},
 			{"code":412,"indent":0,"parameters":[
 			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				61,
+				0
+			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Poison","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":1,"parameters":[
+				[
+					0,
+					255,
+					0,
+					50
+				],
+				5,
+				false
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":121,"indent":0,"parameters":[
+				61,
+				61,
+				1
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[

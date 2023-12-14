@@ -22461,8 +22461,8 @@
 				0
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -22538,8 +22538,8 @@
 				{"code":1,"indent":null}
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},

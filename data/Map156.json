@@ -6979,7 +6979,7 @@
 				"鐵特"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我絕對不會看不起任何人！」"
+				"「\\{我絕對不會看不起任何人！\\}」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}

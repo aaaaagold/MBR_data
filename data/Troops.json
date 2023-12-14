@@ -236,7 +236,7 @@
 		{"enemyId":15,"x":138,"y":379,"hidden":false}
 	],"name":"維皮單挑獸人","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":7,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
-			{"code":101,"indent":0,"parameters":["Monster",2,0,0]},
+			{"code":101,"indent":0,"parameters":["Recolor_Orcs",0,0,0]},
 			{"code":401,"indent":0,"parameters":["獸人"]},
 			{"code":401,"indent":0,"parameters":["「嗯？這個軟趴趴的拳頭是什麼？」"]},
 			{"code":101,"indent":0,"parameters":["BLR_01_1",8,0,0]},
@@ -258,7 +258,7 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":15,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["Monster",2,0,0]},
+			{"code":101,"indent":0,"parameters":["Recolor_Orcs",0,0,0]},
 			{"code":401,"indent":0,"parameters":["獸人"]},
 			{"code":401,"indent":0,"parameters":["「我真訝異！你居然有這樣的實力．．．」"]},
 			{"code":122,"indent":0,"parameters":[15,15,1,0,1]},
@@ -267,7 +267,7 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":10,"enemyIndex":0,"enemyValid":true,"switchId":1,"switchValid":false,"turnA":15,"turnB":0,"turnEnding":true,"turnValid":false},"list":[
-			{"code":101,"indent":0,"parameters":["Monster",2,0,0]},
+			{"code":101,"indent":0,"parameters":["Recolor_Orcs",0,0,0]},
 			{"code":401,"indent":0,"parameters":["獸人"]},
 			{"code":401,"indent":0,"parameters":["「我真訝異！你居然有這樣的實力．．．」"]},
 			{"code":122,"indent":0,"parameters":[15,15,1,0,1]},
@@ -361,7 +361,7 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":101,"indent":0,"parameters":["Recolor_Orcs",4,0,0]},
+			{"code":101,"indent":0,"parameters":["Monster_ETNR_Monster01",10,0,0]},
 			{"code":401,"indent":0,"parameters":["巨魔"]},
 			{"code":401,"indent":0,"parameters":["「居然敢站過來？我要打爛你的腦袋！」"]},
 			{"code":230,"indent":0,"parameters":[30]},
@@ -2526,6 +2526,7 @@
 			{"code":401,"indent":0,"parameters":["攸藍"]},
 			{"code":401,"indent":0,"parameters":["「厲害！你居然達成了！」"]},
 			{"code":121,"indent":0,"parameters":[182,182,0]},
+			{"code":355,"indent":0,"parameters":["$gameSystem._bhud_visible=true"]},
 			{"code":340,"indent":0,"parameters":[]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
@@ -7123,7 +7124,7 @@
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":1},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":122,"indent":0,"parameters":[30,30,0,0,90000]},
+			{"code":122,"indent":0,"parameters":[30,30,0,0,75000]},
 			{"code":122,"indent":0,"parameters":[30,30,2,1,29]},
 			{"code":331,"indent":0,"parameters":[0,1,1,30,false]},
 			{"code":108,"indent":0,"parameters":["以下給黃金改"]},

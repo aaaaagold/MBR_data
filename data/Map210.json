@@ -20330,7 +20330,7 @@
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":213,"indent":0,"parameters":[
-				0,
+				-1,
 				7,
 				true
 			]},

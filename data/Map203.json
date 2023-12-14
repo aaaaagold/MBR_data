@@ -21873,10 +21873,10 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Sailors","direction":2,"pattern":1,"characterIndex":3},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":true,"image":{"tileId":0,"characterName":"Recolor_Sailors","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"Recolor_Sailors",
-				3,
+				"Monster_ETNR_Monster01",
+				11,
 				0,
 				2
 			]},
@@ -21884,7 +21884,27 @@
 				"碼頭水手"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這跟我想像中的『不想努力了』不同啊．．．」"
+				"「那艘往返雪北村的船支變得破破爛爛的，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"這肯定是來自海怪的『攻擊』！」"
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				4,
+				1,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"你的消息倒很靈通．．．"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"但你的臉是怎麼回事？？？"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

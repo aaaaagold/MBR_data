@@ -63630,8 +63630,8 @@
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"Yes",
-					"No"
+					"回報任務",
+					"先離開"
 				],
 				1,
 				0,
@@ -63640,7 +63640,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"Yes"
+				"回報任務"
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
@@ -63684,7 +63684,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"No"
+				"先離開"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -72100,6 +72100,16 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"當有錢人的生活吧。」"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",

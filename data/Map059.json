@@ -1495,19 +1495,24 @@
 				1,
 				"如何通過的建議"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":111,"indent":1,"parameters":[
+				0,
+				118,
+				1
+			]},
+			{"code":101,"indent":2,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":2,"parameters":[
 				"「情報嗎，我是有不少情報，但不是免費的。」"
 			]},
-			{"code":102,"indent":1,"parameters":[
+			{"code":102,"indent":2,"parameters":[
 				[
 					"支付500元聽取情報",
 					"離開"
@@ -1517,194 +1522,102 @@
 				2,
 				0
 			]},
-			{"code":402,"indent":1,"parameters":[
+			{"code":402,"indent":2,"parameters":[
 				0,
 				"支付500元聽取情報"
 			]},
-			{"code":111,"indent":2,"parameters":[
+			{"code":111,"indent":3,"parameters":[
 				7,
 				500,
 				0
 			]},
-			{"code":250,"indent":3,"parameters":[
+			{"code":250,"indent":4,"parameters":[
 				{"name":"Cancel1","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":125,"indent":3,"parameters":[
+			{"code":125,"indent":4,"parameters":[
 				1,
 				0,
 				500
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":4,"parameters":[
 				"",
 				0,
 				0,
 				0
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":4,"parameters":[
 				"失去500\\G。"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":101,"indent":4,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":4,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":4,"parameters":[
 				"「嘿嘿，貪財貪財，那我就說囉。」"
 			]},
-			{"code":101,"indent":3,"parameters":[
+			{"code":119,"indent":4,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":411,"indent":3,"parameters":[
+			]},
+			{"code":250,"indent":4,"parameters":[
+				{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":4,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":4,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":3,"parameters":[
-				"「這裡長年都壟罩著迷霧，一般旅客通常都"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"走跨海大橋，只有冒險者或神職人員才會走"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"幽暗森林．．．」"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「森林內的怪物通常都\\C[2]帶有毒\\C[0]，所以\\C[2]解毒劑\\C[0]"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\C[0]記得準備一些。」"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「此外，聽說森林深處更會遇到\\C[2]亡靈\\C[0]，亡靈具有"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"\\C[2]奪魂\\C[0]跟\\C[2]物理傷害無效\\C[0]，所以\\C[2]恢復MP\\C[0]跟\\C[2]復活道具\\C[0]，"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"務必準備充足！"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「最後，這裡的森林，聽說很多地方都有\\C[2]密道\\C[0]，"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"密道終點都會有很棒的寶物！」"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「只是\\C[2]密道的入口\\C[0]要仔細看才會注意到，且"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"密道內伸手不見五指，記得要購買足夠的\\C[2]蠟燭\\C[0]，"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"才容易在密道內行走。」"
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「我知道的就這些訣竅了！」"
-			]},
-			{"code":213,"indent":3,"parameters":[
-				0,
-				8,
-				true
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"「最後請有水準一點，別聽完情報就給我讀取"
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"存檔．．．」"
-			]},
-			{"code":121,"indent":3,"parameters":[
-				118,
-				118,
-				0
-			]},
-			{"code":0,"indent":3,"parameters":[
-			]},
-			{"code":411,"indent":2,"parameters":[
-			]},
-			{"code":101,"indent":3,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":3,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":3,"parameters":[
+			{"code":401,"indent":4,"parameters":[
 				"「沒錢還想買情報！」"
 			]},
+			{"code":0,"indent":4,"parameters":[
+			]},
+			{"code":412,"indent":3,"parameters":[
+			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
-			{"code":412,"indent":2,"parameters":[
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":402,"indent":1,"parameters":[
+			{"code":402,"indent":2,"parameters":[
 				1,
 				"離開"
 			]},
+			{"code":0,"indent":3,"parameters":[
+			]},
+			{"code":404,"indent":2,"parameters":[
+			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
-			{"code":404,"indent":1,"parameters":[
+			{"code":411,"indent":1,"parameters":[
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"Recolor_Young Men 2",
+				5,
+				0,
+				0
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"商販"
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"「嗯？想再聽一次嗎？」"
+			]},
+			{"code":119,"indent":2,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -1716,13 +1629,14 @@
 			]},
 			{"code":404,"indent":0,"parameters":[
 			]},
-			{"code":0,"indent":0,"parameters":[
-			]}
-		],"moveFrequency":3,"moveRoute":{"list":[
-			{"code":0,"parameters":[
-			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":118,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":103,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Young Men 5","direction":4,"pattern":1,"characterIndex":5},"list":[
+			{"code":115,"indent":0,"parameters":[
+			]},
+			{"code":108,"indent":0,"parameters":[
+				"---"
+			]},
+			{"code":118,"indent":0,"parameters":[
+				"01"
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Young Men 2",
 				5,
@@ -1733,161 +1647,101 @@
 				"商販"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「來唷來唷，有沒有想要買補給品呢？」"
-			]},
-			{"code":102,"indent":0,"parameters":[
-				[
-					"購買補給品",
-					"如何通過的建議",
-					"離開"
-				],
-				2,
-				0,
-				2,
-				0
-			]},
-			{"code":402,"indent":0,"parameters":[
-				0,
-				"購買補給品"
-			]},
-			{"code":302,"indent":1,"parameters":[
-				0,
-				3,
-				0,
-				0,
-				false
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				33,
-				0,
-				0
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				92,
-				0,
-				0
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				362,
-				0,
-				0
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				242,
-				0,
-				0
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				430,
-				1,
-				50
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":402,"indent":0,"parameters":[
-				1,
-				"如何通過的建議"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「嗯？想再聽一次嗎？」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"Recolor_Young Men 2",
-				5,
-				0,
-				0
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"商販"
-			]},
-			{"code":401,"indent":1,"parameters":[
 				"「這裡長年都壟罩著迷霧，一般旅客通常都"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"走跨海大橋，只有冒險者或神職人員才會走"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"幽暗森林．．．」"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":0,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"「森林內的怪物通常都\\C[2]帶有毒\\C[0]，所以\\C[2]解毒劑\\C[0]"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"\\C[0]記得準備一些。」"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":0,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"「此外，聽說森林深處更會遇到\\C[2]亡靈\\C[0]，亡靈具有"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"\\C[2]奪魂\\C[0]跟\\C[2]物理傷害無效\\C[0]，所以\\C[2]恢復MP\\C[0]跟\\C[2]復活道具\\C[0]，"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"務必準備充足！"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":0,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"「最後，這裡的森林，聽說很多地方都有\\C[2]密道\\C[0]，"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"密道終點都會有很棒的寶物！」"
 			]},
-			{"code":101,"indent":1,"parameters":[
+			{"code":101,"indent":0,"parameters":[
 				"Recolor_Young Men 2",
 				5,
 				0,
 				0
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"商販"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"「只是\\C[2]密道的入口\\C[0]要仔細看才會注意到，且"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"密道內伸手不見五指，記得要購買足夠的\\C[2]蠟燭\\C[0]，"
 			]},
-			{"code":401,"indent":1,"parameters":[
+			{"code":401,"indent":0,"parameters":[
 				"才容易在密道內行走。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Young Men 2",
+				5,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"商販"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「我知道的就這些訣竅了！」"
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
+				118,
+				1
+			]},
+			{"code":213,"indent":1,"parameters":[
+				0,
+				8,
+				true
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"Recolor_Young Men 2",
@@ -1899,17 +1753,19 @@
 				"商販"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「我知道的就這些訣竅了！」"
+				"「最後請有水準一點，別聽完情報就給我讀取"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"存檔．．．」"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				118,
+				118,
+				0
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
-			{"code":402,"indent":0,"parameters":[
-				2,
-				"離開"
-			]},
-			{"code":0,"indent":1,"parameters":[
-			]},
-			{"code":404,"indent":0,"parameters":[
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

@@ -21632,8 +21632,8 @@
 	{"id":10,"name":"吃蘋果的小女孩","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"People1","direction":8,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -21672,8 +21672,8 @@
 				{"name":"G-sound_se_05_chew","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -21709,8 +21709,8 @@
 				{"name":"G-sound_se_05_chew","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -21771,8 +21771,8 @@
 				{"code":33,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22028,8 +22028,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22071,8 +22071,8 @@
 				"「對了，聽說馬大叔在找我，妳知道他在哪嗎？」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22111,8 +22111,8 @@
 				"一開始有幫忙找到娃娃"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22135,8 +22135,8 @@
 				"「好久不見了啊。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22206,8 +22206,8 @@
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22256,8 +22256,8 @@
 				"「話說，妳這些寶石怎麼找到的啊？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22268,8 +22268,8 @@
 				"「就是撿到的啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -22283,8 +22283,8 @@
 				"『出門丟個垃圾怎麼手上就多了點心？』」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -24502,8 +24502,8 @@
 	{"id":19,"name":"女孩","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -24524,8 +24524,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -24536,8 +24536,8 @@
 				"「根據我對大華的了解，他最喜歡躲在\\c[2]當鬼人的起點附近\\c[0]且躲到\\c[2]樹後\\c[0]，這也是小明為什麼不想當鬼的原因。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -24555,8 +24555,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":304,"switch1Valid":true,"switch2Id":305,"switch2Valid":true,"variableId":308,"variableValid":false,"variableValue":3},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -24830,8 +24830,8 @@
 	{"id":21,"name":"村夫","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24873,8 +24873,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24885,8 +24885,8 @@
 				"「真傷腦筋，看他們這樣要猜拳猜到晚上了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24900,8 +24900,8 @@
 				"誰也不讓誰。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24912,8 +24912,8 @@
 				"「我老婆讓他回家吃飯他也不肯。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24965,8 +24965,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -24984,8 +24984,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -25055,8 +25055,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":303,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":308,"variableValid":false,"variableValue":2},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -25067,8 +25067,8 @@
 				"「休息時間結束，我也差不多該忙農活了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -25095,8 +25095,8 @@
 	{"id":22,"name":"EV022","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People2","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25123,8 +25123,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":110,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"People2","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25152,8 +25152,8 @@
 				1
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25167,8 +25167,8 @@
 				"請發現的人務必不要拿走！」"
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25191,8 +25191,8 @@
 				"好像不太妙啊。"
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25223,8 +25223,8 @@
 				"「沒．．．沒啊？\\.\\.\\.我看起來像小偷嗎？」"
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25250,8 +25250,8 @@
 				"「哈．．．\\|哈哈哈，我先走了。」"
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25282,8 +25282,8 @@
 			{"code":411,"indent":1,"parameters":[
 			]},
 			{"code":101,"indent":2,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25302,8 +25302,8 @@
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25328,8 +25328,8 @@
 				"寶物在奇物地道"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25343,8 +25343,8 @@
 				"不智之舉．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25402,8 +25402,8 @@
 				"繼續詢問"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25422,8 +25422,8 @@
 				true
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People2",
-				1,
+				"Recolor_Priests",
+				0,
 				0,
 				2
 			]},
@@ -25551,8 +25551,8 @@
 				60
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -25563,8 +25563,8 @@
 				"「啊！沒錯！是人家的瑪莉蓮。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -25575,8 +25575,8 @@
 				"「一定是剛剛掉的！謝謝大哥哥！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -25688,8 +25688,8 @@
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -30450,8 +30450,8 @@
 				"這是．．．獸人！"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -30465,8 +30465,8 @@
 				"而且這裡有好多漂亮的姑娘啊！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -30480,8 +30480,8 @@
 				"哈哈哈！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -30536,8 +30536,8 @@
 				{"code":18,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -30560,8 +30560,8 @@
 				"「男什麼丁，妳懂的！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -30785,8 +30785,8 @@
 				"但偏偏是獸人．．．"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -30805,8 +30805,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -30884,8 +30884,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -30994,8 +30994,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				1,
+				"Recolor_Kids F",
+				0,
 				0,
 				2
 			]},
@@ -31058,13 +31058,13 @@
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"\\C[4]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[4]一定要保護好她們的安全！\""
+				"\\TXTCENTER:\"一定要保護好你媽媽和妹妹的安全！\""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"記住，這是男子漢的約定！\\|\\|\\|\\^\""
+				"\\TXTCENTER:\"記住，這是男子漢的約定！　　　　\"\\|\\|\\|\\^"
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
@@ -31423,8 +31423,8 @@
 				{"name":"03_Suspense","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -31435,8 +31435,8 @@
 				"「小子，身手不錯啊。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -31450,8 +31450,8 @@
 				"那一下，就可以聽到骨頭斷掉的悅耳聲。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -31653,8 +31653,8 @@
 				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -31689,8 +31689,8 @@
 				2
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -31914,8 +31914,8 @@
 				{"code":1,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32096,8 +32096,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32163,8 +32163,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32175,8 +32175,8 @@
 				"「喔吼吼吼！放馬過來！獸人永不為奴！！！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32388,8 +32388,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32541,8 +32541,8 @@
 				{"code":3,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32660,8 +32660,8 @@
 				10
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -32726,8 +32726,8 @@
 				{"code":3,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -33321,8 +33321,8 @@
 	{"id":63,"name":"村夫","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":true,"image":{"tileId":0,"characterName":"People4","direction":8,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -33379,8 +33379,8 @@
 				{"code":25,"indent":null}
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -33391,8 +33391,8 @@
 				"「啊，維皮，你還沒走啊。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -33403,8 +33403,8 @@
 				"「真是不好意思，我家小鬼造成你的困擾了。」"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -33485,8 +33485,8 @@
 	{"id":64,"name":"女孩5","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},
@@ -33952,8 +33952,8 @@
 	{"id":77,"name":"村夫2","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":303,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":4,"pattern":1,"characterIndex":4},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				4,
+				"Recolor_Men 6",
+				0,
 				0,
 				2
 			]},
@@ -34356,8 +34356,8 @@
 	{"id":79,"name":"小美2","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"People4","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People4",
-				1,
+				"Recolor_Kids F 4",
+				0,
 				0,
 				2
 			]},

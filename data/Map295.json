@@ -8667,7 +8667,10 @@
 				"王老虎"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「是男人，就應該穿道服！就該像個格鬥家！」"
+				"「是男人，就應該穿武道服！就該像個"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"格鬥家！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"2k_Enryuu",

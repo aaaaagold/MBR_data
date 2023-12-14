@@ -163,7 +163,7 @@
 		6,
 		0
 	],"price":7000,"wtypeId":1},
-	{"id":14,"animationId":6,"description":"「斬屬性」物攻+60、速度+10，攻擊附加機率流血。\n裝備後無法使用刀劍類技能，可使用奧義【\\ns[441]】","etypeId":1,"traits":[
+	{"id":14,"animationId":6,"description":"「斬屬性」物攻+60、速度+10，裝備後無法使用刀劍類技能。\n普攻可使用【流血爪】，可使用奧義【\\ns[441]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":43,"dataId":441,"value":1}
 	],"iconIndex":1232,"name":"利血爪","note":"<weaponImg:Weapon_Gloves,11,0>\n<skill_id:479>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons14.txt>","params":[
@@ -190,13 +190,13 @@
 		0,
 		0
 	],"price":1000,"wtypeId":13},
-	{"id":16,"animationId":6,"description":"「斬屬性」物攻+75、防禦+30。\n可使用技能【\\ns[443]、\\ns[444]、\\ns[445]】","etypeId":1,"traits":[
+	{"id":16,"animationId":6,"description":"「斬屬性」物攻+75、防禦+30，小幅提升自身火、雷、冰屬性\n攻擊傷害，可使用技能【\\ns[443]、\\ns[444]、\\ns[445]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":443,"value":1},
 		{"code":43,"dataId":444,"value":1},
 		{"code":43,"dataId":445,"value":1}
-	],"iconIndex":1103,"name":"三元之刃","note":"<weaponImg:Weapons_Angel,0,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons16.txt>","params":[
+	],"iconIndex":1103,"name":"三元之刃","note":"<weaponImg:Weapons_Angel,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[6,1.10]]>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons16.txt>","params":[
 		0,
 		0,
 		75,
@@ -360,7 +360,7 @@
 		0,
 		0
 	],"price":10,"wtypeId":1},
-	{"id":29,"animationId":1,"description":"「鈍屬性」法系職業與維皮皆可使用，物攻、魔攻+30\n使用者的等級會大幅增加普攻威力，攻擊附加高機率混亂","etypeId":1,"traits":[
+	{"id":29,"animationId":1,"description":"「鈍屬性」法系職業與維皮皆可使用，物攻、魔攻+30，使用者等級會\n大幅增加普攻威力，攻擊附加混亂，對非頭目級的敵人造成機率性即死。","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
 	],"iconIndex":1765,"name":"兔耳雷神水壺槌","note":"<weaponImg:Weapon_Rabbit,0,1>\n<skill_id:480>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons29.txt>","params":[
 		0,

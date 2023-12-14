@@ -3303,8 +3303,8 @@
 	{"id":6,"name":"應急食品","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":103,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"Monster","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3338,8 +3338,8 @@
 				"獸人？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3374,8 +3374,8 @@
 				"「原來你還活著！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3386,8 +3386,8 @@
 				"「別提了，我寧可死．．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3413,8 +3413,8 @@
 				"「還真是辛苦你了．．．那你現在是？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3428,8 +3428,8 @@
 				"好幾刀。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3443,8 +3443,8 @@
 				"人類語，還逼我當苦力。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3458,8 +3458,8 @@
 				"只能舔地上的餿食過活。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
@@ -3489,8 +3489,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":1,"priorityType":1,"stepAnime":true,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":103,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1000},"directionFix":false,"image":{"tileId":0,"characterName":"Monster","direction":2,"pattern":1,"characterIndex":2},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"Monster",
-				2,
+				"Recolor_Orcs",
+				0,
 				0,
 				2
 			]},
