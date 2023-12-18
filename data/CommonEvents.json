@@ -16791,8 +16791,31 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
 	{"id":333,"list":[
+		{"code":108,"indent":0,"parameters":["display 0 ~ this._showNumTotal (inclusive)"]},
+		{"code":408,"indent":0,"parameters":["clear pic id = 1 ~ -this._showNumTotal (inclusive)"]},
+		{"code":355,"indent":0,"parameters":["this._cols=[130,430];"]},
+		{"code":655,"indent":0,"parameters":["this._y0=0;"]},
+		{"code":655,"indent":0,"parameters":["this._dy=30;"]},
+		{"code":655,"indent":0,"parameters":["this._picNamePrefix=\"HeartBar_\";"]},
+		{"code":655,"indent":0,"parameters":["this._picNameSuffix=\"\";"]},
+		{"code":655,"indent":0,"parameters":["this._numPerPic=10;"]},
+		{"code":655,"indent":0,"parameters":["this._numPaddingChr='0';"]},
+		{"code":655,"indent":0,"parameters":["this._numPaddingNum=2;"]},
+		{"code":355,"indent":0,"parameters":["this._showNumCurrent=$gameVariables.value(21);"]},
+		{"code":655,"indent":0,"parameters":["this._showNumTotal=$gameVariables.value(22);"]},
+		{"code":355,"indent":0,"parameters":["if(this._showNumTotal<0) for(let x=0,xs=0|-this._showNumTotal;x!==xs;++x) $gameScreen.erasePicture(x+1);"]},
+		{"code":655,"indent":0,"parameters":["else{ let numPic=Math.ceil(this._showNumTotal/this._numPerPic); for(let x=0;x<numPic;++x){"]},
+		{"code":655,"indent":0,"parameters":[" let b=x*this._numPerPic,n=this._showNumCurrent.clamp(b,b+this._numPerPic)-b;"]},
+		{"code":655,"indent":0,"parameters":[" $gameScreen.showPicture("]},
+		{"code":655,"indent":0,"parameters":[" x+1,this._picNamePrefix+(n.toString().padStart(this._numPaddingNum,this._numPaddingChr))+this._picNameSuffix,"]},
+		{"code":655,"indent":0,"parameters":[" 0,this._cols[x%this._cols.length],this._y0+this._dy*~~(x/this._cols.length),"]},
+		{"code":655,"indent":0,"parameters":[" 100,100,"]},
+		{"code":655,"indent":0,"parameters":[" 255,"]},
+		{"code":655,"indent":0,"parameters":[" 0,"]},
+		{"code":655,"indent":0,"parameters":[");"]},
+		{"code":655,"indent":0,"parameters":["} }"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"小遊戲愛心血量","switchId":1,"trigger":0},
 	{"id":334,"list":[
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
