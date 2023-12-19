@@ -1704,7 +1704,7 @@
 			]},
 			{"code":111,"indent":1,"parameters":[
 				12,
-				"TouchInput.isLongPressed('cancel',60) || Input.isLongPressed('cancel',60)"
+				"TouchInput.isLongPressed('cancel',120) || Input.isLongPressed('cancel',60)"
 			]},
 			{"code":355,"indent":2,"parameters":[
 				"$gameTemp._9beat_stat.pause();"
