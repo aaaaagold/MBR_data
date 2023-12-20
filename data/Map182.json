@@ -3407,6 +3407,12 @@
 				"if(dir_UD) dir+=dir_UD*3;"
 			]},
 			{"code":655,"indent":2,"parameters":[
+				"}else if(TouchInput.isTriggered()){"
+			]},
+			{"code":655,"indent":2,"parameters":[
+				"dir=5; $gamePlayer.turnTowardCharacter({x:$gameMap.canvasToMapX(TouchInput.x),y:$gameMap.canvasToMapY(TouchInput.y)});"
+			]},
+			{"code":655,"indent":2,"parameters":[
 				"}"
 			]},
 			{"code":655,"indent":2,"parameters":[
