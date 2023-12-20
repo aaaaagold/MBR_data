@@ -3182,8 +3182,8 @@
 	{"id":3,"name":"EV003","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":26,"switch1Valid":true,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"","direction":8,"pattern":2,"characterIndex":0},"list":[
 			{"code":111,"indent":0,"parameters":[
-				11,
-				"pageup"
+				12,
+				"Input.isTriggered('pageup') || (TouchInput.isTriggered() && $gamePlayer.pos($gameMap.canvasToMapX(TouchInput.x),$gameMap.canvasToMapY(TouchInput.y)))"
 			]},
 			{"code":111,"indent":1,"parameters":[
 				1,
