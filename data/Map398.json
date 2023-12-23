@@ -6943,6 +6943,30 @@
 				"「都用 Windows 幾年ㄌ還不會知道要顯示副檔名。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
+				"「RM都做多久了竟然在事件執行中還放卡住玩家用事件？"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　非平行的事件執行中在預設環境下玩家本來就不能動啊！"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　我們也沒改變預設，讓非平行的事件執行中玩家可以動！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「在遊戲業幾年ㄌ還不會抓已經去顫的鍵盤訊號，"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　以為放個等待就當作好了嗎？使用者體驗那麼差，"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　小你2輪生肖的資工系都比你優秀！」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「到底為什麼40~52歲的人會天真到覺得有努力做就會有結果？"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"　這就是錢淹腳目父母下的產物嗎？」"
+			]},
+			{"code":405,"indent":1,"parameters":[
 				"「想挖角我ㄉ想清楚ㄛ。」"
 			]},
 			{"code":405,"indent":1,"parameters":[
@@ -6974,6 +6998,9 @@
 			]},
 			{"code":405,"indent":1,"parameters":[
 				"「大便編輯器ㄅ要再閃退了RRRR。」"
+			]},
+			{"code":405,"indent":1,"parameters":[
+				"「天使你不要去寫需要邏輯的東西！嘔嘔嘔嘔。」"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"{ let arr=[]; for(let x=this._index;x>=0&&this._list[x]&&this._list[x].code!==105;--x){"
