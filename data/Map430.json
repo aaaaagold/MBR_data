@@ -8272,6 +8272,9 @@
 				"\\TXTCENTER:\"\\{\\{\\{\\{ＧＯ！\"\\^"
 			]},
 			{"code":355,"indent":0,"parameters":[
+				"TouchInput.screenTouchInput_showIfTouched();"
+			]},
+			{"code":655,"indent":0,"parameters":[
 				"大胃王開始();"
 			]},
 			{"code":121,"indent":0,"parameters":[
@@ -8301,6 +8304,24 @@
 			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":355,"indent":1,"parameters":[
+				"if(TouchInput.screenTouchInput_get()){"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" if(Input.isTriggered('left'))  $gameTemp.我按了什麼({keyCode:37});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" if(Input.isTriggered('up'))    $gameTemp.我按了什麼({keyCode:38});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" if(Input.isTriggered('right')) $gameTemp.我按了什麼({keyCode:39});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				" if(Input.isTriggered('down'))  $gameTemp.我按了什麼({keyCode:40});"
+			]},
+			{"code":655,"indent":1,"parameters":[
+				"}"
+			]},
+			{"code":655,"indent":1,"parameters":[
 				"大胃王過程();"
 			]},
 			{"code":230,"indent":1,"parameters":[
@@ -8322,6 +8343,9 @@
 				1
 			]},
 			{"code":355,"indent":0,"parameters":[
+				"TouchInput.screenTouchInput_hide();"
+			]},
+			{"code":655,"indent":0,"parameters":[
 				"大胃王結束();"
 			]},
 			{"code":250,"indent":0,"parameters":[
