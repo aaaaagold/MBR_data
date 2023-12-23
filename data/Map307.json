@@ -209777,7 +209777,7 @@
 				"\\N[8]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「ＧＯＧＯ！」"
+				"「GOGO！」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Load2","volume":90,"pitch":100,"pan":0}
@@ -210698,6 +210698,11 @@
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[1]._isSkiStuck=1;"
 			]},
+			{"code":121,"indent":0,"parameters":[
+				23,
+				23,
+				0
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下2","volume":90,"pitch":100,"pan":0}
 			]},
@@ -210738,6 +210743,11 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[1]._isSkiStuck=0;"
+			]},
+			{"code":121,"indent":0,"parameters":[
+				23,
+				23,
+				1
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"if($gameTemp.me.plyrOriSpeed) $gamePlayer._moveSpeed=$gameTemp.me.plyrOriSpeed; else $gameTemp.me.plyrOriSpeed=undefined;"
@@ -257113,13 +257123,18 @@
 				"煞車中"
 			]},
 			{"code":111,"indent":1,"parameters":[
+				0,
+				23,
+				1
+			]},
+			{"code":111,"indent":2,"parameters":[
 				1,
 				30,
 				0,
 				100,
 				1
 			]},
-			{"code":224,"indent":2,"parameters":[
+			{"code":224,"indent":3,"parameters":[
 				[
 					255,
 					0,
@@ -257129,13 +257144,13 @@
 				15,
 				false
 			]},
-			{"code":250,"indent":2,"parameters":[
+			{"code":250,"indent":3,"parameters":[
 				{"name":"Blow10_B","volume":90,"pitch":100,"pan":0}
 			]},
-			{"code":355,"indent":2,"parameters":[
+			{"code":355,"indent":3,"parameters":[
 				"$gameMap._events[1]._breakEnabled=0;"
 			]},
-			{"code":122,"indent":2,"parameters":[
+			{"code":122,"indent":3,"parameters":[
 				25,
 				25,
 				0,
@@ -257144,7 +257159,7 @@
 				-1,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
+			{"code":122,"indent":3,"parameters":[
 				26,
 				26,
 				0,
@@ -257153,156 +257168,24 @@
 				-1,
 				1
 			]},
-			{"code":122,"indent":2,"parameters":[
+			{"code":122,"indent":3,"parameters":[
 				26,
 				26,
 				2,
 				0,
 				1
 			]},
-			{"code":203,"indent":2,"parameters":[
+			{"code":203,"indent":3,"parameters":[
 				6,
 				1,
 				25,
 				26,
 				0
 			]},
-			{"code":121,"indent":2,"parameters":[
+			{"code":121,"indent":3,"parameters":[
 				22,
 				22,
 				0
-			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":411,"indent":1,"parameters":[
-			]},
-			{"code":111,"indent":2,"parameters":[
-				1,
-				30,
-				0,
-				80,
-				1
-			]},
-			{"code":250,"indent":3,"parameters":[
-				{"name":"Blow10","volume":80,"pitch":100,"pan":0}
-			]},
-			{"code":224,"indent":3,"parameters":[
-				[
-					255,
-					0,
-					0,
-					200
-				],
-				15,
-				false
-			]},
-			{"code":122,"indent":3,"parameters":[
-				25,
-				25,
-				0,
-				3,
-				5,
-				-1,
-				0
-			]},
-			{"code":122,"indent":3,"parameters":[
-				26,
-				26,
-				0,
-				3,
-				5,
-				-1,
-				1
-			]},
-			{"code":122,"indent":3,"parameters":[
-				26,
-				26,
-				2,
-				0,
-				1
-			]},
-			{"code":111,"indent":3,"parameters":[
-				1,
-				29,
-				0,
-				2,
-				0
-			]},
-			{"code":203,"indent":4,"parameters":[
-				40,
-				1,
-				25,
-				26,
-				0
-			]},
-			{"code":122,"indent":4,"parameters":[
-				29,
-				29,
-				0,
-				0,
-				0
-			]},
-			{"code":0,"indent":4,"parameters":[
-			]},
-			{"code":411,"indent":3,"parameters":[
-			]},
-			{"code":111,"indent":4,"parameters":[
-				1,
-				29,
-				0,
-				1,
-				0
-			]},
-			{"code":203,"indent":5,"parameters":[
-				41,
-				1,
-				25,
-				26,
-				0
-			]},
-			{"code":122,"indent":5,"parameters":[
-				29,
-				29,
-				0,
-				0,
-				2
-			]},
-			{"code":0,"indent":5,"parameters":[
-			]},
-			{"code":411,"indent":4,"parameters":[
-			]},
-			{"code":111,"indent":5,"parameters":[
-				1,
-				29,
-				0,
-				0,
-				0
-			]},
-			{"code":203,"indent":6,"parameters":[
-				42,
-				1,
-				25,
-				26,
-				0
-			]},
-			{"code":122,"indent":6,"parameters":[
-				29,
-				29,
-				0,
-				0,
-				1
-			]},
-			{"code":0,"indent":6,"parameters":[
-			]},
-			{"code":412,"indent":5,"parameters":[
-			]},
-			{"code":0,"indent":5,"parameters":[
-			]},
-			{"code":412,"indent":4,"parameters":[
-			]},
-			{"code":0,"indent":4,"parameters":[
-			]},
-			{"code":412,"indent":3,"parameters":[
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -257312,18 +257195,18 @@
 				1,
 				30,
 				0,
-				50,
+				80,
 				1
 			]},
 			{"code":250,"indent":4,"parameters":[
-				{"name":"Blow10","volume":50,"pitch":100,"pan":0}
+				{"name":"Blow10","volume":80,"pitch":100,"pan":0}
 			]},
 			{"code":224,"indent":4,"parameters":[
 				[
 					255,
 					0,
 					0,
-					150
+					200
 				],
 				15,
 				false
@@ -257361,7 +257244,7 @@
 				0
 			]},
 			{"code":203,"indent":5,"parameters":[
-				37,
+				40,
 				1,
 				25,
 				26,
@@ -257386,7 +257269,7 @@
 				0
 			]},
 			{"code":203,"indent":6,"parameters":[
-				38,
+				41,
 				1,
 				25,
 				26,
@@ -257411,7 +257294,7 @@
 				0
 			]},
 			{"code":203,"indent":7,"parameters":[
-				39,
+				42,
 				1,
 				25,
 				26,
@@ -257444,18 +257327,18 @@
 				1,
 				30,
 				0,
-				20,
+				50,
 				1
 			]},
 			{"code":250,"indent":5,"parameters":[
-				{"name":"Blow10","volume":20,"pitch":100,"pan":0}
+				{"name":"Blow10","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":224,"indent":5,"parameters":[
 				[
 					255,
 					0,
 					0,
-					100
+					150
 				],
 				15,
 				false
@@ -257493,7 +257376,7 @@
 				0
 			]},
 			{"code":203,"indent":6,"parameters":[
-				34,
+				37,
 				1,
 				25,
 				26,
@@ -257518,7 +257401,7 @@
 				0
 			]},
 			{"code":203,"indent":7,"parameters":[
-				35,
+				38,
 				1,
 				25,
 				26,
@@ -257543,7 +257426,7 @@
 				0
 			]},
 			{"code":203,"indent":8,"parameters":[
-				36,
+				39,
 				1,
 				25,
 				26,
@@ -257570,6 +257453,142 @@
 			]},
 			{"code":0,"indent":5,"parameters":[
 			]},
+			{"code":411,"indent":4,"parameters":[
+			]},
+			{"code":111,"indent":5,"parameters":[
+				1,
+				30,
+				0,
+				20,
+				1
+			]},
+			{"code":250,"indent":6,"parameters":[
+				{"name":"Blow10","volume":20,"pitch":100,"pan":0}
+			]},
+			{"code":224,"indent":6,"parameters":[
+				[
+					255,
+					0,
+					0,
+					100
+				],
+				15,
+				false
+			]},
+			{"code":122,"indent":6,"parameters":[
+				25,
+				25,
+				0,
+				3,
+				5,
+				-1,
+				0
+			]},
+			{"code":122,"indent":6,"parameters":[
+				26,
+				26,
+				0,
+				3,
+				5,
+				-1,
+				1
+			]},
+			{"code":122,"indent":6,"parameters":[
+				26,
+				26,
+				2,
+				0,
+				1
+			]},
+			{"code":111,"indent":6,"parameters":[
+				1,
+				29,
+				0,
+				2,
+				0
+			]},
+			{"code":203,"indent":7,"parameters":[
+				34,
+				1,
+				25,
+				26,
+				0
+			]},
+			{"code":122,"indent":7,"parameters":[
+				29,
+				29,
+				0,
+				0,
+				0
+			]},
+			{"code":0,"indent":7,"parameters":[
+			]},
+			{"code":411,"indent":6,"parameters":[
+			]},
+			{"code":111,"indent":7,"parameters":[
+				1,
+				29,
+				0,
+				1,
+				0
+			]},
+			{"code":203,"indent":8,"parameters":[
+				35,
+				1,
+				25,
+				26,
+				0
+			]},
+			{"code":122,"indent":8,"parameters":[
+				29,
+				29,
+				0,
+				0,
+				2
+			]},
+			{"code":0,"indent":8,"parameters":[
+			]},
+			{"code":411,"indent":7,"parameters":[
+			]},
+			{"code":111,"indent":8,"parameters":[
+				1,
+				29,
+				0,
+				0,
+				0
+			]},
+			{"code":203,"indent":9,"parameters":[
+				36,
+				1,
+				25,
+				26,
+				0
+			]},
+			{"code":122,"indent":9,"parameters":[
+				29,
+				29,
+				0,
+				0,
+				1
+			]},
+			{"code":0,"indent":9,"parameters":[
+			]},
+			{"code":412,"indent":8,"parameters":[
+			]},
+			{"code":0,"indent":8,"parameters":[
+			]},
+			{"code":412,"indent":7,"parameters":[
+			]},
+			{"code":0,"indent":7,"parameters":[
+			]},
+			{"code":412,"indent":6,"parameters":[
+			]},
+			{"code":0,"indent":6,"parameters":[
+			]},
+			{"code":412,"indent":5,"parameters":[
+			]},
+			{"code":0,"indent":5,"parameters":[
+			]},
 			{"code":412,"indent":4,"parameters":[
 			]},
 			{"code":0,"indent":4,"parameters":[
@@ -257580,22 +257599,22 @@
 			]},
 			{"code":412,"indent":2,"parameters":[
 			]},
-			{"code":0,"indent":2,"parameters":[
-			]},
-			{"code":412,"indent":1,"parameters":[
-			]},
-			{"code":122,"indent":1,"parameters":[
+			{"code":122,"indent":2,"parameters":[
 				30,
 				30,
 				1,
 				0,
 				1
 			]},
-			{"code":250,"indent":1,"parameters":[
+			{"code":250,"indent":2,"parameters":[
 				{"name":"Skiing_Stop","volume":50,"pitch":100,"pan":0}
 			]},
-			{"code":230,"indent":1,"parameters":[
+			{"code":230,"indent":2,"parameters":[
 				10
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":412,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -257687,6 +257706,13 @@
 		],"moveFrequency":1,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":6,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":4,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":6,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":4,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":786},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":1,"y":3}
 ]}

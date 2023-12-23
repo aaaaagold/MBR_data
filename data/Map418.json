@@ -64920,6 +64920,38 @@
 			{"code":401,"indent":0,"parameters":[
 				"「妳還好嗎？」"
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_Recovery",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				90,
+				true
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_01_1",
 				13,
@@ -65000,6 +65032,29 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"了呢？」"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0,
+				90,
+				true
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,

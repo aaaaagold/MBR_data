@@ -12484,7 +12484,7 @@
 		{"code":243,"indent":0,"parameters":[]},
 		{"code":241,"indent":0,"parameters":[{"name":"21 Advancing sea_MV","volume":50,"pitch":100,"pan":0}]},
 		{"code":355,"indent":0,"parameters":["$gameScreen.handmap_clearConf()"]},
-		{"code":355,"indent":0,"parameters":["$gameScreen.handmap_show(0.20)"]},
+		{"code":355,"indent":0,"parameters":["$gameScreen.handmap_show(0.10)"]},
 		{"code":244,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"但丁地圖","switchId":1,"trigger":0},

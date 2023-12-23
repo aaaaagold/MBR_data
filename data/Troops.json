@@ -15,8 +15,33 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-	],"name":"","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
+		{"enemyId":393,"x":312,"y":403,"hidden":false}
+	],"name":"TEST","pages":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":355,"indent":0,"parameters":["$gameTemp.tmp=\"troop-\"+$gameTroop._troopId+\"-once\";"]},
+			{"code":355,"indent":0,"parameters":["BattleManager[$gameTemp.tmp]|=0; ++BattleManager[$gameTemp.tmp]; BattleManager[$gameTemp.tmp]&=15;"]},
+			{"code":111,"indent":0,"parameters":[12,"BattleManager[$gameTemp.tmp]"]},
+			{"code":115,"indent":1,"parameters":[]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":312,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":111,"indent":0,"parameters":[12,"$gameTemp[$gameTemp.tmp]"]},
+			{"code":115,"indent":1,"parameters":[]},
+			{"code":0,"indent":1,"parameters":[]},
+			{"code":412,"indent":0,"parameters":[]},
+			{"code":355,"indent":0,"parameters":["$gameTemp[$gameTemp.tmp]=true;"]},
+			{"code":313,"indent":0,"parameters":[0,0,0,100]},
+			{"code":318,"indent":0,"parameters":[0,11,0,193]},
+			{"code":318,"indent":0,"parameters":[0,7,0,157]},
+			{"code":318,"indent":0,"parameters":[0,7,0,150]},
+			{"code":318,"indent":0,"parameters":[0,7,0,152]},
+			{"code":318,"indent":0,"parameters":[0,7,0,153]},
+			{"code":318,"indent":0,"parameters":[0,7,0,154]},
+			{"code":318,"indent":0,"parameters":[0,7,0,155]},
+			{"code":318,"indent":0,"parameters":[0,7,0,151]},
+			{"code":318,"indent":0,"parameters":[0,7,0,161]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -5975,9 +6000,10 @@
 		{"enemyId":344,"x":222,"y":400,"hidden":false}
 	],"name":"神祇遺跡瑪姆二戰","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":355,"indent":0,"parameters":["BattleManager.setAfterimageOn($gameTroop.members()[0]);"]},
 			{"code":313,"indent":0,"parameters":[0,13,0,72]},
 			{"code":0,"indent":0,"parameters":[]}
-		],"span":1},
+		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":1,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":101,"indent":0,"parameters":["BLR_Marme",6,0,0]},
 			{"code":401,"indent":0,"parameters":["瑪姆"]},

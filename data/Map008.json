@@ -393514,7 +393514,7 @@
 				"{ let s=1.0/256,r=0,stopCnt=90,started=false;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"$gameScreen.handmap_show(s,4);"
+				"$gameScreen.handmap_show(s,1);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"SceneManager.add_additionalUpdate_scene(()=>{"
