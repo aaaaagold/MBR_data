@@ -6742,6 +6742,9 @@
 			{"code":108,"indent":2,"parameters":[
 				"輸贏迴圈"
 			]},
+			{"code":355,"indent":2,"parameters":[
+				"TouchInput.screenTouchInput_showIfTouched();"
+			]},
 			{"code":112,"indent":2,"parameters":[
 			]},
 			{"code":121,"indent":3,"parameters":[
@@ -9434,6 +9437,9 @@
 			{"code":0,"indent":3,"parameters":[
 			]},
 			{"code":413,"indent":2,"parameters":[
+			]},
+			{"code":355,"indent":2,"parameters":[
+				"TouchInput.screenTouchInput_hide();"
 			]},
 			{"code":108,"indent":2,"parameters":[
 				"結束清理圖片"
