@@ -4217,7 +4217,19 @@
 				"爆炸用動畫107"
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"[\"img/tilesets/fsm_Forest01_A1.png\", \"img/tilesets/fsm_Forest01_A2.png\", \"img/tilesets/fsm_Forest01_A3.png\", \"img/tilesets/fsm_Forest01_A4.png\", \"img/tilesets/fsm_Forest01_A5.png\", \"img/tilesets/fsm_Forest01_B.png\", \"img/tilesets/fsm_Forest01_C.png\", \"img/tilesets/fsm_Forest01_D.png\", \"img/tilesets/fsm_Forest01_E.png\", \"img/characters/Monster_MZ.png\", \"img/animations/Explosion1.png\", \"img/characters/!$fsm_Gate03a.png\", \"img/animations/Claw.png\", \"img/animations/Earth2.png\", \"\", \"audio/bgm/Wingless_Battle-HolyBeast.ogg\", \"audio/se/Earth4.ogg\", \"audio/se/Earth5.ogg\", \"audio/se/Monster6.ogg\", \"audio/se/Fire8.ogg\", \"audio/se/Rocket%20Launcher.ogg\", \"audio/se/Rocket Launcher.ogg\", \"audio/se/Explosion2.ogg\", \"audio/se/Explosion7.ogg\", \"audio/se/Dive.ogg\", \"audio/se/Slash2.ogg\", \"audio/se/Monster7.ogg\", \"audio/se/Attack2.ogg\",].forEach(path=>{"
+				"{ let arr=[],imgs=[\"img/tilesets/fsm_Forest01_A1.png\", \"img/tilesets/fsm_Forest01_A2.png\", \"img/tilesets/fsm_Forest01_A3.png\", \"img/tilesets/fsm_Forest01_A4.png\", \"img/tilesets/fsm_Forest01_A5.png\", \"img/tilesets/fsm_Forest01_B.png\", \"img/tilesets/fsm_Forest01_C.png\", \"img/tilesets/fsm_Forest01_D.png\", \"img/tilesets/fsm_Forest01_E.png\", \"img/characters/Monster_MZ.png\", \"img/animations/Explosion1.png\", \"img/characters/!$fsm_Gate03a.png\", \"img/animations/Claw.png\", \"img/animations/Earth2.png\", \"\", \"audio/bgm/Wingless_Battle-HolyBeast.ogg\", \"audio/se/Earth4.ogg\", \"audio/se/Earth5.ogg\", \"audio/se/Monster6.ogg\", \"audio/se/Fire8.ogg\", \"audio/se/Rocket%20Launcher.ogg\", \"audio/se/Rocket Launcher.ogg\", \"audio/se/Explosion2.ogg\", \"audio/se/Explosion7.ogg\", \"audio/se/Dive.ogg\", \"audio/se/Slash2.ogg\", \"audio/se/Monster7.ogg\", \"audio/se/Attack2.ogg\",];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"let audios=[\"audio/bgm/Wingless_Battle-HolyBeast.ogg\", \"audio/se/Earth4.ogg\", \"audio/se/Earth5.ogg\", \"audio/se/Monster6.ogg\", \"audio/se/Fire8.ogg\", \"audio/se/Rocket%20Launcher.ogg\", \"audio/se/Rocket Launcher.ogg\", \"audio/se/Explosion2.ogg\", \"audio/se/Explosion7.ogg\", \"audio/se/Dive.ogg\", \"audio/se/Slash2.ogg\", \"audio/se/Monster7.ogg\", \"audio/se/Attack2.ogg\",];"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if($dataSystem.hasEncryptedImages) arr.concat_inplace(imgs.map(Decrypter.extToEncryptExt)); else arr.concat_inplace(imgs);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"if($dataSystem.hasEncryptedAudio) arr.concat_inplace(audios.map(Decrypter.extToEncryptExt)); else arr.concat_inplace(audios);"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"arr.forEach(path=>{"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				" const xhr=new XMLHttpRequest();"
@@ -4230,6 +4242,9 @@
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"});"
+			]},
+			{"code":655,"indent":0,"parameters":[
+				"}"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
