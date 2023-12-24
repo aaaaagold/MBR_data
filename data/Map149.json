@@ -7101,11 +7101,17 @@
 				"Dirt2",
 				"Cliff"
 			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameParty.selectPack(777);"
+			]},
 			{"code":301,"indent":0,"parameters":[
 				0,
 				138,
 				false,
 				false
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"$gameParty.selectPack(0); $gameParty.mergePack(0,777);"
 			]},
 			{"code":132,"indent":0,"parameters":[
 				{"name":"2000_Battle1","volume":50,"pitch":100,"pan":0}
