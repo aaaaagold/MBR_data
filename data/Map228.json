@@ -97719,6 +97719,9 @@
 				13,
 				0
 			]},
+			{"code":355,"indent":1,"parameters":[
+				"TouchInput.screenTouchInput_showIfTouched();"
+			]},
 			{"code":111,"indent":1,"parameters":[
 				12,
 				"$gamePlayer._vehicleGettingOn"
@@ -97761,6 +97764,9 @@
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":411,"indent":0,"parameters":[
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"TouchInput.screenTouchInput_hide();"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"if($gamePlayer._bak) $gamePlayer._moveSpeed=$gamePlayer._bak.mvsp; else $gamePlayer._bak=undefined;"
@@ -97858,6 +97864,9 @@
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"if($gamePlayer.triggerButtonAction()||$gamePlayer.triggerTouchAction()) ; else if($gamePlayer._moveSpeed>1 && !$gamePlayer.isMoving()) $gamePlayer.moveForward();"
+			]},
+			{"code":355,"indent":0,"parameters":[
+				"if(TouchInput.isTriggered() && $gamePlayer.isInVehicle()){ let pos=$gamePlayer.frontPos(); if($gameMap.canvasToMapX(TouchInput.x)===pos.x && $gameMap.canvasToMapY(TouchInput.y)===pos.y) $gamePlayer.getOffVehicle(); }"
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
