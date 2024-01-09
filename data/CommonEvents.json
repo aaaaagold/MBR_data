@@ -16318,8 +16318,32 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
 	{"id":266,"list":[
+		{"code":355,"indent":0,"parameters":["{ this._picIdv=this._list.filter(cmd=>cmd.code===231).map(cmd=>cmd.parameters[0]);"]},
+		{"code":655,"indent":0,"parameters":["let sc=SceneManager._scene;"]},
+		{"code":655,"indent":0,"parameters":["let sps=sc&&sc._spriteset;"]},
+		{"code":655,"indent":0,"parameters":["let pc=sps&&sps._pictureContainer;"]},
+		{"code":655,"indent":0,"parameters":["if(pc){"]},
+		{"code":655,"indent":0,"parameters":["this._picIdv._tbl=new Map();"]},
+		{"code":655,"indent":0,"parameters":["this._picIdv.forEach((x,i,a)=>a._tbl.set(x,pc.children[x-1]));"]},
+		{"code":655,"indent":0,"parameters":["this._picIdv._tbl.forEach(sp=>sc.addChild(sp));"]},
+		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":231,"indent":0,"parameters":[99,"CG_OHMIRACLE_single",0,0,100,400,30,30,0,0]},
+		{"code":232,"indent":0,"parameters":[99,0,0,0,100,130,40,40,255,0,60,true]},
+		{"code":231,"indent":0,"parameters":[98,"CG_OHMIRACLE_explosion",0,0,-80,50,30,30,255,0]},
+		{"code":232,"indent":0,"parameters":[98,0,0,0,-80,50,35,35,255,0,10,true]},
+		{"code":232,"indent":0,"parameters":[98,0,0,0,-80,50,30,30,255,0,10,true]},
+		{"code":232,"indent":0,"parameters":[98,0,0,0,-80,50,35,35,255,0,10,true]},
+		{"code":232,"indent":0,"parameters":[98,0,0,0,-80,50,30,30,255,0,10,true]},
+		{"code":232,"indent":0,"parameters":[98,0,0,0,-80,50,40,40,0,0,30,false]},
+		{"code":232,"indent":0,"parameters":[99,0,0,0,100,130,40,40,0,0,30,true]},
+		{"code":355,"indent":0,"parameters":["{ let sc=SceneManager._scene;"]},
+		{"code":655,"indent":0,"parameters":["let sps=sc&&sc._spriteset;"]},
+		{"code":655,"indent":0,"parameters":["let pc=sps&&sps._pictureContainer;"]},
+		{"code":655,"indent":0,"parameters":["if(pc) this._picIdv._tbl.forEach((v,k)=>pc.addChildAt(v,k-1));"]},
+		{"code":655,"indent":0,"parameters":["}"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"拜託你了奇蹟之靈","switchId":1,"trigger":0},
 	{"id":267,"list":[
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},

@@ -551,7 +551,8 @@
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":602,"itypeId":1,"name":"奇蹟之靈","note":"<speed:20000>\n<forAllFriends>\n<道具額外文字檔:BLR_custom/detail/item/Items215.txt>","occasion":0,"price":2,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":602,"itypeId":1,"name":"奇蹟之靈","note":"<speed:20000>\n<forAllFriends>\n<道具額外文
+字檔:BLR_custom/detail/item/Items215.txt>\n<setup action>\nCLEAR BATTLE LOG\nDISPLAY ACTION\nIMMORTAL: TARGETS, TRUE\nCOMMON EVENT: 266\nPERFORM START\nWAIT FOR MOVEMENT\nCAST ANIMATION\nWAIT FOR ANIMATION\n</setup action>","occasion":0,"price":2,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":216,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"我方全體HP、MP回復 10，解除全狀態異常，解除死亡","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
