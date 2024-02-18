@@ -46105,7 +46105,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過也不急在這時，也快吃晚飯了，吃完"
+				"「不過不急在這時，也快吃晚飯了，吃完"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"晚飯後再送過來吧。」"
@@ -46184,7 +46184,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你也知道我最信任你了，就交給你了，"
+				"「你也知道我最信任你，就交給你了，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"可以嗎？」"
@@ -64408,6 +64408,9 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":262,"variableValid":true,"variableValue":124},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":221,"indent":0,"parameters":[
 			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
 			{"code":230,"indent":0,"parameters":[
 				60
 			]},
@@ -64428,6 +64431,9 @@
 			]},
 			{"code":211,"indent":0,"parameters":[
 				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,

@@ -15806,6 +15806,32 @@
 				0,
 				3
 			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_UT_WTF",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				180,
+				false
+			]},
 			{"code":230,"indent":0,"parameters":[
 				30
 			]},
@@ -15960,6 +15986,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「大\\.．\\.．\\.．\\.姐\\.．\\.．\\.．\\.頭\\.．\\.．\\.．\\.」\\|\\^"
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
 			]},
 			{"code":203,"indent":0,"parameters":[
 				61,
@@ -21561,7 +21590,7 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「只有不擇手段，才能讓血戰雄獅團存活下去！」"
+				"「只有不擇手段，才能讓血戰雄獅團活下去！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -21620,7 +21649,7 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「他們是因為相信我，才和我一起登上荒星島。」"
+				"「他們是因為相信我，才和我一起來荒星島。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -21632,10 +21661,10 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「現在他們都死了，我必須背負他們的未來繼續"
+				"「現在他們都死了，我必須背負他們的未來"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"前進！」"
+				"繼續前進！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -21667,10 +21696,19 @@
 				"「當初那個剛上任，滿腔熱血的想要創造一個，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"沒有任何人會悲傷的世界的那個鐵獅．．．"
+				"沒有任何人會悲傷的世界的那個鐵獅\\.．\\.．\\.．\\.」\\.\\|\\^"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_E21_1",
+				1,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"已經死了嗎？」"
+				"月剎"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「已經死了嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				28,
@@ -21699,10 +21737,10 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「當初的我就是太天真了，才會連同伴們的屍體"
+				"「當初的我就是太天真了，才會連同伴們的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也救不回來。」"
+				"屍體也救不回來。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -21960,10 +21998,22 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但如果只是為了你那無聊的正義感，"
+				"「但如果只是為了你那無聊的正義感。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_BlackLion",
+				7,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"那這樣的大哥，還是在荒星島好好的休息吧。」"
+				"\\n[48]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「那這樣的大哥，還是在荒星島好好的休息"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"吧。」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3

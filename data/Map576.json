@@ -48517,7 +48517,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				0,
+				13,
 				0,
 				2
 			]},
@@ -48598,7 +48598,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				3,
 				0,
 				2
 			]},
@@ -48710,7 +48710,10 @@
 				"夜斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不過，那又怎麼樣呢？反正也跟我沒關係了。」"
+				"「不過，那又怎麼樣呢？反正也跟我沒關係"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -48773,7 +48776,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				12,
 				0,
 				2
 			]},
@@ -48813,7 +48816,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				12,
 				0,
 				2
 			]},
@@ -48825,7 +48828,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				12,
 				0,
 				2
 			]},
@@ -48837,7 +48840,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				12,
 				0,
 				2
 			]},
@@ -48852,7 +48855,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				13,
 				0,
 				2
 			]},
@@ -48864,7 +48867,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				13,
 				0,
 				2
 			]},
@@ -48875,8 +48878,8 @@
 				"「但是我果然還是．．．下不了手。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				2,
+				"BLR_31_1_hat",
+				13,
 				0,
 				2
 			]},
@@ -48900,7 +48903,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				0,
+				6,
 				0,
 				2
 			]},
@@ -48937,7 +48940,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				6,
 				0,
 				2
 			]},
@@ -48961,7 +48964,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				4,
+				2,
 				0,
 				2
 			]},
@@ -48984,7 +48987,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				4,
+				0,
 				0,
 				2
 			]},
@@ -49046,7 +49049,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				4,
+				6,
 				0,
 				2
 			]},
@@ -49063,7 +49066,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				6,
 				0,
 				2
 			]},
@@ -49116,10 +49119,13 @@
 			{"code":242,"indent":0,"parameters":[
 				3
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":221,"indent":0,"parameters":[
 			]},
 			{"code":230,"indent":0,"parameters":[
-				60
+				120
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,

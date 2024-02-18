@@ -29492,14 +29492,6 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":34,"indent":null}
 			]},
-			{"code":322,"indent":0,"parameters":[
-				31,
-				"BLR_Yuter_MV10",
-				0,
-				"BLR_31_1",
-				0,
-				"YT_1"
-			]},
 			{"code":135,"indent":0,"parameters":[
 				1
 			]},
@@ -29513,12 +29505,28 @@
 			{"code":241,"indent":1,"parameters":[
 				{"name":"m-art_Abyss","volume":50,"pitch":100,"pan":0}
 			]},
+			{"code":322,"indent":1,"parameters":[
+				31,
+				"BLR_Yuter_MV01",
+				0,
+				"BLR_31_1",
+				0,
+				"BLR_Yuter_MV_SV"
+			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":411,"indent":0,"parameters":[
 			]},
 			{"code":241,"indent":1,"parameters":[
 				{"name":"03_Passage_of_Eternal_Times","volume":50,"pitch":100,"pan":0}
+			]},
+			{"code":322,"indent":1,"parameters":[
+				31,
+				"BLR_Yuter_MV10",
+				0,
+				"BLR_31_1",
+				0,
+				"YT_1"
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},

@@ -1738,6 +1738,9 @@
 	null,
 	{"id":1,"name":"EV001","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":245,"indent":0,"parameters":[
+				{"name":"Wind2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":211,"indent":0,"parameters":[
 				1
 			]},
@@ -1776,8 +1779,19 @@
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":322,"indent":0,"parameters":[
+				31,
+				"BLR_Yuter_MV10",
+				0,
 				"BLR_31_1",
+				10,
+				"BLR_Yuter_MV_SV"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_4",
 				2,
 				0,
 				2
@@ -1792,8 +1806,8 @@
 				"大家的東西都收拾好了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				2,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -1802,6 +1816,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「今天來，是來和你們道別的。」"
+			]},
+			{"code":246,"indent":0,"parameters":[
+				1
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -1843,20 +1860,23 @@
 			]},
 			{"code":322,"indent":0,"parameters":[
 				31,
-				"BLR_BlackLion",
-				5,
+				"BLR_Yuter_MV10",
+				0,
 				"BLR_31_1",
 				0,
 				"YT_1"
 			]},
 			{"code":222,"indent":0,"parameters":[
 			]},
+			{"code":245,"indent":0,"parameters":[
+				{"name":"Wind2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":241,"indent":0,"parameters":[
 				{"name":"m-art_Holybell","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				4,
+				"BLR_31_4",
+				12,
 				0,
 				2
 			]},
@@ -1870,8 +1890,8 @@
 				"妃偶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				4,
+				"BLR_31_4",
+				11,
 				0,
 				2
 			]},
@@ -1884,20 +1904,76 @@
 			{"code":401,"indent":0,"parameters":[
 				"陪著我一起，完成我們的夢想。」"
 			]},
-			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				1,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[31]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「等我找到她以後，再帶她來看你們吧？」"
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":322,"indent":0,"parameters":[
+				31,
+				"BLR_Yuter_MV10",
+				0,
+				"BLR_31_1",
+				0,
+				"YT_1"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				-1,
+				8,
+				true
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				1,
+				1
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"等我找到她以後，再帶她來看你們吧？"
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
+			{"code":246,"indent":0,"parameters":[
+				1
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},

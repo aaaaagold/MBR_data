@@ -20592,6 +20592,38 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈哈，是雞雞～雞雞啦～」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				26,
+				{"list":[
+					{"code":36,"indent":null},
+					{"code":2,"indent":null},
+					{"code":4,"indent":null},
+					{"code":4,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":2,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":4,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
@@ -20612,6 +20644,32 @@
 			{"code":401,"indent":0,"parameters":[
 				"「有什麼事嗎？」"
 			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_UT_ship",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				180,
+				false
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
 				0,
@@ -20622,7 +20680,7 @@
 				"\\N[32]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「沒什麼事就不能來找你嗎？」"
+				"「沒什麼事，就不能來找你嗎？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -20631,69 +20689,6 @@
 				-1,
 				1,
 				true
-			]},
-			{"code":213,"indent":0,"parameters":[
-				-1,
-				13,
-				false
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":17,"indent":null},
-					{"code":15,"parameters":[
-						60
-					],"indent":null},
-					{"code":18,"indent":null},
-					{"code":15,"parameters":[
-						60
-					],"indent":null},
-					{"code":17,"indent":null},
-					{"code":15,"parameters":[
-						60
-					],"indent":null},
-					{"code":18,"indent":null},
-					{"code":15,"parameters":[
-						60
-					],"indent":null},
-					{"code":16,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					60
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					60
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":17,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					60
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":18,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":15,"parameters":[
-					60
-				],"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1",
@@ -20741,16 +20736,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈哈，阿攸好奇怪喔。」"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				26,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
@@ -20830,20 +20815,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「哼嗯～嚇到了吧？整人大成功～」"
 			]},
-			{"code":205,"indent":0,"parameters":[
-				26,
-				{"list":[
-					{"code":1,"indent":null},
-					{"code":36,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":36,"indent":null}
-			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
 				1,
@@ -20912,6 +20883,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"「我覺得很漂亮，所以加工做成項鍊送給你。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				26,
+				{"list":[
+					{"code":18,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
 				6,
@@ -20958,6 +20939,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「怎麼樣？你喜歡嗎？」"
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -21036,6 +21020,16 @@
 			{"code":401,"indent":0,"parameters":[
 				"擺脫處男之身當作你的生日禮物喔。」"
 			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},
@@ -21071,7 +21065,7 @@
 					{"code":29,"parameters":[
 						3
 					],"indent":null},
-					{"code":1,"indent":null},
+					{"code":2,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
@@ -21084,7 +21078,7 @@
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
+				{"code":2,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -21107,8 +21101,7 @@
 					{"code":29,"parameters":[
 						3
 					],"indent":null},
-					{"code":4,"indent":null},
-					{"code":4,"indent":null},
+					{"code":3,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
 			]},
@@ -21118,10 +21111,7 @@
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
+				{"code":3,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_32_2",
@@ -21181,6 +21171,9 @@
 					{"code":44,"parameters":[
 						{"name":"Run","volume":90,"pitch":100,"pan":0}
 					],"indent":null},
+					{"code":36,"indent":null},
+					{"code":1,"indent":null},
+					{"code":3,"indent":null},
 					{"code":1,"indent":null},
 					{"code":2,"indent":null},
 					{"code":2,"indent":null},
@@ -21206,6 +21199,15 @@
 				{"code":44,"parameters":[
 					{"name":"Run","volume":90,"pitch":100,"pan":0}
 				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":3,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}

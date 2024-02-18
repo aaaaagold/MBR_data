@@ -20387,14 +20387,10 @@
 		10
 	],"meta":{}},
 	{"id":461,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1089},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1090},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1091},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1092},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1093},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1094},
-		{"conditionParam1":0,"conditionParam2":10,"conditionType":1,"rating":1,"skillId":1095},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1096}
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":9,"skillId":1090},
+		{"conditionParam1":0.9,"conditionParam2":0.9,"conditionType":3,"rating":9,"skillId":1089},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":9,"skillId":1091},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":9,"skillId":1092}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -20431,7 +20427,7 @@
 		{"code":12,"dataId":7,"value":0}
 	],"gold":0,"name":"毅茶祀","note":"<Sideview battler: BLR_SaintessMaid01_05>\n<Sideview Weapon: 23>","params":[
 		7500,
-		9999,
+		10,
 		900,
 		900,
 		900,

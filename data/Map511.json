@@ -5902,8 +5902,8 @@
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				3,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -6450,8 +6450,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				1,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -6459,10 +6459,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[34]姐剛進團的時候，為了取得她的信任"
+				"「\\N[34]姐剛進團的時候，為了取得她的信任，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"，沒少被她扁得鼻青臉腫呢。」"
+				"沒少被她扁得鼻青臉腫呢。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -6470,8 +6470,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				2,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -6583,8 +6583,8 @@
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -7139,8 +7139,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				1,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -7189,8 +7189,8 @@
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				3,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -7741,8 +7741,8 @@
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				3,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -7766,8 +7766,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				3,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -7783,7 +7783,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
+				"BLR_31_4",
 				2,
 				0,
 				2
@@ -7803,7 +7803,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7821,7 +7821,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7842,7 +7842,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7860,7 +7860,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7881,7 +7881,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7899,7 +7899,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				2,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -7964,8 +7964,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				9,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -7976,8 +7976,8 @@
 				"「\\N[34]姐，居然喜歡我．．．？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				11,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -7988,8 +7988,8 @@
 				"「我完全沒有發現．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				11,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -8005,7 +8005,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
+				"BLR_31_4",
 				11,
 				0,
 				2
@@ -8017,8 +8017,8 @@
 				"「我居然沒有聽出\\N[34]姐話裡的含意．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				11,
+				"BLR_31_4",
+				12,
 				0,
 				2
 			]},
@@ -8029,8 +8029,8 @@
 				"「謝謝妳，\\N[34]姐，可是．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				11,
+				"BLR_31_4",
+				12,
 				0,
 				2
 			]},
@@ -8041,8 +8041,8 @@
 				"「我沒辦法答應妳．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				2,
+				"BLR_31_4",
+				1,
 				0,
 				2
 			]},
@@ -8056,8 +8056,8 @@
 				"忘了妳。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				2,
+				"BLR_31_4",
+				1,
 				0,
 				2
 			]},

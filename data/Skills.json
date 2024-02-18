@@ -3922,40 +3922,18 @@
 		{"code":31,"dataId":6,"value1":5,"value2":0},
 		{"code":21,"dataId":29,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":14,"message1":"","message2":"","mpCost":0,"name":"狂暴","note":"<speed:20000>\n<target action>\naction animation\nwait: 32\naction effect\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":0,"successRate":100,"tpCost":50,"tpGain":0},
-	{"id":1089,"animationId":2,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":386,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":81,"message1":"","message2":"","mpCost":500,"name":"雙子祈願","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":8,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1090,"animationId":2,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":2,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":3,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":4,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":5,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0},
-		{"code":31,"dataId":6,"value1":9,"value2":0}
-	],"hitType":0,"iconIndex":73,"message1":"","message2":"","mpCost":500,"name":"天秤之陣","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":11,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":1091,"animationId":2,"damage":{"critical":true,"elementId":11,"formula":"500 + ( a.atk / 2 - b.def / 3 ) + b.mhp * 0.1","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":1,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":71,"message1":"","message2":"","mpCost":500,"name":"捏碎","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":1},
-	{"id":1092,"animationId":2,"damage":{"critical":true,"elementId":11,"formula":"1000 + ( a.atk / 2 - b.def / 3 ) + b.mhp * 0.5","type":1,"variance":20},"description":"","effects":[
-		{"code":21,"dataId":17,"value1":1,"value2":0},
-		{"code":21,"dataId":14,"value1":1,"value2":0}
-	],"hitType":1,"iconIndex":71,"message1":"","message2":"","mpCost":500,"name":"連斬","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":3},
-	{"id":1093,"animationId":2,"damage":{"critical":false,"elementId":10,"formula":"1000 + ( a.mat / 2 - b.mdf / 3 ) + b.mhp * 0.8","type":1,"variance":20},"description":"","effects":[
-	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":500,"name":"遮蘭神光","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":10},
-	{"id":1094,"animationId":2,"damage":{"critical":false,"elementId":10,"formula":"1000 + ( a.mat / 2 - b.mdf / 3 ) + b.mhp * 0.1","type":1,"variance":20},"description":"","effects":[
-		{"code":33,"dataId":0,"value1":1,"value2":0},
-		{"code":33,"dataId":1,"value1":1,"value2":0},
-		{"code":33,"dataId":2,"value1":1,"value2":0},
-		{"code":33,"dataId":3,"value1":1,"value2":0},
-		{"code":33,"dataId":4,"value1":1,"value2":0},
-		{"code":33,"dataId":5,"value1":1,"value2":0},
-		{"code":33,"dataId":6,"value1":1,"value2":0},
-		{"code":33,"dataId":7,"value1":1,"value2":0}
-	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":500,"name":"鎮天之雷","note":"","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":20,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":1089,"animationId":931,"damage":{"critical":true,"elementId":11,"formula":"1","type":1,"variance":20},"description":"","effects":[
+	],"hitType":1,"iconIndex":71,"message1":"","message2":"","mpCost":1,"name":"罪孽荊棘","note":"<addEle:1,2>\n<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 15\naction animation\nwait: 90\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 85\neval: BattleManager.radiusWaveEffect_genAtSubject(200,80,300,65,75,['multiply','rgba(0,0,0,-1)'],true);\naction effect\nwait: 30\nopacity user: 100%\nwait for opacity\n</target action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":1090,"animationId":930,"damage":{"critical":true,"elementId":11,"formula":"1","type":1,"variance":20},"description":"","effects":[
+	],"hitType":1,"iconIndex":71,"message1":"","message2":"","mpCost":1,"name":"悲嘆之握","note":"<addEle:3,11>\n<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 20\naction animation\nwait: 5\neval: BattleManager.radiusWaveEffect_genAtSubject(-70,0,100,-30,40,120,['multiply','rgba(0,0,0,0.75)'],true);\nanimation 932: target\nwait: 30\neval: BattleManager.ㄉㄨㄞ_genAtTarget(-1,-1,-1);\nwait: 10\neval: BattleManager._targets.map(t=>t.getSprite()).forEach(sp=>{ const shadow=sp._shadowSprite,p=shadow.getGlobalPosition(); SceneManager._scene._spriteset.addChild(shadow); if(!shadow._tmpXy) shadow._tmpXy=({x:shadow.x,y:shadow.y}); sp.position.set(p.x,p.y); });\n\neval: BattleManager._targets.map(t=>t.getSprite()).forEach(b=>b.startMoveDelta(0,Math.random()*40-150,45));\n\n\nwait: 20\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 70\naction effect\nwait: 75\nopacity user: 100%\nwait for opacity\neval: BattleManager._targets.map(t=>t.getSprite()).forEach(sp=>{ const shadow=sp._shadowSprite; sp.addChild(shadow); if(shadow._tmpXy) sp.position.set(shadow._tmpXy.x,shadow._tmpXy.y); });\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":3},
+	{"id":1091,"animationId":937,"damage":{"critical":false,"elementId":10,"formula":"1","type":1,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":1,"name":"神蘭輝光","note":"<addEle:3,11>\n<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 20\naction animation\nwait: 5\nanimation 933: target\nwait: 60\naction effect\nwait: 10\naction effect\nwait: 10\naction effect\nwait: 55\naction effect\nwait: 40\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":10},
+	{"id":1092,"animationId":934,"damage":{"critical":false,"elementId":10,"formula":"1","type":1,"variance":20},"description":"","effects":[
+	],"hitType":2,"iconIndex":70,"message1":"","message2":"","mpCost":1,"name":"封天震雷","note":"<addEle:3,11>\n<speed:20000>\n<whole action>\nwait for opacity\nopacity user: 0%, 20\nwait: 20\naction animation\nwait: 60\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 15\naction effect\nwait: 60\nshake screen: 9, 9, 30\naction effect\nwait: 5\naction effect\nwait: 5\naction effect\nwait: 5\naction effect\nwait: 5\naction effect\nwait: 30\naction effect\nwait: 100\nopacity user: 100%\nwait for opacity\n</whole action>","occasion":1,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":2,"speed":0,"stypeId":0,"successRate":100,"tpCost":0,"tpGain":1},
+	{"id":1093,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
+	{"id":1094,"animationId":0,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
+	],"hitType":0,"iconIndex":0,"message1":"","message2":"","mpCost":0,"name":"","note":"","occasion":0,"repeats":1,"requiredWtypeId1":0,"requiredWtypeId2":0,"scope":1,"speed":0,"stypeId":1,"successRate":100,"tpCost":0,"tpGain":0},
 	{"id":1095,"animationId":2,"damage":{"critical":false,"elementId":11,"formula":"1000 + ( a.atk / 2 - b.def / 3 ) + b.mp * 0.5","type":1,"variance":20},"description":"","effects":[
 		{"code":21,"dataId":6,"value1":1,"value2":0},
 		{"code":21,"dataId":7,"value1":1,"value2":0},

@@ -1378,7 +1378,7 @@
 	{"id":5,"name":"EV005","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
 			{"code":241,"indent":0,"parameters":[
-				{"name":"m-art_Hope","volume":90,"pitch":100,"pan":0}
+				{"name":"m-art_Hope","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Thunder5","volume":100,"pitch":150,"pan":0}
@@ -1396,6 +1396,32 @@
 				{"name":"Thunder5","volume":100,"pitch":140,"pan":0}
 			]},
 			{"code":222,"indent":0,"parameters":[
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_UT_Birthday",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				0,
+				0
+			]},
+			{"code":232,"indent":0,"parameters":[
+				1,
+				0,
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0,
+				180,
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
@@ -1564,6 +1590,9 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「難道你以為我真的在跟小維滾床單？」"
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Item2","volume":90,"pitch":100,"pan":0}
@@ -3385,7 +3414,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
-				5,
+				7,
 				0,
 				2
 			]},
@@ -3397,7 +3426,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
-				5,
+				7,
 				0,
 				2
 			]},
@@ -3453,7 +3482,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
-				7,
+				1,
 				0,
 				2
 			]},
@@ -3483,7 +3512,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_E22_1",
-				7,
+				5,
 				0,
 				2
 			]},
@@ -4079,10 +4108,10 @@
 				"夜斷"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「就覺得自己只是為了贖回母親的遺物，"
+				"「就覺得自己為了贖回母親的遺物，就選擇"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"就選擇出賣你們實在是很丟臉。」"
+				"出賣你們實在是很丟臉。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,

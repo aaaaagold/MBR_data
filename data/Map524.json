@@ -3465,6 +3465,53 @@
 			{"code":401,"indent":0,"parameters":[
 				"「原來這就是全部的真相了嗎？」"
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				6,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				2,
+				1,
+				false
+			]},
+			{"code":205,"indent":0,"parameters":[
+				6,
+				{"list":[
+					{"code":17,"indent":null},
+					{"code":15,"parameters":[
+						30
+					],"indent":null},
+					{"code":18,"indent":null},
+					{"code":15,"parameters":[
+						30
+					],"indent":null},
+					{"code":16,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					30
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					30
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":16,"indent":null}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
 				8,
@@ -3475,7 +3522,7 @@
 				"\\N[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「誰！？」"
+				"「誰！？」\\|\\^"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Break","volume":90,"pitch":90,"pan":0}
@@ -3533,19 +3580,6 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":17,"indent":null}
-			]},
-			{"code":250,"indent":0,"parameters":[
-				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
-			]},
-			{"code":213,"indent":0,"parameters":[
-				1,
-				1,
-				false
-			]},
-			{"code":213,"indent":0,"parameters":[
-				2,
-				1,
-				false
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -3898,8 +3932,8 @@
 				{"name":"m-art_Trial","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				11,
 				0,
 				2
 			]},
@@ -3907,10 +3941,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原來冒險團第一名的團長．．．被劍刺中也會"
+				"「原來冒險團第一名的團長．．．被劍刺中"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"受傷呢．．．」"
+				"也會受傷。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -3938,7 +3972,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				2,
+				11,
 				0,
 				2
 			]},
@@ -3964,8 +3998,8 @@
 				"「\\n[31]！你要毀約嗎！？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				6,
 				0,
 				2
 			]},
@@ -3976,8 +4010,8 @@
 				"「沒錯，我就是要毀約。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -3988,8 +4022,8 @@
 				"「百草丹，你這種人不配擁有。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -4003,8 +4037,8 @@
 				"我們就徹底決裂了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				6,
 				0,
 				2
 			]},
@@ -4015,8 +4049,8 @@
 				"「你不是很喜歡選擇嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				5,
 				0,
 				2
 			]},
@@ -4030,8 +4064,8 @@
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				3,
 				0,
 				2
 			]},
@@ -4039,10 +4073,10 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你想要百草丹嗎？我就拿在手上，"
+				"「你想要百草丹嗎？我就拿在手上，只要你"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"只要你搶得到，我就放過你。」"
+				"搶得到，我就放過你。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -4437,8 +4471,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				2,
 				0,
 				2
 			]},
@@ -4463,7 +4497,7 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
+				"BLR_31_1_hat",
 				10,
 				0,
 				2
@@ -4475,8 +4509,8 @@
 				"「這和你沒有關係。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				13,
 				0,
 				2
 			]},
@@ -4490,8 +4524,8 @@
 				"的好人。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				12,
 				0,
 				2
 			]},
@@ -4499,17 +4533,17 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以我想著，如果未來，能做出比百草丹更好"
+				"「所以我想著，如果未來，能做出比百草丹"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的藥品，我就會拜託\\n[32]大姐和你交涉，讓你"
+				"更好的藥品，我就會拜託\\n[32]大姐和你交涉，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"販賣。」"
+				"交給你販售。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -4526,8 +4560,8 @@
 				{"name":"Bow5","volume":90,"pitch":90,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -4588,8 +4622,8 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				6,
 				0,
 				2
 			]},
@@ -4597,11 +4631,11 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「整個人類？你真是太傲慢了！」"
+				"「整個人類？你真是太傲慢了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				6,
 				0,
 				2
 			]},
@@ -4615,7 +4649,7 @@
 				"人類？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
+				"BLR_31_1_hat",
 				10,
 				0,
 				2
@@ -4630,8 +4664,8 @@
 				"不用這麼自以為是，認為全世界都需要你！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -4662,8 +4696,8 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -4674,8 +4708,8 @@
 				"「你殺的不只是我的夥伴．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -4721,7 +4755,7 @@
 				"\\n[48]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼，是夜斷那傢伙告訴你的嗎？」"
+				"「是夜斷那傢伙告訴你的嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_BlackLion",
@@ -4861,8 +4895,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				6,
 				0,
 				2
 			]},
@@ -4873,8 +4907,8 @@
 				"「好，我不使用它。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				0,
 				0,
 				2
 			]},
@@ -4888,8 +4922,8 @@
 				"地上抽搐著死去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				2,
 				0,
 				2
 			]},
@@ -4912,8 +4946,8 @@
 				{"name":"m-art_CallMyName","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				10,
+				"BLR_31_1_hat",
+				14,
 				0,
 				2
 			]},
@@ -5075,8 +5109,8 @@
 				"「是我贏了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				11,
 				0,
 				2
 			]},
@@ -5116,8 +5150,8 @@
 				"「哼．．．成王敗寇，我沒什麼好說的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5155,8 +5189,8 @@
 				"「你徹底貫徹了你的正義，殺了我吧，小鬼。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5172,8 +5206,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				2,
 				0,
 				2
 			]},
@@ -5187,8 +5221,8 @@
 				"只有我能自由行動。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5216,8 +5250,8 @@
 				"「古代遺物．．．是嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5298,8 +5332,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				15,
 				0,
 				2
 			]},
@@ -5357,8 +5391,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5416,8 +5450,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				4,
 				0,
 				2
 			]},
@@ -5446,8 +5480,8 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				1,
 				0,
 				2
 			]},
@@ -5461,8 +5495,8 @@
 				"夠。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				2,
 				0,
 				2
 			]},
@@ -5531,7 +5565,7 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
+				"BLR_31_1_hat",
 				10,
 				0,
 				2
@@ -5727,8 +5761,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
-				10,
+				"BLR_31_1_hat",
+				3,
 				0,
 				2
 			]},
@@ -6301,7 +6335,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":2,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
 	],"x":23,"y":0},
 	{"id":5,"name":"綾香血跡","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":true,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_BlackLion","direction":4,"pattern":2,"characterIndex":4},"list":[

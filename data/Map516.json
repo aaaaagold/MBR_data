@@ -7526,8 +7526,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -7572,8 +7572,8 @@
 				{"code":4,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -8133,8 +8133,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				12,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -8145,8 +8145,8 @@
 				"「那個時候．．．真的好開心啊．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1",
-				12,
+				"BLR_31_4",
+				11,
 				0,
 				2
 			]},
@@ -8165,8 +8165,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				12,
+				"BLR_31_4",
+				11,
 				0,
 				2
 			]},
@@ -8180,8 +8180,8 @@
 				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				2,
+				"BLR_31_4",
+				12,
 				0,
 				2
 			]},
@@ -8195,8 +8195,8 @@
 				"寄給\\N[32]大姐的老公和\\N[33]的媽媽。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				12,
+				"BLR_31_4",
+				3,
 				0,
 				2
 			]},
@@ -8236,8 +8236,8 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				11,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -8746,8 +8746,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -8755,14 +8755,14 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那是某次地動城發生地震，附近的孤兒院正在"
+				"「那次，是某次地動城發生地震，附近的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"籌措物資．．．」"
+				"孤兒院正在籌措物資．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -8776,7 +8776,7 @@
 				"餅乾全部捐出去。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
+				"BLR_31_4",
 				0,
 				0,
 				2
@@ -8791,7 +8791,7 @@
 				"也笑了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
+				"BLR_31_4",
 				0,
 				0,
 				2
@@ -8800,14 +8800,14 @@
 				"\\n[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那時候她那像孩子一樣天真的笑容，"
+				"「那時候她那像孩子一樣天真的笑容，看到那樣"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"真的好美．．．」"
+				"的笑容，我也很高興．．．」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				1,
 				0,
 				2
 			]},
@@ -8866,8 +8866,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -8899,8 +8899,8 @@
 				{"code":39,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -8911,8 +8911,8 @@
 				"「相片？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				0,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -8923,8 +8923,8 @@
 				"「啊．．．是\\N[33]剛加入冒險團時拍的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				1,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -8940,8 +8940,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				1,
+				"BLR_31_4",
+				0,
 				0,
 				2
 			]},
@@ -8952,7 +8952,7 @@
 				"「這個也帶走吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
+				"BLR_31_4",
 				2,
 				0,
 				2
@@ -9022,8 +9022,8 @@
 				{"code":16,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				3,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -9088,8 +9088,8 @@
 				{"name":"Equip3","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				3,
+				"BLR_31_4",
+				2,
 				0,
 				2
 			]},
@@ -9114,8 +9114,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				3,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -9140,8 +9140,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				4,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -9152,8 +9152,8 @@
 				"「不對，這是信。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_hat",
-				4,
+				"BLR_31_4",
+				10,
 				0,
 				2
 			]},
@@ -9174,7 +9174,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9192,7 +9192,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9210,7 +9210,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9228,7 +9228,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9243,7 +9243,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9261,7 +9261,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9279,7 +9279,7 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				4,
-				0,
+				1,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
@@ -9301,34 +9301,32 @@
 				8,
 				true
 			]},
-			{"code":221,"indent":0,"parameters":[
+			{"code":225,"indent":0,"parameters":[
+				9,
+				9,
+				15,
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
+				"BLR_31_4",
+				6,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"笨\\.蛋\\.．\\.．\\.．\\.這\\.種\\.信\\.．\\.．\\.．\\.\\|\\^\""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"　　　　　　　　　　"
+				"\\{「笨蛋！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
+				"BLR_31_4",
+				6,
+				1,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"妳\\.怎\\.麼\\.可\\.以\\.揉\\.掉\\.啊\\.．\\.．\\.．\\.\\|\\^\""
+				"這\\.種\\.信\\.．\\.．\\.．\\.\\|\\{妳怎麼可以揉掉啊！\\}"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -9337,46 +9335,74 @@
 				60
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
+				"BLR_31_4",
+				6,
+				1,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"要是我沒有攤開來看，不就錯過了嗎？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"要是我沒有攤開來看，不就錯過了嗎？\\|\\|\\|\\^\""
+				"　　　　　　　　　　"
+			]},
+			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":19,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":19,"indent":null}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_31_4",
+				7,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[31]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「混蛋．．．我真是個混蛋！」"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
+				"BLR_31_4",
+				7,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"混蛋．．．我真是個混蛋！\\|\\|\\|\\^\""
+				"「為什麼．．．我不早點開口．．．」"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
 			]},
+			{"code":225,"indent":0,"parameters":[
+				9,
+				9,
+				15,
+				true
+			]},
 			{"code":101,"indent":0,"parameters":[
-				"",
-				3,
-				2,
-				1
+				"BLR_31_4",
+				8,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				""
+				"\\N[31]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"為什麼．．．我不早點開口．．．\\|\\|\\|\\^\""
+				"\\{\\{「啊啊啊啊啊啊！！！」"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -9400,6 +9426,9 @@
 				],
 				1,
 				true
+			]},
+			{"code":230,"indent":0,"parameters":[
+				60
 			]},
 			{"code":281,"indent":0,"parameters":[
 				1

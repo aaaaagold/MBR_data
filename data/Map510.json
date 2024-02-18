@@ -8131,7 +8131,7 @@
 				5,
 				"BLR_31_1",
 				10,
-				"YT_1"
+				"BLR_Yuter_MV_SV"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -8140,7 +8140,7 @@
 				{"name":"m-art_Abyss","volume":50,"pitch":100,"pan":0}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_31_1_bleeding",
+				"BLR_31_1_hat",
 				10,
 				0,
 				2
@@ -8158,7 +8158,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_31_1_hat",
-				0,
+				2,
 				1,
 				2
 			]},
@@ -8206,6 +8206,16 @@
 				"\\c[10]鐵獅．．．我們一定要讓你，付出代價。"
 			]},
 			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":205,"indent":0,"parameters":[
+				15,
+				{"list":[
+					{"code":38,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":38,"indent":null}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
