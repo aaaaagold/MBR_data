@@ -3675,7 +3675,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「耶，這裡哥哥一定找不到我了！」"
@@ -3687,7 +3687,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「討厭的哥哥，老是要人家回到妖精森林！」"
@@ -3699,7 +3699,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「我才不要回去，人類世界真好玩，回去那裡"
@@ -3714,7 +3714,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「我都已經待在那300年了，再待下去都快變"
@@ -3846,12 +3846,12 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
-				1,
+				9,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「不過先填填肚肚吧。」"
@@ -3863,7 +3863,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「這樣跑著跑著小肚肚都餓扁了。」"
@@ -3878,12 +3878,12 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
-				8,
+				12,
 				0,
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「哇～～～身上還有糖果，太棒了！」"
@@ -3895,7 +3895,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「宜答答給媽斯～」"
@@ -3980,7 +3980,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「啊咧！？你們也要吃糖嗎？這些糖果是我"
@@ -4095,7 +4095,7 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\N[4]"
+				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「哇！不是要糖果的！是獸人！」"
@@ -4448,6 +4448,18 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「嗚吼！討厭的魔法！」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_04_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[4]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嘻嘻，\\N[4]可不怕你們！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",

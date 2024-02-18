@@ -393487,6 +393487,9 @@
 				"{ let sp=new Sprite_Minimap();"
 			]},
 			{"code":655,"indent":0,"parameters":[
+				"sp._drawTimeoutMs=3e3;"
+			]},
+			{"code":655,"indent":0,"parameters":[
 				"sp.paintAll(0,0,$dataMap.width,$dataMap.height);"
 			]},
 			{"code":655,"indent":0,"parameters":[
@@ -393514,7 +393517,7 @@
 				"{ let s=1.0/256,r=0,stopCnt=90,started=false;"
 			]},
 			{"code":655,"indent":0,"parameters":[
-				"$gameScreen.handmap_show(s,1);"
+				"$gameScreen.handmap_show(s,true,4);"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"SceneManager.add_additionalUpdate_scene(()=>{"
@@ -395058,6 +395061,13 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":78,"y":204},
 	{"id":13,"name":"EV013","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":130},"directionFix":false,"image":{"tileId":2,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":130},"directionFix":false,"image":{"tileId":2,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
 			{"code":121,"indent":0,"parameters":[
 				13,

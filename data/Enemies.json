@@ -659,8 +659,8 @@
 	],"exp":10,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -758,8 +758,8 @@
 	],"exp":20,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
 		{"code":11,"dataId":3,"value":1},
@@ -926,8 +926,8 @@
 	],"exp":50,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -1092,8 +1092,8 @@
 	],"exp":35,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.1},
-		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
 		{"code":11,"dataId":3,"value":1},
@@ -1360,7 +1360,7 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -1512,8 +1512,8 @@
 	],"exp":200,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0.35},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -1667,8 +1667,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -1772,8 +1772,8 @@
 	],"exp":600,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.1},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -1893,8 +1893,8 @@
 	],"exp":125,"traits":[
 		{"code":22,"dataId":0,"value":0.8},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":11,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -1943,8 +1943,8 @@
 	],"exp":90,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
 		{"code":31,"dataId":3,"value":0},
 		{"code":11,"dataId":1,"value":1.5},
 		{"code":11,"dataId":2,"value":0.7},
@@ -2145,7 +2145,7 @@
 	],"exp":60,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2195,7 +2195,7 @@
 	],"exp":70,"traits":[
 		{"code":22,"dataId":0,"value":0.75},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -2707,8 +2707,8 @@
 	],"exp":80,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -2759,8 +2759,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":1},
 		{"code":22,"dataId":2,"value":0},
-		{"code":22,"dataId":1,"value":0.2},
-		{"code":22,"dataId":4,"value":0.2},
+		{"code":22,"dataId":1,"value":0.15},
+		{"code":22,"dataId":4,"value":0.15},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3465,8 +3465,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.35},
-		{"code":22,"dataId":4,"value":0.35},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3517,8 +3517,8 @@
 	],"exp":100,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":-0.5},
-		{"code":22,"dataId":1,"value":0.35},
-		{"code":22,"dataId":4,"value":0.35},
+		{"code":22,"dataId":1,"value":0.25},
+		{"code":22,"dataId":4,"value":0.25},
 		{"code":31,"dataId":2,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1.5},
@@ -3752,8 +3752,8 @@
 	],"exp":6000,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.15},
-		{"code":22,"dataId":1,"value":0.15},
-		{"code":22,"dataId":4,"value":0.15},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -3841,8 +3841,8 @@
 	],"exp":250,"traits":[
 		{"code":22,"dataId":0,"value":0.9},
 		{"code":22,"dataId":2,"value":0.25},
-		{"code":22,"dataId":1,"value":0},
-		{"code":22,"dataId":4,"value":0},
+		{"code":22,"dataId":1,"value":-0.15},
+		{"code":22,"dataId":4,"value":-0.15},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
 		{"code":11,"dataId":2,"value":1},
@@ -4742,7 +4742,7 @@
 	],"exp":150,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -4793,7 +4793,7 @@
 	],"exp":175,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
-		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":1,"value":0},
 		{"code":22,"dataId":4,"value":0},
 		{"code":31,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":1},
@@ -17181,7 +17181,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":619},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":525},
 		{"conditionParam1":4,"conditionParam2":0,"conditionType":6,"rating":5,"skillId":599},
-		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":294},
+		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":435},
 		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":9,"skillId":671}
 	],"battlerHue":0,"battlerName":"QueenElf_Fairy01","dropItems":[
 		{"kind":1,"dataId":183,"denominator":1},
@@ -17234,7 +17234,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":603},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":605},
 		{"conditionParam1":4,"conditionParam2":0,"conditionType":6,"rating":5,"skillId":609},
-		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":296},
+		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":436},
 		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":9,"skillId":671}
 	],"battlerHue":0,"battlerName":"QueenElf_Fairy02","dropItems":[
 		{"kind":1,"dataId":183,"denominator":1},
@@ -17287,7 +17287,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":606},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":607},
 		{"conditionParam1":4,"conditionParam2":0,"conditionType":6,"rating":5,"skillId":588},
-		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":297},
+		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":437},
 		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":9,"skillId":671}
 	],"battlerHue":0,"battlerName":"QueenElf_Fairy03","dropItems":[
 		{"kind":1,"dataId":183,"denominator":1},
@@ -17340,7 +17340,7 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":604},
 		{"conditionParam1":4,"conditionParam2":0,"conditionType":6,"rating":5,"skillId":608},
 		{"conditionParam1":4,"conditionParam2":0,"conditionType":6,"rating":5,"skillId":610},
-		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":295},
+		{"conditionParam1":0,"conditionParam2":0.7,"conditionType":2,"rating":6,"skillId":438},
 		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":9,"skillId":671}
 	],"battlerHue":0,"battlerName":"QueenElf_Fairy04","dropItems":[
 		{"kind":1,"dataId":183,"denominator":1},

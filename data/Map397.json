@@ -18310,6 +18310,11 @@
 				0,
 				2
 			]},
+			{"code":121,"indent":1,"parameters":[
+				55,
+				55,
+				1
+			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"落下1","volume":90,"pitch":100,"pan":0}
 			]},

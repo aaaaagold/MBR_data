@@ -15,7 +15,7 @@
 		],"span":0}
 	]},
 	{"id":2,"members":[
-		{"enemyId":393,"x":312,"y":403,"hidden":false}
+		{"enemyId":7,"x":132,"y":427,"hidden":false}
 	],"name":"TEST","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
@@ -42,6 +42,9 @@
 			{"code":318,"indent":0,"parameters":[0,7,0,155]},
 			{"code":318,"indent":0,"parameters":[0,7,0,151]},
 			{"code":318,"indent":0,"parameters":[0,7,0,161]},
+			{"code":318,"indent":0,"parameters":[0,4,0,118]},
+			{"code":318,"indent":0,"parameters":[0,4,0,119]},
+			{"code":318,"indent":0,"parameters":[0,4,0,120]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},

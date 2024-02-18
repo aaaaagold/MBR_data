@@ -110,13 +110,48 @@
 			{"code":108,"indent":1,"parameters":[
 				"外篇"
 			]},
-			{"code":201,"indent":1,"parameters":[
+			{"code":101,"indent":1,"parameters":[
+				"",
+				3,
+				0,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[6]※小提示："
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"本章節為DLC部分，請確認你擁有相關的檔案才能"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"正常進行喔！"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"　　　　　　　　　　"
+			]},
+			{"code":102,"indent":1,"parameters":[
+				[
+					"確認完畢"
+				],
+				-1,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":1,"parameters":[
+				0,
+				"確認完畢"
+			]},
+			{"code":201,"indent":2,"parameters":[
 				0,
 				513,
 				9,
 				7,
 				8,
 				0
+			]},
+			{"code":0,"indent":2,"parameters":[
+			]},
+			{"code":404,"indent":1,"parameters":[
 			]},
 			{"code":0,"indent":1,"parameters":[
 			]},
@@ -340,11 +375,11 @@
 				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是否進行作者開場介紹"
+				"是否進行製作群開場前言？"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[
-					"觀看作者介紹",
+					"觀看製作群開場前言",
 					"直接開始遊戲"
 				],
 				1,
@@ -354,7 +389,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				0,
-				"觀看作者介紹"
+				"觀看製作群開場前言"
 			]},
 			{"code":221,"indent":1,"parameters":[
 			]},

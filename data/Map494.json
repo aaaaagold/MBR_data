@@ -2037,7 +2037,7 @@
 	0,
 	0,
 	0,
-	0,
+	110,
 	0,
 	0,
 	0,
@@ -3935,10 +3935,10 @@
 				"作者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好的！在本作破關後．．．你有下列幾個"
+				"「好的！在本作破關後．．．預計有下列幾個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"事情可以做。」"
+				"內容可以進行。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_studio_AC",
@@ -3986,7 +3986,7 @@
 				"作者"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「4.秘技二周目！」"
+				"「4.原來有密技！」"
 			]},
 			{"code":118,"indent":0,"parameters":[
 				"01"
@@ -4006,9 +4006,9 @@
 			{"code":102,"indent":0,"parameters":[
 				[
 					"特典房是什麼？",
-					"隱藏故事是什麼？",
-					"絕無城【施工中】是什麼？",
-					"秘技二周目是什麼？",
+					"【DLC施工中】隱藏故事是什麼？",
+					"【DLC施工中】絕無城是什麼？",
+					"原來有密技是什麼？",
 					"離開"
 				],
 				4,
@@ -4133,7 +4133,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				1,
-				"隱藏故事是什麼？"
+				"【DLC施工中】隱藏故事是什麼？"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4263,7 +4263,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				2,
-				"絕無城【施工中】是什麼？"
+				"【DLC施工中】絕無城是什麼？"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4380,33 +4380,6 @@
 			{"code":117,"indent":1,"parameters":[
 				258
 			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_studio_AC",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"作者"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「不過．．．因為製作工時考量，所以絕無城"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"會在主線故事都搞定後才動工。」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_studio_AC",
-				3,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"作者"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「目前．．．也只能請您稍等了。」"
-			]},
 			{"code":119,"indent":1,"parameters":[
 				"01"
 			]},
@@ -4414,7 +4387,7 @@
 			]},
 			{"code":402,"indent":0,"parameters":[
 				3,
-				"秘技二周目是什麼？"
+				"原來有密技是什麼？"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_studio_AC",
@@ -4453,22 +4426,7 @@
 				"作者"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「假如您對特典房、神秘故事皆不感興趣，"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"可以玩玩那些秘技喔！」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_studio_AC",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"作者"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「裡面的密技只有一個需在標題畫面才能輸入"
+				"「裡面的密技有些需在標題畫面才能輸入"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"，其他的請在遊戲內輸入即可。」"
@@ -4726,7 +4684,14 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":12,"y":2},
 	{"id":4,"name":"EV004","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Crystal","direction":2,"pattern":1,"characterIndex":7},"list":[
@@ -4777,7 +4742,14 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":1,"walkAnime":false}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":true,"through":false,"trigger":1,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":19,"y":2},
 	{"id":5,"name":"加速解鎖","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[

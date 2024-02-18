@@ -2784,8 +2784,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				1,
 				0,
 				2
 			]},
@@ -2848,8 +2848,8 @@
 				"「請問還有什麼事嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				1,
 				0,
 				2
 			]},
@@ -2892,8 +2892,8 @@
 				"「我嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				1,
 				0,
 				2
 			]},
@@ -3234,8 +3234,8 @@
 				"讓老朽想起了當時在皇宮工作時的美好回憶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				0,
 				0,
 				2
 			]},
@@ -3878,8 +3878,8 @@
 				"護士服的場合"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -3946,8 +3946,8 @@
 				"更改過設計。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -3979,8 +3979,8 @@
 				"到天使降臨的感覺！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4181,8 +4181,8 @@
 				true
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4223,8 +4223,8 @@
 				"「第二，女僕可是男人的夢想！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4238,8 +4238,8 @@
 				"的款式。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4253,8 +4253,8 @@
 				"老朽當紀念。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4268,8 +4268,8 @@
 				"端莊儀容相吻合。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4283,8 +4283,8 @@
 				"裝扮增加了一點母性。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4372,7 +4372,7 @@
 				"艾斯亞雷娜"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「況且，不是女孩子就應該溫溫雅雅的，女孩子"
+				"「況且，不是女孩子就應該溫文儒雅的，女孩子"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"也要展現自己的力與美！」"
@@ -4701,8 +4701,8 @@
 				{"code":19,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -4713,8 +4713,8 @@
 				"「這件衣服是當年皇后下令打造的。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				3,
 				0,
 				2
 			]},
@@ -5537,8 +5537,8 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":4,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":0,"characterName":"Recolor_Old Men","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				5,
 				0,
 				2
 			]},
@@ -5564,8 +5564,8 @@
 				"有完成上一個任務"
 			]},
 			{"code":101,"indent":1,"parameters":[
-				"People1",
-				6,
+				"People1_ETNR_People1_2",
+				0,
 				0,
 				2
 			]},

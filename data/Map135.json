@@ -34072,7 +34072,7 @@
 				"「好，我決定了，就當作是為了小唯，我就"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"下一趟礦坑吧吧。」"
+				"下一趟礦坑吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -38208,6 +38208,9 @@
 			{"code":230,"indent":1,"parameters":[
 				90
 			]},
+			{"code":250,"indent":1,"parameters":[
+				{"name":"Load2","volume":90,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":1,"parameters":[
 				"",
 				0,
@@ -38219,6 +38222,21 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"點選雞去趕牠，將雞趕到小女孩這邊。"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"",
+				0,
+				0,
+				1
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[6]※小提示"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"另外每次趕雞時，請仔細觀察\\C[2]從哪個方向\\C[6]趕雞跟"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"\\C[2]雞的移動軌跡\\C[6]喔！"
 			]},
 			{"code":355,"indent":1,"parameters":[
 				"SQSM.AddQuest(\"ChickenFight_chap05\")"

@@ -14228,6 +14228,10 @@
 				0,
 				2
 			]},
+			{"code":314,"indent":2,"parameters":[
+				0,
+				0
+			]},
 			{"code":355,"indent":2,"parameters":[
 				"SQSM.CompleteTaskForQuest(\"Hope_chap04\", 1);"
 			]},
@@ -24089,7 +24093,7 @@
 				"小王"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你少呆了！這麼大的遺跡你說要怎麼沈到"
+				"「你少呆了！這麼大的遺跡你說要怎麼沉到"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"地底下啊？」"
@@ -24472,7 +24476,7 @@
 				"小王"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你少呆了！這麼大的遺跡你說要怎麼沈到"
+				"「你少呆了！這麼大的遺跡你說要怎麼沉到"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"地底下啊？」"
@@ -37225,17 +37229,26 @@
 			{"code":401,"indent":0,"parameters":[
 				"◼◼，死於◼◼。當◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼◼"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				4,
+				1,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
 				1,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「後面看不清楚了。」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
@@ -37261,17 +37274,26 @@
 			{"code":401,"indent":0,"parameters":[
 				"Oh! Yeah! 年薪百萬我來ㄌ！啊，學校讀完沒多久就ㄅ見ㄌ。"
 			]},
-			{"code":101,"indent":0,"parameters":[
+			{"code":111,"indent":0,"parameters":[
+				4,
+				1,
+				0
+			]},
+			{"code":101,"indent":1,"parameters":[
 				"BLR_01_1",
 				7,
 				0,
 				2
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"\\N[1]"
 			]},
-			{"code":401,"indent":0,"parameters":[
+			{"code":401,"indent":1,"parameters":[
 				"「這是墓碑上會寫的東西嗎？」"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
 			]},
 			{"code":0,"indent":0,"parameters":[
 			]}

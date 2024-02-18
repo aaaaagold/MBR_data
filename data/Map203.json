@@ -18989,9 +18989,8 @@
 				"$gameTemp.sp_stat.mismatch===0"
 			]},
 			{"code":111,"indent":2,"parameters":[
-				3,
-				0,
-				0
+				12,
+				"$gameTimer._working && $gameTimer._frames>1"
 			]},
 			{"code":124,"indent":3,"parameters":[
 				1
@@ -19375,9 +19374,8 @@
 				"$gameTemp.sp_stat.mismatch===0"
 			]},
 			{"code":111,"indent":2,"parameters":[
-				3,
-				0,
-				0
+				12,
+				"$gameTimer._working && $gameTimer._frames>1"
 			]},
 			{"code":124,"indent":3,"parameters":[
 				1
@@ -19761,9 +19759,8 @@
 				"$gameTemp.sp_stat.mismatch===0"
 			]},
 			{"code":111,"indent":2,"parameters":[
-				3,
-				0,
-				0
+				12,
+				"$gameTimer._working && $gameTimer._frames>1"
 			]},
 			{"code":124,"indent":3,"parameters":[
 				1
@@ -20147,9 +20144,8 @@
 				"$gameTemp.sp_stat.mismatch===0"
 			]},
 			{"code":111,"indent":2,"parameters":[
-				3,
-				0,
-				0
+				12,
+				"$gameTimer._working && $gameTimer._frames>1"
 			]},
 			{"code":124,"indent":3,"parameters":[
 				1

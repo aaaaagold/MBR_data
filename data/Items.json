@@ -34,7 +34,7 @@
 		{"code":21,"dataId":1,"value1":0.1,"value2":0},
 		{"code":21,"dataId":6,"value1":0.2,"value2":0}
 	],"hitType":0,"iconIndex":298,"itypeId":1,"name":"屍塊","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items16.txt>","occasion":0,"price":150,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":17,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"摻有劇毒的咖啡，我方單體陷入猛毒狀態。","effects":[
+	{"id":17,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"摻有劇毒的咖啡，我方單體陷入\\it[7]狀態。","effects":[
 		{"code":21,"dataId":7,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":226,"itypeId":1,"name":"劇毒咖啡","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items17.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":18,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":3,"variance":0},"description":"拼命想要咬你的食人魚，吃下去要有勇氣，\n我方單體HP回復 500 點，但有可能發生流血事件．．．","effects":[
@@ -201,7 +201,7 @@
 		{"code":12,"dataId":0,"value1":0,"value2":300},
 		{"code":21,"dataId":6,"value1":0.2,"value2":0}
 	],"hitType":0,"iconIndex":259,"itypeId":1,"name":"(廢棄道具)半生不熟的烤肉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items78.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":79,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"堅硬的蝸牛殼，想吃下去需要不少勇氣，\n若已中毒或猛毒，我方單體HP、MP回復 70%，反之獲得猛毒狀態","effects":[
+	{"id":79,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"堅硬的蝸牛殼，想吃下去需要不少勇氣，\n若已\\it[6]或\\it[7]，我方單體HP、MP回復 70%，反之獲得\\it[7]","effects":[
 	],"hitType":0,"iconIndex":1741,"itypeId":1,"name":"蝸牛殼脆片","note":"<speed:20000>\n<effect_javascript:(function(a,b){if(b.isStateAffected(6)||b.isStateAffected(7)){b.gainHp(b.mhp*0.7);b.gainMp(b.mmp*0.7);}else b.addState(7)})>\n<道具額外文字檔:BLR_custom/detail/item/Items79.txt>","occasion":0,"price":1500,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":80,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"","type":0,"variance":0},"description":"我方單體HP、MP回復 100%","effects":[
 		{"code":11,"dataId":0,"value1":1,"value2":0},
@@ -229,25 +229,25 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":91,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"-復活單體-","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":92,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.1","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 10%","effects":[
+	{"id":92,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.1","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 10%","effects":[
 	],"hitType":0,"iconIndex":406,"itypeId":1,"name":"還魄丹","note":"<speed:20000>\nch2\n<道具額外文字檔:BLR_custom/detail/item/Items92.txt>","occasion":0,"price":300,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":93,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.20","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 20%","effects":[
+	{"id":93,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.20","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 20%","effects":[
 	],"hitType":0,"iconIndex":243,"itypeId":1,"name":"贖魂燈","note":"<speed:20000>\nch4\n<道具額外文字檔:BLR_custom/detail/item/Items93.txt>","occasion":0,"price":1000,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":94,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.5","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 50%","effects":[
+	{"id":94,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.5","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 50%","effects":[
 	],"hitType":0,"iconIndex":438,"itypeId":1,"name":"孟婆湯","note":"<speed:20000>\nch6\n<道具額外文字檔:BLR_custom/detail/item/Items94.txt>","occasion":0,"price":3500,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":95,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.7","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 70%","effects":[
+	{"id":95,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.7","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 70%","effects":[
 	],"hitType":0,"iconIndex":686,"itypeId":1,"name":"聖女的饋贈","note":"<speed:20000>\nch8\n<道具額外文字檔:BLR_custom/detail/item/Items95.txt>","occasion":0,"price":6000,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":96,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 1","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 100%","effects":[
+	{"id":96,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 1","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 100%","effects":[
 	],"hitType":0,"iconIndex":586,"itypeId":1,"name":"紫色還魂丹","note":"<speed:20000>\n鎧家麵線\n<道具額外文字檔:BLR_custom/detail/item/Items96.txt>","occasion":0,"price":10,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":97,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * Math.randomInt(2)","type":3,"variance":0},"description":"僅能在戰鬥中使用，只能對死者使用，\n解除死亡，我方單體HP回復 100%，但有失敗的可能...","effects":[
+	{"id":97,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * Math.randomInt(2)","type":3,"variance":0},"description":"僅能在戰鬥中使用，只能對死者使用，\n解除\\it[1]，我方單體HP回復 100%，但有失敗的可能...","effects":[
 	],"hitType":0,"iconIndex":241,"itypeId":1,"name":"強心針","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items97.txt>","occasion":1,"price":2000,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":98,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"相當鹹的醬瓜，很下飯，鹹到可以把死人變成活的...\n只能對死者使用，解除死亡，我方單體HP回復 1點","effects":[
+	{"id":98,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"相當鹹的醬瓜，很下飯，鹹到可以把死人變成活的...\n只能對死者使用，解除\\it[1]，我方單體HP回復 1點","effects":[
 	],"hitType":0,"iconIndex":1631,"itypeId":1,"name":"醃醬瓜","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items98.txt>","occasion":0,"price":10,"repeats":1,"scope":9,"speed":0,"successRate":100,"tpGain":0},
-	{"id":99,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 1","type":3,"variance":0},"description":"鹹到可以把死人變成活的醃菜，只能對死者使用，\n解除死亡，我方單體HP回復 100%，持有上限1","effects":[
+	{"id":99,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 1","type":3,"variance":0},"description":"鹹到可以把死人變成活的醃菜，只能對死者使用，\n解除\\it[1]，我方單體HP回復 100%，持有上限1","effects":[
 	],"hitType":0,"iconIndex":278,"itypeId":1,"name":"獨一無二的醃菜","note":"<speed:20000>\n<maxStack:1>\n<道具額外文字檔:BLR_custom/detail/item/Items99.txt>","occasion":0,"price":500,"repeats":1,"scope":9,"speed":0,"successRate":100,"tpGain":0},
-	{"id":100,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"罕見的人魚肉\n只能對死者使用，解除死亡，我方單體HP回復 10點","effects":[
+	{"id":100,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"罕見的人魚肉\n只能對死者使用，解除\\it[1]，我方單體HP回復 10點","effects":[
 	],"hitType":0,"iconIndex":259,"itypeId":1,"name":"人魚肉","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items100.txt>","occasion":0,"price":200,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":101,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.01 * ( Math.randomInt(60) + 10 )","type":3,"variance":0},"description":"只能對死者使用，解除死亡，我方單體HP回復 10% ~ 70% ","effects":[
+	{"id":101,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.01 * ( Math.randomInt(60) + 10 )","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 10% ~ 70% ","effects":[
 	],"hitType":0,"iconIndex":1766,"itypeId":1,"name":"回春骰子","note":"<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items101.txt>","occasion":0,"price":100,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":102,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -304,7 +304,7 @@
 	],"hitType":0,"iconIndex":1640,"itypeId":1,"name":"生命骰子","note":"<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items127.txt>","occasion":0,"price":100,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":128,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":129,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"黏稠的蛞蝓汁，想喝下去需要不少勇氣，\n若已中毒或猛毒，我方全體HP回復 70%，反之獲得猛毒狀態","effects":[
+	{"id":129,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"黏稠的蛞蝓汁，想喝下去需要不少勇氣，\n若已\\it[6]或\\it[7]，我方全體HP回復 70%，反之獲得\\it[7]","effects":[
 	],"hitType":0,"iconIndex":331,"itypeId":1,"name":"維他露蛞蝓汁","note":"<speed:20000>\n<effect_javascript:(function(a,b){if(b.isStateAffected(6)||b.isStateAffected(7)){b.gainHp(b.mhp*0.7);}else b.addState(7);})>\n<道具額外文字檔:BLR_custom/detail/item/Items129.txt>","occasion":0,"price":5000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":130,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -362,7 +362,7 @@
 	],"hitType":0,"iconIndex":1641,"itypeId":1,"name":"魔力骰子","note":"<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items156.txt>","occasion":0,"price":100,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":157,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":158,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"脫殼的白蟻，想吃下去需要不少勇氣，\n若已中毒或猛毒，我方全體MP回復 70%，反之獲得猛毒狀態","effects":[
+	{"id":158,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"90","type":0,"variance":0},"description":"脫殼的白蟻，想吃下去需要不少勇氣，\n若已\\it[6]或\\it[7]，我方全體MP回復 70%，反之獲得\\it[7]","effects":[
 	],"hitType":0,"iconIndex":267,"itypeId":1,"name":"脫殼白蟻豆","note":"<speed:20000>\n<effect_javascript:(function(a,b){if(b.isStateAffected(6)||b.isStateAffected(7)){b.gainMp(b.mmp*0.7);}else b.addState(7);})>\n<道具額外文字檔:BLR_custom/detail/item/Items158.txt>","occasion":0,"price":5000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":159,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -534,7 +534,7 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":570,"itypeId":1,"name":"奇蹟神水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items214.txt>","occasion":0,"price":2,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":215,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":0},"description":"我方全體HP、MP回復 100%，解除全狀態異常，解除死亡","effects":[
+	{"id":215,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":0},"description":"我方全體HP、MP回復 100%，解除全狀態異常，解除\\it[1]","effects":[
 		{"code":11,"dataId":0,"value1":1,"value2":0},
 		{"code":12,"dataId":0,"value1":1,"value2":0},
 		{"code":22,"dataId":6,"value1":1,"value2":0},
@@ -552,7 +552,7 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":602,"itypeId":1,"name":"奇蹟之靈","note":"<speed:20000>\n<forAllFriends>\n<道具額外文字檔:BLR_custom/detail/item/Items215.txt>","occasion":0,"price":2,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":216,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"我方全體HP、MP回復 10，解除全狀態異常，解除死亡","effects":[
+	{"id":216,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"我方全體HP、MP回復 10，解除全狀態異常，解除\\it[1]","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0},
 		{"code":22,"dataId":8,"value1":1,"value2":0},
@@ -634,38 +634,38 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":241,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"-狀態解除單體-","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":242,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除中毒狀態，但無法解除猛毒","effects":[
+	{"id":242,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[6]，但無法解除\\it[7]","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":352,"itypeId":1,"name":"解毒劑","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items242.txt>","occasion":0,"price":30,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":243,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除失明狀態","effects":[
+	{"id":243,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[8]","effects":[
 		{"code":22,"dataId":8,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":367,"itypeId":1,"name":"眼藥水","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items243.txt>","occasion":0,"price":30,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":244,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除麻痺狀態","effects":[
+	{"id":244,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[19]","effects":[
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":354,"itypeId":1,"name":"解麻劑","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items244.txt>","occasion":0,"price":30,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":245,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除流血狀態","effects":[
+	{"id":245,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[17]","effects":[
 		{"code":22,"dataId":17,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":296,"itypeId":1,"name":"繃帶","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items245.txt>","occasion":0,"price":30,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":246,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除睡眠狀態","effects":[
+	{"id":246,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[9]","effects":[
 		{"code":22,"dataId":9,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":241,"itypeId":1,"name":"針頭","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items246.txt>","occasion":0,"price":30,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":247,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除石化狀態","effects":[
+	{"id":247,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[18]","effects":[
 		{"code":22,"dataId":18,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":113,"itypeId":1,"name":"鐵鎚","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items247.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":248,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除中毒、猛毒狀態","effects":[
+	{"id":248,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[6]、\\it[7]","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":7,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":182,"itypeId":1,"name":"神農百草","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items248.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":249,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除結冰、石化、麻痺狀態","effects":[
+	{"id":249,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[16]、\\it[18]、\\it[19]","effects":[
 		{"code":22,"dataId":16,"value1":1,"value2":0},
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":457,"itypeId":1,"name":"自由藥水","note":"<speed:20000>\nch5\n<道具額外文字檔:BLR_custom/detail/item/Items249.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":250,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除睡眠、混亂狀態回復","effects":[
+	{"id":250,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[9]、\\it[10]","effects":[
 		{"code":22,"dataId":9,"value1":1,"value2":0},
 		{"code":22,"dataId":10,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":460,"itypeId":1,"name":"心靈藥水","note":"<speed:20000>\nch5\n<道具額外文字檔:BLR_custom/detail/item/Items250.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":251,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除失明、流血、沉默狀態回復","effects":[
+	{"id":251,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"我方單體HP回復 1 點，解除\\it[8]、\\it[11]、\\it[17]","effects":[
 		{"code":22,"dataId":8,"value1":1,"value2":0},
 		{"code":22,"dataId":17,"value1":1,"value2":0},
 		{"code":22,"dataId":11,"value1":1,"value2":0}
@@ -692,31 +692,31 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":456,"itypeId":1,"name":"萬靈藥","note":"<speed:20000>\nch7\n<道具額外文字檔:BLR_custom/detail/item/Items255.txt>","occasion":0,"price":500,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":256,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"吃了可以充滿飽足感的雞蛋，\n我方單體HP回復 10 點，解除中毒狀態，但無法解除猛毒","effects":[
+	{"id":256,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"吃了可以充滿飽足感的雞蛋，\n我方單體HP回復 10 點，解除\\it[6]，但無法解除\\it[7]","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":267,"itypeId":1,"name":"雞蛋","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items256.txt>","occasion":0,"price":8,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":257,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"美名烏龍茶，其實是由伏特加與威士忌按照9:1調和而成，\n我方單體HP回復 1 點，低機率獲得酒醉狀態","effects":[
+	{"id":257,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"美名烏龍茶，其實是由伏特加與威士忌按照9:1調和而成，\n我方單體HP回復 1 點，低機率獲得\\it[3]","effects":[
 		{"code":21,"dataId":3,"value1":0.2,"value2":0}
 	],"hitType":0,"iconIndex":275,"itypeId":1,"name":"9:1烏龍茶","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items257.txt>","occasion":0,"price":750,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":258,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"隨處可見的啤酒，\n我方單體HP回復 1 點，低機率獲得酒醉狀態","effects":[
+	{"id":258,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"隨處可見的啤酒，\n我方單體HP回復 1 點，低機率獲得\\it[3]","effects":[
 		{"code":21,"dataId":3,"value1":0.15,"value2":0}
 	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"啤酒","note":"<speed:20000>\n王都南街區有賣\n<道具額外文字檔:BLR_custom/detail/item/Items258.txt>","occasion":0,"price":750,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":259,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"特調黑咖啡，喝了可以提神，\n我方單體HP回復 1 點，解除睡眠、沉默狀態","effects":[
+	{"id":259,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"特調黑咖啡，喝了可以提神，\n我方單體HP回復 1 點，解除\\it[9]、\\it[11]狀態","effects":[
 		{"code":22,"dataId":11,"value1":1,"value2":0},
 		{"code":22,"dataId":9,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":226,"itypeId":1,"name":"特調咖啡","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items259.txt>","occasion":0,"price":100,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":260,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"高濃度的酒品，\n我方單體HP回復 1 點，中機率獲得酒醉狀態","effects":[
+	{"id":260,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"高濃度的酒品，\n我方單體HP回復 1 點，中機率獲得\\it[3]","effects":[
 		{"code":21,"dataId":3,"value1":0.4,"value2":0}
 	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"高粱酒","note":"<speed:20000>\n不販售\n<道具額外文字檔:BLR_custom/detail/item/Items260.txt>","occasion":0,"price":3500,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":261,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"又稱迷人血瑪莉，味道複雜令人上癮，\n我方單體HP回復 1 點，必定獲得酒醉狀態","effects":[
+	{"id":261,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"又稱迷人血瑪莉，味道複雜令人上癮，\n我方單體HP回復 1 點，必定獲得\\it[3]","effects":[
 		{"code":21,"dataId":3,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":275,"itypeId":1,"name":"血腥瑪麗","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items261.txt>","occasion":0,"price":2,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":262,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"妖精森林守護神安特的樹枝，\n我方單體HP回復 1 點，解除中毒、失明、麻痺狀態","effects":[
+	{"id":262,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"妖精森林守護神安特的樹枝，\n我方單體HP回復 1 點，解除\\it[6]、\\it[8]、\\it[19]","effects":[
 		{"code":22,"dataId":6,"value1":1,"value2":0},
 		{"code":22,"dataId":8,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":185,"itypeId":1,"name":"安特的樹枝","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items262.txt>","occasion":0,"price":50,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":263,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"挖地一整天後，一杯冰涼啤酒下肚馬上讓人飄飄欲仙...\n限戰鬥外使用，我方單體HP回復 1 點，必定獲得酒醉狀態","effects":[
+	{"id":263,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"挖地一整天後，一杯冰涼啤酒下肚馬上讓人飄飄欲仙...\n限戰鬥外使用，我方單體HP回復 1 點，必定獲得\\it[3]","effects":[
 		{"code":21,"dataId":3,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"楷絲的啤酒","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items263.txt>","occasion":2,"price":5000,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":264,"animationId":41,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"妖精森林守護神安特的花朵，限戰鬥中使用，\n我方單體HP回復 1 點，解除所有「能力下降debuff」","effects":[
@@ -729,7 +729,7 @@
 		{"code":34,"dataId":6,"value1":1,"value2":0},
 		{"code":34,"dataId":7,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":238,"itypeId":1,"name":"安特的聖花","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items264.txt>","occasion":1,"price":5000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":265,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"散發著噁心味道的兜擋布，但很意外的吸水性超好！\n我方單體HP回復 1 點，解除潮濕狀態，但這味道．．．","effects":[
+	{"id":265,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"散發著噁心味道的兜擋布，但很意外的吸水性超好！\n我方單體HP回復 1 點，解除\\it[15]，但這味道．．．","effects":[
 		{"code":22,"dataId":15,"value1":1,"value2":0},
 		{"code":21,"dataId":6,"value1":0.1,"value2":0}
 	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"腥臭的兜擋布","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items265.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
@@ -761,7 +761,7 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":531,"itypeId":1,"name":"萬靈香水","note":"<speed:20000>\n不販售\n<道具額外文字檔:BLR_custom/detail/item/Items272.txt>","occasion":0,"price":2000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":273,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"聽說是從某個動漫作品ㄎ一ㄤ過來的...\n我方全體HP回復 1 點，解除睡眠狀態","effects":[
+	{"id":273,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"聽說是從某個動漫作品ㄎ一ㄤ過來的...\n我方全體HP回復 1 點，解除\\it[9]","effects":[
 		{"code":22,"dataId":9,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1605,"itypeId":1,"name":"廣智的襪子","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items273.txt>","occasion":0,"price":10,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":274,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -782,13 +782,13 @@
 	],"hitType":0,"iconIndex":0,"itypeId":2,"name":"-戰鬥內道具-","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":282,"animationId":562,"consumable":true,"damage":{"critical":true,"elementId":2,"formula":"70 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&刺屬性」雜耍用飛刀，可以拿來投擲敵人，\n限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
 	],"hitType":1,"iconIndex":96,"itypeId":1,"name":"飛刀","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items282.txt>","occasion":1,"price":300,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":2},
-	{"id":283,"animationId":64,"consumable":true,"damage":{"critical":false,"elementId":5,"formula":"1","type":1,"variance":20},"description":"「魔法&雷屬性」怪物的觸鬚，可以拿來投擲敵人，\n限戰鬥中使用，給予敵方單體微量傷害，機率附加麻痺狀態","effects":[
+	{"id":283,"animationId":64,"consumable":true,"damage":{"critical":false,"elementId":5,"formula":"1","type":1,"variance":20},"description":"「魔法&雷屬性」怪物的觸鬚，可以拿來投擲敵人，\n限戰鬥中使用，給予敵方單體微量傷害，機率附加\\it[19]","effects":[
 		{"code":21,"dataId":19,"value1":0.75,"value2":0}
 	],"hitType":2,"iconIndex":1628,"itypeId":1,"name":"麻痺觸鬚","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items283.txt>","occasion":1,"price":300,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":2},
 	{"id":284,"animationId":556,"consumable":true,"damage":{"critical":false,"elementId":2,"formula":"1","type":1,"variance":20},"description":"「物理&刺屬性」可以拿來投擲敵人的跳蚤，限戰鬥中使用，\n給予敵方單體微量傷害，附加「攻擊下降1階」持續2次行動","effects":[
 		{"code":32,"dataId":2,"value1":2,"value2":0}
 	],"hitType":1,"iconIndex":50,"itypeId":1,"name":"跳蚤","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items284.txt>","occasion":1,"price":0,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
-	{"id":285,"animationId":553,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"1","type":1,"variance":20},"description":"「魔法&暗屬性」若蒸蛋有60分的話，加了三色豆就是0分，\n限戰鬥中使用，給予敵方單體微量傷害，機率附加猛毒狀態","effects":[
+	{"id":285,"animationId":553,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"1","type":1,"variance":20},"description":"「魔法&暗屬性」若蒸蛋有60分的話，加了三色豆就是0分，\n限戰鬥中使用，給予敵方單體微量傷害，機率附加\\it[7]","effects":[
 		{"code":21,"dataId":7,"value1":0.75,"value2":0}
 	],"hitType":2,"iconIndex":18,"itypeId":1,"name":"三色豆蒸蛋","note":"<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items285.txt>","occasion":1,"price":250,"repeats":1,"scope":1,"speed":0,"successRate":100,"tpGain":0},
 	{"id":286,"animationId":521,"consumable":true,"damage":{"critical":true,"elementId":3,"formula":"100 + ( a.atk / 2 - b.def / 3 )","type":1,"variance":20},"description":"「物理&鈍屬性」專挑旱芋中的極品、芋頭硬到可以當鐵鎚用\n，限戰鬥中使用，給予敵方單體攻擊傷害","effects":[
@@ -975,7 +975,7 @@
 	{"id":327,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"吃下會讓人頭皮發麻、生無可戀的爛菜，\n我方單體HP回復1點，「命中率+15%」持續9次行動。","effects":[
 		{"code":21,"dataId":352,"value1":1,"value2":0}
 	],"hitType":2,"iconIndex":1767,"itypeId":1,"name":"水煮爛花椰菜","note":"<sortingKey:300.07>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items327.txt>","occasion":0,"price":8000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":328,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"早餐店必備的腹瀉利器，給予自己「MP上升1階」\n持續9次行動，但會因腸胃不適導致中毒...","effects":[
+	{"id":328,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"早餐店必備的腹瀉利器，給予自己「MP上升1階」\n持續9次行動，但會因腸胃不適導致\\it[6]...","effects":[
 		{"code":31,"dataId":1,"value1":9,"value2":0},
 		{"code":21,"dataId":6,"value1":1,"value2":0}
 	],"hitType":2,"iconIndex":1768,"itypeId":1,"name":"大冰奶","note":"<sortingKey:300.08>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items328.txt>","occasion":0,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},

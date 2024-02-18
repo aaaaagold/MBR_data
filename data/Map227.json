@@ -65760,6 +65760,29 @@
 				0,
 				"我想要住宿"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				21
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65767,7 +65790,62 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"→《南街區旅館》　　　　　　↑《北街區旅館》"
+				"《南街區旅館》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				15
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"《北街區旅館》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -65775,6 +65853,29 @@
 				1,
 				"我想要買東西"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				63
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65782,10 +65883,94 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↗《南街區露天市場》　　　　　　↗《南街區道具店》"
+				"《南街區露天市場》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				5
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區武器裝備店》　　　　　"
+				"《南街區道具店》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				15
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"《北街區武器裝備店》　　　　　"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -65793,6 +65978,29 @@
 				2,
 				"其他特殊建築在哪？"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				15
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65800,16 +66008,36 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區醫院》　　　　　　↑《北街區賭場》"
+				"《北街區醫院》《北街區賭場》《北街區武鬥場》"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區武鬥場》　　　　　↑《北街區王都考古團總部》"
+				"《北街區王都考古團總部》《北街區光明教堂》"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區光明教堂》　　　　↑《北街區餐廳》"
+				"《北街區餐廳》《北街區酒吧》"
 			]},
-			{"code":401,"indent":2,"parameters":[
-				"↑《北街區酒吧》"
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -65887,6 +66115,29 @@
 				0,
 				"我想要住宿"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				21
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65894,7 +66145,62 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↗《南街區旅館》　　　　　　↑《北街區旅館》"
+				"《南街區旅館》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				15
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"《北街區旅館》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -65902,6 +66208,29 @@
 				1,
 				"我想要買東西"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				63
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65909,10 +66238,94 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↖《南街區露天市場》　　　　　　↖《南街區道具店》"
+				"《南街區露天市場》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				5
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區武器裝備店》　　　　　"
+				"《南街區道具店》"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				15
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
+			{"code":101,"indent":2,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":2,"parameters":[
+				"《北街區武器裝備店》　　　　　"
+			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -65920,6 +66333,29 @@
 				2,
 				"其他特殊建築在哪？"
 			]},
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				18
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
+			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
 				0,
@@ -65927,16 +66363,36 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區醫院》　　　　　　↑《北街區賭場》"
+				"《北街區醫院》《北街區賭場》《北街區武鬥場》"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區武鬥場》　　　　　↑《北街區王都考古團總部》"
+				"《北街區王都考古團總部》《北街區光明教堂》"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"↑《北街區光明教堂》　　　　↑《北街區餐廳》"
+				"《北街區餐廳》《北街區酒吧》"
 			]},
-			{"code":401,"indent":2,"parameters":[
-				"↑《北街區酒吧》"
+			{"code":108,"indent":2,"parameters":[
+				"變數21=時間(幀數)"
+			]},
+			{"code":408,"indent":2,"parameters":[
+				"變數22=事件id,數字-1代表玩家"
+			]},
+			{"code":122,"indent":2,"parameters":[
+				21,
+				21,
+				0,
+				0,
+				60
+			]},
+			{"code":122,"indent":2,"parameters":[
+				22,
+				22,
+				0,
+				0,
+				-1
+			]},
+			{"code":117,"indent":2,"parameters":[
+				258
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -67544,7 +68000,7 @@
 				"小賤"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我們家的廚房不可能出現下列拿種蔬菜？」"
+				"「我們家的廚房不可能出現下列哪種蔬菜？」"
 			]},
 			{"code":102,"indent":0,"parameters":[
 				[

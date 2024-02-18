@@ -99917,6 +99917,11 @@
 	],"x":46,"y":43},
 	{"id":17,"name":"EV017","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!fsm_Switch01","direction":2,"pattern":0,"characterIndex":1},"list":[
+			{"code":121,"indent":0,"parameters":[
+				13,
+				13,
+				1
+			]},
 			{"code":281,"indent":0,"parameters":[
 				1
 			]},

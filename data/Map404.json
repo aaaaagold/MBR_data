@@ -27768,8 +27768,8 @@
 				{"code":17,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_02",
-				3,
+				"BLR_11_01",
+				2,
 				0,
 				0
 			]},
@@ -27777,7 +27777,19 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這裡會開船的人只有病鬼而已。」"
+				"「病鬼好像把船舵藏起來了。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_01_1",
+				7,
+				0,
+				0
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[1]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「欸！有這樣子玩的嗎？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				6,
@@ -27814,10 +27826,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「放心吧，達令，如果真的想回去，人家可以"
+				"「放心吧，達令，島上應該有木頭，我們可以"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"從資料庫裡下載開船的知識。」"
+				"重新打造一個船舵。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				4,
@@ -27834,7 +27846,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「從頭開始學的話，大概只要．．．三個月？」"
+				"「只是需要一點時間．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"魔法2","volume":90,"pitch":100,"pan":0}
@@ -27854,7 +27866,7 @@
 				"\\N[1]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「太久了！」"
+				"「需要時間．．．」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Decision3","volume":90,"pitch":100,"pan":0}

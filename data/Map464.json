@@ -5538,6 +5538,18 @@
 			{"code":401,"indent":5,"parameters":[
 				"\\F[黃金]還是一次列出來吧？"
 			]},
+			{"code":355,"indent":5,"parameters":[
+				"{ let msgw=SceneManager._scene._messageWindow,sp=msgw._windowContentsSprite;"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"this._tmp_msgwContentSpIdx=msgw.getChildIndex(sp);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"msgw.addChild(sp);"
+			]},
+			{"code":655,"indent":5,"parameters":[
+				"}"
+			]},
 			{"code":230,"indent":5,"parameters":[
 				1
 			]},
@@ -5567,6 +5579,9 @@
 			]},
 			{"code":401,"indent":5,"parameters":[
 				"\\TXTCENTER:\"八次！\" \\EVALJSCODE\"$gameMap._events[$gameVariables.value(21)].requestAnimation(37)\""
+			]},
+			{"code":355,"indent":5,"parameters":[
+				"{ let msgw=SceneManager._scene._messageWindow; msgw.addChildAt(msgw._windowContentsSprite,this._tmp_msgwContentSpIdx); this._tmp_msgwContentSpIdx=undefined; }"
 			]},
 			{"code":355,"indent":5,"parameters":[
 				"$gameSystem._messageRows=$gameSystem._messageRows_bak;"

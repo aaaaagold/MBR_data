@@ -16327,7 +16327,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":20,"y":3},
+	],"x":16,"y":3},
 	{"id":12,"name":"EV012","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":6,"pattern":1,"characterIndex":0},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16450,7 +16450,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":22,"y":3},
+	],"x":18,"y":3},
 	{"id":13,"name":"EV013","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":6,"pattern":2,"characterIndex":0},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16489,7 +16489,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":24,"y":3},
+	],"x":20,"y":3},
 	{"id":14,"name":"EV014","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":8,"pattern":0,"characterIndex":0},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16528,7 +16528,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":26,"y":3},
+	],"x":22,"y":3},
 	{"id":15,"name":"EV015","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16567,7 +16567,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":28,"y":3},
+	],"x":24,"y":3},
 	{"id":16,"name":"EV016","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":8,"pattern":2,"characterIndex":0},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16627,7 +16627,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":30,"y":3},
+	],"x":26,"y":3},
 	{"id":17,"name":"EV017","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":2,"pattern":0,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16666,7 +16666,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":4,"y":10},
+	],"x":28,"y":3},
 	{"id":18,"name":"EV018","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16765,7 +16765,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":6,"y":10},
+	],"x":30,"y":3},
 	{"id":19,"name":"EV019","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":2,"pattern":2,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16804,7 +16804,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":8,"y":10},
+	],"x":4,"y":10},
 	{"id":20,"name":"EV020","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":4,"pattern":0,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16864,7 +16864,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":10,"y":10},
+	],"x":6,"y":10},
 	{"id":21,"name":"EV021","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":4,"pattern":1,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16903,7 +16903,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":12,"y":10},
+	],"x":8,"y":10},
 	{"id":22,"name":"EV022","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":4,"pattern":2,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -16942,7 +16942,7 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":14,"y":10},
+	],"x":10,"y":10},
 	{"id":23,"name":"EV023","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":6,"pattern":0,"characterIndex":1},"list":[
 			{"code":250,"indent":0,"parameters":[
@@ -25225,5 +25225,83 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":10,"y":17}
+	],"x":10,"y":17},
+	{"id":61,"name":"EV061","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":4,"pattern":0,"characterIndex":2},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_Apologize",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":117,"indent":0,"parameters":[
+				260
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":12,"y":10},
+	{"id":62,"name":"EV062","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"BLR_CGcharacter","direction":8,"pattern":2,"characterIndex":1},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":231,"indent":0,"parameters":[
+				1,
+				"CG_Recovery",
+				0,
+				0,
+				0,
+				0,
+				50,
+				50,
+				255,
+				0
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":117,"indent":0,"parameters":[
+				260
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":235,"indent":0,"parameters":[
+				1
+			]},
+			{"code":230,"indent":0,"parameters":[
+				30
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":14,"y":10}
 ]}

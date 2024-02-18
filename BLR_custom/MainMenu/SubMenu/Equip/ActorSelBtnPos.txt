@@ -1,0 +1,8 @@
+closeX=-40
+dx=-5
+dy=0
+faceX=100
+faceY=0
+nameX=128
+nameY=50
+nameFontSize=20

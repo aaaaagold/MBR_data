@@ -166,7 +166,7 @@
 		411,
 		877
 	],"faceIndex":0,"faceName":"BLR_16_1","traits":[
-	],"initialLevel":90,"maxLevel":90,"name":"露西蛋糕","nickname":"月藍軍神","note":"","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。"},
+	],"initialLevel":1,"maxLevel":99,"name":"露西蛋糕","nickname":"月藍軍神","note":"","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。"},
 	{"id":17,"battlerName":"SV_Ardis","characterIndex":6,"characterName":"2000_Actor2","classId":14,"equips":[
 		94,
 		602,
@@ -174,7 +174,7 @@
 		1113,
 		871
 	],"faceIndex":0,"faceName":"BLR_MainNPCs","traits":[
-	],"initialLevel":60,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。"},
+	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。"},
 	{"id":18,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":15,"equips":[
 		0,
 		0,

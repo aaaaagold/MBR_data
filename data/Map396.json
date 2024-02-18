@@ -5884,11 +5884,6 @@
 			{"code":655,"indent":0,"parameters":[
 				"++$gameMap._events[8]._y;"
 			]},
-			{"code":212,"indent":0,"parameters":[
-				7,
-				1,
-				false
-			]},
 			{"code":230,"indent":0,"parameters":[
 				5
 			]},
@@ -5906,11 +5901,6 @@
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"--$gameMap._events[9]._x;"
-			]},
-			{"code":212,"indent":0,"parameters":[
-				7,
-				1,
-				false
 			]},
 			{"code":230,"indent":0,"parameters":[
 				5
@@ -6835,7 +6825,7 @@
 				"風鈴鈴之間的愛恨情仇、七大聖獸與妖精森林"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"的故事裡面其中一個你很非常喜歡的話。」"
+				"的故事裡面其中一個你非常喜歡的話。」"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Book1","volume":90,"pitch":100,"pan":0}
@@ -7036,6 +7026,18 @@
 			{"code":402,"indent":0,"parameters":[
 				0,
 				"是"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
 			]},
 			{"code":242,"indent":1,"parameters":[
 				3

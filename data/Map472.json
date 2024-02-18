@@ -22325,7 +22325,7 @@
 				false
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_BlackLion",
+				"",
 				7,
 				1,
 				1
@@ -22337,7 +22337,7 @@
 				"\\TXTCENTER:\"\\C[25]像你這種滿嘴信任、夥伴、羈絆、大義的人。\""
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_BlackLion",
+				"",
 				7,
 				1,
 				1
@@ -22375,7 +22375,7 @@
 				"「我才不會變得跟你一樣！」\\|\\^\""
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_BlackLion",
+				"",
 				7,
 				1,
 				1
@@ -27120,7 +27120,7 @@
 				"以上隨意"
 			]},
 			{"code":355,"indent":0,"parameters":[
-				"$gameTemp._vidsRoot=$gameTemp._vidsRoot||document.ce('div').sa('style',Graphics._canvas.ga('style')); $gameTemp._vidsRoot.style.zIndex=4; $gameTemp._vidsRoot.style.display=\"block\"; if(!$gameTemp._vidsRoot._vids) $gameTemp._vidsRoot._vids=[];"
+				"$gameTemp._vidsRoot=window._vidsRoot=window._vidsRoot||document.ce('div').sa('style',Graphics._canvas.ga('style')); $gameTemp._vidsRoot.style.overflow=\"hidden\"; $gameTemp._vidsRoot.style.zIndex=4; $gameTemp._vidsRoot.style.display=\"block\"; if(!$gameTemp._vidsRoot._vids) $gameTemp._vidsRoot._vids=[];"
 			]},
 			{"code":655,"indent":0,"parameters":[
 				"$gameTemp._vidsRoot.width=Graphics.boxWidth; $gameTemp._vidsRoot.height=Graphics.boxHeight; document.body.ac($gameTemp._vidsRoot); Graphics.addAsGameCanvas($gameTemp._vidsRoot);"

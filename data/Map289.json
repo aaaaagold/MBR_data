@@ -27934,18 +27934,6 @@
 			{"code":401,"indent":0,"parameters":[
 				"「嗯．．．」"
 			]},
-			{"code":121,"indent":0,"parameters":[
-				21,
-				30,
-				1
-			]},
-			{"code":122,"indent":0,"parameters":[
-				21,
-				40,
-				0,
-				0,
-				0
-			]},
 			{"code":102,"indent":0,"parameters":[
 				[
 					"那麼就拜託老先生指點了",
@@ -27974,6 +27962,18 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"競技場！」"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
 			]},
 			{"code":201,"indent":1,"parameters":[
 				0,
@@ -28073,6 +28073,18 @@
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"競技場！」"
+			]},
+			{"code":121,"indent":1,"parameters":[
+				21,
+				30,
+				1
+			]},
+			{"code":122,"indent":1,"parameters":[
+				21,
+				40,
+				0,
+				0,
+				0
 			]},
 			{"code":201,"indent":1,"parameters":[
 				0,

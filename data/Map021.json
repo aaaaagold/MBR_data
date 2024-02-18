@@ -25143,6 +25143,38 @@
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":true,"variableValue":50},"directionFix":false,"image":{"tileId":0,"characterName":"People2","direction":2,"pattern":1,"characterIndex":1},"list":[
 			{"code":111,"indent":0,"parameters":[
 				0,
+				58,
+				0
+			]},
+			{"code":108,"indent":1,"parameters":[
+				"IF維皮離開村子，沒有偷家豪東西時，"
+			]},
+			{"code":408,"indent":1,"parameters":[
+				"家豪給玩家裝備外，還會將開關110=ON(避免水井內的寶箱沒開)"
+			]},
+			{"code":408,"indent":1,"parameters":[
+				"但會導致對話出現問題，所以改成家豪送東西時，會將開關58=ON"
+			]},
+			{"code":101,"indent":1,"parameters":[
+				"Recolor_Priests",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"家豪"
+			]},
+			{"code":401,"indent":1,"parameters":[
+				"「路上請小心啊。」"
+			]},
+			{"code":115,"indent":1,"parameters":[
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":111,"indent":0,"parameters":[
+				0,
 				110,
 				0
 			]},
