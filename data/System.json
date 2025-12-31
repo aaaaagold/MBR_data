@@ -57,7 +57,7 @@
 	{"type":1,"weaponImageId":15},
 	{"type":1,"weaponImageId":0},
 	{"type":1,"weaponImageId":25}
-],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Cobblestones1","battleback2Name":"Room1","battlerHue":0,"battlerName":"Animal_14_lizard","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":603,"elements":[
+],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Grassland","battleback2Name":"4e840198-cbe1-494a-acb2-b99c553eabdb","battlerHue":0,"battlerName":"Animal_04","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":637,"elements":[
 	"",
 	"斬屬性",
 	"刺屬性",
@@ -135,7 +135,7 @@
 	{"name":"Shop2","pan":0,"pitch":100,"volume":50},
 	{"name":"Item1","pan":0,"pitch":100,"volume":50},
 	{"name":"Item3","pan":0,"pitch":100,"volume":50}
-],"startMapId":623,"startX":14,"startY":35,"switches":[
+],"startMapId":1,"startX":13,"startY":7,"switches":[
 	"",
 	"-共用事件用-",
 	"製作者傳送門用",
@@ -787,35 +787,35 @@
 	"命中",
 	"迴避"
 ],"messages":{"actionFailure":"對 %1 無效果！","actorDamage":"%1 遭受 %2 傷害！","actorDrain":"%1 耗盡 %2 %3！","actorGain":"%1 獲得 %2 %3！","actorLoss":"%1 損失 %2 %3！","actorNoDamage":"%1 未遭受傷害！","actorNoHit":"未擊中！%1 未遭受傷害！","actorRecovery":"%1 恢復了 %2 %3！","alwaysDash":"始終衝刺","bgmVolume":"BGM 音量","bgsVolume":"BGS 音量","buffAdd":"%1 的 %2 上升！","buffRemove":"%1 的 %2 恢復正常！","commandRemember":"命令記住","counterAttack":"%1 反擊！","criticalToActor":"危險！！","criticalToEnemy":"打得好！！","debuffAdd":"%1 的 %2 下降！","defeat":"%1 被擊敗。","emerge":"%1 出現！","enemyDamage":"%1 遭受 %2 傷害！","enemyDrain":"%1 耗盡 %2 %3！","enemyGain":"%1 獲得 %2 %3！","enemyLoss":"%1 損失 %2 %3！","enemyNoDamage":"%1 未遭受傷害！","enemyNoHit":"未擊中！%1 未遭受傷害！","enemyRecovery":"%1 恢復了 %2 %3！","escapeFailure":"然而，其未能跳脫！","escapeStart":"%1 開始逃跑！","evasion":"%1 閃避了攻擊！","expNext":"至下一個 %1","expTotal":"當前 %1","file":"檔案","levelUp":"%1 現在是 %2 %3！","loadMessage":"讀取哪個檔案？","magicEvasion":"%1 使魔法失效！","magicReflection":"%1 反射了魔法！","meVolume":"ME 音量","obtainExp":"收到 %1 %2！","obtainGold":"找到%1\\G！","obtainItem":"找到%1！","obtainSkill":"已學習%1！","partyName":"%1 的隊伍","possession":"持有數","preemptive":"%1 占上風！","saveMessage":"保存到哪個檔案？","seVolume":"SE 音量","substitute":"%1 保護了 %2！","surprise":"%1 被突襲！","useItem":"%1 使用 %2！","victory":"%1 獲勝！"}},"testBattlers":[
-	{"actorId":4,"equips":[
-		92,
-		642,
-		4,
-		303,
-		4
-	],"level":80},
-	{"actorId":5,"equips":[
-		122,
+	{"actorId":10,"equips":[
+		37,
+		619,
+		104,
+		375,
+		937
+	],"level":99},
+	{"actorId":16,"equips":[
+		206,
 		0,
 		0,
-		304,
-		711
-	],"level":80},
-	{"actorId":7,"equips":[
-		155,
-		710,
-		35,
-		334,
-		857
-	],"level":80},
-	{"actorId":8,"equips":[
+		411,
+		877
+	],"level":99},
+	{"actorId":1,"equips":[
+		210,
+		619,
+		30,
+		448,
+		937
+	],"level":99},
+	{"actorId":0,"equips":[
 		182,
 		667,
 		65,
 		366,
 		856
 	],"level":80}
-],"testTroopId":445,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
+],"testTroopId":443,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
 	"",
 	"-共用判定用No1~100-",
 	"心理測驗用",
@@ -907,7 +907,7 @@
 	"心理測驗8_選項",
 	"心理測驗9_選項",
 	"心理測驗10_選項",
-	"絕無城主線變數",
+	"絕無城主線進度",
 	"絕無城當前隊伍編號",
 	"履歴の配列表示用",
 	"重ねがけ時足りるか判定",
@@ -1263,12 +1263,12 @@
 	"客人生氣讀秒",
 	"開鎖需求經驗",
 	"開鎖現在經驗",
-	"哈瑞boss補血量計次",
-	"",
-	"",
-	"",
-	"",
-	"",
+	"哈瑞boss補血量倍率",
+	"小卒連環釘",
+	"哈瑞蒲團謎題",
+	"哈瑞關進度",
+	"阿忠鬼屋",
+	"哈瑞施放補血次數",
 	"",
 	"",
 	"",
@@ -1317,7 +1317,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":22501297,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":55073702,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",

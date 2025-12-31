@@ -7702,41 +7702,39 @@
 		0,
 		0
 	],"price":0},
-	{"id":637,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":637,"atypeId":22,"description":"「維皮專用副手」全能力+5，","etypeId":2,"traits":[
+	],"iconIndex":7,"name":"茉莉的內褲","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
+		5,
+		5,
+		5,
+		5,
+		5,
+		5
 	],"price":0},
-	{"id":638,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":638,"atypeId":22,"description":"「維皮專用副手」全能力+5，","etypeId":2,"traits":[
+	],"iconIndex":7,"name":"馬大嬸的內衣","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
+		5,
+		5,
+		5,
+		5,
+		5,
+		5
 	],"price":0},
-	{"id":639,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":639,"atypeId":22,"description":"「維皮專用副手」全能力+5，HP上限+200、可自動恢復HP(中)","etypeId":2,"traits":[
+		{"code":22,"dataId":7,"value":0.05}
+	],"iconIndex":7,"name":"如如的內衣","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
+		200,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
+		5,
+		5,
+		5,
+		5,
+		5,
+		5
 	],"price":0},
 	{"id":640,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
@@ -11565,9 +11563,10 @@
 		20,
 		20
 	],"price":100},
-	{"id":939,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":939,"atypeId":32,"description":"「男用飾品」抗暴率+25%，中幅提升自身鈍抗性","etypeId":5,"traits":[
+		{"code":11,"dataId":3,"value":0.7},
+		{"code":22,"dataId":3,"value":0.25}
+	],"iconIndex":188,"name":"白色向日葵的美食照","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors937.txt>","params":[
 		0,
 		0,
 		0,
@@ -11576,10 +11575,11 @@
 		0,
 		0,
 		0
-	],"price":0},
-	{"id":940,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	],"price":100},
+	{"id":940,"atypeId":32,"description":"「男用飾品」減輕受到的絕無城迷宮機關傷害，免疫即死，\n中幅提升自身刺抗性","etypeId":5,"traits":[
+		{"code":11,"dataId":2,"value":0.7},
+		{"code":13,"dataId":1,"value":0}
+	],"iconIndex":188,"name":"小唯與娜娜美的合照","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors937.txt>","params":[
 		0,
 		0,
 		0,
@@ -11588,7 +11588,7 @@
 		0,
 		0,
 		0
-	],"price":0},
+	],"price":100},
 	{"id":941,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -12818,7 +12818,7 @@
 		0
 	],"price":0},
 	{"id":1043,"atypeId":13,"description":"「輕甲衣服」裝備數值依照民望指數的負值提升，民望越低效果越好。\n※：每-1民望+10防禦、魔防","etypeId":4,"traits":[
-	],"iconIndex":154,"name":"極道環甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
+	],"iconIndex":136,"name":"極道環甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
 		0,
 		0,
 		0,
@@ -12829,7 +12829,7 @@
 		0
 	],"price":0},
 	{"id":1044,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100，受到攻擊時有機率展開\n持續1回合的法力護盾。","etypeId":4,"traits":[
-	],"iconIndex":154,"name":"雷提斯皮甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
+	],"iconIndex":136,"name":"雷提斯皮甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
 		0,
 		0,
 		0,
@@ -12840,7 +12840,7 @@
 		0
 	],"price":0},
 	{"id":1045,"atypeId":13,"description":"「輕甲衣服」防禦+140、魔防+120，被攻擊時反擊受到\n傷害10%的刺屬性傷害。","etypeId":4,"traits":[
-	],"iconIndex":154,"name":"荊棘皮甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
+	],"iconIndex":136,"name":"荊棘皮甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
 		0,
 		0,
 		0,
@@ -12851,7 +12851,7 @@
 		0
 	],"price":0},
 	{"id":1046,"atypeId":13,"description":"「輕甲衣服」防禦+180、魔防+180，受到15次傷害後，\n魔法迴避+100% 持續1回合。","etypeId":4,"traits":[
-	],"iconIndex":154,"name":"閃魔環甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
+	],"iconIndex":136,"name":"閃魔環甲","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors373.txt>","params":[
 		0,
 		0,
 		0,
@@ -13191,18 +13191,17 @@
 		0,
 		0
 	],"price":0},
-	{"id":1075,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":1075,"atypeId":32,"description":"「男用裝備」物防+200，受到攻擊時機率獲得心眼，\n※心眼：命中率+50%，提升拔刀斬的傷害，使用拔刀斬後解除","etypeId":4,"traits":[
+	],"iconIndex":136,"name":"武士盔甲","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		0,
 		0,
 		0,
-		0,
+		200,
 		0,
 		0,
 		0,
 		0
-	],"price":0},
+	],"price":30000},
 	{"id":1076,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[

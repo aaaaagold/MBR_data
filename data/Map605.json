@@ -7692,7 +7692,7 @@
 				"「人家最近也胖了，明明眼前擺了那麼多好吃"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"的東西．．．」\\|\\|\\^"
+				"的東西……」\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_2",
@@ -7766,11 +7766,11 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				3,
-				2,
+				1,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"女子聲：　　　　　　　　　\""
+				""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"原來之前還發生過這種事啊。\"\\|\\|\\^"
@@ -7781,11 +7781,11 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				3,
-				2,
+				1,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"女子聲：　　　　　　　　　　　　　　　　　　　　　　\""
+				""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"泉晨鎮最近開了一間新的吃到飽餐廳，下次一起去逛逛吧？\"\\|\\|\\^"
@@ -7796,11 +7796,11 @@
 			{"code":101,"indent":0,"parameters":[
 				"",
 				3,
-				2,
+				1,
 				1
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"女子聲：　\""
+				""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"\\TXTCENTER:\"贊成！！！\\.\\.\\|\\^\""
@@ -7883,6 +7883,24 @@
 			{"code":401,"indent":0,"parameters":[
 				"「她們來了。」"
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":213,"indent":0,"parameters":[
+				4,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				3,
+				1,
+				false
+			]},
+			{"code":213,"indent":0,"parameters":[
+				5,
+				1,
+				true
+			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
 				{"list":[
@@ -7957,6 +7975,20 @@
 				8
 			]},
 			{"code":205,"indent":0,"parameters":[
+				-1,
+				{"list":[
+					{"code":29,"parameters":[
+						4
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					4
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
 				9,
 				{"list":[
 					{"code":1,"indent":null},
@@ -7978,13 +8010,9 @@
 				7,
 				{"list":[
 					{"code":1,"indent":null},
-					{"code":1,"indent":null},
 					{"code":19,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":1,"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":1,"indent":null}
@@ -8009,20 +8037,6 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":19,"indent":null}
-			]},
-			{"code":205,"indent":0,"parameters":[
-				-1,
-				{"list":[
-					{"code":29,"parameters":[
-						4
-					],"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":true}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":29,"parameters":[
-					4
-				],"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Kids F",
@@ -8115,16 +8129,6 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「妳們好啊，我在這裡恭候多時了。」"
-			]},
-			{"code":205,"indent":0,"parameters":[
-				7,
-				{"list":[
-					{"code":4,"indent":null},
-					{"code":0}
-				],"repeat":false,"skippable":false,"wait":false}
-			]},
-			{"code":505,"indent":0,"parameters":[
-				{"code":4,"indent":null}
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -8341,7 +8345,7 @@
 				"？？？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「呼．．．呼．．．說的也是。」"
+				"「呼、呼，說的也是。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -8928,7 +8932,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我倒是．．．可以理解。」"
+				"「我倒是……可以理解。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -9172,7 +9176,7 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「往後的所有關卡，都會有像我一樣的守門人，"
+				"「往後的所有關卡，都會有像我一樣的守護者，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"負責阻擋你們的去路。」"
@@ -9187,10 +9191,10 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「打倒我以後，我就會給你準備好的獎勵，"
+				"「打倒守護者以後，他們就會給你準備好的"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"並幫你開啟通往終點的大門。」"
+				"獎勵，並幫你開啟通往下一關的大門。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_1",
@@ -9331,7 +9335,7 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這、這個嘛．．．」"
+				"「這、這個嘛……」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice1","volume":90,"pitch":100,"pan":0}
@@ -9726,7 +9730,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小鈴，是我今天出門沒看黃曆，還是老娘"
+				"「小鈴，是老娘今天出門沒看黃曆，還是"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"吃到了大麻蛋糕？」"
@@ -9751,7 +9755,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我猜是今天不宜出門．．．」"
+				"「我猜是今天不宜出門。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_1",
@@ -9860,10 +9864,10 @@
 				"路人甲"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳們．．．拜託不要為我吵架，世界上任何"
+				"「妳們，拜託不要為我吵架，世界上任何一個"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一個女孩子因為我而落淚，我都會心痛的。」"
+				"女孩子因為我而落淚，我都會心痛的。」"
 			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
@@ -9932,7 +9936,7 @@
 				"淑芬"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小路．．．」"
+				"「小路…」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Bunny Girls",
@@ -9944,7 +9948,7 @@
 				"小百合"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「甜心．．．」"
+				"「甜心…」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Kids F",
@@ -9956,7 +9960,7 @@
 				"曉萱"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「路人甲大葛格．．．」"
+				"「路人甲大葛格…」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				5,
@@ -10123,7 +10127,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -10514,6 +10518,11 @@
 			]},
 			{"code":404,"indent":0,"parameters":[
 			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
 			{"code":283,"indent":0,"parameters":[
 				"chocolate",
 				""
@@ -10542,7 +10551,7 @@
 				2
 			]},
 			{"code":203,"indent":0,"parameters":[
-				3,
+				4,
 				0,
 				22,
 				7,
@@ -10847,11 +10856,14 @@
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Key","volume":90,"pitch":70,"pan":0}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":205,"indent":0,"parameters":[
 				11,
 				{"list":[
 					{"code":44,"parameters":[
-						{"name":"49_Open8_B","volume":90,"pitch":100,"pan":0}
+						{"name":"43_Door7_A","volume":90,"pitch":50,"pan":0}
 					],"indent":null},
 					{"code":17},
 					{"code":15,"parameters":[
@@ -10868,7 +10880,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":44,"parameters":[
-					{"name":"49_Open8_B","volume":90,"pitch":100,"pan":0}
+					{"name":"43_Door7_A","volume":90,"pitch":50,"pan":0}
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -10972,6 +10984,39 @@
 			{"code":401,"indent":0,"parameters":[
 				"「一定什麼難關都能夠過去的。」"
 			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Sailors",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"路人甲"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「還有，這是我準備好要給你們的獎勵。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Sailors",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"路人甲"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這是我在王都有名的甜點店買來，準備送給"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"通關成功的你們，這個漂亮又美味的蛋糕，"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"希望你們喜歡。」"
+			]},
 			{"code":355,"indent":0,"parameters":[
 				"$gameMap._events[5].getSprite().addChild($gameTemp._事件中暫存圖片sprite=SceneManager._scene._spriteset._pictureContainer.children[0]);"
 			]},
@@ -11039,10 +11084,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「路人甲先生．．．我們沒有在對的時間點"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"相遇。」"
+				"「路人甲先生，我們沒有在對的時間點相遇。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_07_1",
@@ -11054,7 +11096,7 @@
 				"\\N[7]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不然，不然憑你那精壯的肉體，我一定會"
+				"「不然、不然憑你那精壯的肉體，我一定會"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"加入路人甲後援會的！」"
@@ -11557,7 +11599,7 @@
 				"\\N[5]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				8,
@@ -11806,7 +11848,7 @@
 				"\\N[8]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊．．．等等～等等～」"
+				"「啊，等等～等等～」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_08_2",
@@ -11818,7 +11860,7 @@
 				"\\N[8]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「人家腦子好亂．．．」"
+				"「人家腦子好亂……」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -11835,16 +11877,16 @@
 				{"list":[
 					{"code":19,"indent":null},
 					{"code":15,"parameters":[
-						60
+						30
 					],"indent":null},
 					{"code":16,"indent":null},
 					{"code":15,"parameters":[
-						60
+						30
 					],"indent":null},
 					{"code":19,"indent":null},
 					{"code":15,"parameters":[
-						60
-					],"indent":null},
+						30
+					],"indent":0},
 					{"code":16,"indent":null},
 					{"code":0}
 				],"repeat":false,"skippable":false,"wait":true}
@@ -11854,7 +11896,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					60
+					30
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -11862,7 +11904,7 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					60
+					30
 				],"indent":null}
 			]},
 			{"code":505,"indent":0,"parameters":[
@@ -11870,8 +11912,8 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":15,"parameters":[
-					60
-				],"indent":null}
+					30
+				],"indent":0}
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":16,"indent":null}
@@ -11879,7 +11921,7 @@
 			{"code":213,"indent":0,"parameters":[
 				-1,
 				13,
-				true
+				false
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_04_1",
@@ -11921,7 +11963,7 @@
 				"\\N[4]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然這樣．．．兔兔先回去把糖果吃光光！」"
+				"「既然這樣，兔兔要再去多吃一點糖果再走！」"
 			]},
 			{"code":223,"indent":0,"parameters":[
 				[
@@ -12039,7 +12081,7 @@
 				"\\N[4]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那兔兔要再去多吃一點糖果再走！」\\|\\|\\^"
+				"「兔兔要回去把糖果吃光光！」\\|\\|\\^"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Sailors",
@@ -12076,7 +12118,7 @@
 				"氣死人了！妳們不是說餅乾會吃完嗎？"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"怎麼\\ii[159]還有剩！"
+				"怎麼\\ni[332]還有剩！"
 			]},
 			{"code":250,"indent":1,"parameters":[
 				{"name":"Buzzer2","volume":90,"pitch":100,"pan":0}
@@ -12102,6 +12144,24 @@
 			{"code":0,"indent":1,"parameters":[
 			]},
 			{"code":412,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				415,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\NI[415]。"
 			]},
 			{"code":122,"indent":0,"parameters":[
 				91,
@@ -12132,7 +12192,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
 	],"x":40,"y":27},
 	{"id":8,"name":"雷娜","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":false,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"BLR_Yuter_MV01","direction":2,"pattern":1,"characterIndex":1},"list":[
@@ -12150,7 +12210,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":true,"trigger":0,"walkAnime":true}
 	],"x":40,"y":29},
 	{"id":10,"name":"EV010","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"characterIndex":0,"characterName":"","direction":2,"pattern":0,"tileId":0},"list":[
@@ -12353,7 +12413,7 @@
 				10
 			]},
 			{"code":126,"indent":2,"parameters":[
-				214,
+				213,
 				0,
 				0,
 				20
@@ -12362,13 +12422,20 @@
 				215,
 				0,
 				0,
-				5
+				3
 			]},
 			{"code":128,"indent":2,"parameters":[
 				887,
 				0,
 				0,
-				4,
+				2,
+				false
+			]},
+			{"code":128,"indent":2,"parameters":[
+				886,
+				0,
+				0,
+				2,
 				false
 			]},
 			{"code":101,"indent":2,"parameters":[
@@ -12378,10 +12445,10 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得\\ni[96]10個、\\ni[214]20個、"
+				"獲得\\ni[96]10個、\\ni[213]20個、"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\ni[215]5個、\\na[887]4個"
+				"\\ni[215]3個、\\na[887]2個、\\na[887]2個"
 			]},
 			{"code":122,"indent":2,"parameters":[
 				273,
@@ -12424,5 +12491,16 @@
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
 	],"x":11,"y":8},
-	null
+	{"id":13,"name":"儲物箱","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"fsm_trolley01","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.depository_open(1);"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":9,"y":8}
 ]}

@@ -9861,7 +9861,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喂！你這沒品的臭小偷！」"
+				"「喂！沒品的臭小偷！」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -9907,7 +9907,7 @@
 				"\\N[16]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「任務．．．搶奪％＆％＆。」"
+				"「任務…搶奪％＆％＆。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -9919,7 +9919,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．不好意思，外面的機關是我們"
+				"「那個…不好意思，外面的機關是我們"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"解除的。」"
@@ -9939,10 +9939,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．那個．．．"
+				"「嗯…那個…能不能麻煩您把古代遺物"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"能不能麻煩您把古代遺物讓給我們呢？」"
+				"還給我們呢？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -10022,10 +10022,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．如果達令在這裡的話，一定也"
+				"「可是…如果達令在這裡的話，一定也希望"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"希望可以和平解決吧？」"
+				"可以和平解決吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10037,7 +10037,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「所以人家才想．．．試著溝通一下。」"
+				"「所以人家才想…試著溝通一下。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Up9_B","volume":90,"pitch":120,"pan":0}
@@ -10069,7 +10069,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．」"
+				"「可是…」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -10146,7 +10146,7 @@
 				"「也要感謝你們為我做嫁衣，如果沒有你們，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"前面的考驗只有我一個人大概也要破解一段"
+				"前面的考驗只有我一個人，大概也要破解一段"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"時間。」"
@@ -10171,7 +10171,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[11]．．．怎麼辦？」"
+				"「\\N[11]…怎麼辦？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10198,7 +10198,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -10210,7 +10210,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「喂！你！怎麼稱呼？」"
+				"「喂！你！叫什麼名字？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -10333,7 +10333,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我叫做重影。」"
+				"「重影，這是我的名字。」"
 			]},
 			{"code":242,"indent":0,"parameters":[
 				3
@@ -10476,10 +10476,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．算不上是認識，不過我們去過"
+				"「嗯…算不上是認識，不過我們去過達西村，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"達西村，所以跟她有點關係。」"
+				"所以跟她有點關係。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10513,7 +10513,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這樣啊．．．原來柚曦之所以會去自首，"
+				"「這樣啊……原來柚曦之所以會去自首，"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"是因為你們。」"
@@ -10603,7 +10603,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不．．．真的很謝謝你們。」"
+				"「不，真的很謝謝你們。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -10625,10 +10625,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我一直都有在關注柚曦的狀況．．．"
+				"「我一直都有在關注柚曦的狀況，也曾想去"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"也曾經想去村子找她。」"
+				"達西村找她。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -10645,10 +10645,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「但是，畢竟綠葉傭兵團當初對她做了那麼"
+				"「但是，畢竟當初綠葉傭兵團對她做了那麼多"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"過分的事情，所以我很怕．．．」"
+				"過分的事情，所以我很怕…」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -10710,10 +10710,22 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「真是造化弄人．．．要是我能夠更早去找她，"
+				"「真是造化弄人。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是不是這一切就不會發生了？」"
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「要是我能夠更早去找她，是不是這一切"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"就不會發生了？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -10730,7 +10742,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「芊芊．．．她果然還是知道了。」"
+				"「芊芊…她果然還是知道了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10809,7 +10821,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這件事情．．．誰也說不準呢。」"
+				"「這件事情……誰也說不準呢。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -10885,7 +10897,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「太好了．．．柚曦她．．．終於走出來了。」"
+				"「太好了，柚曦她…終於走出來了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -10918,6 +10930,21 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「哈哈哈，我不過是個膽小鬼而已。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「要是我再勇敢一點，就不會變得現在這樣"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -10986,7 +11013,7 @@
 				"「你們在聊什麼？我怎麼什麼都聽不懂？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"他是你的舊識嗎？」"
+				"他是你的熟人嗎？」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -11146,7 +11173,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「這個\\.．\\.．\\.．\\.有點為難呢。」"
+				"「這個\\.…\\.…\\.有點為難呢。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_16_1",
@@ -11225,10 +11252,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯．．．重影先生，你為什麼要收集"
+				"「重影先生，你為什麼要收集古代遺物呢？"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"古代遺物呢？是為了錢嗎？」"
+				"是為了錢嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -11255,7 +11282,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「倒不是錢的問題\\.．\\.．\\.．\\.」"
+				"「倒不是錢的問題。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -11272,7 +11299,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯\\.．\\.．\\.．\\.」"
+				"「嗯\\.…\\.…\\.」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -11444,7 +11471,7 @@
 				"「說只要交辦好他給我的任務，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"每完成一件就能夠替柚曦減低刑期。」"
+				"每完成一件就能夠減少一點柚曦的刑期。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -11527,7 +11554,7 @@
 				"\\N[16]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				3,
@@ -11544,7 +11571,7 @@
 				"\\N[6]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				9,
@@ -11598,10 +11625,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然你們幫助柚曦我很感謝，"
+				"「雖然你們幫助柚曦我很感謝，但這是"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但這是兩回事。」"
+				"兩回事。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -11613,7 +11640,7 @@
 				"\\N[6]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
+				"「……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -11771,7 +11798,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「機器人偶，夢幻古代遺物．．．」"
+				"「機器人偶，夢幻古代遺物嗎……」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -11793,10 +11820,13 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「原本我就在懷疑那位穿著比基尼、把機器"
+				"「原本我就在懷疑你們身後那位小姐的身份，"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"穿在身上的那位小姐身份。」"
+				"因為她看起來很像帕卡陛下和我形容過的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人偶。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -11808,7 +11838,61 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可沒想到這位忍者裝束的美女居然就是了。」"
+				"「沒想到這位忍者裝束的女孩才是機器人偶"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"嗎？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「對，帕卡陛下好像說過，以前他有一個叫做"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"大陽的弟子，好像有找到機器人偶……」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「不過被一個魔女奪走了……」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「原來是妳們嗎？緣分真是妙不可言。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_11_01",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[11]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「是又怎樣？我可沒說要賭。」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				9,
@@ -11830,7 +11914,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「如果真的把妳帶回去交給國王陛下．．．"
+				"「如果真的把妳帶回去交給國王陛下…"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"柚曦的刑期不知道可以縮短多少時間。」"
@@ -11855,7 +11939,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「加上是賭約的話，可以省事不少．．．」"
+				"「加上是賭約的話，可以省事不少…」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -11877,7 +11961,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「欸欸欸！先收起你那鬼注意！」"
+				"「欸欸欸！我才是她的主人！我沒說好！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -11899,10 +11983,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我不同意妳這麼做！我才是妳的主人！"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"妳為什麼自作主張！」"
+				"「我不同意妳這麼做！妳為什麼自作主張！」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				3,
@@ -11970,7 +12051,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「妳是因為信任我．．．才．．．」"
+				"「妳是因為信任我，才……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -12052,7 +12133,7 @@
 				"\\N[16]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「※⊕〃錯．．．」"
+				"「※⊕〃錯…」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -12806,7 +12887,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				11,
-				1222,
+				1237,
 				false
 			]},
 			{"code":108,"indent":0,"parameters":[
@@ -12876,7 +12957,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				12,
-				1222,
+				1237,
 				false
 			]},
 			{"code":108,"indent":0,"parameters":[
@@ -12946,7 +13027,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				13,
-				1222,
+				1237,
 				false
 			]},
 			{"code":108,"indent":0,"parameters":[
@@ -13216,7 +13297,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				13,
-				1222,
+				1237,
 				false
 			]},
 			{"code":108,"indent":0,"parameters":[
@@ -13283,7 +13364,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				12,
-				1222,
+				1237,
 				false
 			]},
 			{"code":355,"indent":0,"parameters":[
@@ -13347,7 +13428,7 @@
 			]},
 			{"code":212,"indent":0,"parameters":[
 				11,
-				1222,
+				1237,
 				false
 			]},
 			{"code":355,"indent":0,"parameters":[
@@ -13777,7 +13858,7 @@
 				"曉卒"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「居然還能回到現界，重影你現在本事挺大"
+				"「我居然還能回到現界，重影你現在本事挺大"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"啊！」"
@@ -13810,7 +13891,7 @@
 				"「你們是想要繼續跟我敘舊，還是趕快幫我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"解決問題然後去放風一下再回地獄？」"
+				"解決問題，然後去放風一下再回地獄？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Evil Generals M",
@@ -13894,6 +13975,144 @@
 			{"code":401,"indent":0,"parameters":[
 				"「要上囉！」"
 			]},
+			{"code":352,"indent":0,"parameters":[
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"是否要整理裝備？"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"整理裝備",
+					"準備好了"
+				],
+				-1,
+				-1,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"整理裝備"
+			]},
+			{"code":355,"indent":1,"parameters":[
+				"$gameSystem.disable_commonEventItems()"
+			]},
+			{"code":134,"indent":1,"parameters":[
+				0
+			]},
+			{"code":351,"indent":1,"parameters":[
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"準備好了"
+			]},
+			{"code":118,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":243,"indent":0,"parameters":[
+			]},
+			{"code":242,"indent":0,"parameters":[
+				3
+			]},
+			{"code":205,"indent":0,"parameters":[
+				8,
+				{"list":[
+					{"code":14,"parameters":[
+						0,
+						4
+					],"indent":null},
+					{"code":44,"parameters":[
+						{"name":"Earth5","volume":90,"pitch":60,"pan":0}
+					],"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":14,"parameters":[
+					0,
+					4
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":44,"parameters":[
+					{"name":"Earth5","volume":90,"pitch":60,"pan":0}
+				],"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				10,
+				{"list":[
+					{"code":29,"parameters":[
+						5
+					],"indent":null},
+					{"code":35,"indent":null},
+					{"code":5,"indent":null},
+					{"code":2,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":false}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					5
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":35,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":5,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":2,"indent":null}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				7,
+				{"list":[
+					{"code":29,"parameters":[
+						5
+					],"indent":null},
+					{"code":35,"indent":null},
+					{"code":6,"indent":null},
+					{"code":5,"indent":null},
+					{"code":6,"indent":null},
+					{"code":1,"indent":null},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":29,"parameters":[
+					5
+				],"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":35,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":6,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":5,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":6,"indent":null}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":1,"indent":null}
+			]},
 			{"code":132,"indent":0,"parameters":[
 				{"name":"疾風雷電","volume":70,"pitch":100,"pan":0}
 			]},
@@ -13903,6 +14122,12 @@
 			]},
 			{"code":108,"indent":0,"parameters":[
 				"戰鬥"
+			]},
+			{"code":301,"indent":0,"parameters":[
+				0,
+				447,
+				false,
+				false
 			]},
 			{"code":205,"indent":0,"parameters":[
 				14,
@@ -14011,7 +14236,7 @@
 				"傅面"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「你它娘的．．．重影．．．」"
+				"「你它娘的…重影……」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Collapse1","volume":90,"pitch":100,"pan":0}
@@ -14104,7 +14329,7 @@
 				"刀疤"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「靠．．．北，太強了吧？」"
+				"「靠……北，太強了吧？」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Collapse1","volume":90,"pitch":100,"pan":0}
@@ -14197,7 +14422,7 @@
 				"曉卒"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「打不贏就算了．．．還沒得放風．．．」"
+				"「打不贏就算了…還沒得放風……」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Collapse1","volume":90,"pitch":100,"pan":0}
@@ -14280,6 +14505,9 @@
 					0
 				],"indent":null}
 			]},
+			{"code":230,"indent":0,"parameters":[
+				60
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
 				2,
@@ -14341,6 +14569,9 @@
 			]},
 			{"code":505,"indent":0,"parameters":[
 				{"code":4,"indent":null}
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Equip1","volume":90,"pitch":100,"pan":0}
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -14443,10 +14674,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「資料庫沒這東西．．．是全新的．．．"
+				"「資料庫沒有這個東西，是新資料？藥品、"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"藥品、還是法寶？？？」"
+				"還是法寶？」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -14483,7 +14714,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「剛剛那個．．．是死者甦醒的魔法嗎？」"
+				"「剛剛那個，是死者甦醒的魔法嗎？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -14510,7 +14741,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哼嗯．．．是這樣啊。」"
+				"「哼嗯……是這樣啊。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				2,
@@ -14532,7 +14763,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「\\N[11]．．．」"
+				"「\\N[11]……」"
 			]},
 			{"code":213,"indent":0,"parameters":[
 				-1,
@@ -14648,7 +14879,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -14695,7 +14926,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「等下聽我安排．．．」\\|\\^"
+				"「等下聽我安排。」\\|\\^"
 			]},
 			{"code":221,"indent":0,"parameters":[
 			]},

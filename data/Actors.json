@@ -7,7 +7,7 @@
 		3,
 		0
 	],"faceIndex":0,"faceName":"BLR_01_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\"]>\n<男>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。"},
+	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\",\"男\"]>\n<男>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。"},
 	{"id":2,"battlerName":"SV_Lilia","characterIndex":1,"characterName":"BLR_Actor_Angel","classId":2,"equips":[
 		32,
 		662,
@@ -15,7 +15,7 @@
 		392,
 		0
 	],"faceIndex":0,"faceName":"BLR_02_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"天使蛋糕","nickname":"神秘少女","note":"<女>","profile":"擁有特別氣息的女孩，身世不明，名字也非常奇特，似乎\n對維皮情有獨鍾．．．"},
+	],"initialLevel":1,"maxLevel":99,"name":"天使蛋糕","nickname":"神秘少女","note":"<usedOnTags:[\"天使蛋糕\",\"女\"]>\n<女>","profile":"擁有特別氣息的女孩，身世不明，名字也非常奇特，似乎\n對維皮情有獨鍾．．．"},
 	{"id":3,"battlerName":"BLR_Yuter_MV_SV","characterIndex":0,"characterName":"BLR_Yuter_MV01","classId":3,"equips":[
 		152,
 		0,
@@ -23,7 +23,7 @@
 		302,
 		4
 	],"faceIndex":0,"faceName":"BLR_03_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"攸特","nickname":"資料不明","note":"<usedOnTags:[\"攸特\"]>\n<男>","profile":"精通煉金術跟各種知識的可靠旅人，興趣是考古，因為如此\n正在世界各地遊走，多年的智慧讓他常常開導身旁的人。"},
+	],"initialLevel":1,"maxLevel":99,"name":"攸特","nickname":"資料不明","note":"<usedOnTags:[\"攸特\",\"男\"]>\n<男>","profile":"精通煉金術跟各種知識的可靠旅人，興趣是考古，因為如此\n正在世界各地遊走，多年的智慧讓他常常開導身旁的人。"},
 	{"id":4,"battlerName":"SV_Helen","characterIndex":7,"characterName":"2000_Actor2","classId":4,"equips":[
 		92,
 		642,
@@ -31,7 +31,7 @@
 		303,
 		4
 	],"faceIndex":3,"faceName":"BLR_04_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\"]>\n<女>","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」"},
+	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\",\"女\"]>\n<女>","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」"},
 	{"id":5,"battlerName":"BLR_RinNaMZ_SV","characterIndex":1,"characterName":"BLR_Yuter_MV01","classId":5,"equips":[
 		122,
 		0,
@@ -39,7 +39,7 @@
 		304,
 		711
 	],"faceIndex":0,"faceName":"BLR_05_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"艾斯亞雷娜","nickname":"SM女王","note":"<女>","profile":"似乎擁有許多故事的漂亮女子，個性堅強且成熟，可以從\n她身上感覺到不平凡的歷練，正與自己的人生戰鬥中。"},
+	],"initialLevel":1,"maxLevel":99,"name":"艾斯亞雷娜","nickname":"SM女王","note":"<usedOnTags:[\"艾斯亞雷娜\",\"女\"]>\n<女>","profile":"似乎擁有許多故事的漂亮女子，個性堅強且成熟，可以從\n她身上感覺到不平凡的歷練，正與自己的人生戰鬥中。"},
 	{"id":6,"battlerName":"BLR_PinHan_MV_SV","characterIndex":3,"characterName":"BLR_Yuter_MV01","classId":11,"equips":[
 		53,
 		603,
@@ -47,7 +47,7 @@
 		373,
 		0
 	],"faceIndex":0,"faceName":"BLR_06_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"娜娜美","nickname":"品涵","note":"<女>","profile":"極度面癱的女生，對於任何狀況都板著一張臉，但還是能透\n過外型看出當下她的情緒變化，跟天使一樣有特別的氣場"},
+	],"initialLevel":1,"maxLevel":99,"name":"娜娜美","nickname":"品涵","note":"<usedOnTags:[\"娜娜美\",\"女\"]>\n<女>","profile":"極度面癱的女生，對於任何狀況都板著一張臉，但還是能透\n過外型看出當下她的情緒變化，跟天使一樣有特別的氣場"},
 	{"id":7,"battlerName":"BLR_WindRinRin_MZ_SV","characterIndex":2,"characterName":"BLR_Yuter_MV01","classId":8,"equips":[
 		155,
 		710,
@@ -55,7 +55,7 @@
 		334,
 		857
 	],"faceIndex":1,"faceName":"BLR_07_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"風鈴鈴","nickname":"穿越者","note":"<女>","profile":"王都考古團的分隊長，擁有相當程度的戰鬥能力，沒人知道\n她到底是出生於哪裡，身份是個謎，除此之外癡迷壯漢。"},
+	],"initialLevel":1,"maxLevel":99,"name":"風鈴鈴","nickname":"穿越者","note":"<usedOnTags:[\"風鈴鈴\",\"女\"]>\n<女>","profile":"王都考古團的分隊長，擁有相當程度的戰鬥能力，沒人知道\n她到底是出生於哪裡，身份是個謎，除此之外癡迷壯漢。"},
 	{"id":8,"battlerName":"SV_Rebecca","characterIndex":5,"characterName":"2000_Actor2","classId":13,"equips":[
 		182,
 		667,
@@ -63,7 +63,7 @@
 		366,
 		856
 	],"faceIndex":0,"faceName":"BLR_08_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"白色向日葵","nickname":"嚮往戀愛的少女","note":"<女>","profile":"嚮往戀愛的少女，個性開朗活潑，總是喜歡用自己星之瞳\n向人撒嬌，正在努力尋找屬於自己的白馬王子"},
+	],"initialLevel":1,"maxLevel":99,"name":"白色向日葵","nickname":"嚮往戀愛的少女","note":"<usedOnTags:[\"白色向日葵\",\"女\"]>\n<女>","profile":"嚮往戀愛的少女，個性開朗活潑，總是喜歡用自己星之瞳\n向人撒嬌，正在努力尋找屬於自己的白馬王子"},
 	{"id":9,"battlerName":"SV_Gomez","characterIndex":4,"characterName":"2000_Actor2","classId":20,"equips":[
 		0,
 		0,
@@ -79,7 +79,7 @@
 		397,
 		901
 	],"faceIndex":0,"faceName":"BLR_10_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<usedOnTags:[\"星之風\"]>\n<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。"},
+	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<usedOnTags:[\"星之風\",\"男\"]>\n<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。"},
 	{"id":11,"battlerName":"SV_Carol","characterIndex":5,"characterName":"2000_Actor1","classId":9,"equips":[
 		180,
 		620,
@@ -87,7 +87,7 @@
 		360,
 		906
 	],"faceIndex":0,"faceName":"BLR_11_01","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"如如","nickname":"暗之女","note":"<立繪if暱稱:{\"平靜少女\":\"Actor_11_2\"}>\n<女>","profile":"迷一般的少女，全身上下散發著不詳的氣息，言語透露出\n狂氣，擁有使喚魔物的能力，似乎在追尋著什麼。"},
+	],"initialLevel":1,"maxLevel":99,"name":"如如","nickname":"暗之女","note":"<立繪if暱稱:{\"平靜少女\":\"Actor_11_2\"}>\n<usedOnTags:[\"如如\",\"女\"]>\n<女>","profile":"迷一般的少女，全身上下散發著不詳的氣息，言語透露出\n狂氣，擁有使喚魔物的能力，似乎在追尋著什麼。"},
 	{"id":12,"battlerName":"真攸特1","characterIndex":0,"characterName":"真攸特","classId":7,"equips":[
 		209,
 		0,
@@ -166,15 +166,15 @@
 		411,
 		877
 	],"faceIndex":0,"faceName":"BLR_16_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"露西蛋糕","nickname":"月藍軍神","note":"","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。"},
+	],"initialLevel":1,"maxLevel":99,"name":"露西蛋糕","nickname":"月藍軍神","note":"<usedOnTags:[\"露西蛋糕\",\"女\"]>\n<女>","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。"},
 	{"id":17,"battlerName":"SV_Ardis","characterIndex":6,"characterName":"2000_Actor2","classId":14,"equips":[
-		94,
-		643,
-		63,
-		362,
+		0,
+		0,
+		0,
+		0,
 		0
 	],"faceIndex":0,"faceName":"BLR_MainNPCs","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。"},
+	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"<usedOnTags:[\"晨\",\"男\"]>\n<男>","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。"},
 	{"id":18,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":15,"equips":[
 		0,
 		0,

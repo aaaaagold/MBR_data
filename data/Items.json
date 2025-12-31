@@ -251,15 +251,16 @@
 	],"hitType":0,"iconIndex":259,"itypeId":1,"name":"人魚肉","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items100.txt>","occasion":0,"price":200,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":101,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.01 * ( Math.randomInt(60) + 10 )","type":3,"variance":0},"description":"只能對死者使用，解除\\it[1]，我方單體HP回復 10% ~ 70% ","effects":[
 	],"hitType":0,"iconIndex":1766,"itypeId":1,"name":"回春骰子","note":"<道具>\n<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items101.txt>","occasion":0,"price":100,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":102,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"10","type":3,"variance":0},"description":"不吸的話，這就是你和死神之間，最後一口氣的距離，\n我方單體HP回復10、解除5層瘴氣。","effects":[
+	{"id":102,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"500","type":3,"variance":0},"description":"不吸的話，這就是你和死神之間，最後一口氣的距離，\n我方單體HP回復500 點、解除5層瘴氣。","effects":[
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":275,"itypeId":1,"name":"急救氧氣罐","note":"<道具>\n<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items101.txt>","occasion":0,"price":2,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":103,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":103,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"b.mhp * 0.1","type":3,"variance":0},"description":"忍者們常備在身上的緊急丹藥，體積小卻富含能量。\n只能對死者使用，解除\\it[1]，我方單體HP回復 10%、MP回復50%","effects":[
+		{"code":12,"dataId":0,"value1":0.5,"value2":0}
+	],"hitType":0,"iconIndex":275,"itypeId":1,"name":"軍糧丸","note":"<道具>\n<speed:20000>\n賭場\n<道具額外文字檔:BLR_custom/detail/item/Items101.txt>","occasion":0,"price":2,"repeats":1,"scope":9,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":104,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":105,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -740,7 +741,7 @@
 		{"code":22,"dataId":15,"value1":1,"value2":0},
 		{"code":21,"dataId":6,"value1":0.1,"value2":0}
 	],"hitType":0,"iconIndex":288,"itypeId":1,"name":"腥臭的兜擋布","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items265.txt>","occasion":0,"price":300,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":266,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"趕快往鼻孔裡面插，如果你剛剛不巧吸到了一點阿忠的精華。\n我方單體HP回復 1 點，解除所有瘴氣、侵蝕。","effects":[
+	{"id":266,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"趕快往鼻孔裡面插，如果你剛剛不巧吸到了一點阿忠的精華。\n我方單體HP回復 1 點，解除所有瘴氣、猛毒、侵蝕。","effects":[
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
@@ -751,10 +752,12 @@
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
+		{"code":22,"dataId":7,"value1":1,"value2":0},
 		{"code":22,"dataId":147,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":273,"itypeId":1,"name":"薄荷噴霧","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items265.txt>","occasion":0,"price":2,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":267,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":267,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"300","type":4,"variance":0},"description":"猴子所釀的水果，味道醇厚、粘稠，帶有蜂蜜的微甜。\n我方單體MP回復 300 點，中機率獲得\\it[3]","effects":[
+		{"code":21,"dataId":3,"value1":0.4,"value2":0}
+	],"hitType":0,"iconIndex":1602,"itypeId":1,"name":"猴兒酒","note":"<道具>\n<speed:20000>\n不販售\n<道具額外文字檔:BLR_custom/detail/item/Items260.txt>","occasion":0,"price":3500,"repeats":1,"scope":7,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":268,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":269,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -782,12 +785,11 @@
 	{"id":273,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"聽說是從某個動漫作品ㄎ一ㄤ過來的...\n我方全體HP回復 1 點，解除\\it[9]","effects":[
 		{"code":22,"dataId":9,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1605,"itypeId":1,"name":"廣智的襪子","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items273.txt>","occasion":0,"price":10,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":274,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"當你開始習慣阿忠的味道，覺得「好像還行」時，為避免罹患失嗅症，\n請立刻聞聞它。我方全體解除3層瘴氣、但獲得\\it[6]、\\it[7]。","effects":[
+	{"id":274,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"當你開始習慣阿忠的味道，覺得「好像還行」時，為避免罹患失嗅症，\n請立刻聞聞它。我方全體解除3層瘴氣、混亂。","effects":[
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
 		{"code":21,"dataId":195,"value1":1,"value2":0},
-		{"code":21,"dataId":6,"value1":1,"value2":0},
-		{"code":21,"dataId":7,"value1":1,"value2":0}
+		{"code":22,"dataId":10,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":208,"itypeId":1,"name":"中藥香草包","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items273.txt>","occasion":0,"price":2,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":275,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -1019,34 +1021,37 @@
 		{"code":21,"dataId":19,"value1":0.2,"value2":0},
 		{"code":21,"dataId":71,"value1":0.35,"value2":0}
 	],"hitType":2,"iconIndex":1769,"itypeId":1,"name":"七彩菇菇鍋","note":"<道具>\n<sortingKey:300.09>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":0,"price":15000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":330,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"非常重要，用來阻隔氣味、保護自己，以及避免勾起某些人的\n心理創傷，免疫瘴氣狀態，持續5次行動。","effects":[
+	{"id":330,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":20},"description":"非常重要，用來阻隔氣味、保護自己，以及避免勾起某些人的\n心理創傷，免疫瘴氣狀態，持續5次行動，死亡時不解除。","effects":[
 		{"code":21,"dataId":198,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":151,"itypeId":1,"name":"防毒面具","note":"<道具>\n\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":1,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":331,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"能暫時讓這可怕的地獄變成人類能生存的環境，「場景結界」\n瘴氣、中毒、猛毒、侵蝕免疫，結界持續5回合。","effects":[
+	{"id":331,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":20},"description":"能暫時讓這可怕的地獄變成人類能生存的環境，「場景結界」\n能暫時阻斷忠之琳的味道，結界持續5回合。","effects":[
 		{"code":21,"dataId":194,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":207,"itypeId":1,"name":"空氣清淨機","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items329.txt>","occasion":1,"price":2,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
-	{"id":332,"animationId":592,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"2000","type":2,"variance":50},"description":"「魔法&暗屬性」甜到喉嚨發苦的餅乾，很適合丟給別人吃，\n限戰鬥中使用，給予敵方單體無視防禦的大量MP攻擊傷害。","effects":[
-	],"hitType":2,"iconIndex":1788,"itypeId":1,"name":"甜膩膩餅乾","note":"<道具>\n<speed:20000>\n絕無城-入門試煉01，第三妖精獲得\n<道具額外文字檔:BLR_custom/detail/item/Items332.txt>","occasion":1,"price":100,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":0},
+	{"id":332,"animationId":592,"consumable":true,"damage":{"critical":false,"elementId":11,"formula":"2000","type":2,"variance":50},"description":"「必定命中&暗屬性」甜到喉嚨發苦的餅乾，很適合丟給別人吃，\n限戰鬥中使用，給予敵方單體無視防禦的大量MP攻擊傷害。","effects":[
+	],"hitType":0,"iconIndex":1788,"itypeId":1,"name":"甜膩膩餅乾","note":"<道具>\n<speed:20000>\n絕無城-入門試煉01，第三妖精獲得\n<道具額外文字檔:BLR_custom/detail/item/Items332.txt>","occasion":1,"price":100,"repeats":1,"scope":1,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":333,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":334,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":335,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":336,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":337,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":338,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":339,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":340,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":341,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":342,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":334,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為武器強化的媒介，\n可以使普通武器升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"武器一級強化軸","note":"","occasion":3,"price":10000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":335,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為武器強化的媒介，\n可以使強化過的普通武器或高級武器升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"武器二級強化軸","note":"","occasion":3,"price":25000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":336,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為武器強化的媒介，\n可以使強化過的高級武器升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"武器三級強化軸","note":"","occasion":3,"price":50000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":337,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為防具強化的媒介，\n可以使普通防具升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"防具一級強化軸","note":"","occasion":3,"price":10000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":338,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為防具強化的媒介，\n可以使強化過的普通防具或高級防具升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"防具二級強化軸","note":"","occasion":3,"price":25000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":339,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"交給櫻井塚丈使用，做為防具強化的媒介，\n可以使強化過的高級防具升級。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":1,"name":"防具三級強化軸","note":"","occasion":3,"price":50000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":340,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":3,"variance":0},"description":"限戰鬥中使用，持有上限10，\n我方單體HP回復1點，『風屬性傷害提升』持續5次行動","effects":[
+		{"code":21,"dataId":451,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":225,"itypeId":1,"name":"天狗團扇","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items325.txt>","occasion":1,"price":20000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":341,"animationId":585,"consumable":true,"damage":{"critical":true,"elementId":1,"formula":"a.agi / 2 + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"「物理&斬屬性」給予敵方單體攻擊傷害，依照使用者的\n速度提升威力，有一定機率猛毒。","effects":[
+		{"code":21,"dataId":7,"value1":0.3,"value2":0}
+	],"hitType":1,"iconIndex":124,"itypeId":1,"name":"粹毒手裡劍","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":1},
+	{"id":342,"animationId":11,"consumable":true,"damage":{"critical":true,"elementId":2,"formula":"a.luk / 2 + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"「物理&斬屬性」給予敵方單體攻擊傷害，依照使用者的\n幸運提升威力，有一定機率麻痺。","effects":[
+		{"code":21,"dataId":19,"value1":0.3,"value2":0}
+	],"hitType":1,"iconIndex":96,"itypeId":1,"name":"麻痺苦無","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":2000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":1},
 	{"id":343,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":344,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1270,7 +1275,7 @@
 		{"code":42,"dataId":5,"value1":3,"value2":0},
 		{"code":42,"dataId":6,"value1":3,"value2":0},
 		{"code":42,"dataId":7,"value1":3,"value2":0}
-	],"hitType":0,"iconIndex":542,"itypeId":1,"name":"精力藥劑Ｘ","note":"<道具>\n<usedOnTags:[\"陸維皮\",\"攸特\",\"星之風\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":542,"itypeId":1,"name":"精力藥劑Ｘ","note":"<道具>\n<usedOnTags:[\"男\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":410,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"5","type":0,"variance":0},"description":"摻了大量螢光劑與大麻的麵包。\n永久能力道具，使用後幸運+10","effects":[
 		{"code":42,"dataId":7,"value1":10,"value2":0}
 	],"hitType":0,"iconIndex":70,"itypeId":1,"name":"螢光仙女甲胖","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items410.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
@@ -1289,10 +1294,16 @@
 	{"id":413,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"5","type":0,"variance":0},"description":"妖魔般毒蛇的蛇膽\n永久能力道具，使用後HP上限+2。","effects":[
 		{"code":42,"dataId":0,"value1":2,"value2":0}
 	],"hitType":0,"iconIndex":622,"itypeId":1,"name":"蛇膽","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items413.txt>\n","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":414,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":415,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":414,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"let p = [0, 1, 2, 3,4, 5, 6, 7]; let r = p[Math.floor(Math.random() * p.length)]; b.addParam(r, 2); 0","type":3,"variance":0},"description":"野猿獷雉珍藏的玉蟠桃，可口多汁，吃了能延年益壽。\n永久能力道具，使用後隨機能力+2","effects":[
+	],"hitType":0,"iconIndex":257,"itypeId":1,"name":"蟠桃","note":"<道具>\n<overflowDamage:1>\n<道具額外文字檔:BLR_custom/detail/item/Items413.txt>\n","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":415,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"「女性專用道具」超級美味的豪華蛋糕，熱量也非常驚人。\n永久能力道具，使用後全能力+10","effects":[
+		{"code":42,"dataId":2,"value1":10,"value2":0},
+		{"code":42,"dataId":3,"value1":10,"value2":0},
+		{"code":42,"dataId":4,"value1":10,"value2":0},
+		{"code":42,"dataId":5,"value1":10,"value2":0},
+		{"code":42,"dataId":6,"value1":10,"value2":0},
+		{"code":42,"dataId":7,"value1":10,"value2":0}
+	],"hitType":0,"iconIndex":1650,"itypeId":1,"name":"超美味大蛋糕","note":"<道具>\n<usedOnTags:[\"女\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":416,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":417,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -2065,11 +2076,13 @@
 	{"id":799,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":800,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":801,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":802,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"--技能書--","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":801,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"重影所贈的忍術卷軸，使用後星之風可學會『八穴齊開』。","effects":[
+		{"code":44,"dataId":255,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"忍術卷軸","note":"","occasion":2,"price":0,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	{"id":802,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"古舊的武功秘笈，使用後陸維皮可學會『空蟬探花手』。","effects":[
+		{"code":44,"dataId":254,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"手卷","note":"","occasion":2,"price":0,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
 	{"id":803,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":804,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

@@ -61057,7 +61057,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「做什麼用的？沒做什麼阿，就是這次的考核"
+				"「做什麼用的？沒做什麼啊，就是這次的考核"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"目標！」"
@@ -61076,7 +61076,7 @@
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
-				8,
+				10,
 				0,
 				2
 			]},
@@ -61084,10 +61084,10 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「嗯，當然有看到過．．．"
+				"「嗯，當然有看到過，是個圓圓軟軟的淡綠色"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"是個圓圓軟軟的淡綠色東西。」"
+				"東西。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61143,7 +61143,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個．．．重影，你拿去吧。」"
+				"「喂，重影，你拿去吧。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Equip2","volume":90,"pitch":100,"pan":0}
@@ -61193,10 +61193,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「那個什麼王之遺珍我們拿到了，"
+				"「那個什麼王之遺珍我們拿到了，但他比我"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"但重影比我更需要，所以讓給他了。」"
+				"更需要，所以讓給他了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -61208,7 +61208,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「啊？又讓給他了，這樣考驗就算失敗了喔。」"
+				"「啊？讓給他了？這樣考驗就算失敗了喔。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61232,10 +61232,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「既然沒什麼用，那送給他也沒什麼關係吧？"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"」"
+				"「既然沒什麼用，那送給他也沒什麼關係吧？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -61247,7 +61244,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然的確沒什麼用，但那是我的．．．"
+				"「雖然的確沒什麼用，但那是我的……"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"本果凍擺放的東西，哪有把本果凍的東西"
@@ -61289,7 +61286,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「小果凍君，這東西就送給我們咩～"
+				"「小果凍君，這東西就送給我們嘛～"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"反正這可愛的古代遺物對你也不重要。」"
@@ -61312,7 +61309,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「居然說本果凍的便便可愛，真．．．」\\|\\^"
+				"「居然說本果凍的便便可愛，真……」\\|\\^"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Ice4","volume":90,"pitch":100,"pan":0}
@@ -61444,7 +61441,7 @@
 				"\\N[16]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -61473,10 +61470,10 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不．．．不可能啊，陛下怎麼會指派這個"
+				"「不、不可能啊，陛下怎麼會指派這個任務"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"任務給我？」"
+				"給我？」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -61551,10 +61548,10 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「總之，什麼都沒發生，"
+				"「總之，什麼都沒發生，一切什麼事情"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"一切什麼事情都沒發生！」"
+				"都沒發生！」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -61687,7 +61684,7 @@
 				"\\N[6]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「不解．．．」"
+				"「不解……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_06_1",
@@ -61723,7 +61720,7 @@
 				"\\N[6]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「我．．．負責切切跟燒火。」"
+				"「我…負責切切跟燒火。」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Wind7","volume":90,"pitch":50,"pan":0}
@@ -61747,7 +61744,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「雖然人家不擅長料理，但也知道肉先捶打"
+				"「雖然本小姐不擅長料理，但也知道肉先捶打"
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"捶打，可以軟化肉質、增加嫩度。」"
@@ -61780,7 +61777,7 @@
 				"\\N[2]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．」"
+				"「……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_02_1",
@@ -61822,7 +61819,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「反對暴力～\\{反對暴力！～」\\|\\|\\^"
+				"「反對暴力～\\{反對暴力！」\\|\\|\\^"
 			]},
 			{"code":230,"indent":0,"parameters":[
 				60
@@ -61961,7 +61958,7 @@
 				""
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"\\TXTCENTER:\"\\C[2]報告～這個肉有點難切。\""
+				"\\TXTCENTER:\"\\C[2]報告，這個肉有點難切。\""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"　　　　　　　　　　"
@@ -62350,18 +62347,6 @@
 				"你一頓了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
-				"BLR_11_01",
-				2,
-				0,
-				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"\\N[11]"
-			]},
-			{"code":401,"indent":0,"parameters":[
-				"「這手感真好啊～。」"
-			]},
-			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
 				4,
 				0,
@@ -62407,7 +62392,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「可是．．．」"
+				"「可是……」"
 			]},
 			{"code":250,"indent":0,"parameters":[
 				{"name":"Sword6","volume":90,"pitch":100,"pan":0}
@@ -62507,7 +62492,7 @@
 				"小果凍"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「後面你們自便，本果凍要去療傷了．．．」"
+				"「後面你們自便，本果凍要去療傷了。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_JellySlime",
@@ -62784,10 +62769,10 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「記得要把這個『\\{古代遺物\\}』"
+				"「記得要把這個＂\\C[2]\\{古代遺物\\}＂\\C[0]交給"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"交給帕卡爺爺啊。」"
+				"帕卡爺爺啊。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				10,
@@ -62829,7 +62814,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「陛下他．．．不會收吧。」"
+				"「陛下他…不會收吧。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"BLR_11_01",
@@ -62841,7 +62826,7 @@
 				"\\N[11]"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「哈哈，想當然。」"
+				"「哈哈，那當然。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				-1,
@@ -63042,7 +63027,7 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「．．．．．．」"
+				"「……」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -63054,10 +63039,19 @@
 				"重影"
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"「好吧，我就不過問了，小姐，謝謝妳，"
+				"「好吧，我就不過問了，小姐。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
 			]},
 			{"code":401,"indent":0,"parameters":[
-				"希望柚曦很快就可以被放出來。」"
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「謝謝妳，希望柚曦很快就可以被放出來。」"
 			]},
 			{"code":205,"indent":0,"parameters":[
 				158,
@@ -63117,6 +63111,99 @@
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"「有機會再說吧。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「對了，這個送給你們。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				11,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「這個是……？」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「是我們忍者村裡，秘傳的忍術書。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「當年在達西村…我做了很對不起\\N[10]小朋友"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"的事情。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「雖然不知道他會不會原諒我，但這是我的"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"一點補償。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"BLR_02_1",
+				3,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"\\N[2]"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「嗯，人家會幫你帶給他的。」"
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"Recolor_Ninjas",
+				2,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"重影"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「然後請你替我提醒他，\\C[2]＂千萬不要激發超過"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"三個氣穴＂\\C[0]，不然身體會受到嚴重的傷害。」"
 			]},
 			{"code":101,"indent":0,"parameters":[
 				"Recolor_Ninjas",
@@ -63419,6 +63506,24 @@
 				120
 			]},
 			{"code":221,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				801,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\NI[801]。"
 			]},
 			{"code":201,"indent":0,"parameters":[
 				0,
@@ -76825,5 +76930,17 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":true,"trigger":0,"walkAnime":false}
-	],"x":0,"y":13}
+	],"x":0,"y":13},
+	{"id":164,"name":"儲物箱","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"fsm_trolley01","direction":2,"pattern":1,"characterIndex":6},"list":[
+			{"code":355,"indent":0,"parameters":[
+				"$gameTemp.depository_open(1);"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":66,"y":12}
 ]}
