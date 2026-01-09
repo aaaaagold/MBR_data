@@ -46,7 +46,7 @@
 		2,
 		0
 	],"price":300},
-	{"id":5,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+35，\n中幅減少冰元素傷害、免疫結冰","etypeId":3,"traits":[
+	{"id":5,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+35，中幅提升\n自身冰屬性抗性、免疫\\it[16]","etypeId":3,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":14,"dataId":16,"value":1}
 	],"iconIndex":131,"name":"狼皮帽","note":"<防具>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors5.txt>","params":[
@@ -71,7 +71,7 @@
 		0,
 		0
 	],"price":4000},
-	{"id":7,"atypeId":1,"description":"「兼用頭盔」幸運+50、速度+20，角色死亡時發動【天羽神癒\n】※天羽神癒：己方全體HP在1以上者，恢復【裝備者25%最大HP】的HP。","etypeId":3,"traits":[
+	{"id":7,"atypeId":1,"description":"「兼用頭盔」幸運+50、速度+20，角色死亡時發動【\\ns[926]】\n※\\ns[926]：己方全體HP在1以上者，恢復【裝備者25%最大HP】的HP。","etypeId":3,"traits":[
 	],"iconIndex":297,"name":"天使羽毛","note":"<防具>\n<死時技能:[[926,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors7.txt>\n","params":[
 		0,
 		0,
@@ -95,7 +95,7 @@
 		30,
 		30
 	],"price":10000},
-	{"id":9,"atypeId":1,"description":"「兼用頭盔」魔攻+40，戰鬥中定時發動技能【光明熱線炮】\n※光明熱線炮：隨機敵方單體光、爆裂系魔法傷害。","etypeId":3,"traits":[
+	{"id":9,"atypeId":1,"description":"「兼用頭盔」魔攻+40，戰鬥中定時發動【\\ns[423]】\n※\\ns[423]：隨機敵方單體光、爆裂屬性魔法傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":423,"value":1}
 	],"iconIndex":243,"name":"光明大法師","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors9.txt>\n","params":[
 		0,
@@ -107,7 +107,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":10,"atypeId":1,"description":"「兼用頭盔」特典專用品，感謝實況主幻影神月的支持，全能力+20，\n戰鬥中定時發動技能【制裁之劍】※制裁之劍：隨機敵方單體物理斬、光系傷害，並且TP-50","etypeId":3,"traits":[
+	{"id":10,"atypeId":1,"description":"「兼用頭盔」特典專用品，感謝實況主幻影神月的支持，全能力+20，\n戰鬥中定時發動【制裁之劍】※制裁之劍：隨機敵方單體斬、光系物理傷害，並且TP-50","etypeId":3,"traits":[
 		{"code":43,"dataId":425,"value":1}
 	],"iconIndex":1764,"name":"幻影劍環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors10.txt>\n","params":[
 		0,
@@ -119,7 +119,7 @@
 		20,
 		20
 	],"price":10000},
-	{"id":11,"atypeId":1,"description":"「兼用頭盔」HP上限+20、小幅降低自身火元素抗性","etypeId":3,"traits":[
+	{"id":11,"atypeId":1,"description":"「兼用頭盔」HP上限+20、小幅降低自身火屬性抗性","etypeId":3,"traits":[
 		{"code":11,"dataId":4,"value":1.1}
 	],"iconIndex":285,"name":"妖花頭環","note":"<防具>\nLV0\n<道具額外文字檔:BLR_custom/detail/Armors/Armors11.txt>","params":[
 		20,
@@ -131,7 +131,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":12,"atypeId":1,"description":"「兼用頭盔」最大HP+50、速度+10，\n中幅減少風元素傷害，免疫流血","etypeId":3,"traits":[
+	{"id":12,"atypeId":1,"description":"「兼用頭盔」最大HP+50、速度+10，\n中幅提升自身風屬性抗性，免疫\\it[17]","etypeId":3,"traits":[
 		{"code":14,"dataId":17,"value":1},
 		{"code":11,"dataId":7,"value":0.7}
 	],"iconIndex":297,"name":"颶風羽環","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors12.txt>\n","params":[
@@ -192,7 +192,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":17,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+40，\n中幅減少冰元素傷害、免疫結冰","etypeId":3,"traits":[
+	{"id":17,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+40，中幅提升\n自身冰屬性抗性、免疫\\it[16]","etypeId":3,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":14,"dataId":16,"value":1}
 	],"iconIndex":131,"name":"狼皮帽+1","note":"<防具>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors5.txt>","params":[
@@ -205,7 +205,7 @@
 		0,
 		0
 	],"price":8000},
-	{"id":18,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+45，\n中幅減少冰元素傷害、小幅提升冰元素傷害、免疫結冰","etypeId":3,"traits":[
+	{"id":18,"atypeId":1,"description":"「兼用頭盔」物攻、魔攻+20、防禦、魔防+45，中幅提升\n自身冰屬性抗性、小幅提升自身冰元素傷害、免疫\\it[16]","etypeId":3,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":14,"dataId":16,"value":1}
 	],"iconIndex":131,"name":"狼皮帽+2","note":"<防具>\nCp7船上/雪北村\n<屬性傷害倍率:[[6,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors5.txt>","params":[
@@ -230,7 +230,7 @@
 		0,
 		0
 	],"price":4000},
-	{"id":20,"atypeId":1,"description":"「兼用頭盔」HP上限+180、可自動恢復HP(中)，免疫\n最大生命能力弱化","etypeId":3,"traits":[
+	{"id":20,"atypeId":1,"description":"「兼用頭盔」HP上限+180、可自動恢復HP(中)，\n免疫「HP下降」。","etypeId":3,"traits":[
 		{"code":22,"dataId":7,"value":0.05},
 		{"code":12,"dataId":0,"value":0}
 	],"iconIndex":1601,"name":"OK繃+2","note":"<防具>\nCH6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors6.txt>","params":[
@@ -243,7 +243,7 @@
 		0,
 		0
 	],"price":4000},
-	{"id":21,"atypeId":1,"description":"「兼用頭盔」幸運+75、速度+25，角色死亡時發動【天羽神癒\n】※天羽神癒：己方全體HP在1以上者，恢復【裝備者25%最大HP+幸運值補正】的HP。","etypeId":3,"traits":[
+	{"id":21,"atypeId":1,"description":"「兼用頭盔」幸運+75、速度+25，角色死亡時發動【\\ns[926]】\n※\\ns[926]：己方全體HP在1以上者，恢復【裝備者25%最大HP + 裝備者幸運值補正】的HP。","etypeId":3,"traits":[
 	],"iconIndex":297,"name":"天使羽毛+1","note":"<防具>\n<死時技能:[[926,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors7.txt>\n","params":[
 		0,
 		0,
@@ -254,7 +254,7 @@
 		25,
 		75
 	],"price":10000},
-	{"id":22,"atypeId":1,"description":"「兼用頭盔」幸運+100、速度+30，角色死亡時發動【天羽神癒\n】※天羽神癒：己方全體HP在1以上者，恢復【裝備者25%最大HP+幸運值補正 + 效果對象25%最大HP】的HP。","etypeId":3,"traits":[
+	{"id":22,"atypeId":1,"description":"「兼用頭盔」幸運+100、速度+30，角色死亡時發動【\\ns[926]】\n※\\ns[926]：己方全體HP在1以上者，恢復【裝備者25%最大HP + 裝備者幸運值補正 + 對象幸運值補正】的HP。","etypeId":3,"traits":[
 	],"iconIndex":297,"name":"天使羽毛+2","note":"<防具>\n<死時技能:[[926,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors7.txt>\n","params":[
 		0,
 		0,
@@ -265,7 +265,7 @@
 		30,
 		100
 	],"price":10000},
-	{"id":23,"atypeId":1,"description":"「兼用頭盔」魔攻+70，戰鬥中定時發動更強的【光明熱線炮】\n※光明熱線炮：隨機敵方單體光、爆裂系魔法傷害。","etypeId":3,"traits":[
+	{"id":23,"atypeId":1,"description":"「兼用頭盔」魔攻+70，戰鬥中定時發動更強的【\\ns[423]】\n※\\ns[423]：隨機敵方單體光、爆裂系魔法傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":423,"value":1}
 	],"iconIndex":243,"name":"光明大法師+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors9.txt>\n","params":[
 		0,
@@ -277,7 +277,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":24,"atypeId":1,"description":"「兼用頭盔」魔攻+100，戰鬥中定時發動最強的【光明熱線炮】\n※光明熱線炮：隨機敵方單體光、爆裂系魔法傷害。","etypeId":3,"traits":[
+	{"id":24,"atypeId":1,"description":"「兼用頭盔」魔攻+100，戰鬥中定時發動最強的【\\ns[423]】\n※\\ns[423]：隨機敵方單體光、爆裂系魔法傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":423,"value":1}
 	],"iconIndex":243,"name":"光明大法師+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors9.txt>\n","params":[
 		0,
@@ -289,7 +289,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":25,"atypeId":1,"description":"「兼用頭盔」HP上限+80、小幅降低自身火元素抗性，小幅\n提升自身土屬性抗性。","etypeId":3,"traits":[
+	{"id":25,"atypeId":1,"description":"「兼用頭盔」HP上限+80、小幅降低自身火屬性抗性，\n小幅提升自身土屬性抗性。","etypeId":3,"traits":[
 		{"code":11,"dataId":4,"value":1.1},
 		{"code":11,"dataId":8,"value":0.9}
 	],"iconIndex":285,"name":"妖花頭環+1","note":"<防具>\nLV0\n<道具額外文字檔:BLR_custom/detail/Armors/Armors11.txt>","params":[
@@ -314,7 +314,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":27,"atypeId":1,"description":"「兼用頭盔」最大HP+50、速度+15，\n中幅提升風元素抗性，免疫流血，速度能力降低抗性提升","etypeId":3,"traits":[
+	{"id":27,"atypeId":1,"description":"「兼用頭盔」最大HP+50、速度+15，中幅提升自身風屬性\n抗性，免疫\\it[17]，「速度下降」抗性提升。","etypeId":3,"traits":[
 		{"code":14,"dataId":17,"value":1},
 		{"code":11,"dataId":7,"value":0.7},
 		{"code":12,"dataId":6,"value":0.5}
@@ -328,7 +328,7 @@
 		15,
 		0
 	],"price":3000},
-	{"id":28,"atypeId":1,"description":"「兼用頭盔」最大HP+80、速度+20，\n中幅提升風元素抗性，免疫流血，免疫速度能力弱化","etypeId":3,"traits":[
+	{"id":28,"atypeId":1,"description":"「兼用頭盔」最大HP+80、速度+20，中幅提升自身風屬性\n抗性，免疫\\it[17]，免疫「速度下降」。","etypeId":3,"traits":[
 		{"code":14,"dataId":17,"value":1},
 		{"code":11,"dataId":7,"value":0.7},
 		{"code":12,"dataId":6,"value":0}
@@ -584,7 +584,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":50,"atypeId":2,"description":"「法系頭盔」防禦+30、魔防+60，小幅提升自身暗屬性抗性","etypeId":3,"traits":[
+	{"id":50,"atypeId":2,"description":"「法系頭盔」防禦+30、魔防+60，小幅提升自身暗屬性抗性。","etypeId":3,"traits":[
 		{"code":11,"dataId":11,"value":0.9}
 	],"iconIndex":133,"name":"聖者帽+1","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors38.txt>","params":[
 		0,
@@ -596,7 +596,7 @@
 		0,
 		0
 	],"price":22000},
-	{"id":51,"atypeId":2,"description":"「法系頭盔」防禦+40、魔防+70，中幅提升自身暗屬性抗性70","etypeId":3,"traits":[
+	{"id":51,"atypeId":2,"description":"「法系頭盔」防禦+40、魔防+70，中幅提升自身暗屬性抗性。","etypeId":3,"traits":[
 		{"code":11,"dataId":11,"value":0.7}
 	],"iconIndex":133,"name":"聖者帽+2","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors38.txt>","params":[
 		0,
@@ -642,8 +642,9 @@
 		0,
 		0
 	],"price":50000},
-	{"id":55,"atypeId":2,"description":"「法系頭盔」防禦+50、魔防+100，TP獲得量提升(大)，\n戰鬥中定時發動【威壓】","etypeId":3,"traits":[
-		{"code":23,"dataId":5,"value":1.5}
+	{"id":55,"atypeId":2,"description":"「法系頭盔」防禦+50、魔防+100，TP獲得量提升(大)，戰鬥中定時發動【威壓】\n※威壓：敵方全體攻擊暗屬性魔法傷害，附加「全能力下降1階」持續1次行動。","etypeId":3,"traits":[
+		{"code":23,"dataId":5,"value":1.5},
+		{"code":43,"dataId":430,"value":1}
 	],"iconIndex":133,"name":"龍鱗法帽+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors44.txt>","params":[
 		0,
 		0,
@@ -999,8 +1000,9 @@
 		0,
 		0
 	],"price":50000},
-	{"id":85,"atypeId":3,"description":"「輕甲頭盔」防禦、魔防+75，TP獲得量提升(大)，\n戰鬥中定時發動【威壓】","etypeId":3,"traits":[
-		{"code":23,"dataId":5,"value":1.5}
+	{"id":85,"atypeId":3,"description":"「輕甲頭盔」防禦、魔防+75，TP獲得量提升(大)，戰鬥中定時發動【威壓】\n※威壓：敵方全體攻擊暗屬性魔法傷害，附加「全能力下降1階」持續1次行動。","etypeId":3,"traits":[
+		{"code":23,"dataId":5,"value":1.5},
+		{"code":43,"dataId":430,"value":1}
 	],"iconIndex":131,"name":"龍鱗皮盔+2","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors74.txt>","params":[
 		0,
 		0,
@@ -1023,8 +1025,9 @@
 		0,
 		0
 	],"price":25000},
-	{"id":87,"atypeId":3,"description":"「輕甲頭盔」攻擊、防禦+50，可自動恢復TP (中)，\n戰鬥中定時發動【熱血】。","etypeId":3,"traits":[
-		{"code":22,"dataId":9,"value":0.05}
+	{"id":87,"atypeId":3,"description":"「輕甲頭盔」攻擊、防禦+50，可自動恢復TP (中)，戰鬥中定時發動【熱血】\n※熱血：「物攻上升2階」持續9次行動。","etypeId":3,"traits":[
+		{"code":22,"dataId":9,"value":0.05},
+		{"code":43,"dataId":431,"value":1}
 	],"iconIndex":150,"name":"荒野頭巾+2","note":"<防具>\n荒地\n<道具額外文字檔:BLR_custom/detail/Armors/Armors76.txt>","params":[
 		0,
 		0,
@@ -1328,6 +1331,7 @@
 		0
 	],"price":2500},
 	{"id":113,"atypeId":4,"description":"「重甲頭盔」防禦、魔防+65，速度-20，\n戰鬥中定時發動【防禦】。","etypeId":3,"traits":[
+		{"code":43,"dataId":432,"value":1}
 	],"iconIndex":132,"name":"慎盔+2","note":"<防具>\nCp4鄉南村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors100.txt>","params":[
 		0,
 		0,
@@ -1350,8 +1354,9 @@
 		-10,
 		0
 	],"price":50000},
-	{"id":115,"atypeId":4,"description":"「重甲頭盔」防禦+100、魔防+65，速度-10，\nTP獲得量提升(大)，戰鬥中定時發動【威壓】。","etypeId":3,"traits":[
-		{"code":23,"dataId":5,"value":1.5}
+	{"id":115,"atypeId":4,"description":"「重甲頭盔」防禦+100、魔防+65，速度-10，戰鬥中定時發動【威壓】\n※威壓：敵方全體攻擊暗屬性魔法傷害，附加「全能力下降1階」持續1次行動。","etypeId":3,"traits":[
+		{"code":23,"dataId":5,"value":1.5},
+		{"code":43,"dataId":430,"value":1}
 	],"iconIndex":132,"name":"龍鱗鋼盔+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors104.txt>","params":[
 		0,
 		0,
@@ -1446,7 +1451,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":123,"atypeId":32,"description":"「男用頭盔」全能力+10，戰鬥中定時發動技能【萬靈藥】\n※萬靈藥：配戴者解除全狀態異常。","etypeId":3,"traits":[
+	{"id":123,"atypeId":32,"description":"「男用頭盔」全能力+10，戰鬥中定時發動【萬靈藥】\n※萬靈藥：裝備者解除全狀態異常。","etypeId":3,"traits":[
 		{"code":43,"dataId":419,"value":1}
 	],"iconIndex":178,"name":"戴頭上的萬靈藥","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>","params":[
 		0,
@@ -1458,7 +1463,7 @@
 		10,
 		10
 	],"price":30000},
-	{"id":124,"atypeId":32,"description":"「男用頭盔」物攻、幸運+30，戰鬥中定時發動技能【明王拳】\n※明王拳：隨機敵方單體物理火系傷害，機率附加著火。","etypeId":3,"traits":[
+	{"id":124,"atypeId":32,"description":"「男用頭盔」物攻、幸運+30，戰鬥中定時發動【明王拳】\n※明王拳：隨機敵方單體火屬性物理傷害，機率附加著火。","etypeId":3,"traits":[
 		{"code":43,"dataId":421,"value":1}
 	],"iconIndex":151,"name":"明王憤怒","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors124.txt>","params":[
 		0,
@@ -1481,7 +1486,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":126,"atypeId":32,"description":"「男用頭盔」物攻+50、防禦、魔防-20，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":126,"atypeId":32,"description":"「男用頭盔」物攻+50、防禦、魔防-20，中幅提高自身\n雷屬性抗性，免疫\\it[19]","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":293,"name":"青鬼之角","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors126.txt>","params":[
@@ -1494,7 +1499,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":127,"atypeId":32,"description":"「男用頭盔」最大HP、MP+50，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":127,"atypeId":32,"description":"「男用頭盔」最大HP、MP+50，中幅提高自身雷屬性抗性，\n免疫\\it[19]","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":292,"name":"赤鬼之角","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors127.txt>","params":[
@@ -1507,7 +1512,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":128,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+15，\n中幅減少火元素傷害，免疫著火、燃燒","etypeId":3,"traits":[
+	{"id":128,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+15，中幅提高自身火屬性\n抗性，免疫\\it[12]、\\it[14]","etypeId":3,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1},
 		{"code":11,"dataId":4,"value":0.7}
@@ -1605,9 +1610,9 @@
 		0,
 		0
 	],"price":1000},
-	{"id":136,"atypeId":32,"description":"「男用頭盔」防禦、魔防+40，戰鬥中定時發動【極凍息吹】\n※極凍息吹：敵方全體傷害，機率附加結冰，速度降低1層。","etypeId":3,"traits":[
-		{"code":43,"dataId":427,"value":1}
-	],"iconIndex":982,"name":"@寒霜之巔+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors122.txt>","params":[
+	{"id":136,"atypeId":32,"description":"「男用頭盔」防禦、魔防+40，戰鬥中定時發動【極凍息吹】\n※極凍息吹：敵方全體傷害，附加結冰，「速度下降1階」持續3次行動","etypeId":3,"traits":[
+		{"code":43,"dataId":433,"value":1}
+	],"iconIndex":982,"name":"寒霜之巔+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors122.txt>","params":[
 		0,
 		0,
 		0,
@@ -1629,9 +1634,9 @@
 		12,
 		12
 	],"price":30000},
-	{"id":138,"atypeId":32,"description":"「男用頭盔」全能力+15，戰鬥中定時發動技能【萬靈補藥】\n※萬靈補藥：隨機兩人解除全狀態異常。","etypeId":3,"traits":[
-		{"code":43,"dataId":419,"value":1}
-	],"iconIndex":178,"name":"@戴頭上的萬靈藥+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>","params":[
+	{"id":138,"atypeId":32,"description":"「男用頭盔」全能力+15，戰鬥中定時發動技能【\\it[71]補藥】\n※\\it[71]補藥：裝備者解除全異常狀態並附加「\\it[71]」。","etypeId":3,"traits":[
+		{"code":43,"dataId":971,"value":1}
+	],"iconIndex":178,"name":"戴頭上的萬靈藥+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors123.txt>","params":[
 		0,
 		0,
 		15,
@@ -1653,9 +1658,9 @@
 		0,
 		40
 	],"price":1000},
-	{"id":140,"atypeId":32,"description":"「男用頭盔」物攻、幸運+50，戰鬥中定時發動技能【不動明王拳】\n※不動明王拳：隨機敵方單體物理火、光系傷害，附加燃燒，此技能爆擊率較高。","etypeId":3,"traits":[
-		{"code":43,"dataId":421,"value":1}
-	],"iconIndex":151,"name":"@明王憤怒+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors124.txt>","params":[
+	{"id":140,"atypeId":32,"description":"「男用頭盔」物攻、幸運+50，戰鬥中定時發動技能【不動明王拳】\n※不動明王拳：隨機敵方單體火、光屬性物理傷害，附加燃燒，此技能爆擊率較高。","etypeId":3,"traits":[
+		{"code":43,"dataId":972,"value":1}
+	],"iconIndex":151,"name":"明王憤怒+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors124.txt>","params":[
 		0,
 		0,
 		50,
@@ -1676,8 +1681,8 @@
 		0,
 		0
 	],"price":10000},
-	{"id":142,"atypeId":32,"description":"「男用頭盔」物攻、魔攻+50，角色死亡時發動【惡魔詛咒】\n※惡魔詛咒：敵方全體「攻擊、魔攻下降3階」持續3次行動。","etypeId":3,"traits":[
-	],"iconIndex":1648,"name":"山羊角飾+2","note":"<防具>\n<死時技能:[[924,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors125.txt>","params":[
+	{"id":142,"atypeId":32,"description":"「男用頭盔」物攻、魔攻+50，角色死亡時發動【邪魔詛咒】\n※邪魔詛咒：敵方全體「攻擊、魔攻下降3階」持續3次行動。","etypeId":3,"traits":[
+	],"iconIndex":1648,"name":"山羊角飾+2","note":"<防具>\n<死時技能:[[927,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors125.txt>","params":[
 		0,
 		0,
 		50,
@@ -1687,7 +1692,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":143,"atypeId":32,"description":"「男用頭盔」物攻+75、防禦、魔防-15，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":143,"atypeId":32,"description":"「男用頭盔」物攻+75、防禦、魔防-15，中幅提高自身\n雷屬性抗性，免疫\\it[19]。","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":293,"name":"青鬼之角+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors126.txt>","params":[
@@ -1700,7 +1705,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":144,"atypeId":32,"description":"「男用頭盔」物攻+100、防禦、魔防-10，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":144,"atypeId":32,"description":"「男用頭盔」物攻+100、防禦、魔防-10，中幅提高自身\n雷屬性抗性，免疫\\it[19]。","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":293,"name":"青鬼之角+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors126.txt>","params":[
@@ -1713,7 +1718,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":145,"atypeId":32,"description":"「男用頭盔」最大HP、MP+75，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":145,"atypeId":32,"description":"「男用頭盔」最大HP、MP+75，中幅提高自身雷屬性抗性，\n免疫\\it[19]。","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":292,"name":"赤鬼之角+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors127.txt>","params":[
@@ -1726,7 +1731,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":146,"atypeId":32,"description":"「男用頭盔」最大HP、MP+100，\n中幅減少雷元素傷害，免疫麻痺","etypeId":3,"traits":[
+	{"id":146,"atypeId":32,"description":"「男用頭盔」最大HP、MP+100，中幅提高自身雷屬性抗性，\n免疫\\it[19]。","etypeId":3,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.7}
 	],"iconIndex":292,"name":"赤鬼之角+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors127.txt>","params":[
@@ -1739,7 +1744,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":147,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+25，\n中幅減少火元素傷害，免疫著火、燃燒","etypeId":3,"traits":[
+	{"id":147,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+25，中幅提高自身火屬性\n抗性，免疫\\it[12]、\\it[14]","etypeId":3,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1},
 		{"code":11,"dataId":4,"value":0.7}
@@ -1753,7 +1758,7 @@
 		0,
 		25
 	],"price":3000},
-	{"id":148,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+40\n中幅減少火元素傷害，免疫著火、燃燒","etypeId":3,"traits":[
+	{"id":148,"atypeId":32,"description":"「男用頭盔」防禦、魔防、幸運+40，中幅提高自身火屬性\n抗性，免疫\\it[12]、\\it[14]","etypeId":3,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1},
 		{"code":11,"dataId":4,"value":0.7}
@@ -1803,7 +1808,7 @@
 		0,
 		0
 	],"price":300},
-	{"id":152,"atypeId":33,"description":"「女用頭盔」防禦、魔防、速度+30，迴避+10%，\n免疫著火、潮濕、結冰","etypeId":3,"traits":[
+	{"id":152,"atypeId":33,"description":"「女用頭盔」防禦、魔防、速度+30，迴避+10%，\n免疫\\it[12]、\\it[15]、\\it[16]","etypeId":3,"traits":[
 		{"code":22,"dataId":1,"value":0.1},
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":15,"value":1},
@@ -1819,7 +1824,7 @@
 		30,
 		0
 	],"price":0},
-	{"id":153,"atypeId":33,"description":"「女用頭盔」防禦、魔防、速度+30，迴避+10%，\n免疫著火、潮濕、結冰","etypeId":3,"traits":[
+	{"id":153,"atypeId":33,"description":"「女用頭盔」防禦、魔防、速度+30，迴避+10%，\n免疫\\it[12]、\\it[15]、\\it[16]","etypeId":3,"traits":[
 		{"code":22,"dataId":1,"value":0.1},
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":15,"value":1},
@@ -1857,7 +1862,7 @@
 		0,
 		80
 	],"price":6000},
-	{"id":156,"atypeId":33,"description":"「女用頭盔」HP上限+50、免疫混亂，\n小幅降低自身火元素抗性","etypeId":3,"traits":[
+	{"id":156,"atypeId":33,"description":"「女用頭盔」HP上限+50、免疫\\it[10]，小幅降低自身火屬性\n抗性","etypeId":3,"traits":[
 		{"code":11,"dataId":4,"value":1.1},
 		{"code":14,"dataId":10,"value":1}
 	],"iconIndex":284,"name":"妖花玫瑰","note":"<防具>\nLV0\n<道具額外文字檔:BLR_custom/detail/Armors/Armors156.txt>","params":[
@@ -1870,7 +1875,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":157,"atypeId":33,"description":"「女用頭盔」最大HP+50，\n中幅減少冰、土元素傷害，免疫結冰、石化。","etypeId":3,"traits":[
+	{"id":157,"atypeId":33,"description":"「女用頭盔」最大HP+50，中幅提高自身冰、土屬性抗性，\n免疫\\it[16]、\\it[18]。","etypeId":3,"traits":[
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":11,"dataId":8,"value":0.7},
@@ -1896,7 +1901,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":159,"atypeId":33,"description":"「女用頭盔」魔攻、速度+30，戰鬥中定時發動技能【連鎖\n旋風】※連鎖旋風：隨機敵方單體共二次魔法風系傷害。","etypeId":3,"traits":[
+	{"id":159,"atypeId":33,"description":"「女用頭盔」魔攻、速度+30，戰鬥中定時發動【連鎖旋風】\n※連鎖旋風：隨機敵方單體共二次風屬性魔法傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":428,"value":1}
 	],"iconIndex":277,"name":"草支擺","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors159.txt>","params":[
 		0,
@@ -1908,18 +1913,7 @@
 		30,
 		0
 	],"price":1000},
-	{"id":160,"atypeId":33,"description":"「女用頭盔」魔攻+30、魔防，角色死亡時發動【天使賜福】\n※天使賜福：我方全體「全能力上升1階」持續9次行動。","etypeId":3,"traits":[
-	],"iconIndex":146,"name":"神聖頭鍊","note":"<死時技能:[[926,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
-		0,
-		0,
-		30,
-		0,
-		30,
-		0,
-		0,
-		0
-	],"price":0},
-	{"id":161,"atypeId":0,"description":"","etypeId":2,"traits":[
+	{"id":160,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
 		0,
@@ -1931,6 +1925,17 @@
 		0,
 		0
 	],"price":0},
+	{"id":161,"atypeId":33,"description":"「女用頭盔」防禦+3、幸運+6","etypeId":3,"traits":[
+	],"iconIndex":150,"name":"馬大嬸的三角巾","note":"<maxStack:1>","params":[
+		0,
+		0,
+		0,
+		3,
+		0,
+		0,
+		0,
+		6
+	],"price":1000},
 	{"id":162,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -1943,7 +1948,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":163,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+30，戰鬥中定時發動【海妖\n歌曲】※海妖歌曲：敵方全體機率附加睡眠、混亂。","etypeId":3,"traits":[
+	{"id":163,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+30，戰鬥中定時發動【海妖歌曲】\n※海妖歌曲：敵方全體機率附加睡眠、混亂。","etypeId":3,"traits":[
 		{"code":43,"dataId":422,"value":1}
 	],"iconIndex":157,"name":"海妖歌謠","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors163.txt>","params":[
 		0,
@@ -2075,7 +2080,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":174,"atypeId":33,"description":"「女用頭盔」HP上限+120、免疫混亂，幸運能力弱化","etypeId":3,"traits":[
+	{"id":174,"atypeId":33,"description":"「女用頭盔」HP上限+120、免疫混亂，「幸運下降」","etypeId":3,"traits":[
 		{"code":14,"dataId":10,"value":1},
 		{"code":12,"dataId":7,"value":0}
 	],"iconIndex":284,"name":"妖花玫瑰+2","note":"<防具>\nLV0\n<道具額外文字檔:BLR_custom/detail/Armors/Armors156.txt>","params":[
@@ -2088,7 +2093,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":175,"atypeId":33,"description":"「女用頭盔」最大HP+100，\n中幅減少冰、土元素傷害，免疫結冰、石化。","etypeId":3,"traits":[
+	{"id":175,"atypeId":33,"description":"「女用頭盔」最大HP+100，中幅提高自身冰、土屬性抗性，\n免疫\\it[16]、\\it[18]。","etypeId":3,"traits":[
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":11,"dataId":8,"value":0.7},
@@ -2103,7 +2108,7 @@
 		0,
 		0
 	],"price":5000},
-	{"id":176,"atypeId":33,"description":"「女用頭盔」最大HP+150，\n中幅減少冰、土元素傷害，免疫結冰、石化。","etypeId":3,"traits":[
+	{"id":176,"atypeId":33,"description":"「女用頭盔」最大HP+150，中幅提高自身冰、土屬性抗性，\n免疫\\it[16]、\\it[18]。","etypeId":3,"traits":[
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":11,"dataId":8,"value":0.7},
@@ -2129,8 +2134,8 @@
 		0,
 		0
 	],"price":10000},
-	{"id":178,"atypeId":33,"description":"「女用頭盔」攻擊、魔攻+50，角色死亡時發動【神光束縛】\n※神光束縛：敵方全體「速度下降5階」持續3次行動。","etypeId":3,"traits":[
-	],"iconIndex":184,"name":"@聖少女百合+2","note":"<防具>\n<死時技能:[[925,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
+	{"id":178,"atypeId":33,"description":"「女用頭盔」攻擊、魔攻+50，角色死亡時發動【神光束縛】\n※神光束縛：敵方全體「速度下降3階」持續3次行動。","etypeId":3,"traits":[
+	],"iconIndex":184,"name":"聖少女百合+2","note":"<防具>\n<死時技能:[[928,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
 		0,
 		0,
 		50,
@@ -2140,7 +2145,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":179,"atypeId":33,"description":"「女用頭盔」魔攻、速度+35，戰鬥中定時發動技能【連鎖\n旋風】※連鎖旋風：隨機敵方單體共二次魔法風系傷害。","etypeId":3,"traits":[
+	{"id":179,"atypeId":33,"description":"「女用頭盔」魔攻、速度+35，戰鬥中定時發動更強的【連鎖旋風】\n※連鎖旋風：隨機敵方單體共二次魔法風系傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":428,"value":1}
 	],"iconIndex":277,"name":"草支擺+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors159.txt>","params":[
 		0,
@@ -2152,7 +2157,7 @@
 		35,
 		0
 	],"price":1000},
-	{"id":180,"atypeId":33,"description":"「女用頭盔」魔攻、速度+40，戰鬥中定時發動技能【連鎖\n旋風‧改】※連鎖旋風‧改：敵方隨機兩人共兩次魔法風系傷害。","etypeId":3,"traits":[
+	{"id":180,"atypeId":33,"description":"「女用頭盔」魔攻、速度+40，戰鬥中定時發動最強的【連鎖旋風】\n※連鎖旋風：隨機敵方單體兩次魔法風系傷害。","etypeId":3,"traits":[
 		{"code":43,"dataId":428,"value":1}
 	],"iconIndex":277,"name":"草支擺+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors159.txt>","params":[
 		0,
@@ -2164,7 +2169,7 @@
 		40,
 		0
 	],"price":1000},
-	{"id":181,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+35，戰鬥中定時發動【海妖\n歌曲】※海妖歌曲：敵方全體機率附加睡眠、混亂。","etypeId":3,"traits":[
+	{"id":181,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+35，戰鬥中定時發動更強的【海妖歌曲】\n※海妖歌曲：敵方全體水屬性MP魔法傷害，敵方全體機率附加睡眠、混亂。","etypeId":3,"traits":[
 		{"code":43,"dataId":422,"value":1}
 	],"iconIndex":157,"name":"海妖歌謠+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors163.txt>","params":[
 		0,
@@ -2176,7 +2181,7 @@
 		0,
 		35
 	],"price":1000},
-	{"id":182,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+35，戰鬥中定時發動【海妖\n歌謠】※海妖歌謠：敵方全體機率附加睡眠、混亂、攻擊、魔攻降低一階。","etypeId":3,"traits":[
+	{"id":182,"atypeId":33,"description":"「女用頭盔」防禦、魔防、幸運+35，戰鬥中定時發動最強的【海妖歌曲】\n※海妖歌曲：敵方全體水屬性MP魔法傷害，機率附加睡眠、混亂。","etypeId":3,"traits":[
 		{"code":43,"dataId":422,"value":1}
 	],"iconIndex":157,"name":"海妖歌謠+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors163.txt>","params":[
 		0,
@@ -2188,30 +2193,29 @@
 		0,
 		35
 	],"price":1000},
-	{"id":183,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":183,"atypeId":33,"description":"「女用頭盔」防禦+30、幸運+60","etypeId":3,"traits":[
+	],"iconIndex":150,"name":"馬大嬸的三角巾+1","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
+		30,
 		0,
 		0,
 		0,
-		0,
-		0
-	],"price":0},
-	{"id":184,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
+		60
+	],"price":1000},
+	{"id":184,"atypeId":33,"description":"「女用頭盔」防禦+60、幸運+120，戰鬥中定時發動【清潔溜溜】\n※清潔溜溜，解除自身「能力弱化」並賦予「\\it[381]」※\\it[381]：免疫「能力弱化」持續3次行動。","etypeId":3,"traits":[
+		{"code":43,"dataId":969,"value":1}
+	],"iconIndex":150,"name":"馬大嬸的三角巾+2","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
+		60,
 		0,
 		0,
 		0,
-		0
-	],"price":0},
+		120
+	],"price":1000},
 	{"id":185,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -3649,7 +3653,7 @@
 		0,
 		0
 	],"price":50},
-	{"id":305,"atypeId":33,"description":"「女用衣服」防禦、魔防+30，戰鬥開始時獲得『和符』。\n※和符：減少30點攻擊傷害，發動時-5MP","etypeId":4,"traits":[
+	{"id":305,"atypeId":33,"description":"「女用衣服」防禦、魔防+30，戰鬥開始時獲得「和符」。\n※和符：減少30點攻擊傷害，發動時-5MP","etypeId":4,"traits":[
 	],"iconIndex":138,"name":"和服","note":"<防具>\n<開場狀態:[[125,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors305.txt>","params":[
 		0,
 		0,
@@ -3660,7 +3664,7 @@
 		0,
 		0
 	],"price":50},
-	{"id":306,"atypeId":11,"description":"「兼用衣服」魔迴+25%，被攻擊機率-50%","etypeId":4,"traits":[
+	{"id":306,"atypeId":11,"description":"「兼用衣服」魔迴+25%，被攻擊機率x50%","etypeId":4,"traits":[
 		{"code":22,"dataId":4,"value":0.25},
 		{"code":23,"dataId":0,"value":0.5}
 	],"iconIndex":82,"name":"光學迷彩","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors306.txt>","params":[
@@ -3673,18 +3677,17 @@
 		0,
 		0
 	],"price":50},
-	{"id":307,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":307,"atypeId":34,"description":"「女用衣服」防禦力+5","etypeId":4,"traits":[
+	],"iconIndex":154,"name":"馬大嬸的圍裙","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
-		0,
+		5,
 		0,
 		0,
 		0,
 		0
-	],"price":0},
+	],"price":50},
 	{"id":308,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -3803,8 +3806,8 @@
 		33,
 		44
 	],"price":50},
-	{"id":318,"atypeId":33,"description":"「女用衣服」防禦、魔防+80，戰鬥開始時獲得『荒符』。\n※荒符：減少40點攻擊傷害，發動時-10MP","etypeId":4,"traits":[
-	],"iconIndex":138,"name":"@和服+1","note":"<防具>\n<開場狀態:[[125,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors305.txt>","params":[
+	{"id":318,"atypeId":33,"description":"「女用衣服」防禦、魔防+80，戰鬥開始時獲得「荒符」。\n※荒符：減少40點攻擊傷害，發動時-10MP","etypeId":4,"traits":[
+	],"iconIndex":138,"name":"和服+1","note":"<防具>\n<開場狀態:[[483,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors305.txt>","params":[
 		0,
 		0,
 		0,
@@ -3814,8 +3817,8 @@
 		0,
 		0
 	],"price":50},
-	{"id":319,"atypeId":33,"description":"「女用衣服」防禦、魔防+125，戰鬥開始時獲得『幸符』。\n※幸符：減少50點攻擊傷害，發動時-15MP","etypeId":4,"traits":[
-	],"iconIndex":138,"name":"@和服+2","note":"<防具>\n<開場狀態:[[125,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors305.txt>","params":[
+	{"id":319,"atypeId":33,"description":"「女用衣服」防禦、魔防+125，戰鬥開始時獲得『幸符』。\n※幸符：減少50點攻擊傷害，發動時-20MP","etypeId":4,"traits":[
+	],"iconIndex":138,"name":"和服+2","note":"<防具>\n<開場狀態:[[484,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors305.txt>","params":[
 		0,
 		0,
 		0,
@@ -3825,7 +3828,7 @@
 		0,
 		0
 	],"price":50},
-	{"id":320,"atypeId":11,"description":"「兼用衣服」魔迴+35%，被攻擊機率-75%，抗暴率+25%","etypeId":4,"traits":[
+	{"id":320,"atypeId":11,"description":"「兼用衣服」魔迴+35%，被攻擊機率x25%，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":4,"value":0.35},
 		{"code":23,"dataId":0,"value":0.25},
 		{"code":22,"dataId":3,"value":0.25}
@@ -3839,7 +3842,7 @@
 		0,
 		0
 	],"price":50},
-	{"id":321,"atypeId":11,"description":"「兼用衣服」魔迴+50%，被攻擊機率-100%，抗暴率+50%","etypeId":4,"traits":[
+	{"id":321,"atypeId":11,"description":"「兼用衣服」魔迴+50%，被攻擊機率x0%，抗暴率+50%","etypeId":4,"traits":[
 		{"code":22,"dataId":4,"value":0.5},
 		{"code":23,"dataId":0,"value":0},
 		{"code":22,"dataId":3,"value":0.5}
@@ -3853,30 +3856,40 @@
 		0,
 		0
 	],"price":50},
-	{"id":322,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":322,"atypeId":34,"description":"「女用衣服」防禦力+5、最終全能力額外提升5%","etypeId":4,"traits":[
+		{"code":21,"dataId":2,"value":1.05},
+		{"code":21,"dataId":3,"value":1.05},
+		{"code":21,"dataId":4,"value":1.05},
+		{"code":21,"dataId":5,"value":1.05},
+		{"code":21,"dataId":6,"value":1.05},
+		{"code":21,"dataId":7,"value":1.05}
+	],"iconIndex":154,"name":"馬大嬸的圍裙+1","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0},
-	{"id":323,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
-		0,
-		0,
-		0,
+		5,
 		0,
 		0,
 		0,
 		0
-	],"price":0},
+	],"price":50},
+	{"id":323,"atypeId":34,"description":"「女用衣服」防禦力+5、最終全能力額外提升10%","etypeId":4,"traits":[
+		{"code":21,"dataId":2,"value":1.1},
+		{"code":21,"dataId":3,"value":1.1},
+		{"code":21,"dataId":4,"value":1.1},
+		{"code":21,"dataId":5,"value":1.1},
+		{"code":21,"dataId":6,"value":1.1},
+		{"code":21,"dataId":7,"value":1.1}
+	],"iconIndex":154,"name":"馬大嬸的圍裙+2","note":"<maxStack:1>","params":[
+		0,
+		0,
+		0,
+		5,
+		0,
+		0,
+		0,
+		0
+	],"price":50},
 	{"id":324,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -4134,7 +4147,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":346,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+60、魔防+140，抗爆率+25%","etypeId":4,"traits":[
+	{"id":346,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+60、魔防+140，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":139,"name":"龍鱗袍【法鎮】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
 		0,
@@ -4146,7 +4159,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":347,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+140、幸運+50，抗爆率+25%","etypeId":4,"traits":[
+	{"id":347,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+140、幸運+50，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":139,"name":"龍鱗袍【天幸】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
 		0,
@@ -4159,7 +4172,6 @@
 		50
 	],"price":75000},
 	{"id":348,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
 		0,
 		0,
@@ -4170,7 +4182,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":349,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+100，迴避、魔迴+10%，戰鬥開始獲得『白虎迅』\n※白虎迅：速度*2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
+	{"id":349,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+100，迴避、魔迴+10%，戰鬥開始獲得「白虎迅」\n※白虎迅：速度x2.5倍，隨著回合速度逐漸下降，6回合後失效。","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.1},
 		{"code":22,"dataId":4,"value":0.1}
 	],"iconIndex":139,"name":"白虎聖袍","note":"<防具>\n<開場狀態:[[284,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors349.txt>","params":[
@@ -4183,7 +4195,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":350,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+120，戰鬥開始時獲得『玄武盾』\n※玄武盾：物理/魔法傷害-20%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
+	{"id":350,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+120，戰鬥開始時獲得「玄武盾」\n※玄武盾：物理或魔法傷害x80%，每次被攻擊時切換為另一種","etypeId":4,"traits":[
 	],"iconIndex":139,"name":"玄武聖袍","note":"<防具>\n<開場狀態:[[282,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors350.txt>","params":[
 		0,
 		0,
@@ -4194,8 +4206,8 @@
 		0,
 		0
 	],"price":0},
-	{"id":351,"atypeId":12,"description":"「法系衣服」防禦+40、魔防+60，裝備後使用恢復道具、\n復活道具，可爆擊，套用使用角色的爆擊率計算。","etypeId":4,"traits":[
-	],"iconIndex":139,"name":"魔藥法袍","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,3],[0,4],[0,5],[0,6] ]>","params":[
+	{"id":351,"atypeId":12,"description":"「法系衣服」防禦+40、魔防+60，使用恢復道具、復活道具，\n可暴擊，套用使用角色的暴擊率計算。","etypeId":4,"traits":[
+	],"iconIndex":139,"name":"魔藥法袍","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,2],[0,3]]>","params":[
 		0,
 		0,
 		0,
@@ -4205,7 +4217,7 @@
 		0,
 		0
 	],"price":5000},
-	{"id":352,"atypeId":12,"description":"「法系衣服」防禦、魔防+50，小幅增加斬、突、鈍、光元素\n抗性，中幅降低自身火、冰、暗元素抗性","etypeId":4,"traits":[
+	{"id":352,"atypeId":12,"description":"「法系衣服」防禦、魔防+50，小幅增加斬、突、鈍、光屬性\n抗性，中幅降低自身火、冰、暗屬性抗性。","etypeId":4,"traits":[
 		{"code":11,"dataId":1,"value":0.9},
 		{"code":11,"dataId":2,"value":0.9},
 		{"code":11,"dataId":3,"value":0.9},
@@ -4224,7 +4236,7 @@
 		0
 	],"price":14000},
 	{"id":353,"atypeId":12,"description":"「法系衣服」魔攻+50、魔防+80，使用技能時減少詠唱時間。","etypeId":4,"traits":[
-	],"iconIndex":139,"name":"賢哲法袍","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors340.txt>","params":[
+	],"iconIndex":139,"name":"@賢哲法袍","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors340.txt>","params":[
 		0,
 		0,
 		0,
@@ -4450,7 +4462,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":372,"atypeId":13,"description":"「輕甲衣服」魔防+100，免疫即死、混亂、沉默，\n中幅降低自身火、冰元素抗性","etypeId":4,"traits":[
+	{"id":372,"atypeId":13,"description":"「輕甲衣服」魔防+100，免疫即死、混亂、沉默，\n中幅降低自身火、冰屬性抗性","etypeId":4,"traits":[
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":10,"value":1},
 		{"code":14,"dataId":11,"value":1},
@@ -4480,7 +4492,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":374,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+90、迴避+15%，抗爆率+25%","etypeId":4,"traits":[
+	{"id":374,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+90、迴避+15%，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":136,"name":"龍鱗環甲【殘影】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors374.txt>","params":[
@@ -4493,7 +4505,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":375,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100、速度+30，抗爆率+25%","etypeId":4,"traits":[
+	{"id":375,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100、速度+30，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":136,"name":"龍鱗環甲【神影】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors374.txt>","params":[
 		0,
@@ -4517,7 +4529,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":377,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100，可自動恢復HP(中)\n受到攻擊時給予敵人『聖焰、著火』狀態。","etypeId":4,"traits":[
+	{"id":377,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100，可自動恢復HP(中)\n受到攻擊時給予敵人著火、聖焰狀態。","etypeId":4,"traits":[
 		{"code":22,"dataId":7,"value":0.05}
 	],"iconIndex":136,"name":"朱雀環甲","note":"<防具>\n<反擊上狀態:[12,13]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors377.txt>","params":[
 		0,
@@ -4701,7 +4713,7 @@
 		0,
 		0
 	],"price":300},
-	{"id":392,"atypeId":14,"description":"「重甲衣服」防禦+24、魔防+7、速度-1，HP上限+5","etypeId":4,"traits":[
+	{"id":392,"atypeId":14,"description":"「重甲衣服」防禦+24、魔防+7、HP上限+5、速度-1","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"鎧甲","note":"<防具>\nCp2卡姆城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors392.txt>","params":[
 		5,
@@ -4713,7 +4725,7 @@
 		-1,
 		0
 	],"price":450},
-	{"id":393,"atypeId":14,"description":"「重甲衣服」防禦+42、魔防+10、速度-2，HP上限+10","etypeId":4,"traits":[
+	{"id":393,"atypeId":14,"description":"「重甲衣服」防禦+42、魔防+10、HP上限+10、速度-2","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"青銅鎧甲","note":"<防具>\nCp3泉晨鎮\n<道具額外文字檔:BLR_custom/detail/Armors/Armors393.txt>","params":[
 		10,
@@ -4725,7 +4737,7 @@
 		-2,
 		0
 	],"price":900},
-	{"id":394,"atypeId":14,"description":"「重甲衣服」防禦+55、魔防+13、速度-3，HP上限+15","etypeId":4,"traits":[
+	{"id":394,"atypeId":14,"description":"「重甲衣服」防禦+55、魔防+13、HP上限+15、速度-3","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"鎖子甲","note":"<防具>\nCp4鄉南村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors394.txt>","params":[
 		15,
@@ -4737,7 +4749,7 @@
 		-3,
 		0
 	],"price":2000},
-	{"id":395,"atypeId":14,"description":"「重甲衣服」防禦+70、魔防+20、速度-5，HP上限+20","etypeId":4,"traits":[
+	{"id":395,"atypeId":14,"description":"「重甲衣服」防禦+70、魔防+20、HP上限+20、速度-5","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"重鎧甲","note":"<防具>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors395.txt>","params":[
 		20,
@@ -4749,7 +4761,7 @@
 		-5,
 		0
 	],"price":4500},
-	{"id":396,"atypeId":14,"description":"「重甲衣服」防禦+110、速度-15，HP上限+40","etypeId":4,"traits":[
+	{"id":396,"atypeId":14,"description":"「重甲衣服」防禦+110、HP上限+40、速度-15","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"全罩式重鎧甲","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors396.txt>","params":[
 		40,
@@ -4761,7 +4773,7 @@
 		-15,
 		0
 	],"price":9500},
-	{"id":397,"atypeId":14,"description":"「重甲衣服」防禦+40、魔防+70、速度-6，HP上限+30","etypeId":4,"traits":[
+	{"id":397,"atypeId":14,"description":"「重甲衣服」防禦+40、魔防+70、HP上限+30、速度-6","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":137,"name":"元素鎧甲","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors397.txt>","params":[
 		30,
@@ -4773,7 +4785,7 @@
 		-6,
 		0
 	],"price":9500},
-	{"id":398,"atypeId":14,"description":"「重甲衣服」防禦+100、魔防+40、速度-8，HP上限+20","etypeId":4,"traits":[
+	{"id":398,"atypeId":14,"description":"「重甲衣服」防禦+100、魔防+40、HP上限+20、速度-8","etypeId":4,"traits":[
 	],"iconIndex":137,"name":"烏鋼鎧甲","note":"<防具>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors398.txt>","params":[
 		20,
 		0,
@@ -4784,7 +4796,7 @@
 		-8,
 		0
 	],"price":18000},
-	{"id":399,"atypeId":14,"description":"「重甲衣服」防禦+110、魔防+50、速度-10，運氣+30，\nHP上限+40","etypeId":4,"traits":[
+	{"id":399,"atypeId":14,"description":"「重甲衣服」防禦+110、魔防+50、運氣+30、HP上限+40、\n速度-10","etypeId":4,"traits":[
 	],"iconIndex":137,"name":"地獄鎧甲","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		40,
 		0,
@@ -4819,7 +4831,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":402,"atypeId":14,"description":"「重甲衣服」防禦+100、魔防+50，免疫即死魔法，\n中幅提升自身雷、暗元素抗性，大幅降低自身光元素抗性。","etypeId":4,"traits":[
+	{"id":402,"atypeId":14,"description":"「重甲衣服」防禦+100、魔防+50，免疫即死，中幅提升自身\n雷、暗屬性抗性，大幅降低自身光屬性抗性。","etypeId":4,"traits":[
 		{"code":11,"dataId":11,"value":0.7},
 		{"code":11,"dataId":5,"value":0.7},
 		{"code":11,"dataId":10,"value":1.5},
@@ -4834,7 +4846,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":403,"atypeId":14,"description":"「重甲衣服」防禦、魔防、速度+50，戰鬥開始時獲得『折射氣流』\n※玄武盾：物理、魔法迴避率+30%，但受到攻擊後有機率解除。","etypeId":4,"traits":[
+	{"id":403,"atypeId":14,"description":"「重甲衣服」防禦、魔防、速度+50，戰鬥開始時獲得「折射氣流」\n※折射氣流：物理、魔法迴避率+25%，但受到攻擊有機率解除。","etypeId":4,"traits":[
 	],"iconIndex":137,"name":"嵐風鎧","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		0,
 		0,
@@ -4869,7 +4881,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":406,"atypeId":14,"description":"「重甲衣服」防禦+225、速度-15，HP上限+50，抗爆率+25%","etypeId":4,"traits":[
+	{"id":406,"atypeId":14,"description":"「重甲衣服」防禦+225、HP上限+50、速度-15，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":137,"name":"龍鱗鎧甲【不動】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		50,
@@ -4881,7 +4893,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":407,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+150、速度-15，MP上限+50，\n抗爆率+25%","etypeId":4,"traits":[
+	{"id":407,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+150MP上限+50、速度-15，\n抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":137,"name":"龍鱗鎧甲【禦魔】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		0,
@@ -4893,7 +4905,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":408,"atypeId":14,"description":"「重甲衣服」防禦、魔防+120、速度-15，幸運+50，\n抗爆率+25%","etypeId":4,"traits":[
+	{"id":408,"atypeId":14,"description":"「重甲衣服」防禦、魔防+120、幸運+50、速度-15，\n抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":137,"name":"龍鱗鎧甲【天幸】","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		0,
@@ -4918,7 +4930,7 @@
 		15,
 		0
 	],"price":0},
-	{"id":410,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗爆率+100%，可\n自動恢復HP、MP、TP(中)，戰鬥中死亡可復活一次","etypeId":4,"traits":[
+	{"id":410,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗暴率+100%，\n可自動恢復HP、MP、TP(中)，戰鬥中死亡可復活一次","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":1},
 		{"code":22,"dataId":7,"value":0.05},
 		{"code":22,"dataId":8,"value":0.05},
@@ -4933,7 +4945,7 @@
 		0,
 		150
 	],"price":0},
-	{"id":411,"atypeId":14,"description":"月藍國的最終神衣，創造者似乎很著重大膽的外觀設計。\n雙防+150，抗爆率+100%，大幅提高八種元素抗性","etypeId":4,"traits":[
+	{"id":411,"atypeId":14,"description":"「露西蛋糕專用」雙防+150，抗暴率+100%，大幅提升自身\n八種元素屬性抗性。","etypeId":4,"traits":[
 		{"code":53,"dataId":4,"value":1},
 		{"code":22,"dataId":3,"value":1},
 		{"code":11,"dataId":4,"value":0.5},
@@ -5086,7 +5098,7 @@
 		0,
 		30
 	],"price":23000},
-	{"id":423,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+70、魔防+155，抗爆率+25%","etypeId":4,"traits":[
+	{"id":423,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+70、魔防+155，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":139,"name":"龍鱗袍【法鎮】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
 		0,
@@ -5098,7 +5110,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":424,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+80、魔防+170，抗爆率+25%、\n受到魔法傷害小幅降低","etypeId":4,"traits":[
+	{"id":424,"atypeId":12,"description":"「法系衣服」魔攻+20，防禦+80、魔防+170，抗暴率+25%、\n小幅降低自身受到的魔法傷害","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25},
 		{"code":23,"dataId":7,"value":0.9}
 	],"iconIndex":139,"name":"龍鱗袍【法鎮】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
@@ -5111,7 +5123,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":425,"atypeId":12,"description":"「法系衣服」防禦+65、魔防+145、幸運+55，抗爆率+50%","etypeId":4,"traits":[
+	{"id":425,"atypeId":12,"description":"「法系衣服」防禦+65、魔防+145、幸運+55，抗暴率+50%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.5}
 	],"iconIndex":139,"name":"龍鱗袍【天幸】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
 		0,
@@ -5123,7 +5135,7 @@
 		0,
 		55
 	],"price":75000},
-	{"id":426,"atypeId":12,"description":"「法系衣服」防禦+70、魔防+150、幸運+60，抗爆率+100%","etypeId":4,"traits":[
+	{"id":426,"atypeId":12,"description":"「法系衣服」防禦+70、魔防+150、幸運+60，抗暴率+100%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":1}
 	],"iconIndex":139,"name":"龍鱗袍【天幸】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors346.txt>","params":[
 		0,
@@ -5135,8 +5147,8 @@
 		0,
 		60
 	],"price":75000},
-	{"id":427,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+120，裝備後使用恢復道具、\n復活道具，可爆擊，套用使用角色的爆擊率計算。","etypeId":4,"traits":[
-	],"iconIndex":139,"name":"魔藥法袍+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,3],[0,4],[0,5],[0,6] ]>","params":[
+	{"id":427,"atypeId":12,"description":"「法系衣服」防禦+60、魔防+120，使用恢復道具、復活道具，\n可暴擊，套用使用角色的暴擊率計算。","etypeId":4,"traits":[
+	],"iconIndex":139,"name":"魔藥法袍+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,2],[0,3]]>","params":[
 		0,
 		0,
 		0,
@@ -5146,8 +5158,9 @@
 		0,
 		0
 	],"price":5000},
-	{"id":428,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+180，裝備後使用恢復道具、\n復活道具，可爆擊，套用使用角色的爆擊率計算。","etypeId":4,"traits":[
-	],"iconIndex":139,"name":"魔藥法袍+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,3],[0,4],[0,5],[0,6] ]>","params":[
+	{"id":428,"atypeId":12,"description":"「法系衣服」防禦+80、魔防+180，恢復道具使用效果x125%，\n使用恢復道具、復活道具，可暴擊，套用使用角色的暴擊率計算。","etypeId":4,"traits":[
+		{"code":23,"dataId":3,"value":1.25}
+	],"iconIndex":139,"name":"魔藥法袍+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors351.txt>\n<可爆道具:[ [0,2],[0,3]]>","params":[
 		0,
 		0,
 		0,
@@ -5157,7 +5170,7 @@
 		0,
 		0
 	],"price":5000},
-	{"id":429,"atypeId":12,"description":"「法系衣服」防禦、魔防+80，小幅增加斬、突、鈍、光元素\n抗性，小幅降低自身火、冰、暗元素抗性","etypeId":4,"traits":[
+	{"id":429,"atypeId":12,"description":"「法系衣服」防禦、魔防+80，小幅增加斬、突、鈍、光屬性\n抗性，小幅降低自身火、冰、暗屬性抗性","etypeId":4,"traits":[
 		{"code":11,"dataId":1,"value":0.9},
 		{"code":11,"dataId":2,"value":0.9},
 		{"code":11,"dataId":3,"value":0.9},
@@ -5175,7 +5188,7 @@
 		0,
 		0
 	],"price":14000},
-	{"id":430,"atypeId":12,"description":"「法系衣服」防禦、魔防+110，中幅增加斬、突、鈍、光元素\n抗性，小幅降低自身火、冰、暗元素抗性","etypeId":4,"traits":[
+	{"id":430,"atypeId":12,"description":"「法系衣服」防禦、魔防+110，中幅增加斬、突、鈍、光屬性\n抗性，中幅降低自身火、冰、暗屬性抗性","etypeId":4,"traits":[
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":0.7},
@@ -5302,7 +5315,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":440,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100、迴避+25%，可自動恢復MP(中)，\n技能MP消耗-25%","etypeId":4,"traits":[
+	{"id":440,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+100、迴避+25%，可自動恢復MP(中)，\n技能MP消耗x75%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.25},
 		{"code":22,"dataId":8,"value":0.05},
 		{"code":23,"dataId":4,"value":0.75}
@@ -5316,7 +5329,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":441,"atypeId":13,"description":"「輕甲衣服」魔防+170，免疫即死、混亂、沉默，\n小幅降低自身火、冰元素抗性","etypeId":4,"traits":[
+	{"id":441,"atypeId":13,"description":"「輕甲衣服」魔防+170，免疫即死、混亂、沉默，\n小幅降低自身火、冰屬性抗性","etypeId":4,"traits":[
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":10,"value":1},
 		{"code":14,"dataId":11,"value":1},
@@ -5346,7 +5359,7 @@
 		0,
 		0
 	],"price":15000},
-	{"id":443,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+110、迴避+15%，抗爆率+50%","etypeId":4,"traits":[
+	{"id":443,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+110、迴避+15%，抗暴率+50%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":3,"value":0.5}
 	],"iconIndex":136,"name":"龍鱗環甲【殘影】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors374.txt>","params":[
@@ -5359,7 +5372,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":444,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+130、迴避+15%，抗爆率+100%","etypeId":4,"traits":[
+	{"id":444,"atypeId":13,"description":"「輕甲衣服」防禦、魔防+130、迴避+15%，抗暴率+100%","etypeId":4,"traits":[
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":3,"value":1}
 	],"iconIndex":136,"name":"龍鱗環甲【殘影】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors374.txt>","params":[
@@ -5489,7 +5502,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":454,"atypeId":14,"description":"「重甲衣服」防禦+120、魔防+55、速度-10，運氣+40，\nHP上限+45","etypeId":4,"traits":[
+	{"id":454,"atypeId":14,"description":"「重甲衣服」防禦+120、魔防+55、運氣+40、HP上限+45、\n速度-10","etypeId":4,"traits":[
 	],"iconIndex":137,"name":"地獄鎧甲+1","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		45,
 		0,
@@ -5500,8 +5513,8 @@
 		-10,
 		40
 	],"price":30000},
-	{"id":455,"atypeId":14,"description":"「重甲衣服」防禦+120、魔防+55、運氣+40，HP上限+50，角色死亡時發動【亡者吶喊】\n※亡者吶喊：敵方全體暗屬性傷害，使用者血量越高傷害越高。","etypeId":4,"traits":[
-	],"iconIndex":137,"name":"地獄鎧甲+2","note":"<防具>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
+	{"id":455,"atypeId":14,"description":"「重甲衣服」防禦+120、魔防+55、運氣+40，HP上限+50，角色死亡時發動【亡者吶喊】\n※亡者吶喊：敵方全體暗屬性魔法傷害，機率附加即死，使用者血量越高傷害越高。","etypeId":4,"traits":[
+	],"iconIndex":137,"name":"地獄鎧甲+2","note":"<防具>\n<死時技能:[[973,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors399.txt>","params":[
 		50,
 		0,
 		0,
@@ -5541,7 +5554,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":458,"atypeId":14,"description":"「重甲衣服」防禦+235、速度-15，HP上限+75，抗爆率+25%","etypeId":4,"traits":[
+	{"id":458,"atypeId":14,"description":"「重甲衣服」防禦+235、HP上限+75、速度-15，抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":137,"name":"龍鱗鎧甲【不動】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		75,
@@ -5553,7 +5566,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":459,"atypeId":14,"description":"「重甲衣服」防禦+250、速度-15，HP上限+100，抗爆率+25%、\n受到物理傷害小幅降低","etypeId":4,"traits":[
+	{"id":459,"atypeId":14,"description":"「重甲衣服」防禦+250、HP上限+100、速度-15，抗暴率+25%、\n小幅降低自身受到的物理傷害","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25},
 		{"code":23,"dataId":6,"value":0.9}
 	],"iconIndex":137,"name":"龍鱗鎧甲【不動】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
@@ -5566,7 +5579,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":460,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+165、速度-15，MP上限+75，\n抗爆率+25%","etypeId":4,"traits":[
+	{"id":460,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+165、MP上限+75、速度-15，\n抗暴率+25%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":137,"name":"龍鱗鎧甲【禦魔】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		0,
@@ -5578,7 +5591,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":461,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+185、速度-15，MP上限+100，\n抗爆率+25%、受到魔法傷害小幅降低","etypeId":4,"traits":[
+	{"id":461,"atypeId":14,"description":"「重甲衣服」防禦+65、魔防+185、MP上限+100、速度-15，\n抗暴率+25%、小幅降低自身受到的魔法傷害","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.25},
 		{"code":23,"dataId":7,"value":0.9}
 	],"iconIndex":137,"name":"龍鱗鎧甲【禦魔】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
@@ -5591,7 +5604,7 @@
 		-15,
 		0
 	],"price":75000},
-	{"id":462,"atypeId":14,"description":"「重甲衣服」防禦、魔防+140、速度-15，幸運+50，\n抗爆率+50%","etypeId":4,"traits":[
+	{"id":462,"atypeId":14,"description":"「重甲衣服」防禦、魔防+140、速度-15，幸運+50，\n抗暴率+50%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":0.5}
 	],"iconIndex":137,"name":"龍鱗鎧甲【天幸】+1","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		0,
@@ -5603,7 +5616,7 @@
 		-15,
 		50
 	],"price":75000},
-	{"id":463,"atypeId":14,"description":"「重甲衣服」防禦、魔防+160、速度-15，幸運+50，\n抗爆率+100%","etypeId":4,"traits":[
+	{"id":463,"atypeId":14,"description":"「重甲衣服」防禦、魔防+160、速度-15，幸運+50，\n抗暴率+100%","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":1}
 	],"iconIndex":137,"name":"龍鱗鎧甲【天幸】+2","note":"<防具>\n龍族裝備\n<道具額外文字檔:BLR_custom/detail/Armors/Armors406.txt>","params":[
 		0,
@@ -5615,7 +5628,7 @@
 		-15,
 		50
 	],"price":75000},
-	{"id":464,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗爆率+100%，可\n自動恢復HP、MP、TP(中)，戰鬥中死亡可復活兩次","etypeId":4,"traits":[
+	{"id":464,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗暴率+100%，可\n自動恢復HP、MP、TP(中)，戰鬥中死亡可復活兩次","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":1},
 		{"code":22,"dataId":7,"value":0.05},
 		{"code":22,"dataId":8,"value":0.05},
@@ -5630,7 +5643,7 @@
 		0,
 		150
 	],"price":0},
-	{"id":465,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗爆率+100%，可\n自動恢復HP、MP、TP(中)，戰鬥中死亡可復活三次","etypeId":4,"traits":[
+	{"id":465,"atypeId":36,"description":"「天使蛋糕專用」防禦、魔防、幸運+150，抗暴率+100%，可\n自動恢復HP、MP、TP(中)，戰鬥中死亡可復活三次","etypeId":4,"traits":[
 		{"code":22,"dataId":3,"value":1},
 		{"code":22,"dataId":7,"value":0.05},
 		{"code":22,"dataId":8,"value":0.05},
@@ -7254,7 +7267,7 @@
 		0
 	],"price":0},
 	{"id":600,"atypeId":21,"description":"「兼用副手」全能力+10，受到所有正面、負面異常狀態時\n持續回合數增加一回合。","etypeId":2,"traits":[
-	],"iconIndex":144,"name":"四靈輪環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors617.txt>\n","params":[
+	],"iconIndex":144,"name":"@四靈輪環","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors617.txt>\n","params":[
 		0,
 		0,
 		10,
@@ -7387,7 +7400,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":612,"atypeId":21,"description":"「兼用副手」防禦+50，中幅提升自身冰、水元素抗性。","etypeId":2,"traits":[
+	{"id":612,"atypeId":21,"description":"「兼用副手」防禦+50，中幅提升自身冰、水屬性抗性。","etypeId":2,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":11,"dataId":9,"value":0.7}
 	],"iconIndex":617,"name":"藍色手環","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors612.txt>","params":[
@@ -7400,7 +7413,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":613,"atypeId":21,"description":"「兼用副手」防禦、魔防+50、HP上限+50，被攻擊機率+200%","etypeId":2,"traits":[
+	{"id":613,"atypeId":21,"description":"「兼用副手」防禦、魔防+50、HP上限+50，被攻擊機率x300%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":3}
 	],"iconIndex":143,"name":"標靶護手","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors613.txt>","params":[
 		50,
@@ -7412,7 +7425,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":614,"atypeId":21,"description":"「兼用副手」物攻、魔攻+75，防禦、魔防+50\n命中+10%、爆擊+10%，技能MP消耗+50%。","etypeId":2,"traits":[
+	{"id":614,"atypeId":21,"description":"「兼用副手」物攻、魔攻+75，防禦、魔防+50，命中+10%、\n暴擊+10%，技能MP消耗x150%。","etypeId":2,"traits":[
 		{"code":22,"dataId":0,"value":0.1},
 		{"code":22,"dataId":2,"value":0.1},
 		{"code":23,"dataId":4,"value":1.5}
@@ -7426,8 +7439,8 @@
 		0,
 		0
 	],"price":2},
-	{"id":615,"atypeId":21,"description":"「兼用副手」魔防、幸運+50，裝備後治癒魔法可觸發爆擊效果，\n套用角色爆擊率。","etypeId":2,"traits":[
-	],"iconIndex":144,"name":"聖水手環","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3]]>","params":[
+	{"id":615,"atypeId":21,"description":"「兼用副手」魔防、幸運+50，裝備後恢復技能可觸發暴擊\n效果，套用角色暴擊率。","etypeId":2,"traits":[
+	],"iconIndex":144,"name":"聖水手環","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3],[9,3],[10,3],[11,3],[12,3],[13,3],[14,3],[15,3],[18,3],[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[9,4],[10,4],[11,4],[12,4],[13,4],[14,4],[15,4],[18,4]]>","params":[
 		0,
 		0,
 		0,
@@ -7437,7 +7450,7 @@
 		0,
 		50
 	],"price":10000},
-	{"id":616,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+20，技能MP消耗-25%，\n但是TP獲得量下降(中)","etypeId":2,"traits":[
+	{"id":616,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+20，技能MP消耗x75%，\n但是TP獲得量下降(中)。","etypeId":2,"traits":[
 		{"code":23,"dataId":4,"value":0.75},
 		{"code":23,"dataId":5,"value":0.7}
 	],"iconIndex":145,"name":"五彩斑斕","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors616.txt>\n\n","params":[
@@ -7462,7 +7475,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":618,"atypeId":21,"description":"「兼用副手」全能力+5，中幅提高土元素抗性\n可使用技能【\\ns[442]】","etypeId":2,"traits":[
+	{"id":618,"atypeId":21,"description":"「兼用副手」全能力+5，中幅提高土屬性抗性，可使用\n技能【\\ns[442]】","etypeId":2,"traits":[
 		{"code":11,"dataId":8,"value":0.7},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":442,"value":1}
@@ -7636,7 +7649,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":632,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身鈍、地屬性攻擊\n傷害，中幅提升自身鈍屬、土元素抗性","etypeId":2,"traits":[
+	{"id":632,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身鈍、地屬性攻擊\n傷害，中幅提升自身鈍、土屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":3,"value":0.7},
 		{"code":11,"dataId":8,"value":0.7}
 	],"iconIndex":7,"name":"夢的內衣","note":"<防具>\n<屬性傷害倍率:[[3,1.10],[8,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
@@ -7649,7 +7662,7 @@
 		5,
 		5
 	],"price":0},
-	{"id":633,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身刺、火屬性攻擊\n傷害，中幅提升自身刺屬、火元素抗性","etypeId":2,"traits":[
+	{"id":633,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身刺、火屬性攻擊\n傷害，中幅提升自身刺、火屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":4,"value":0.7}
 	],"iconIndex":7,"name":"雪葉的內衣","note":"<防具>\n<屬性傷害倍率:[[2,1.10],[4,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors633.txt>","params":[
@@ -7662,7 +7675,7 @@
 		5,
 		5
 	],"price":0},
-	{"id":634,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身斬、光屬性攻擊\n傷害，中幅提升自身斬屬、光元素抗性","etypeId":2,"traits":[
+	{"id":634,"atypeId":22,"description":"「維皮專用副手」全能力+5，小幅提升自身斬、光屬性攻擊\n傷害，中幅提升自身斬、光屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":10,"value":0.7}
 	],"iconIndex":7,"name":"潼恩的內褲","note":"<防具>\n<屬性傷害倍率:[[1,1.10],[10,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors634.txt>","params":[
@@ -7702,39 +7715,42 @@
 		0,
 		0
 	],"price":0},
-	{"id":637,"atypeId":22,"description":"「維皮專用副手」全能力+5，","etypeId":2,"traits":[
-	],"iconIndex":7,"name":"茉莉的內褲","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
+	{"id":637,"atypeId":22,"description":"「維皮專用副手」全能力+10，中幅提升自身斬、刺、鈍屬性\n攻擊傷害。","etypeId":2,"traits":[
+	],"iconIndex":7,"name":"茉莉的內褲","note":"<防具>\n<屬性傷害倍率:[[1,1.30],[2,1.30],[3,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
 		0,
 		0,
-		5,
-		5,
-		5,
-		5,
-		5,
-		5
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
 	],"price":0},
-	{"id":638,"atypeId":22,"description":"「維皮專用副手」全能力+5，","etypeId":2,"traits":[
+	{"id":638,"atypeId":22,"description":"「維皮專用副手」全能力+10，免疫酒醉，最終物攻、速度\n額外提升15%","etypeId":2,"traits":[
+		{"code":21,"dataId":2,"value":1.15},
+		{"code":21,"dataId":6,"value":1.15}
 	],"iconIndex":7,"name":"馬大嬸的內衣","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
 		0,
 		0,
-		5,
-		5,
-		5,
-		5,
-		5,
-		5
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
 	],"price":0},
-	{"id":639,"atypeId":22,"description":"「維皮專用副手」全能力+5，HP上限+200、可自動恢復HP(中)","etypeId":2,"traits":[
-		{"code":22,"dataId":7,"value":0.05}
+	{"id":639,"atypeId":22,"description":"「維皮專用副手」全能力+10，HP上限+200、可自動\n恢復HP(中)，免疫駭惡。","etypeId":2,"traits":[
+		{"code":22,"dataId":7,"value":0.05},
+		{"code":14,"dataId":201,"value":1}
 	],"iconIndex":7,"name":"如如的內衣","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
 		200,
 		0,
-		5,
-		5,
-		5,
-		5,
-		5,
-		5
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
 	],"price":0},
 	{"id":640,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
@@ -7760,7 +7776,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":642,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+5，爆擊率+10%","etypeId":2,"traits":[
+	{"id":642,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+5，暴擊率+10%","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.1}
 	],"iconIndex":203,"name":"弓箭筒","note":"<防具>\nCp1最果之雨村\n<道具額外文字檔:BLR_custom/detail/Armors/Armors642.txt>","params":[
 		0,
@@ -7772,7 +7788,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":643,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+10，爆擊率+15%","etypeId":2,"traits":[
+	{"id":643,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+10，暴擊率+15%","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.15}
 	],"iconIndex":203,"name":"強化弓箭筒","note":"<防具>\nCp2卡姆城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors643.txt>","params":[
 		0,
@@ -7784,7 +7800,7 @@
 		0,
 		0
 	],"price":500},
-	{"id":644,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+50，爆擊率+15%\n戰鬥中每回合結束時，機率獲得\\ii[582]一支","etypeId":2,"traits":[
+	{"id":644,"atypeId":23,"description":"「射手專用副手」攻擊、魔攻+50，暴擊率+15%\n戰鬥中每回合結束時，機率獲得\\ii[582]一支","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.15}
 	],"iconIndex":203,"name":"無限箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n<開場狀態:[[361,2]]>","params":[
 		0,
@@ -7857,8 +7873,8 @@
 		10,
 		10
 	],"price":10000},
-	{"id":650,"atypeId":23,"description":"「箭矢筒」全能力+15、行動結束獲得1隻箭矢，每擊敗一名敵人，自動補充3支箭矢。","etypeId":2,"traits":[
-	],"iconIndex":203,"name":"獸骨箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n<開場狀態:[[361,2]]>","params":[
+	{"id":650,"atypeId":23,"description":"「箭矢筒」全能力+15、行動結束獲得1隻箭矢，\n每擊敗一名敵人，自動補充3支箭矢。","etypeId":2,"traits":[
+	],"iconIndex":203,"name":"獸骨箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>","params":[
 		0,
 		0,
 		15,
@@ -7868,8 +7884,8 @@
 		15,
 		15
 	],"price":10000},
-	{"id":651,"atypeId":23,"description":"「箭矢筒」全能力+20、當攜帶箭矢數量大於等於50支時，所有弓箭技能威力提升25%。\n每次使用弓技後，有30%機率不消耗箭矢","etypeId":2,"traits":[
-	],"iconIndex":203,"name":"銀枝箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n<開場狀態:[[361,2]]>","params":[
+	{"id":651,"atypeId":23,"description":"「箭矢筒」全能力+20、當攜帶箭矢數量大於等於50支時，所有弓箭技能\n威力提升25%。每次使用弓箭技能後，有30%機率不消耗箭矢。","etypeId":2,"traits":[
+	],"iconIndex":203,"name":"銀枝箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n","params":[
 		0,
 		0,
 		20,
@@ -7880,7 +7896,7 @@
 		20
 	],"price":10000},
 	{"id":652,"atypeId":23,"description":"「箭矢筒」全能力+30、包包裡僅剩一隻箭矢時，使用弓箭技能傷害\n變成5倍。","etypeId":2,"traits":[
-	],"iconIndex":203,"name":"最終箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n<開場狀態:[[361,2]]>","params":[
+	],"iconIndex":203,"name":"最終箭筒","note":"<防具>\n絕無城\n<道具額外文字檔:BLR_custom/detail/Armors/Armors644.txt>\n","params":[
 		0,
 		0,
 		30,
@@ -8135,7 +8151,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":674,"atypeId":24,"description":"「重甲副手」防禦、魔防+75，被攻擊機率+300%","etypeId":2,"traits":[
+	{"id":674,"atypeId":24,"description":"「重甲副手」防禦、魔防+75，被攻擊機率x400%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":4}
 	],"iconIndex":128,"name":"龍鱗鋼盾","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors674.txt>","params":[
 		0,
@@ -8159,19 +8175,19 @@
 		0,
 		0
 	],"price":0},
-	{"id":676,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":676,"atypeId":24,"description":"「重甲副手」防禦+15，小幅提升自身火元素抗性","etypeId":2,"traits":[
+		{"code":11,"dataId":4,"value":0.9}
+	],"iconIndex":1769,"name":"馬大嬸的鐵鍋","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
-		0,
+		15,
 		0,
 		0,
 		0,
 		0
-	],"price":0},
-	{"id":677,"atypeId":24,"description":"「重甲副手」防禦+60、魔防+30、速度-15，\n大幅降低自身雷元素抗性","etypeId":2,"traits":[
+	],"price":1000},
+	{"id":677,"atypeId":24,"description":"「重甲副手」防禦+60、魔防+30、速度-15，\n大幅降低自身雷屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":5,"value":1.5}
 	],"iconIndex":128,"name":"哥布林巨盾","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors677.txt>","params":[
 		0,
@@ -8570,7 +8586,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":710,"atypeId":29,"description":"「風鈴鈴專用副手」帶在手腕上的時鐘，錶面有猛男圖像。\n魔攻、幸運+15，提升結冰抗性30%。","etypeId":2,"traits":[
+	{"id":710,"atypeId":29,"description":"「風鈴鈴專用副手」魔攻、幸運+15，結冰抗性提升30%。","etypeId":2,"traits":[
 		{"code":13,"dataId":16,"value":0.7}
 	],"iconIndex":1756,"name":"手錶","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors710.txt>","params":[
 		0,
@@ -8596,7 +8612,7 @@
 		20,
 		0
 	],"price":1000},
-	{"id":712,"atypeId":36,"description":"「天使蛋糕專用飾品」速度+20、幸運+40，\n提升全狀態異常抗性30%。","etypeId":5,"traits":[
+	{"id":712,"atypeId":36,"description":"「天使蛋糕專用飾品」速度+20、幸運+40，提升全狀態\n異常抗性30%。","etypeId":5,"traits":[
 		{"code":13,"dataId":6,"value":0.7},
 		{"code":13,"dataId":7,"value":0.7},
 		{"code":13,"dataId":8,"value":0.7},
@@ -8619,7 +8635,7 @@
 		20,
 		40
 	],"price":0},
-	{"id":713,"atypeId":29,"description":"「風鈴鈴專用副手」通往魔寧次元的重要關鍵。\n小幅提高八種元素抗性，可自動恢復TP(中)","etypeId":2,"traits":[
+	{"id":713,"atypeId":29,"description":"「風鈴鈴專用副手」通往魔寧次元的重要關鍵。\n小幅提升自身八種元素屬性抗性，可自動恢復TP(中)","etypeId":2,"traits":[
 		{"code":11,"dataId":4,"value":0.9},
 		{"code":11,"dataId":5,"value":0.9},
 		{"code":11,"dataId":6,"value":0.9},
@@ -8664,7 +8680,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":715,"atypeId":30,"description":"「陸維皮專用頭盔」物防、魔防+80，戰鬥開始時獲得『衝擊\n護罩』※衝擊護罩：減少100點攻擊傷害","etypeId":3,"traits":[
+	{"id":715,"atypeId":30,"description":"「陸維皮專用頭盔」物防、魔防+80，戰鬥開始時獲得「衝擊護罩」\n※衝擊護罩：減少100點攻擊傷害","etypeId":3,"traits":[
 	],"iconIndex":130,"name":"攸藍的帽子","note":"<開場狀態:[[274,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors715.txt>","params":[
 		0,
 		0,
@@ -8675,7 +8691,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":716,"atypeId":30,"description":"「陸維皮專用盔甲」物防、魔防+100，死亡時自動復活，\n一場戰鬥限一次。","etypeId":4,"traits":[
+	{"id":716,"atypeId":30,"description":"「陸維皮專用盔甲」物防、魔防+100，戰鬥中死亡可復活一次。","etypeId":4,"traits":[
 	],"iconIndex":137,"name":"天使之鎧","note":"<reviveCount:1>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors716.txt>","params":[
 		0,
 		0,
@@ -8784,7 +8800,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":723,"atypeId":30,"description":"「陸維皮專用頭盔」爆擊率+15%，技能MP消耗+50%，\n中幅提升自身爆裂攻擊傷害、大幅提升自身爆裂屬性抗性","etypeId":3,"traits":[
+	{"id":723,"atypeId":30,"description":"「陸維皮專用頭盔」暴擊率+15%，技能MP消耗x150%，\n中幅提升自身爆裂屬性傷害、大幅提升自身爆裂屬性抗性","etypeId":3,"traits":[
 		{"code":11,"dataId":12,"value":0.5},
 		{"code":23,"dataId":4,"value":1.5}
 	],"iconIndex":150,"name":"綾瀨的纏胸布","note":"<防具>\n<屬性傷害倍率:[[12,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors723.txt>","params":[
@@ -8869,7 +8885,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":730,"atypeId":21,"description":"「兼用副手」物攻+50，最終攻擊額外提升5%","etypeId":2,"traits":[
+	{"id":730,"atypeId":21,"description":"「兼用副手」物攻+50，最終物攻額外提升5%","etypeId":2,"traits":[
 		{"code":21,"dataId":2,"value":1.05}
 	],"iconIndex":144,"name":"熱血手環+1","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors604.txt>","params":[
 		0,
@@ -8881,7 +8897,7 @@
 		0,
 		0
 	],"price":5000},
-	{"id":731,"atypeId":21,"description":"「兼用副手」物攻+70，最終攻擊額外提升10%","etypeId":2,"traits":[
+	{"id":731,"atypeId":21,"description":"「兼用副手」物攻+70，最終物攻額外提升10%","etypeId":2,"traits":[
 		{"code":21,"dataId":2,"value":1.1}
 	],"iconIndex":144,"name":"熱血手環+2","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors604.txt>","params":[
 		0,
@@ -8941,9 +8957,9 @@
 		0,
 		100
 	],"price":5000},
-	{"id":736,"atypeId":21,"description":"「兼用副手」防禦、魔防+40，可自動恢復HP(小)，\n受到恢復效果+25%","etypeId":2,"traits":[
+	{"id":736,"atypeId":21,"description":"「兼用副手」防禦、魔防+40，可自動恢復HP(小)，\n提升受到的恢復效果(中)。","etypeId":2,"traits":[
 		{"code":22,"dataId":7,"value":0.03},
-		{"code":23,"dataId":2,"value":1.25}
+		{"code":23,"dataId":2,"value":1.3}
 	],"iconIndex":266,"name":"麵包護腕+1","note":"<防具>\n達西村任務\n<道具額外文字檔:BLR_custom/detail/Armors/Armors611.txt>","params":[
 		0,
 		0,
@@ -8954,9 +8970,9 @@
 		0,
 		0
 	],"price":10000},
-	{"id":737,"atypeId":21,"description":"「兼用副手」防禦、魔防+55，可自動恢復HP(中)\n受到恢復效果+25%","etypeId":2,"traits":[
+	{"id":737,"atypeId":21,"description":"「兼用副手」防禦、魔防+55，可自動恢復HP(中)，\n提升受到的恢復效果(中)。","etypeId":2,"traits":[
 		{"code":22,"dataId":7,"value":0.05},
-		{"code":23,"dataId":2,"value":1.25}
+		{"code":23,"dataId":2,"value":1.3}
 	],"iconIndex":266,"name":"麵包護腕+2","note":"<防具>\n達西村任務\n<道具額外文字檔:BLR_custom/detail/Armors/Armors611.txt>","params":[
 		0,
 		0,
@@ -8967,7 +8983,7 @@
 		0,
 		0
 	],"price":10000},
-	{"id":738,"atypeId":21,"description":"「兼用副手」防禦+65，中幅提升自身冰、水元素抗性，\n免疫潮濕。","etypeId":2,"traits":[
+	{"id":738,"atypeId":21,"description":"「兼用副手」防禦+65，中幅提升自身冰、水屬性抗性，\n免疫潮濕。","etypeId":2,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":11,"dataId":9,"value":0.7},
 		{"code":14,"dataId":15,"value":1}
@@ -8981,7 +8997,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":739,"atypeId":21,"description":"「兼用副手」防禦+80，中幅提升自身冰、水元素抗性，\n免疫潮濕、結冰。","etypeId":2,"traits":[
+	{"id":739,"atypeId":21,"description":"「兼用副手」防禦+80，中幅提升自身冰、水屬性抗性，\n免疫潮濕、結冰。","etypeId":2,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":11,"dataId":9,"value":0.7},
 		{"code":14,"dataId":15,"value":1},
@@ -8996,7 +9012,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":740,"atypeId":21,"description":"「兼用副手」防禦、魔防+55、HP上限+60，被攻擊機率+350%","etypeId":2,"traits":[
+	{"id":740,"atypeId":21,"description":"「兼用副手」防禦、魔防+55、HP上限+60，被攻擊機率x450%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":4.5}
 	],"iconIndex":143,"name":"標靶護手+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors613.txt>","params":[
 		60,
@@ -9008,7 +9024,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":741,"atypeId":21,"description":"「兼用副手」防禦、魔防+60、HP上限+70，被攻擊機率+500%","etypeId":2,"traits":[
+	{"id":741,"atypeId":21,"description":"「兼用副手」防禦、魔防+60、HP上限+70，被攻擊機率x600%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":6}
 	],"iconIndex":143,"name":"標靶護手+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors613.txt>","params":[
 		70,
@@ -9020,9 +9036,9 @@
 		0,
 		0
 	],"price":1000},
-	{"id":742,"atypeId":21,"description":"「兼用副手」魔防、幸運+60，爆擊率+5%，\n裝備後治癒魔法可觸發爆擊效果，套用角色爆擊率。","etypeId":2,"traits":[
+	{"id":742,"atypeId":21,"description":"「兼用副手」魔防、幸運+60，暴擊率+5%，\n裝備後恢復技能可觸發暴擊效果，套用角色暴擊率。","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.05}
-	],"iconIndex":144,"name":"聖水手環+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3]]>","params":[
+	],"iconIndex":144,"name":"聖水手環+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3],[9,3],[10,3],[11,3],[12,3],[13,3],[14,3],[15,3],[18,3],[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[9,4],[10,4],[11,4],[12,4],[13,4],[14,4],[15,4],[18,4]]>","params":[
 		0,
 		0,
 		0,
@@ -9032,9 +9048,9 @@
 		0,
 		60
 	],"price":10000},
-	{"id":743,"atypeId":21,"description":"「兼用副手」魔防、幸運+70，爆擊率+10%，\n裝備後治癒魔法可觸發爆擊效果，套用角色爆擊率。","etypeId":2,"traits":[
+	{"id":743,"atypeId":21,"description":"「兼用副手」魔防、幸運+70，暴擊率+10%，\n裝備後恢復技能可觸發暴擊效果，套用角色暴擊率。","etypeId":2,"traits":[
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":144,"name":"聖水手環+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3]]>","params":[
+	],"iconIndex":144,"name":"聖水手環+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors615.txt>\n<可爆技能:[[0,3],[1,3],[2,3],[3,3],[4,3],[5,3],[6,3],[7,3],[8,3],[9,3],[10,3],[11,3],[12,3],[13,3],[14,3],[15,3],[18,3],[0,4],[1,4],[2,4],[3,4],[4,4],[5,4],[6,4],[7,4],[8,4],[9,4],[10,4],[11,4],[12,4],[13,4],[14,4],[15,4],[18,4]]>","params":[
 		0,
 		0,
 		0,
@@ -9044,7 +9060,7 @@
 		0,
 		70
 	],"price":10000},
-	{"id":744,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+30，技能MP消耗-25%，\n但是TP獲得量下降(小)","etypeId":2,"traits":[
+	{"id":744,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+30，技能MP消耗x75%，\n但是TP獲得量下降(小)","etypeId":2,"traits":[
 		{"code":23,"dataId":4,"value":0.75},
 		{"code":23,"dataId":5,"value":0.9}
 	],"iconIndex":145,"name":"五彩斑斕+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors616.txt>\n\n","params":[
@@ -9057,9 +9073,8 @@
 		0,
 		0
 	],"price":10000},
-	{"id":745,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+40，技能MP消耗-25%","etypeId":2,"traits":[
-		{"code":23,"dataId":4,"value":0.75},
-		{"code":23,"dataId":5,"value":0.9}
+	{"id":745,"atypeId":21,"description":"「兼用副手」攻擊、魔攻+40，技能MP消耗x75%","etypeId":2,"traits":[
+		{"code":23,"dataId":4,"value":0.75}
 	],"iconIndex":145,"name":"五彩斑斕+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors616.txt>\n\n","params":[
 		0,
 		0,
@@ -9094,12 +9109,12 @@
 		0,
 		0
 	],"price":10000},
-	{"id":748,"atypeId":21,"description":"「兼用副手」全能力+10，中幅提高土元素抗性，\n攻擊時機率帶石化，可使用技能【\\ns[442]】","etypeId":2,"traits":[
+	{"id":748,"atypeId":21,"description":"「兼用副手」全能力+10，中幅提高土屬性抗性，\n攻擊時機率石化，可使用技能【\\ns[442]】","etypeId":2,"traits":[
 		{"code":11,"dataId":8,"value":0.7},
 		{"code":32,"dataId":18,"value":0.2},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":442,"value":1}
-	],"iconIndex":144,"name":"梅杜莎手環+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors618.txt>","params":[
+	],"iconIndex":144,"name":"@梅杜莎手環+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors618.txt>","params":[
 		0,
 		0,
 		10,
@@ -9109,13 +9124,13 @@
 		10,
 		10
 	],"price":2000},
-	{"id":749,"atypeId":21,"description":"「兼用副手」全能力+15，中幅提高土元素抗性，\n攻擊時機率帶石化，免疫石化，可使用技能【\\ns[442]】","etypeId":2,"traits":[
+	{"id":749,"atypeId":21,"description":"「兼用副手」全能力+15，中幅提高土屬性抗性，\n免疫石化，攻擊時機率石化，可使用技能【\\ns[442]】","etypeId":2,"traits":[
 		{"code":11,"dataId":8,"value":0.7},
 		{"code":32,"dataId":18,"value":0.2},
 		{"code":14,"dataId":18,"value":1},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":442,"value":1}
-	],"iconIndex":144,"name":"梅杜莎手環+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors618.txt>","params":[
+	],"iconIndex":144,"name":"@梅杜莎手環+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors618.txt>","params":[
 		0,
 		0,
 		15,
@@ -9153,7 +9168,7 @@
 		15,
 		15
 	],"price":2},
-	{"id":752,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身鈍、地屬性攻擊\n傷害，中幅提升自身鈍屬、土元素抗性","etypeId":2,"traits":[
+	{"id":752,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身鈍、土屬性攻擊\n傷害，中幅提升自身鈍、土屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":3,"value":0.7},
 		{"code":11,"dataId":8,"value":0.7}
 	],"iconIndex":7,"name":"夢的內衣+1","note":"<防具>\n<屬性傷害倍率:[[3,1.10],[8,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
@@ -9166,7 +9181,7 @@
 		8,
 		8
 	],"price":0},
-	{"id":753,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身鈍屬、地屬性\n攻擊傷害、鈍屬、土元素抗性","etypeId":2,"traits":[
+	{"id":753,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身鈍、土屬性攻擊\n傷害、鈍、土屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":3,"value":0.7},
 		{"code":11,"dataId":8,"value":0.7}
 	],"iconIndex":7,"name":"夢的內衣+2","note":"<防具>\n<屬性傷害倍率:[[3,1.30],[8,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors632.txt>","params":[
@@ -9179,7 +9194,7 @@
 		15,
 		15
 	],"price":0},
-	{"id":754,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身刺、火屬性攻擊\n傷害，中幅提升自身刺屬、火元素抗性","etypeId":2,"traits":[
+	{"id":754,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身刺、火屬性攻擊\n傷害，中幅提升自身刺、火屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":4,"value":0.7}
 	],"iconIndex":7,"name":"雪葉的內衣+1","note":"<防具>\n<屬性傷害倍率:[[2,1.10],[4,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors633.txt>","params":[
@@ -9192,7 +9207,7 @@
 		8,
 		8
 	],"price":0},
-	{"id":755,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身刺屬、火屬性\n攻擊傷害、刺屬、火元素抗性","etypeId":2,"traits":[
+	{"id":755,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身刺、火屬性攻擊\n傷害、刺、火屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":4,"value":0.7}
 	],"iconIndex":7,"name":"雪葉的內衣+2","note":"<防具>\n<屬性傷害倍率:[[2,1.30],[4,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors633.txt>","params":[
@@ -9205,7 +9220,7 @@
 		15,
 		15
 	],"price":0},
-	{"id":756,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身斬、光屬性攻擊\n傷害，中幅提升自身斬屬、光元素抗性","etypeId":2,"traits":[
+	{"id":756,"atypeId":22,"description":"「維皮專用副手」全能力+8，小幅提升自身斬、光屬性攻擊\n傷害，中幅提升自身斬、光屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":10,"value":0.7}
 	],"iconIndex":7,"name":"潼恩的內褲+1","note":"<防具>\n<屬性傷害倍率:[[1,1.10],[10,1.10]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors634.txt>","params":[
@@ -9218,7 +9233,7 @@
 		8,
 		8
 	],"price":0},
-	{"id":757,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身斬屬、光屬性\n攻擊傷害、斬屬、光元素抗性","etypeId":2,"traits":[
+	{"id":757,"atypeId":22,"description":"「維皮專用副手」全能力+15，中幅提升自身斬、光屬性攻擊\n傷害、斬、光屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":10,"value":0.7}
 	],"iconIndex":7,"name":"潼恩的內褲+2","note":"<防具>\n<屬性傷害倍率:[[1,1.30],[10,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors634.txt>","params":[
@@ -9250,12 +9265,12 @@
 	],"iconIndex":7,"name":"茶鴦的內褲+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors635.txt>","params":[
 		0,
 		0,
-		5,
-		5,
-		5,
-		5,
-		5,
-		5
+		15,
+		15,
+		15,
+		15,
+		15,
+		15
 	],"price":0},
 	{"id":760,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
@@ -9353,7 +9368,7 @@
 		0,
 		0
 	],"price":14500},
-	{"id":768,"atypeId":24,"description":"「重甲副手」防禦、魔防+85，被攻擊機率+500%","etypeId":2,"traits":[
+	{"id":768,"atypeId":24,"description":"「重甲副手」防禦、魔防+85，被攻擊機率x600%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":6}
 	],"iconIndex":128,"name":"龍鱗鋼盾+1","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors674.txt>","params":[
 		0,
@@ -9365,7 +9380,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":769,"atypeId":24,"description":"「重甲副手」防禦、魔防+100，被攻擊機率+700%","etypeId":2,"traits":[
+	{"id":769,"atypeId":24,"description":"「重甲副手」防禦、魔防+100，被攻擊機率x800%","etypeId":2,"traits":[
 		{"code":23,"dataId":0,"value":8}
 	],"iconIndex":128,"name":"龍鱗鋼盾+2","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors674.txt>","params":[
 		0,
@@ -9377,7 +9392,7 @@
 		0,
 		0
 	],"price":75000},
-	{"id":770,"atypeId":24,"description":"「重甲副手」防禦+95、魔防+30、速度-30，\n中幅降低自身雷元素抗性","etypeId":2,"traits":[
+	{"id":770,"atypeId":24,"description":"「重甲副手」防禦+95、魔防+30、速度-30，\n中幅降低自身雷屬性抗性","etypeId":2,"traits":[
 		{"code":11,"dataId":5,"value":1.3}
 	],"iconIndex":128,"name":"哥布林巨盾+1","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors677.txt>","params":[
 		0,
@@ -9389,9 +9404,9 @@
 		-30,
 		0
 	],"price":2000},
-	{"id":771,"atypeId":24,"description":"「重甲副手」防禦+130、魔防+30、速度-50，\n小幅降低自身雷元素抗性，可使用【超重盾擊】","etypeId":2,"traits":[
+	{"id":771,"atypeId":24,"description":"「重甲副手」防禦+130、魔防+30、速度-50，\n小幅降低自身雷屬性抗性，可使用【超重盾擊】","etypeId":2,"traits":[
 		{"code":11,"dataId":5,"value":1.1}
-	],"iconIndex":128,"name":"哥布林巨盾+2","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors677.txt>","params":[
+	],"iconIndex":128,"name":"@哥布林巨盾+2","note":"<防具>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/Armors/Armors677.txt>","params":[
 		0,
 		0,
 		0,
@@ -9401,30 +9416,36 @@
 		-50,
 		0
 	],"price":2000},
-	{"id":772,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":772,"atypeId":24,"description":"「重甲副手」防禦+100、速度-15，中幅提升自身火屬性抗性、\n小幅提升自身斬、刺、鈍屬性抗性","etypeId":2,"traits":[
+		{"code":11,"dataId":4,"value":0.7},
+		{"code":11,"dataId":1,"value":0.9},
+		{"code":11,"dataId":2,"value":0.9},
+		{"code":11,"dataId":3,"value":0.9}
+	],"iconIndex":1769,"name":"馬大嬸的鐵鍋+1","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
+		100,
 		0,
 		0,
-		0,
-		0,
+		-15,
 		0
-	],"price":0},
-	{"id":773,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	],"price":1000},
+	{"id":773,"atypeId":24,"description":"「重甲副手」防禦+200、速度-15，大幅提升自身火屬性抗性、\n中幅提升自身斬、刺、鈍屬性抗性","etypeId":2,"traits":[
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":11,"dataId":1,"value":0.7},
+		{"code":11,"dataId":2,"value":0.7},
+		{"code":11,"dataId":3,"value":0.7}
+	],"iconIndex":1769,"name":"馬大嬸的鐵鍋+2","note":"<maxStack:1>","params":[
 		0,
 		0,
 		0,
+		200,
 		0,
 		0,
-		0,
-		0,
+		-15,
 		0
-	],"price":0},
+	],"price":1000},
 	{"id":774,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -10349,7 +10370,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":851,"atypeId":31,"description":"「兼用飾品」大幅提高火元素抗性、免疫著火、燃燒\n物攻+60，可使用技能【\\ns[447]】","etypeId":5,"traits":[
+	{"id":851,"atypeId":31,"description":"「兼用飾品」物攻+60，大幅提升自身火屬性抗性，免疫著火、\n燃燒，可使用技能【\\ns[447]】","etypeId":5,"traits":[
 		{"code":14,"dataId":12,"value":1},
 		{"code":14,"dataId":14,"value":1},
 		{"code":11,"dataId":4,"value":0.5},
@@ -10365,7 +10386,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":852,"atypeId":31,"description":"「兼用飾品」大幅提高雷元素抗性、免疫麻痺\n魔攻+60，可使用技能【\\ns[448]】","etypeId":5,"traits":[
+	{"id":852,"atypeId":31,"description":"「兼用飾品」魔攻+60，大幅提升自身雷屬性抗性，免疫麻痺，\n可使用技能【\\ns[448]】","etypeId":5,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":11,"dataId":5,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10380,7 +10401,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":853,"atypeId":31,"description":"「兼用飾品」大幅提高冰元素抗性、免疫結冰\n魔防+100，可使用技能【\\ns[449]】","etypeId":5,"traits":[
+	{"id":853,"atypeId":31,"description":"「兼用飾品」魔防+100，大幅提升自身冰屬性抗性，免疫結冰，\n可使用技能【\\ns[449]】","etypeId":5,"traits":[
 		{"code":14,"dataId":16,"value":1},
 		{"code":11,"dataId":6,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10395,7 +10416,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":854,"atypeId":31,"description":"「兼用飾品」大幅提高風元素抗性、免疫流血\n速度+60，可使用技能【\\ns[450]】","etypeId":5,"traits":[
+	{"id":854,"atypeId":31,"description":"「兼用飾品」速度+60，大幅提升自身風屬性抗性，免疫流血，\n可使用技能【\\ns[450]】","etypeId":5,"traits":[
 		{"code":14,"dataId":17,"value":1},
 		{"code":11,"dataId":7,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10410,7 +10431,7 @@
 		60,
 		0
 	],"price":0},
-	{"id":855,"atypeId":31,"description":"「兼用飾品」大幅提高土元素抗性、免疫石化\n物防+100，可使用技能【\\ns[451]】","etypeId":5,"traits":[
+	{"id":855,"atypeId":31,"description":"「兼用飾品」物防+100，大幅提升自身土屬性抗性，免疫石化，\n可使用技能【\\ns[451]】","etypeId":5,"traits":[
 		{"code":14,"dataId":18,"value":1},
 		{"code":11,"dataId":8,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10425,7 +10446,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":856,"atypeId":31,"description":"「兼用飾品」大幅提高水元素抗性、免疫潮濕\n幸運+100，可使用技能【\\ns[452]】","etypeId":5,"traits":[
+	{"id":856,"atypeId":31,"description":"「兼用飾品」幸運+100，大幅提升自身水元素抗性，免疫潮濕，\n可使用技能【\\ns[452]】","etypeId":5,"traits":[
 		{"code":14,"dataId":15,"value":1},
 		{"code":11,"dataId":9,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10440,7 +10461,7 @@
 		0,
 		100
 	],"price":0},
-	{"id":857,"atypeId":31,"description":"「兼用飾品」大幅提高光元素抗性、免疫混亂\nHP上限+150，可使用技能【\\ns[453]】","etypeId":5,"traits":[
+	{"id":857,"atypeId":31,"description":"「兼用飾品」HP上限+150，大幅提升自身光屬性抗性，免疫混亂，\n可使用技能【\\ns[453]】","etypeId":5,"traits":[
 		{"code":14,"dataId":10,"value":1},
 		{"code":11,"dataId":10,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10455,7 +10476,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":858,"atypeId":31,"description":"「兼用飾品」大幅提高暗元素抗性、免疫沉默\nMP上限+150，可使用技能【\\ns[454]】","etypeId":5,"traits":[
+	{"id":858,"atypeId":31,"description":"「兼用飾品」MP上限+150，大幅提高自身暗屬性抗性，免疫沉默，\n可使用技能【\\ns[454]】","etypeId":5,"traits":[
 		{"code":14,"dataId":11,"value":1},
 		{"code":11,"dataId":11,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
@@ -10470,7 +10491,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":859,"atypeId":31,"description":"「兼用飾品」大幅提高八種元素抗性，免疫全狀態異常，\n大幅提升HP、MP上限、全能力，可使用八種【戒指技能】","etypeId":5,"traits":[
+	{"id":859,"atypeId":31,"description":"「兼用飾品」大幅提升自身八種元素屬性抗性，免疫全狀態異常，\n大幅提升HP、MP上限、全能力，可使用八種【戒指技能】","etypeId":5,"traits":[
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -10644,7 +10665,7 @@
 		90,
 		0
 	],"price":2},
-	{"id":871,"atypeId":31,"description":"「兼用飾品」物攻、魔攻、防禦、魔防、速度+90，幸運+135\n中幅提升自身斬、刺、鈍屬抗性","etypeId":5,"traits":[
+	{"id":871,"atypeId":31,"description":"「兼用飾品」雙攻、雙防、速度+90，幸運+135，\n中幅提升自身斬、刺、鈍屬性抗性","etypeId":5,"traits":[
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":0.7}
@@ -10670,7 +10691,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":873,"atypeId":31,"description":"「兼用飾品」物攻、魔攻、運氣+150，防禦、魔防-200，\n命中+15%","etypeId":5,"traits":[
+	{"id":873,"atypeId":31,"description":"「兼用飾品」雙攻、運氣+150、雙防-200，命中+15%","etypeId":5,"traits":[
 		{"code":22,"dataId":0,"value":0.15}
 	],"iconIndex":145,"name":"怒之戒指","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors873.txt>","params":[
 		0,
@@ -10682,7 +10703,7 @@
 		0,
 		150
 	],"price":150000},
-	{"id":874,"atypeId":31,"description":"「兼用飾品」物攻、魔攻、防禦、魔防、幸運-75，\n速度+150","etypeId":5,"traits":[
+	{"id":874,"atypeId":31,"description":"「兼用飾品」速度+150、雙攻、雙防、幸運-75。","etypeId":5,"traits":[
 	],"iconIndex":145,"name":"興奮戒指","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors874.txt>","params":[
 		0,
 		0,
@@ -10693,7 +10714,7 @@
 		150,
 		-75
 	],"price":150000},
-	{"id":875,"atypeId":31,"description":"「兼用飾品」戰鬥獲得道具掉落率變成2倍，幸運+100","etypeId":5,"traits":[
+	{"id":875,"atypeId":31,"description":"「兼用飾品」幸運+100，戰鬥獲得道具掉落率變成2倍","etypeId":5,"traits":[
 		{"code":64,"dataId":5,"value":1}
 	],"iconIndex":147,"name":"見習勇者資格證","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors875.txt>","params":[
 		0,
@@ -10705,7 +10726,7 @@
 		0,
 		100
 	],"price":0},
-	{"id":876,"atypeId":31,"description":"「兼用飾品」戰鬥獲得金幣、道具掉落率變成2倍，幸運+200","etypeId":5,"traits":[
+	{"id":876,"atypeId":31,"description":"「兼用飾品」幸運+200，戰鬥獲得金幣、道具掉落率變成2倍","etypeId":5,"traits":[
 		{"code":64,"dataId":4,"value":1},
 		{"code":64,"dataId":5,"value":1}
 	],"iconIndex":147,"name":"勇者徽章","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors876.txt>","params":[
@@ -10718,7 +10739,7 @@
 		0,
 		200
 	],"price":0},
-	{"id":877,"atypeId":31,"description":"HP、MP上限、全能力+100，免疫全狀態異常\n大幅提升自身斬刺鈍屬抗性。","etypeId":5,"traits":[
+	{"id":877,"atypeId":31,"description":"全能力+100、HP、MP上限+100，免疫全狀態異常，\n大幅提升自身斬、刺、鈍屬性抗性。","etypeId":5,"traits":[
 		{"code":53,"dataId":5,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -10757,7 +10778,7 @@
 		100,
 		100
 	],"price":2},
-	{"id":879,"atypeId":31,"description":"「兼用飾品」HP、MP上限、全能力+100，免疫即死、所有\n「能力下降Debuff」，中幅提升自身斬刺鈍光暗抗性。","etypeId":5,"traits":[
+	{"id":879,"atypeId":31,"description":"「兼用飾品」全能力+100、HP、MP上限+100，免疫即死、\n「所有能力下降」，中幅提升自身斬、刺、鈍、光、暗屬性抗性。","etypeId":5,"traits":[
 		{"code":13,"dataId":1,"value":0},
 		{"code":11,"dataId":1,"value":0.7},
 		{"code":11,"dataId":2,"value":0.7},
@@ -10782,7 +10803,7 @@
 		100,
 		100
 	],"price":2},
-	{"id":880,"atypeId":31,"description":"「兼用飾品」HP、MP上限+150\n中幅提升自身光暗屬性攻擊、光暗元素抗性","etypeId":5,"traits":[
+	{"id":880,"atypeId":31,"description":"「兼用飾品」HP、MP上限+150，中幅提升自身光、暗屬性\n攻擊傷害、光、暗屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":10,"value":0.7},
 		{"code":11,"dataId":11,"value":0.7}
 	],"iconIndex":1086,"name":"渾沌魔石","note":"<防具>\n<屬性傷害倍率:[[10,1.3],[11,1.3]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors880.txt>","params":[
@@ -10795,7 +10816,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":881,"atypeId":31,"description":"「兼用飾品」攻擊、速度+50\n中幅提升自身火風屬性攻擊、火風元素抗性","etypeId":5,"traits":[
+	{"id":881,"atypeId":31,"description":"「兼用飾品」攻擊、速度+50，中幅提升自身火、風屬性\n攻擊傷害、火、風屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":4,"value":0.7},
 		{"code":11,"dataId":7,"value":0.7}
 	],"iconIndex":1074,"name":"焚嵐魔石","note":"<防具>\n<屬性傷害倍率:[[4,1.3],[7,1.3]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors881.txt>","params":[
@@ -10808,7 +10829,7 @@
 		50,
 		0
 	],"price":0},
-	{"id":882,"atypeId":31,"description":"「兼用飾品」魔攻+50、幸運+75\n中幅提升自身雷水屬性攻擊、雷水元素抗性","etypeId":5,"traits":[
+	{"id":882,"atypeId":31,"description":"「兼用飾品」魔攻+50、幸運+75，中幅提升自身雷、水屬性\n攻擊傷害、雷、水屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":5,"value":0.7},
 		{"code":11,"dataId":9,"value":0.7}
 	],"iconIndex":1079,"name":"海雷魔石","note":"<防具>\n<屬性傷害倍率:[[5,1.3],[9,1.3]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors882.txt>","params":[
@@ -10821,7 +10842,7 @@
 		0,
 		75
 	],"price":0},
-	{"id":883,"atypeId":31,"description":"「兼用飾品」防禦、魔防+75\n中幅提升自身冰土屬性攻擊、冰土元素抗性","etypeId":5,"traits":[
+	{"id":883,"atypeId":31,"description":"「兼用飾品」雙防+75，中幅提升自身冰、土屬性攻擊傷害、\n冰、土屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":11,"dataId":8,"value":0.7}
 	],"iconIndex":1081,"name":"霜脈魔石","note":"<防具>\n<屬性傷害倍率:[[6,1.3],[8,1.3]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors883.txt>","params":[
@@ -10890,7 +10911,7 @@
 		0,
 		0
 	],"price":15000},
-	{"id":888,"atypeId":31,"description":"「兼用飾品」免疫中毒、猛毒狀態","etypeId":5,"traits":[
+	{"id":888,"atypeId":31,"description":"「兼用飾品」免疫中毒、猛毒","etypeId":5,"traits":[
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1}
 	],"iconIndex":145,"name":"毒之戒指","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors888.txt>","params":[
@@ -10903,7 +10924,7 @@
 		0,
 		0
 	],"price":3000},
-	{"id":889,"atypeId":31,"description":"「兼用飾品」技能MP消耗-50%，但是配戴者能力\n會下降。","etypeId":5,"traits":[
+	{"id":889,"atypeId":31,"description":"「兼用飾品」全能力-10，技能MP消耗*50%。","etypeId":5,"traits":[
 		{"code":23,"dataId":4,"value":0.5}
 	],"iconIndex":159,"name":"魔晶戒指","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors889.txt>","params":[
 		0,
@@ -10963,7 +10984,7 @@
 		0,
 		100
 	],"price":500},
-	{"id":893,"atypeId":31,"description":"「兼用飾品」免疫全狀態異常，但是配戴者能力會下降，\n戒指內刻有奇怪的花紋","etypeId":5,"traits":[
+	{"id":893,"atypeId":31,"description":"「兼用飾品」全能力-20，免疫全狀態異常，\n戒指內刻有奇怪的花紋。","etypeId":5,"traits":[
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -10999,7 +11020,7 @@
 		20,
 		20
 	],"price":50000},
-	{"id":895,"atypeId":31,"description":"「兼用飾品」命中+50%、速度+30，免疫麻痺、結冰、石化","etypeId":5,"traits":[
+	{"id":895,"atypeId":31,"description":"「兼用飾品」速度+30，命中+50%，免疫麻痺、結冰、石化","etypeId":5,"traits":[
 		{"code":14,"dataId":19,"value":1},
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":18,"value":1},
@@ -11032,7 +11053,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":897,"atypeId":31,"description":"「兼用飾品」免疫沉默、睡眠、混亂、潮濕，\n免疫所有「能力下降Debuff」。","etypeId":5,"traits":[
+	{"id":897,"atypeId":31,"description":"「兼用飾品」免疫沉默、睡眠、混亂、潮濕，\n免疫「所有能力下降」。","etypeId":5,"traits":[
 		{"code":14,"dataId":9,"value":1},
 		{"code":14,"dataId":10,"value":1},
 		{"code":14,"dataId":15,"value":1},
@@ -11054,7 +11075,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":898,"atypeId":31,"description":"「兼用飾品」戰鬥開始時獲得『法力護盾』。※法力護盾：\n受到傷害改用MP抵擋，每1點MP可以抵禦1點傷害。","etypeId":5,"traits":[
+	{"id":898,"atypeId":31,"description":"「兼用飾品」戰鬥開始時獲得「法力護盾」。\n※法力護盾：受到傷害改用MP抵擋，每1點MP可以抵禦1點傷害。","etypeId":5,"traits":[
 	],"iconIndex":1026,"name":"玄武玉珮","note":"<防具>\n<開場狀態:[[287,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors898.txt>","params":[
 		0,
 		0,
@@ -11091,7 +11112,7 @@
 		0,
 		0
 	],"price":2},
-	{"id":900,"atypeId":31,"description":"「兼用飾品」命中、抗暴率+25%，\n戰鬥中死亡復活時ATB條恢復至50%","etypeId":5,"traits":[
+	{"id":900,"atypeId":31,"description":"「兼用飾品」命中、抗暴率+25%，戰鬥中死亡復活時\n行動速度條增加至一半。","etypeId":5,"traits":[
 		{"code":22,"dataId":0,"value":0.25},
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":156,"name":"榮譽團員勳章","note":"<防具>\n<復活恢復atb條%:50>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors900.txt>","params":[
@@ -11104,7 +11125,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":901,"atypeId":31,"description":"「兼用飾品」戰鬥開始時進入『振奮樂曲』持續5次行動。\n※樂曲：可自動恢復HP、MP、TP，免疫結冰、睡眠、潮濕","etypeId":5,"traits":[
+	{"id":901,"atypeId":31,"description":"「兼用飾品」戰鬥開始時獲得「振奮樂曲」持續5次行動。\n※振奮樂曲：可自動恢復HP、MP、TP，免疫結冰、睡眠、潮濕","etypeId":5,"traits":[
 	],"iconIndex":83,"name":"古代耳塞","note":"<防具>\n<開場狀態:[[121,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors901.txt>","params":[
 		0,
 		0,
@@ -11139,7 +11160,7 @@
 		0,
 		0
 	],"price":500},
-	{"id":904,"atypeId":31,"description":"「兼用飾品」防禦、魔防+10，\n可避免在毒沼等地形受到損傷。","etypeId":5,"traits":[
+	{"id":904,"atypeId":31,"description":"「兼用飾品」防禦、魔防+10，可避免在毒沼等地形受到損傷。","etypeId":5,"traits":[
 		{"code":23,"dataId":8,"value":0}
 	],"iconIndex":140,"name":"安全靴","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors904.txt>","params":[
 		0,
@@ -11209,7 +11230,7 @@
 		25,
 		0
 	],"price":500},
-	{"id":910,"atypeId":31,"description":"「兼用飾品」免疫失明狀態。","etypeId":5,"traits":[
+	{"id":910,"atypeId":31,"description":"「兼用飾品」免疫失明。","etypeId":5,"traits":[
 		{"code":14,"dataId":8,"value":1}
 	],"iconIndex":3,"name":"墨鏡","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors910.txt>","params":[
 		0,
@@ -11258,7 +11279,7 @@
 		0
 	],"price":0},
 	{"id":914,"atypeId":31,"description":"「兼用飾品」爆擊傷害提升。","etypeId":5,"traits":[
-	],"iconIndex":283,"name":"一閃流星","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors911.txt>","params":[
+	],"iconIndex":283,"name":"@一閃流星","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors911.txt>","params":[
 		0,
 		0,
 		0,
@@ -11483,7 +11504,7 @@
 		6,
 		0
 	],"price":666},
-	{"id":933,"atypeId":32,"description":"「男用飾品」中幅度提高暗元素抗性，免疫睡眠與即死。","etypeId":5,"traits":[
+	{"id":933,"atypeId":32,"description":"「男用飾品」免疫睡眠、即死，中幅提高自身暗屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":11,"value":0.7},
 		{"code":14,"dataId":9,"value":1},
 		{"code":13,"dataId":1,"value":0}
@@ -11509,7 +11530,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":935,"atypeId":32,"description":"「男用飾品」命中、迴避、魔迴+15%，但爆擊率-25%","etypeId":5,"traits":[
+	{"id":935,"atypeId":32,"description":"「男用飾品」命中、迴避、魔迴+15%，暴擊率-25%","etypeId":5,"traits":[
 		{"code":22,"dataId":0,"value":0.15},
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":4,"value":0.15},
@@ -11524,7 +11545,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":936,"atypeId":32,"description":"「男用飾品」戰鬥開始時進入酒醉狀態，\n但是配戴者會失去防禦、魔防。","etypeId":5,"traits":[
+	{"id":936,"atypeId":32,"description":"「男用飾品」戰鬥開始時獲得「酒醉」，但失去所有防禦、\n魔防。","etypeId":5,"traits":[
 		{"code":21,"dataId":3,"value":0},
 		{"code":21,"dataId":5,"value":0}
 	],"iconIndex":188,"name":"艾斯亞雷娜的工作照","note":"<防具>\n<開場狀態:[[3,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors936.txt>","params":[
@@ -11537,7 +11558,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":937,"atypeId":32,"description":"「男用飾品」HP上限+200，中幅提升自身斬抗性","etypeId":5,"traits":[
+	{"id":937,"atypeId":32,"description":"「男用飾品」HP上限+200，中幅提升自身斬屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":1,"value":0.7}
 	],"iconIndex":188,"name":"茉莉的清涼照","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors937.txt>","params":[
 		200,
@@ -11549,7 +11570,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":938,"atypeId":32,"description":"「男用飾品」全能力+20、中幅提升自身刺、鈍屬抗性，\n大幅提升自身爆裂屬性抗性","etypeId":5,"traits":[
+	{"id":938,"atypeId":32,"description":"「男用飾品」全能力+20、中幅提升自身刺、鈍屬性抗性，\n大幅提升自身爆裂屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":11,"dataId":3,"value":0.7},
 		{"code":11,"dataId":12,"value":0.5}
@@ -11563,7 +11584,7 @@
 		20,
 		20
 	],"price":100},
-	{"id":939,"atypeId":32,"description":"「男用飾品」抗暴率+25%，中幅提升自身鈍抗性","etypeId":5,"traits":[
+	{"id":939,"atypeId":32,"description":"「男用飾品」抗暴率+25%，中幅提升自身鈍屬性抗性。","etypeId":5,"traits":[
 		{"code":11,"dataId":3,"value":0.7},
 		{"code":22,"dataId":3,"value":0.25}
 	],"iconIndex":188,"name":"白色向日葵的美食照","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors937.txt>","params":[
@@ -11576,7 +11597,7 @@
 		0,
 		0
 	],"price":100},
-	{"id":940,"atypeId":32,"description":"「男用飾品」減輕受到的絕無城迷宮機關傷害，免疫即死，\n中幅提升自身刺抗性","etypeId":5,"traits":[
+	{"id":940,"atypeId":32,"description":"「男用飾品」免疫即死，中幅提升自身刺屬性抗性，\n減輕受到的絕無城迷宮機關傷害。","etypeId":5,"traits":[
 		{"code":11,"dataId":2,"value":0.7},
 		{"code":13,"dataId":1,"value":0}
 	],"iconIndex":188,"name":"小唯與娜娜美的合照","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors937.txt>","params":[
@@ -11589,18 +11610,35 @@
 		0,
 		0
 	],"price":100},
-	{"id":941,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":941,"atypeId":32,"description":"「男用飾品」全能力+10，免疫全狀態異常、即死，可自動恢復TP(小)，\n中幅提升自身光、暗屬性攻擊傷害，提升自身光、暗屬性抗性。","etypeId":5,"traits":[
+		{"code":11,"dataId":10,"value":0.7},
+		{"code":11,"dataId":11,"value":0.7},
+		{"code":22,"dataId":9,"value":0.03},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":13,"dataId":1,"value":0}
+	],"iconIndex":1039,"name":"聖痕紋身貼紙","note":"<防具>\n<屬性傷害倍率:[[10,1.30],[11,1.30]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors933.txt>","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0},
+		10,
+		10,
+		10,
+		10,
+		10,
+		10
+	],"price":2},
 	{"id":942,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -11841,7 +11879,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":962,"atypeId":33,"description":"「女用飾品」免疫麻痺狀態。","etypeId":5,"traits":[
+	{"id":962,"atypeId":33,"description":"「女用飾品」免疫麻痺。","etypeId":5,"traits":[
 		{"code":14,"dataId":19,"value":1}
 	],"iconIndex":148,"name":"活血髮夾","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors962.txt>","params":[
 		0,
@@ -11853,7 +11891,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":963,"atypeId":33,"description":"「女用飾品」免疫睡眠狀態。","etypeId":5,"traits":[
+	{"id":963,"atypeId":33,"description":"「女用飾品」免疫睡眠。","etypeId":5,"traits":[
 		{"code":14,"dataId":9,"value":1}
 	],"iconIndex":147,"name":"人魚之淚","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors963.txt>","params":[
 		0,
@@ -11865,7 +11903,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":964,"atypeId":33,"description":"「女用飾品」免疫石化狀態。","etypeId":5,"traits":[
+	{"id":964,"atypeId":33,"description":"「女用飾品」免疫石化。","etypeId":5,"traits":[
 		{"code":14,"dataId":18,"value":1}
 	],"iconIndex":148,"name":"怯石髮夾","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors964.txt>","params":[
 		0,
@@ -11877,7 +11915,7 @@
 		0,
 		0
 	],"price":1000},
-	{"id":965,"atypeId":33,"description":"「女用飾品」全能力+10，免疫混亂與即死，\n技能MP消耗-25%。","etypeId":5,"traits":[
+	{"id":965,"atypeId":33,"description":"「女用飾品」全能力+10，免疫混亂、即死，技能MP消耗x75%。","etypeId":5,"traits":[
 		{"code":23,"dataId":4,"value":0.75},
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":10,"value":1}
@@ -11891,7 +11929,7 @@
 		10,
 		10
 	],"price":2},
-	{"id":966,"atypeId":33,"description":"「女用飾品」中幅提高水、冰元素抗性，\n免疫潮濕、結冰狀態。","etypeId":5,"traits":[
+	{"id":966,"atypeId":33,"description":"「女用飾品」中幅提高自身水、冰屬性抗性，免疫潮濕、\n結冰。","etypeId":5,"traits":[
 		{"code":11,"dataId":6,"value":0.7},
 		{"code":11,"dataId":9,"value":0.7},
 		{"code":14,"dataId":16,"value":1},
@@ -11918,7 +11956,7 @@
 		0,
 		0
 	],"price":0},
-	{"id":968,"atypeId":33,"description":"「女用飾品」小幅提高八種元素抗性，免疫全狀態異常\n技能MP消耗-25%","etypeId":5,"traits":[
+	{"id":968,"atypeId":33,"description":"「女用飾品」免疫全狀態異常，技能消耗MPx75%，\n小幅提高自身八種元素屬性抗性。","etypeId":5,"traits":[
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":8,"value":1},
@@ -12049,7 +12087,8 @@
 		40
 	],"price":100},
 	{"id":977,"atypeId":1,"description":"「兼用頭盔」全能力+10，戰鬥中定時發動【蘋果派】","etypeId":3,"traits":[
-	],"iconIndex":1612,"name":"@含嘴裡的蘋果派","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
+		{"code":43,"dataId":974,"value":1}
+	],"iconIndex":1612,"name":"含嘴裡的蘋果派","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
 		0,
 		0,
 		10,
@@ -12070,8 +12109,8 @@
 		15,
 		15
 	],"price":100},
-	{"id":979,"atypeId":1,"description":"「兼用頭盔」全能力+20，裝備後能看見敵人的ATB條行動\n速度。","etypeId":3,"traits":[
-	],"iconIndex":245,"name":"@速度檢定器","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
+	{"id":979,"atypeId":1,"description":"「兼用頭盔」全能力+20，裝備後能看見敵方全體的行動\n速度條。","etypeId":3,"traits":[
+	],"iconIndex":134,"name":"速度檢定器","note":"<防具>\n<showAtbBarOpponents>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
 		0,
 		0,
 		20,
@@ -12081,8 +12120,8 @@
 		20,
 		20
 	],"price":100},
-	{"id":980,"atypeId":1,"description":"「兼用頭盔」全能力+20，裝備後能看見敵人的屬性弱點(以狀態區做顯示，\n戰鬥開始時掛在敵人身上，死亡不解除)。","etypeId":3,"traits":[
-	],"iconIndex":245,"name":"@分析者頭冠","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
+	{"id":980,"atypeId":1,"description":"「兼用頭盔」全能力+20，裝備後能看見敵方全體的MP、TP。","etypeId":3,"traits":[
+	],"iconIndex":134,"name":"@分析者頭冠","note":"<防具>\n<showMpTpOpponents>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
 		0,
 		0,
 		20,
@@ -12185,8 +12224,9 @@
 		10,
 		10
 	],"price":100},
-	{"id":989,"atypeId":1,"description":"「男用頭盔」物攻、防禦、幸運+35，戰鬥中定時發動技能【冷血】\n※冷血：物理攻擊力提升10%、爆擊率提升35%。","etypeId":3,"traits":[
-	],"iconIndex":150,"name":"@武士護額","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
+	{"id":989,"atypeId":1,"description":"「男用頭盔」物攻、防禦、幸運+35，戰鬥中定時發動技能【冷血】\n※冷血：物理攻擊力提升10%、暴擊率提升35%。","etypeId":3,"traits":[
+		{"code":43,"dataId":975,"value":1}
+	],"iconIndex":150,"name":"武士護額","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
 		0,
 		0,
 		35,
@@ -12196,8 +12236,8 @@
 		0,
 		35
 	],"price":100},
-	{"id":990,"atypeId":1,"description":"「女用頭盔」魔攻、魔防、幸運+45，角色死亡時發動【天使賜福】\n※天使賜福：我方全體「全能力上升2階」持續9次行動。","etypeId":3,"traits":[
-	],"iconIndex":150,"name":"@神聖頭鍊","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
+	{"id":990,"atypeId":33,"description":"「女用頭盔」魔攻、魔防、幸運+45，角色死亡時發動【天使賜福】\n※天使賜福：我方全體「全能力上升1階」持續9次行動。","etypeId":3,"traits":[
+	],"iconIndex":146,"name":"神聖頭鍊","note":"<死時技能:[[929,1]]>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors158.txt>\n","params":[
 		0,
 		0,
 		0,
@@ -12206,7 +12246,7 @@
 		45,
 		0,
 		45
-	],"price":100},
+	],"price":0},
 	{"id":991,"atypeId":1,"description":"「女用頭盔」魔攻、魔防+60，受到傷害時，返還受到\n傷害10%的暗屬性傷害給敵人。","etypeId":3,"traits":[
 	],"iconIndex":1609,"name":"@巫毒娃娃","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors3.txt>","params":[
 		0,
@@ -13466,16 +13506,45 @@
 		0,
 		0
 	],"price":0},
-	{"id":1098,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":1098,"atypeId":29,"description":"「風鈴鈴專用衣服」物防+170，魔攻、魔防+100、速度+20\n中幅提高八種元素抗性，提升全狀態異常、能力下降抗性30%","etypeId":4,"traits":[
+		{"code":11,"dataId":4,"value":0.7},
+		{"code":11,"dataId":5,"value":0.7},
+		{"code":11,"dataId":6,"value":0.7},
+		{"code":11,"dataId":7,"value":0.7},
+		{"code":11,"dataId":8,"value":0.7},
+		{"code":11,"dataId":9,"value":0.7},
+		{"code":11,"dataId":10,"value":0.7},
+		{"code":11,"dataId":11,"value":0.7},
+		{"code":13,"dataId":6,"value":0.7},
+		{"code":13,"dataId":7,"value":0.7},
+		{"code":13,"dataId":8,"value":0.7},
+		{"code":13,"dataId":9,"value":0.7},
+		{"code":13,"dataId":10,"value":0.7},
+		{"code":13,"dataId":11,"value":0.7},
+		{"code":13,"dataId":12,"value":0.7},
+		{"code":13,"dataId":13,"value":0.7},
+		{"code":13,"dataId":14,"value":0.7},
+		{"code":13,"dataId":15,"value":0.7},
+		{"code":13,"dataId":16,"value":0.7},
+		{"code":13,"dataId":17,"value":0.7},
+		{"code":13,"dataId":18,"value":0.7},
+		{"code":13,"dataId":19,"value":0.7},
+		{"code":12,"dataId":0,"value":0.7},
+		{"code":12,"dataId":1,"value":0.7},
+		{"code":12,"dataId":2,"value":0.7},
+		{"code":12,"dataId":3,"value":0.7},
+		{"code":12,"dataId":4,"value":0.7},
+		{"code":12,"dataId":5,"value":0.7},
+		{"code":12,"dataId":6,"value":0.7},
+		{"code":12,"dataId":7,"value":0.7}
+	],"iconIndex":1614,"name":"天使羽衣","note":"<maxStack:1>\n","params":[
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
+		170,
+		100,
+		100,
+		20,
 		0
 	],"price":0},
 	{"id":1099,"atypeId":0,"description":"","etypeId":2,"traits":[
@@ -14044,18 +14113,18 @@
 		0,
 		0
 	],"price":1000},
-	{"id":1147,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":1147,"atypeId":24,"description":"「重甲副手」防禦+115、魔防+65、速度-15，滿血時\n受到的物理屬性傷害減少20%。","etypeId":2,"traits":[
+		{"code":14,"dataId":19,"value":1}
+	],"iconIndex":148,"name":"卡薩克重盾","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors962.txt>","params":[
 		0,
 		0,
 		0,
+		115,
 		0,
-		0,
-		0,
-		0,
+		65,
+		-15,
 		0
-	],"price":0},
+	],"price":1000},
 	{"id":1148,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -14297,17 +14366,6 @@
 		0
 	],"price":0},
 	{"id":1163,"atypeId":31,"description":"「兼用飾品」」全能力+30，戰鬥陷入瀕死時不死10回合，效果結束後陷入\n瀕死，且無法復活。","etypeId":5,"traits":[
-		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
-		{"code":14,"dataId":15,"value":1},
-		{"code":12,"dataId":0,"value":0},
-		{"code":12,"dataId":1,"value":0},
-		{"code":12,"dataId":2,"value":0},
-		{"code":12,"dataId":3,"value":0},
-		{"code":12,"dataId":4,"value":0},
-		{"code":12,"dataId":5,"value":0},
-		{"code":12,"dataId":6,"value":0},
-		{"code":12,"dataId":7,"value":0}
 	],"iconIndex":288,"name":"死神的借據","note":"<防具>\n<道具額外文字檔:BLR_custom/detail/Armors/Armors897.txt>","params":[
 		0,
 		0,
@@ -14318,41 +14376,61 @@
 		50,
 		0
 	],"price":0},
-	{"id":1164,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":1164,"atypeId":31,"description":"「天使蛋糕專用飾品」速度+100，命中率、\n迴避率、魔法迴避率、抗暴率+10%","etypeId":5,"traits":[
+		{"code":22,"dataId":0,"value":0.1},
+		{"code":22,"dataId":1,"value":0.1},
+		{"code":22,"dataId":4,"value":0.1},
+		{"code":22,"dataId":3,"value":0.1}
+	],"iconIndex":83,"name":"擴充零件α","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors897.txt>","params":[
 		0,
 		0,
 		0,
 		0,
 		0,
+		0,
+		100,
+		0
+	],"price":0},
+	{"id":1165,"atypeId":31,"description":"「天使蛋糕專用飾品」攻擊、魔攻+100，可自動\n恢復HP、MP、TP(中)","etypeId":5,"traits":[
+		{"code":22,"dataId":7,"value":0.05},
+		{"code":22,"dataId":8,"value":0.05},
+		{"code":22,"dataId":9,"value":0.05}
+	],"iconIndex":83,"name":"擴充零件β","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors897.txt>","params":[
+		0,
+		0,
+		100,
+		0,
+		100,
 		0,
 		0,
 		0
 	],"price":0},
-	{"id":1165,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":1166,"atypeId":31,"description":"「天使蛋糕專用飾品」防禦、魔防、幸運+100，\n免疫全異常狀態、攻擊、魔攻弱化。","etypeId":5,"traits":[
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":2,"value":0},
+		{"code":12,"dataId":4,"value":0}
+	],"iconIndex":83,"name":"擴充零件γ","note":"<道具額外文字檔:BLR_custom/detail/Armors/Armors897.txt>","params":[
 		0,
 		0,
 		0,
+		100,
 		0,
+		100,
 		0,
-		0,
-		0,
-		0
-	],"price":0},
-	{"id":1166,"atypeId":0,"description":"","etypeId":2,"traits":[
-		{"code":22,"dataId":1,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
+		100
 	],"price":0},
 	{"id":1167,"atypeId":0,"description":"","etypeId":2,"traits":[
 		{"code":22,"dataId":1,"value":0}

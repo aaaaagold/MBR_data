@@ -62,6 +62,80 @@
 		10
 	]},
 	{"id":4,"actions":[
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":1},
+		{"kind":0,"dataId":0,"denominator":1}
+	],"exp":0,"traits":[
+		{"code":22,"dataId":0,"value":1.2},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":3,"value":0.5},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":31,"dataId":1,"value":0},
+		{"code":11,"dataId":1,"value":0.5},
+		{"code":11,"dataId":2,"value":0.5},
+		{"code":11,"dataId":3,"value":0.5},
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":11,"dataId":5,"value":0.5},
+		{"code":11,"dataId":6,"value":0.5},
+		{"code":11,"dataId":7,"value":0.5},
+		{"code":11,"dataId":8,"value":0.5},
+		{"code":11,"dataId":9,"value":0.5},
+		{"code":11,"dataId":10,"value":0.5},
+		{"code":11,"dataId":11,"value":0.5},
+		{"code":11,"dataId":12,"value":0.5},
+		{"code":14,"dataId":1,"value":1},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":13,"dataId":12,"value":1},
+		{"code":13,"dataId":13,"value":1},
+		{"code":13,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":2,"value":0.5},
+		{"code":12,"dataId":3,"value":0.5},
+		{"code":12,"dataId":4,"value":0.5},
+		{"code":12,"dataId":5,"value":0.5},
+		{"code":12,"dataId":6,"value":0.5},
+		{"code":12,"dataId":7,"value":0.5},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":20,"value":1}
+	],"gold":0,"name":"測試攸特","note":"<Sideview battler: 真攸特1>\n<alter:{\"cond\":4,\"atk\":850,\"mat\":750,\"def\":550,\"mdf\":550,\"agi\":600,\"luk\":900,\"hp\":30000,\"mp\":1000}>\n<addcond:{\"switches\":[4],\"lines\":[5]}>\n","params":[
+		25000,
+		1000,
+		600,
+		350,
+		500,
+		350,
+		10,
+		700
+	]},
+	{"id":5,"actions":[
+	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0},
+		{"dataId":1,"denominator":1,"kind":0}
+	],"exp":0,"traits":[
+		{"code":11,"dataId":4,"value":10}
+	],"gold":0,"name":"打不死的慶記","note":"","params":[
+		99999,
+		5020,
+		1,
+		1,
+		1,
+		1,
+		999,
+		1
+	]},
+	{"id":6,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
@@ -80,42 +154,6 @@
 		10,
 		10,
 		10
-	]},
-	{"id":5,"actions":[
-	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1},
-		{"code":14,"dataId":1,"value":1}
-	],"gold":0,"name":"打不死的慶記","note":"","params":[
-		99999,
-		0,
-		1,
-		90,
-		1,
-		90,
-		1,
-		1
-	]},
-	{"id":6,"actions":[
-	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1},
-		{"code":14,"dataId":1,"value":1}
-	],"gold":0,"name":"打不死的慶記2","note":"Hide HP","params":[
-		99999,
-		0,
-		1,
-		600,
-		1,
-		600,
-		1,
-		1
 	]},
 	{"id":7,"actions":[
 	],"battlerHue":0,"battlerName":"town_07_Target Dummy","dropItems":[
@@ -20483,7 +20521,7 @@
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"@牙籤","note":"","params":[
+	],"gold":50000,"name":"@牙籤","note":"","params":[
 		100,
 		0,
 		10,
@@ -20504,7 +20542,7 @@
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+	],"exp":30000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
@@ -20545,7 +20583,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"火魅","note":"","params":[
+	],"gold":10000,"name":"火魅","note":"","params":[
 		40000,
 		9999,
 		500,
@@ -20566,7 +20604,7 @@
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+	],"exp":30000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.1},
@@ -20607,7 +20645,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"寒依","note":"","params":[
+	],"gold":10000,"name":"寒依","note":"","params":[
 		40000,
 		9999,
 		800,
@@ -20646,7 +20684,7 @@
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+	],"exp":30000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
@@ -20689,7 +20727,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"@殺手倫","note":"","params":[
+	],"gold":10000,"name":"@殺手倫","note":"","params":[
 		40000,
 		9999,
 		800,
@@ -20713,7 +20751,7 @@
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+	],"exp":30000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":1.3},
 		{"code":22,"dataId":2,"value":0.1},
@@ -20754,7 +20792,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"玄影","note":"","params":[
+	],"gold":10000,"name":"玄影","note":"","params":[
 		40000,
 		9999,
 		700,
@@ -20777,7 +20815,7 @@
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+	],"exp":30000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
@@ -20818,7 +20856,7 @@
 		{"code":12,"dataId":5,"value":0.25},
 		{"code":12,"dataId":6,"value":0.25},
 		{"code":12,"dataId":7,"value":0.25}
-	],"gold":0,"name":"碧瑚","note":"","params":[
+	],"gold":10000,"name":"碧瑚","note":"","params":[
 		40000,
 		9999,
 		500,
@@ -20838,11 +20876,11 @@
 		{"conditionParam1":0,"conditionParam2":10,"conditionType":1,"rating":5,"skillId":1219},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1220}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
+		{"kind":1,"dataId":501,"denominator":1},
+		{"kind":1,"dataId":230,"denominator":1},
+		{"kind":3,"dataId":941,"denominator":1}
+	],"exp":150000,"traits":[
+		{"code":22,"dataId":0,"value":1.5},
 		{"code":22,"dataId":1,"value":0.15},
 		{"code":22,"dataId":3,"value":0.15},
 		{"code":23,"dataId":0,"value":0.87},
@@ -20861,8 +20899,6 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":14,"dataId":19,"value":1},
-		{"code":23,"dataId":6,"value":0.25},
-		{"code":23,"dataId":7,"value":0.25},
 		{"code":12,"dataId":0,"value":0},
 		{"code":12,"dataId":1,"value":0},
 		{"code":12,"dataId":2,"value":0},
@@ -20871,9 +20907,9 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"毅茶祀","note":"<Sideview battler: BLR_SaintessMaid01_05>","params":[
+	],"gold":100000,"name":"毅茶祀","note":"<Sideview battler: BLR_SaintessMaid01_05>","params":[
 		7500,
-		10,
+		9999,
 		900,
 		900,
 		900,
@@ -20890,10 +20926,10 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1231},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1232}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":2,"dataId":548,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0},
@@ -20913,17 +20949,15 @@
 		{"code":13,"dataId":17,"value":0.3},
 		{"code":13,"dataId":18,"value":0.3},
 		{"code":13,"dataId":19,"value":0.3},
-		{"code":23,"dataId":6,"value":0.25},
-		{"code":23,"dataId":7,"value":0.25},
 		{"code":12,"dataId":0,"value":0},
 		{"code":12,"dataId":1,"value":0},
-		{"code":12,"dataId":2,"value":0},
+		{"code":12,"dataId":2,"value":0.2},
 		{"code":12,"dataId":3,"value":0},
 		{"code":12,"dataId":4,"value":0},
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"毅茶鴦","note":"<Sideview battler: BLR_SaintessMaid01_01>\n<alter:{\"cond\":4,\"atk\":1300,\"mat\":1300,\"def\":1100,\"mdf\":1300,\"agi\":900,\"luk\":900,\"hp\":9000,\"mp\":8000}>\n","params":[
+	],"gold":25000,"name":"毅茶鴦","note":"<Sideview battler: BLR_SaintessMaid01_01>\n<alter:{\"cond\":4,\"atk\":1300,\"mat\":1300,\"def\":1100,\"mdf\":1300,\"agi\":900,\"luk\":900,\"hp\":9000,\"mp\":8000}>\n","params":[
 		9000,
 		8000,
 		950,
@@ -20941,10 +20975,10 @@
 		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":7,"skillId":1239},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1241}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":1,"dataId":501,"denominator":1},
+		{"kind":2,"dataId":295,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0},
@@ -20977,7 +21011,7 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"夢","note":"<Sideview battler: BLR_SaintessMaid01_04>\n<alter:{\"cond\":4,\"atk\":1500,\"mat\":1,\"def\":1500,\"mdf\":900,\"agi\":900,\"luk\":700,\"hp\":9999,\"mp\":0}>\n","params":[
+	],"gold":25000,"name":"夢","note":"<Sideview battler: BLR_SaintessMaid01_04>\n<alter:{\"cond\":4,\"atk\":1500,\"mat\":1,\"def\":1500,\"mdf\":900,\"agi\":900,\"luk\":700,\"hp\":9999,\"mp\":0}>\n","params":[
 		9999,
 		0,
 		950,
@@ -20995,10 +21029,10 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1249},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1251}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":1,"dataId":418,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":2,"value":0},
@@ -21031,7 +21065,7 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"雪葉","note":"<Sideview battler: BLR_SaintessMaid01_02>\n<alter:{\"cond\":4,\"atk\":1300,\"mat\":1500,\"def\":700,\"mdf\":1500,\"agi\":900,\"luk\":750,\"hp\":7500,\"mp\":9999}>\n","params":[
+	],"gold":25000,"name":"雪葉","note":"<Sideview battler: BLR_SaintessMaid01_02>\n<alter:{\"cond\":4,\"atk\":1300,\"mat\":1500,\"def\":700,\"mdf\":1500,\"agi\":900,\"luk\":750,\"hp\":7500,\"mp\":9999}>\n","params":[
 		7500,
 		8000,
 		999,
@@ -21050,10 +21084,10 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1258},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1259}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":76,"denominator":1},
+		{"kind":2,"dataId":56,"denominator":1},
+		{"kind":1,"dataId":501,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0},
@@ -21073,15 +21107,15 @@
 		{"code":14,"dataId":13,"value":1},
 		{"code":13,"dataId":12,"value":0.1},
 		{"code":14,"dataId":18,"value":1},
-		{"code":12,"dataId":0,"value":0.2},
-		{"code":12,"dataId":1,"value":0.2},
-		{"code":12,"dataId":2,"value":0.2},
-		{"code":12,"dataId":3,"value":0.2},
-		{"code":12,"dataId":4,"value":0.2},
-		{"code":12,"dataId":5,"value":0.2},
-		{"code":12,"dataId":6,"value":0.2},
-		{"code":12,"dataId":7,"value":0.2}
-	],"gold":0,"name":"潼恩","note":"<Sideview battler: BLR_SaintessMaid01_03>\n<alter:{\"cond\":4,\"atk\":1100,\"mat\":1100,\"def\":1100,\"mdf\":1100,\"agi\":1300,\"luk\":900,\"hp\":8500,\"mp\":8000}>\n","params":[
+		{"code":12,"dataId":0,"value":0.1},
+		{"code":12,"dataId":1,"value":0.1},
+		{"code":12,"dataId":2,"value":0.1},
+		{"code":12,"dataId":3,"value":0},
+		{"code":12,"dataId":4,"value":0.1},
+		{"code":12,"dataId":5,"value":0},
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0}
+	],"gold":25000,"name":"潼恩","note":"<Sideview battler: BLR_SaintessMaid01_03>\n<alter:{\"cond\":4,\"atk\":1100,\"mat\":1100,\"def\":1100,\"mdf\":1100,\"agi\":1300,\"luk\":900,\"hp\":8500,\"mp\":8000}>\n","params":[
 		9000,
 		8000,
 		900,
@@ -21092,110 +21126,208 @@
 		999
 	]},
 	{"id":465,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1264},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1265},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1264},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":1265},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1266},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1267},
-		{"conditionParam1":0,"conditionParam2":0.5,"conditionType":2,"rating":9,"skillId":1268}
+		{"conditionParam1":465,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1268}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1}
-	],"gold":0,"name":"霍恩","note":"<Sideview battler: BLR_HawnSV>\n","params":[
-		7500,
-		10,
-		1,
-		900,
-		1,
-		900,
-		999,
-		900
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":2,"value":0.25},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0.5},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":1.5},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":13,"dataId":8,"value":0.2},
+		{"code":13,"dataId":9,"value":0.2},
+		{"code":13,"dataId":10,"value":0.2},
+		{"code":13,"dataId":11,"value":0.2},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":13,"dataId":15,"value":0.4},
+		{"code":13,"dataId":16,"value":0.2},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":19,"value":0.2},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":1},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":1},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":1}
+	],"gold":0,"name":"霍恩","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":600,\"def\":600,\"mdf\":600,\"agi\":600,\"luk\":300,\"hp\":50000,\"mp\":8000}>\n<Sideview battler: BLR_HawnSV>\n<showShadow>\n","params":[
+		40000,
+		5000,
+		500,
+		500,
+		500,
+		500,
+		500,
+		200
 	]},
 	{"id":466,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1269},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1270},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1271},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1272},
-		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":4,"skillId":1273}
+		{"conditionParam1":470,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":615},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1273}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":1}
-	],"gold":0,"name":"假面勇者Ring","note":"<Sideview battler: BLR_mask hero ring>\n","params":[
-		7500,
-		10,
-		1,
-		900,
-		1,
-		900,
-		999,
-		900
+		{"kind":3,"dataId":1164,"denominator":1},
+		{"kind":3,"dataId":1165,"denominator":1},
+		{"kind":3,"dataId":1166,"denominator":1}
+	],"exp":100000,"traits":[
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1.15},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":23,"dataId":6,"value":0.5},
+		{"code":22,"dataId":3,"value":0.25},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":0.5},
+		{"code":11,"dataId":8,"value":0.5},
+		{"code":11,"dataId":9,"value":0.5},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":1.5},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":13,"dataId":8,"value":0},
+		{"code":13,"dataId":9,"value":0},
+		{"code":13,"dataId":10,"value":0},
+		{"code":13,"dataId":11,"value":0},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":13,"dataId":15,"value":0},
+		{"code":13,"dataId":16,"value":0},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":19,"value":0},
+		{"code":12,"dataId":0,"value":0.1},
+		{"code":12,"dataId":1,"value":0.1},
+		{"code":12,"dataId":2,"value":0.1},
+		{"code":12,"dataId":3,"value":0.1},
+		{"code":12,"dataId":4,"value":0.1},
+		{"code":12,"dataId":5,"value":0.1},
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0.1}
+	],"gold":50000,"name":"假面勇者Ring","note":"<alter:{\"cond\":4,\"atk\":750,\"mat\":750,\"def\":750,\"mdf\":750,\"agi\":750,\"luk\":500,\"hp\":50000,\"mp\":8000}>\n<Sideview battler: BLR_mask hero ring>\n<showShadow>\n","params":[
+		40000,
+		7000,
+		675,
+		675,
+		675,
+		675,
+		675,
+		400
 	]},
 	{"id":467,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":1,"rating":9,"skillId":1275},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1276},
-		{"conditionParam1":418,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1277},
-		{"conditionParam1":419,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1278},
-		{"conditionParam1":420,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1279},
-		{"conditionParam1":421,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1280},
-		{"conditionParam1":422,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1281}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":803},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":804},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":801},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":809},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":810},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":808},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":818},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":823}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-	],"gold":0,"name":"雷歐娜","note":"<Sideview battler: BLR_leonaSV>","params":[
-		7500,
-		10,
-		1,
-		900,
-		1,
-		900,
-		800,
-		900
+		{"kind":1,"dataId":803,"denominator":1},
+		{"kind":1,"dataId":804,"denominator":1},
+		{"kind":1,"dataId":805,"denominator":1}
+	],"exp":100000,"traits":[
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1.2},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.5},
+		{"code":23,"dataId":7,"value":0.5},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":1},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":1.5},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0.5},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":13,"dataId":10,"value":0.2},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":13,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":19,"value":0.2},
+		{"code":12,"dataId":0,"value":0.1},
+		{"code":12,"dataId":1,"value":0.1},
+		{"code":12,"dataId":2,"value":0.1},
+		{"code":12,"dataId":3,"value":0.1},
+		{"code":12,"dataId":4,"value":0},
+		{"code":12,"dataId":5,"value":0.1},
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0.1}
+	],"gold":50000,"name":"雷歐娜","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":950,\"def\":600,\"mdf\":950,\"agi\":700,\"luk\":400,\"hp\":50000,\"mp\":9999}>\n<Sideview battler: BLR_leonaSV>\n<showShadow>","params":[
+		40000,
+		9999,
+		500,
+		500,
+		850,
+		850,
+		600,
+		300
 	]},
 	{"id":468,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1294},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1292},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1293},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1294},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1295},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1296},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1297},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1298}
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1298}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-	],"gold":0,"name":"馬大嬸","note":"<Sideview battler: People4_2AveryMZSV>\n","params":[
-		7500,
-		10,
-		1,
-		900,
-		1,
-		900,
-		800,
-		900
-	]},
-	{"id":469,"actions":[
-		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":7,"skillId":1284},
-		{"conditionParam1":0,"conditionParam2":0.6,"conditionType":2,"rating":1,"skillId":1283},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1285},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1286},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1287},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1288},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1289},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1374},
-		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1290}
-	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":2,"dataId":28,"denominator":1},
+		{"kind":1,"dataId":720,"denominator":1},
+		{"kind":1,"dataId":417,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
@@ -21212,7 +21344,72 @@
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":0.5},
+		{"code":11,"dataId":12,"value":1},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":13,"dataId":8,"value":0},
+		{"code":13,"dataId":9,"value":0.2},
+		{"code":13,"dataId":10,"value":0},
+		{"code":13,"dataId":11,"value":0.2},
+		{"code":14,"dataId":12,"value":1},
+		{"code":13,"dataId":13,"value":1},
+		{"code":13,"dataId":14,"value":1},
+		{"code":13,"dataId":15,"value":0.2},
+		{"code":13,"dataId":16,"value":0},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":19,"value":0.1},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":50000,"name":"馬大嬸","note":"<alter:{\"cond\":4,\"atk\":800,\"mat\":675,\"def\":675,\"mdf\":675,\"agi\":650,\"luk\":600,\"hp\":50000,\"mp\":3000}>\n<Sideview battler: People4_2AveryMZSV>\n<showShadow>\n","params":[
+		45000,
+		2000,
+		700,
+		600,
+		600,
+		600,
+		575,
+		525
+	]},
+	{"id":469,"actions":[
+		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":7,"skillId":1284},
+		{"conditionParam1":0,"conditionParam2":0.6,"conditionType":2,"rating":1,"skillId":1283},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1285},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1286},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1287},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1288},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1289},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1290}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
+		{"kind":1,"dataId":215,"denominator":1},
+		{"kind":1,"dataId":218,"denominator":1},
+		{"kind":1,"dataId":312,"denominator":1}
+	],"exp":75000,"traits":[
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":1,"value":0.05},
+		{"code":22,"dataId":4,"value":0.05},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":1},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":1},
+		{"code":11,"dataId":11,"value":1},
+		{"code":11,"dataId":12,"value":1},
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
@@ -21228,25 +21425,26 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0.1},
-		{"code":12,"dataId":0,"value":0},
-		{"code":12,"dataId":1,"value":0},
-		{"code":12,"dataId":2,"value":0.1},
-		{"code":12,"dataId":3,"value":0.1},
-		{"code":12,"dataId":4,"value":0.1},
-		{"code":12,"dataId":5,"value":0.1},
-		{"code":12,"dataId":6,"value":0.1},
-		{"code":12,"dataId":7,"value":0.1}
-	],"gold":0,"name":"道具店老闆娘","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":900,\"def\":800,\"mdf\":900,\"agi\":700,\"luk\":850,\"hp\":50000,\"mp\":8000}>\n<Sideview battler: People4_4_2>\n","params":[
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":50000,"name":"道具店老闆娘","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":800,\"def\":700,\"mdf\":800,\"agi\":500,\"luk\":850,\"hp\":50000,\"mp\":8000}>\n<Sideview battler: People4_4_2>\n<showShadow>","params":[
 		45000,
 		5000,
 		600,
-		700,
-		800,
-		800,
 		600,
+		700,
+		700,
+		400,
 		750
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":470,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":9,"skillId":1308},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1308},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1309},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1310},
@@ -21254,27 +21452,27 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1312}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":261,"denominator":1},
+		{"kind":1,"dataId":416,"denominator":1},
+		{"kind":1,"dataId":416,"denominator":1}
+	],"exp":70000,"traits":[
 		{"code":23,"dataId":0,"value":1},
-		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":0,"value":1.15},
 		{"code":22,"dataId":2,"value":0.05},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
-		{"code":11,"dataId":1,"value":0.7},
-		{"code":11,"dataId":2,"value":0.7},
-		{"code":11,"dataId":3,"value":0.7},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
 		{"code":11,"dataId":4,"value":1},
 		{"code":11,"dataId":5,"value":1},
-		{"code":11,"dataId":6,"value":0.5},
-		{"code":11,"dataId":7,"value":0.3},
+		{"code":11,"dataId":6,"value":1.5},
+		{"code":11,"dataId":7,"value":1.5},
 		{"code":11,"dataId":8,"value":0.3},
 		{"code":11,"dataId":9,"value":0.5},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":0.5},
+		{"code":11,"dataId":12,"value":1},
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
@@ -21285,7 +21483,7 @@
 		{"code":14,"dataId":12,"value":1},
 		{"code":13,"dataId":13,"value":1},
 		{"code":14,"dataId":14,"value":1},
-		{"code":13,"dataId":15,"value":1},
+		{"code":13,"dataId":15,"value":0.2},
 		{"code":13,"dataId":16,"value":0.2},
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
@@ -21298,15 +21496,15 @@
 		{"code":12,"dataId":5,"value":0.2},
 		{"code":12,"dataId":6,"value":0.2},
 		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"鐵特","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":700,\"def\":750,\"mdf\":700,\"agi\":700,\"luk\":600,\"hp\":50000,\"mp\":5000}>\n<Sideview battler: BLR_TieTeSV>\n<Sideview Weapon: 23>","params":[
-		40000,
+	],"gold":25000,"name":"鐵特","note":"<alter:{\"cond\":4,\"atk\":750,\"mat\":500,\"def\":650,\"mdf\":400,\"agi\":500,\"luk\":500,\"hp\":40000,\"mp\":5000}>\n<Sideview battler: BLR_TieTeSV>\n<Sideview Weapon: 23>\n<showShadow>\n","params":[
+		35000,
 		3000,
-		800,
 		650,
-		600,
-		600,
-		600,
-		500
+		550,
+		400,
+		300,
+		400,
+		400
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":471,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1314},
@@ -21317,12 +21515,12 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1319}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":343,"denominator":1},
+		{"kind":1,"dataId":343,"denominator":1},
+		{"kind":1,"dataId":343,"denominator":1}
+	],"exp":35000,"traits":[
 		{"code":23,"dataId":0,"value":3},
-		{"code":22,"dataId":0,"value":0.95},
+		{"code":22,"dataId":0,"value":1.05},
 		{"code":22,"dataId":2,"value":0.05},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":22,"dataId":4,"value":0.05},
@@ -21333,42 +21531,42 @@
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":6,"value":0.3},
 		{"code":11,"dataId":7,"value":1},
-		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":8,"value":1.5},
 		{"code":11,"dataId":9,"value":1},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":1},
-		{"code":11,"dataId":12,"value":0.5},
+		{"code":11,"dataId":12,"value":1},
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
 		{"code":13,"dataId":8,"value":0.2},
 		{"code":14,"dataId":9,"value":1},
-		{"code":14,"dataId":10,"value":1},
+		{"code":13,"dataId":10,"value":0.2},
 		{"code":13,"dataId":11,"value":0.2},
-		{"code":14,"dataId":12,"value":1},
+		{"code":13,"dataId":12,"value":1},
 		{"code":13,"dataId":13,"value":1},
-		{"code":13,"dataId":14,"value":0.2},
+		{"code":13,"dataId":14,"value":1},
 		{"code":14,"dataId":15,"value":1},
 		{"code":14,"dataId":16,"value":1},
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0.2},
-		{"code":12,"dataId":0,"value":0},
-		{"code":12,"dataId":1,"value":0},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
 		{"code":12,"dataId":2,"value":0.2},
-		{"code":12,"dataId":3,"value":0},
+		{"code":12,"dataId":3,"value":0.2},
 		{"code":12,"dataId":4,"value":0.2},
-		{"code":12,"dataId":5,"value":0},
+		{"code":12,"dataId":5,"value":0.2},
 		{"code":12,"dataId":6,"value":0.2},
-		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"茉莉","note":"<alter:{\"cond\":4,\"atk\":750,\"mat\":500,\"def\":900,\"mdf\":700,\"agi\":600,\"luk\":700,\"hp\":50000,\"mp\":5000}>\n<Sideview battler: SV_Jeanne>\n<Sideview Weapon: 23>","params":[
-		40000,
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":25000,"name":"茉莉","note":"<alter:{\"cond\":4,\"atk\":550,\"mat\":450,\"def\":800,\"mdf\":700,\"agi\":450,\"luk\":700,\"hp\":35000,\"mp\":5000}>\n<Sideview battler: SV_Jeanne>\n<Sideview Weapon: 23>\n<showShadow>","params":[
+		30000,
 		3000,
-		650,
-		800,
+		500,
+		700,
 		400,
 		600,
-		500,
+		350,
 		600
 	],"meta":{"Sideview battler":" BLR_SaintessMaid01_05","Sideview Weapon":" 23"}},
 	{"id":472,"actions":[
@@ -21381,10 +21579,10 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1305}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
+		{"kind":1,"dataId":80,"denominator":1},
+		{"kind":1,"dataId":80,"denominator":1},
+		{"kind":1,"dataId":500,"denominator":1}
+	],"exp":75000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":1.3},
 		{"code":22,"dataId":2,"value":0.25},
@@ -21398,7 +21596,7 @@
 		{"code":11,"dataId":9,"value":1.5},
 		{"code":11,"dataId":10,"value":1},
 		{"code":11,"dataId":11,"value":0.5},
-		{"code":11,"dataId":12,"value":0.5},
+		{"code":11,"dataId":12,"value":1},
 		{"code":13,"dataId":1,"value":0},
 		{"code":14,"dataId":6,"value":1},
 		{"code":14,"dataId":7,"value":1},
@@ -21414,15 +21612,15 @@
 		{"code":14,"dataId":17,"value":1},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0.1},
-		{"code":12,"dataId":0,"value":0},
-		{"code":12,"dataId":1,"value":0},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
 		{"code":12,"dataId":2,"value":1},
 		{"code":12,"dataId":3,"value":0.2},
 		{"code":12,"dataId":4,"value":0.2},
 		{"code":12,"dataId":5,"value":0.2},
-		{"code":12,"dataId":6,"value":0},
+		{"code":12,"dataId":6,"value":0.1},
 		{"code":12,"dataId":7,"value":0.2}
-	],"gold":0,"name":"哈瑞","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":650,\"def\":650,\"mdf\":650,\"agi\":750,\"luk\":700,\"hp\":35000,\"mp\":7500}>\n<Sideview battler: BLR_HARUEI>\n<Sideview Weapon: 23>","params":[
+	],"gold":0,"name":"哈瑞","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":650,\"def\":650,\"mdf\":650,\"agi\":750,\"luk\":700,\"hp\":35000,\"mp\":7500}>\n<Sideview battler: BLR_HARUEI>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		30000,
 		5000,
 		550,
@@ -21445,9 +21643,9 @@
 		{"conditionParam1":17,"conditionParam2":0,"conditionType":4,"rating":5,"skillId":1321},
 		{"conditionParam1":230,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1325}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":1,"dataId":285,"denominator":1},
+		{"kind":1,"dataId":286,"denominator":1},
+		{"kind":1,"dataId":287,"denominator":1}
 	],"exp":50000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21473,7 +21671,7 @@
 		{"code":12,"dataId":2,"value":0.25},
 		{"code":12,"dataId":5,"value":0.5},
 		{"code":12,"dataId":6,"value":0.5}
-	],"gold":25000,"name":"路人甲","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":700,\"def\":800,\"mdf\":650,\"agi\":600,\"luk\":550,\"hp\":45000,\"mp\":3000}>\n<Sideview battler: SV_onlooker01>\n<Sideview Weapon: 23>","params":[
+	],"gold":25000,"name":"路人甲","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":700,\"def\":800,\"mdf\":650,\"agi\":600,\"luk\":550,\"hp\":45000,\"mp\":3000}>\n<Sideview battler: SV_onlooker01>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		35000,
 		2000,
 		600,
@@ -21490,9 +21688,9 @@
 		{"conditionParam1":0,"conditionParam2":0.3,"conditionType":3,"rating":5,"skillId":1321},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1343}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":1,"dataId":304,"denominator":1},
+		{"kind":1,"dataId":304,"denominator":1},
+		{"kind":1,"dataId":215,"denominator":1}
 	],"exp":100000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21516,7 +21714,7 @@
 		{"code":12,"dataId":2,"value":0.25},
 		{"code":12,"dataId":5,"value":0.5},
 		{"code":12,"dataId":6,"value":0.5}
-	],"gold":50000,"name":"超級路人甲2","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":1050,\"mdf\":1050,\"agi\":800,\"luk\":800,\"hp\":45000,\"mp\":8000}>\n<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>\n","params":[
+	],"gold":50000,"name":"超級路人甲2","note":"<alter:{\"cond\":4,\"atk\":900,\"mat\":900,\"def\":1050,\"mdf\":1050,\"agi\":800,\"luk\":800,\"hp\":45000,\"mp\":8000}>\n<Sideview battler: SV_onlooker02>\n<Sideview Weapon: 23>\n<showShadow>\n","params":[
 		35000,
 		5000,
 		750,
@@ -21534,9 +21732,9 @@
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1364},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":2,"rating":5,"skillId":1390}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":2,"dataId":10,"denominator":1},
+		{"kind":3,"dataId":372,"denominator":1},
+		{"kind":3,"dataId":604,"denominator":1}
 	],"exp":15000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21578,7 +21776,7 @@
 		{"code":12,"dataId":5,"value":0.5},
 		{"code":12,"dataId":6,"value":0.5},
 		{"code":12,"dataId":7,"value":1}
-	],"gold":0,"name":"刀疤","note":"<alter:{\"cond\":4,\"atk\":800,\"mat\":300,\"def\":650,\"mdf\":650,\"agi\":500,\"luk\":500,\"hp\":37500,\"mp\":2000}>\n<Sideview battler: BLR_GreenLeafSV04>\n<Sideview Weapon: 23>","params":[
+	],"gold":0,"name":"刀疤","note":"<alter:{\"cond\":4,\"atk\":800,\"mat\":300,\"def\":650,\"mdf\":650,\"agi\":500,\"luk\":500,\"hp\":37500,\"mp\":2000}>\n<Sideview battler: BLR_GreenLeafSV04>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		30000,
 		1000,
 		700,
@@ -21596,9 +21794,9 @@
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1360},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":2,"rating":5,"skillId":1390}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":3,"dataId":100,"denominator":1},
+		{"kind":3,"dataId":399,"denominator":1},
+		{"kind":3,"dataId":868,"denominator":1}
 	],"exp":15000,"traits":[
 		{"code":23,"dataId":0,"value":3},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21632,15 +21830,15 @@
 		{"code":13,"dataId":17,"value":0.2},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0.4},
-		{"code":12,"dataId":0,"value":0},
-		{"code":12,"dataId":1,"value":0},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
 		{"code":12,"dataId":2,"value":0.5},
-		{"code":12,"dataId":3,"value":0},
+		{"code":12,"dataId":3,"value":0.1},
 		{"code":12,"dataId":4,"value":0.5},
-		{"code":12,"dataId":5,"value":0},
+		{"code":12,"dataId":5,"value":0.1},
 		{"code":12,"dataId":6,"value":1},
 		{"code":12,"dataId":7,"value":1}
-	],"gold":0,"name":"傅面","note":"<alter:{\"cond\":4,\"atk\":550,\"mat\":400,\"def\":950,\"mdf\":950,\"agi\":350,\"luk\":300,\"hp\":50000,\"mp\":2000}>\n<Sideview battler: BLR_GreenLeafSV03>\n<Sideview Weapon: 23>","params":[
+	],"gold":0,"name":"傅面","note":"<alter:{\"cond\":4,\"atk\":550,\"mat\":400,\"def\":950,\"mdf\":950,\"agi\":350,\"luk\":300,\"hp\":50000,\"mp\":2000}>\n<Sideview battler: BLR_GreenLeafSV03>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		40000,
 		1000,
 		450,
@@ -21658,9 +21856,9 @@
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1368},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":2,"rating":5,"skillId":1390}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":1,"dataId":282,"denominator":1},
+		{"kind":3,"dataId":870,"denominator":1},
+		{"kind":3,"dataId":67,"denominator":1}
 	],"exp":15000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":1.1},
@@ -21700,9 +21898,9 @@
 		{"code":12,"dataId":3,"value":0.5},
 		{"code":12,"dataId":4,"value":0.5},
 		{"code":12,"dataId":5,"value":0.5},
-		{"code":12,"dataId":6,"value":0},
-		{"code":12,"dataId":7,"value":0}
-	],"gold":0,"name":"曉卒","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":450,\"def\":400,\"mdf\":400,\"agi\":600,\"luk\":750,\"hp\":25000,\"mp\":1500}>\n<Sideview battler: BLR_GreenLeafSV02>\n<Sideview Weapon: 23>","params":[
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0.1}
+	],"gold":0,"name":"曉卒","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":450,\"def\":400,\"mdf\":400,\"agi\":600,\"luk\":750,\"hp\":25000,\"mp\":1500}>\n<Sideview battler: BLR_GreenLeafSV02>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		20000,
 		1000,
 		500,
@@ -21721,9 +21919,9 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1373}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":3,"dataId":368,"denominator":1},
+		{"kind":1,"dataId":335,"denominator":1},
+		{"kind":1,"dataId":338,"denominator":1}
 	],"exp":35000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":1.3},
@@ -21763,9 +21961,9 @@
 		{"code":12,"dataId":3,"value":0.5},
 		{"code":12,"dataId":4,"value":0.5},
 		{"code":12,"dataId":5,"value":0.5},
-		{"code":12,"dataId":6,"value":0},
-		{"code":12,"dataId":7,"value":0}
-	],"gold":50000,"name":"重影","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":750,\"def\":500,\"mdf\":650,\"agi\":800,\"luk\":650,\"hp\":35000,\"mp\":5000}>\n<Sideview battler: BLR_GreenLeafSV01>\n<Sideview Weapon: 23>","params":[
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0.1}
+	],"gold":50000,"name":"重影","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":750,\"def\":500,\"mdf\":650,\"agi\":800,\"luk\":650,\"hp\":35000,\"mp\":5000}>\n<Sideview battler: BLR_GreenLeafSV01>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		25000,
 		3500,
 		500,
@@ -21785,9 +21983,9 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":6,"skillId":1374},
 		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1351}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":2,"dataId":184,"denominator":1},
+		{"kind":1,"dataId":273,"denominator":1},
+		{"kind":1,"dataId":261,"denominator":1}
 	],"exp":50000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21801,7 +21999,7 @@
 		{"code":11,"dataId":3,"value":0.5},
 		{"code":11,"dataId":8,"value":0.25},
 		{"code":11,"dataId":9,"value":0.25},
-		{"code":11,"dataId":12,"value":0.5},
+		{"code":11,"dataId":12,"value":1},
 		{"code":13,"dataId":8,"value":0.2},
 		{"code":13,"dataId":9,"value":0.2},
 		{"code":13,"dataId":10,"value":0.2},
@@ -21820,7 +22018,7 @@
 		{"code":12,"dataId":0,"value":0.25},
 		{"code":12,"dataId":3,"value":0.25},
 		{"code":12,"dataId":5,"value":0.25}
-	],"gold":50000,"name":"忠之琳","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":600,\"def\":700,\"mdf\":600,\"agi\":500,\"luk\":450,\"hp\":35000,\"mp\":1500}>\n<Sideview battler: SV_Gomez>\n<Sideview Weapon: 23>","params":[
+	],"gold":50000,"name":"忠之琳","note":"<alter:{\"cond\":4,\"atk\":700,\"mat\":600,\"def\":700,\"mdf\":600,\"agi\":500,\"luk\":450,\"hp\":35000,\"mp\":1500}>\n<Sideview battler: SV_Gomez>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		30000,
 		1000,
 		600,
@@ -21836,9 +22034,9 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1353},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1352}
 	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":2,"dataId":6,"denominator":1},
+		{"kind":3,"dataId":302,"denominator":1},
+		{"kind":1,"dataId":258,"denominator":1}
 	],"exp":1000,"traits":[
 		{"code":23,"dataId":0,"value":1},
 		{"code":22,"dataId":0,"value":0.95},
@@ -21874,12 +22072,12 @@
 	]},
 	{"id":481,"actions":[
 	],"battlerHue":0,"battlerName":"box","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
+		{"kind":1,"dataId":15,"denominator":1},
+		{"kind":1,"dataId":42,"denominator":1},
+		{"kind":1,"dataId":65,"denominator":1}
 	],"exp":0,"traits":[
 		{"code":22,"dataId":1,"value":-1}
-	],"gold":500,"name":"物資箱","note":"<死時技能:[[1375,1]]>","params":[
+	],"gold":500,"name":"物資箱","note":"<死時技能:[[1375,1]]>\n<showShadow>","params":[
 		100,
 		0,
 		10,
@@ -21915,7 +22113,7 @@
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
 		{"code":22,"dataId":1,"value":-1}
-	],"gold":0,"name":"大地魔花","note":"<死時技能:[[1377,1]]>","params":[
+	],"gold":0,"name":"大地魔花","note":"<死時技能:[[1377,1]]>\n<showShadow>","params":[
 		100,
 		0,
 		10,
@@ -21943,68 +22141,141 @@
 		10
 	]},
 	{"id":485,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":5},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":562},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":563},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":591},
+		{"conditionParam1":0,"conditionParam2":0.5,"conditionType":2,"rating":1,"skillId":564},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":697},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":699},
+		{"conditionParam1":1,"conditionParam2":2,"conditionType":1,"rating":5,"skillId":750}
+	],"battlerHue":0,"battlerName":"mechine_09_5","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
+	],"exp":5000,"traits":[
+		{"code":23,"dataId":0,"value":3},
+		{"code":22,"dataId":0,"value":0.9},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":3,"value":0.25},
+		{"code":22,"dataId":1,"value":-0.5},
+		{"code":22,"dataId":4,"value":-0.5},
+		{"code":23,"dataId":0,"value":3},
+		{"code":31,"dataId":3,"value":0},
+		{"code":11,"dataId":5,"value":2},
+		{"code":23,"dataId":6,"value":0.5},
+		{"code":23,"dataId":7,"value":1.5},
+		{"code":11,"dataId":12,"value":2},
+		{"code":13,"dataId":6,"value":0},
+		{"code":13,"dataId":7,"value":0},
+		{"code":13,"dataId":8,"value":0},
+		{"code":13,"dataId":9,"value":0},
+		{"code":13,"dataId":10,"value":0},
+		{"code":13,"dataId":11,"value":0},
+		{"code":13,"dataId":12,"value":0.25},
+		{"code":13,"dataId":13,"value":0.25},
+		{"code":13,"dataId":14,"value":0.25},
+		{"code":13,"dataId":15,"value":0},
+		{"code":13,"dataId":16,"value":0},
+		{"code":13,"dataId":17,"value":0},
+		{"code":13,"dataId":18,"value":0},
+		{"code":13,"dataId":19,"value":0.5},
+		{"code":13,"dataId":1,"value":0}
+	],"gold":5000,"name":"GXPT3000原型","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":400,\"def\":150,\"mdf\":150,\"agi\":100,\"luk\":10,\"hp\":7000,\"mp\":9999}>\n<死時技能:[[702,1]]>","params":[
+		15000,
+		6000,
+		600,
+		600,
+		600,
+		600,
+		600,
+		600
 	]},
 	{"id":486,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":591},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":683},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":2,"skillId":699},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":684},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":697}
+	],"battlerHue":0,"battlerName":"ETNR_058_2","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
+	],"exp":5000,"traits":[
+		{"code":22,"dataId":0,"value":1.2},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":23,"dataId":6,"value":1.5},
+		{"code":23,"dataId":7,"value":0.5},
+		{"code":11,"dataId":5,"value":2},
+		{"code":11,"dataId":12,"value":2},
+		{"code":13,"dataId":6,"value":0},
+		{"code":13,"dataId":7,"value":0},
+		{"code":13,"dataId":8,"value":0},
+		{"code":13,"dataId":9,"value":0},
+		{"code":13,"dataId":10,"value":0},
+		{"code":13,"dataId":11,"value":0},
+		{"code":13,"dataId":12,"value":0.25},
+		{"code":13,"dataId":13,"value":0.25},
+		{"code":13,"dataId":14,"value":0.25},
+		{"code":13,"dataId":15,"value":0},
+		{"code":13,"dataId":16,"value":0},
+		{"code":13,"dataId":17,"value":0},
+		{"code":13,"dataId":18,"value":0},
+		{"code":13,"dataId":19,"value":1},
+		{"code":13,"dataId":1,"value":0}
+	],"gold":5000,"name":"GXPT3000快攻型","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":400,\"def\":150,\"mdf\":150,\"agi\":100,\"luk\":10,\"hp\":7000,\"mp\":9999}>\n<死時技能:[[702,1]]>","params":[
+		15000,
+		4000,
+		200,
+		150,
+		200,
+		150,
+		800,
 		10
 	]},
 	{"id":487,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":314},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":315},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":591}
+	],"battlerHue":0,"battlerName":"20190512_1422154","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
+	],"exp":5000,"traits":[
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":1,"value":1.5},
+		{"code":22,"dataId":4,"value":1.5},
+		{"code":31,"dataId":3,"value":0},
+		{"code":11,"dataId":5,"value":2},
+		{"code":11,"dataId":12,"value":2},
+		{"code":13,"dataId":6,"value":0},
+		{"code":13,"dataId":7,"value":0},
+		{"code":13,"dataId":8,"value":0},
+		{"code":13,"dataId":9,"value":0},
+		{"code":13,"dataId":10,"value":0},
+		{"code":13,"dataId":11,"value":0},
+		{"code":13,"dataId":12,"value":0.25},
+		{"code":13,"dataId":13,"value":0.25},
+		{"code":13,"dataId":14,"value":0.25},
+		{"code":13,"dataId":15,"value":0},
+		{"code":13,"dataId":16,"value":0},
+		{"code":13,"dataId":17,"value":0},
+		{"code":13,"dataId":18,"value":0},
+		{"code":13,"dataId":19,"value":1},
+		{"code":13,"dataId":1,"value":0}
+	],"gold":5000,"name":"GXPT3000偵查型","note":"<alter:{\"cond\":4,\"atk\":400,\"mat\":400,\"def\":150,\"mdf\":150,\"agi\":100,\"luk\":10,\"hp\":7000,\"mp\":9999}>\n","params":[
+		2000,
+		9999,
+		200,
+		150,
+		200,
+		150,
 		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
 		10
 	]},
 	{"id":488,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+	],"battlerHue":289,"battlerName":"sena280","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
@@ -22012,7 +22283,7 @@
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
+	],"gold":0,"name":"歌愛人偶","note":"","params":[
 		100,
 		0,
 		10,
@@ -22024,7 +22295,7 @@
 	]},
 	{"id":489,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+	],"battlerHue":202,"battlerName":"sena280","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
@@ -22032,7 +22303,7 @@
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":1,"value":0.05},
 		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
+	],"gold":0,"name":"劇愛人偶","note":"","params":[
 		100,
 		0,
 		10,
@@ -22043,107 +22314,310 @@
 		10
 	]},
 	{"id":490,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":958},
+		{"conditionParam1":378,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":957},
+		{"conditionParam1":379,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":956}
+	],"battlerHue":0,"battlerName":"Crystal_blue","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":2,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":0},
+		{"code":11,"dataId":7,"value":0},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":0},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":0,"name":"亞坤","note":"<alter:{\"cond\":4,\"atk\":550,\"mat\":750,\"def\":475,\"mdf\":750,\"agi\":550,\"luk\":500,\"hp\":15000,\"mp\":9999}>\n<showShadow>","params":[
+		10000,
+		9999,
+		500,
+		425,
+		650,
+		650,
+		500,
+		500
 	]},
 	{"id":491,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":961},
+		{"conditionParam1":378,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":960},
+		{"conditionParam1":379,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":959}
+	],"battlerHue":0,"battlerName":"Crystal_green","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":2,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":1},
+		{"code":11,"dataId":5,"value":0},
+		{"code":11,"dataId":6,"value":0},
+		{"code":11,"dataId":7,"value":0},
+		{"code":11,"dataId":8,"value":0},
+		{"code":11,"dataId":9,"value":0},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":0,"name":"芬托斯","note":"<alter:{\"cond\":4,\"atk\":550,\"mat\":550,\"def\":550,\"mdf\":550,\"agi\":750,\"luk\":500,\"hp\":15000,\"mp\":9999}>\n<showShadow>","params":[
+		10000,
+		9999,
+		500,
+		500,
+		500,
+		500,
+		650,
+		500
 	]},
 	{"id":492,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":964},
+		{"conditionParam1":378,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":963},
+		{"conditionParam1":379,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":962}
+	],"battlerHue":0,"battlerName":"Crystal_yellow","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":2,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0},
+		{"code":11,"dataId":5,"value":0},
+		{"code":11,"dataId":6,"value":0},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":0},
+		{"code":11,"dataId":9,"value":0},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":0,"name":"泰拉","note":"<alter:{\"cond\":4,\"atk\":475,\"mat\":475,\"def\":750,\"mdf\":750,\"agi\":475,\"luk\":500,\"hp\":15000,\"mp\":9999}>\n<showShadow>","params":[
+		10000,
+		9999,
+		425,
+		650,
+		425,
+		650,
+		425,
+		500
 	]},
 	{"id":493,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":967},
+		{"conditionParam1":378,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":966},
+		{"conditionParam1":379,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":965}
+	],"battlerHue":0,"battlerName":"Crystal_red","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0}
 	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
-		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
-		10,
-		10,
-		10,
-		10,
-		10,
-		10
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1},
+		{"code":22,"dataId":2,"value":0},
+		{"code":22,"dataId":1,"value":-0.25},
+		{"code":22,"dataId":4,"value":-0.25},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":0},
+		{"code":11,"dataId":5,"value":0},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":0},
+		{"code":11,"dataId":8,"value":0},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":0},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":14,"dataId":10,"value":1},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":14,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":14,"dataId":19,"value":1},
+		{"code":12,"dataId":0,"value":0.2},
+		{"code":12,"dataId":1,"value":0.2},
+		{"code":12,"dataId":2,"value":0.2},
+		{"code":12,"dataId":3,"value":0.2},
+		{"code":12,"dataId":4,"value":0.2},
+		{"code":12,"dataId":5,"value":0.2},
+		{"code":12,"dataId":6,"value":0.2},
+		{"code":12,"dataId":7,"value":0.2}
+	],"gold":0,"name":"弗拉瑪","note":"<alter:{\"cond\":4,\"atk\":750,\"mat\":750,\"def\":475,\"mdf\":475,\"agi\":625,\"luk\":500,\"hp\":15000,\"mp\":9999}>\n<showShadow>","params":[
+		10000,
+		9999,
+		650,
+		425,
+		650,
+		425,
+		575,
+		500
 	]},
 	{"id":494,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
-	],"battlerHue":0,"battlerName":"","dropItems":[
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0},
-		{"dataId":1,"denominator":1,"kind":0}
-	],"exp":0,"traits":[
-		{"code":22,"dataId":0,"value":0.95},
+		{"conditionParam1":1,"conditionParam2":1,"conditionType":3,"rating":9,"skillId":1276},
+		{"conditionParam1":0.8,"conditionParam2":0.8,"conditionType":3,"rating":1,"skillId":1279},
+		{"conditionParam1":0.7,"conditionParam2":0.7,"conditionType":3,"rating":9,"skillId":1281}
+	],"battlerHue":0,"battlerName":"Animal_04","dropItems":[
+		{"kind":1,"dataId":803,"denominator":1},
+		{"kind":1,"dataId":804,"denominator":1},
+		{"kind":1,"dataId":805,"denominator":1}
+	],"exp":100000,"traits":[
+		{"code":23,"dataId":0,"value":1},
+		{"code":22,"dataId":0,"value":1.2},
+		{"code":22,"dataId":2,"value":0.05},
 		{"code":22,"dataId":1,"value":0.05},
-		{"code":31,"dataId":1,"value":0}
-	],"gold":0,"name":"","note":"","params":[
-		100,
-		0,
+		{"code":22,"dataId":4,"value":0.5},
+		{"code":23,"dataId":7,"value":0.5},
+		{"code":11,"dataId":1,"value":1},
+		{"code":11,"dataId":2,"value":1},
+		{"code":11,"dataId":3,"value":1},
+		{"code":11,"dataId":4,"value":1},
+		{"code":11,"dataId":5,"value":1},
+		{"code":11,"dataId":6,"value":1},
+		{"code":11,"dataId":7,"value":1},
+		{"code":11,"dataId":8,"value":1},
+		{"code":11,"dataId":9,"value":1},
+		{"code":11,"dataId":10,"value":1.5},
+		{"code":11,"dataId":11,"value":0},
+		{"code":11,"dataId":12,"value":0.5},
+		{"code":13,"dataId":1,"value":0},
+		{"code":14,"dataId":6,"value":1},
+		{"code":14,"dataId":7,"value":1},
+		{"code":14,"dataId":8,"value":1},
+		{"code":14,"dataId":9,"value":1},
+		{"code":13,"dataId":10,"value":0.2},
+		{"code":14,"dataId":11,"value":1},
+		{"code":14,"dataId":12,"value":1},
+		{"code":13,"dataId":13,"value":1},
+		{"code":14,"dataId":14,"value":1},
+		{"code":14,"dataId":15,"value":1},
+		{"code":14,"dataId":16,"value":1},
+		{"code":14,"dataId":17,"value":1},
+		{"code":14,"dataId":18,"value":1},
+		{"code":13,"dataId":19,"value":0.2},
+		{"code":12,"dataId":0,"value":0.1},
+		{"code":12,"dataId":1,"value":0.1},
+		{"code":12,"dataId":2,"value":0.1},
+		{"code":12,"dataId":3,"value":0.1},
+		{"code":12,"dataId":4,"value":0},
+		{"code":12,"dataId":5,"value":0.1},
+		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":7,"value":0.1}
+	],"gold":50000,"name":"雷歐娜(二階段)","note":"<alter:{\"cond\":4,\"atk\":600,\"mat\":950,\"def\":600,\"mdf\":950,\"agi\":700,\"luk\":400,\"hp\":50000,\"mp\":9999}>\n<Sideview battler: BLR_leonaSV>\n<showShadow>","params":[
+		40000,
 		10,
-		10,
-		10,
-		10,
-		10,
-		10
+		500,
+		500,
+		850,
+		850,
+		999,
+		300
 	]},
 	{"id":495,"actions":[
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1275},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1276},
+		{"conditionParam1":0,"conditionParam2":3,"conditionType":1,"rating":4,"skillId":1277},
+		{"conditionParam1":0,"conditionParam2":6,"conditionType":1,"rating":4,"skillId":1278},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1279},
+		{"conditionParam1":0,"conditionParam2":5,"conditionType":1,"rating":1,"skillId":1280},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":7,"skillId":1374},
+		{"conditionParam1":29,"conditionParam2":0,"conditionType":4,"rating":9,"skillId":1281}
 	],"battlerHue":0,"battlerName":"","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},

@@ -594,8 +594,24 @@
 		{"code":22,"dataId":18,"value1":1,"value2":0},
 		{"code":22,"dataId":19,"value1":1,"value2":0}
 	],"hitType":0,"iconIndex":1742,"itypeId":1,"name":"奇蹟甲胖","note":"<道具>\n<speed:20000>\n<maxStack:10>\n<道具額外文字檔:BLR_custom/detail/item/Items217.txt>","occasion":0,"price":12000,"repeats":1,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
-	{"id":218,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":218,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":0},"description":"我方全體HP、MP回復 100%，解除全狀態異常，解除\\it[1]，\n重複4次。","effects":[
+		{"code":11,"dataId":0,"value1":1,"value2":0},
+		{"code":12,"dataId":0,"value1":1,"value2":0},
+		{"code":22,"dataId":6,"value1":1,"value2":0},
+		{"code":22,"dataId":7,"value1":1,"value2":0},
+		{"code":22,"dataId":8,"value1":1,"value2":0},
+		{"code":22,"dataId":9,"value1":1,"value2":0},
+		{"code":22,"dataId":10,"value1":1,"value2":0},
+		{"code":22,"dataId":11,"value1":1,"value2":0},
+		{"code":22,"dataId":12,"value1":1,"value2":0},
+		{"code":22,"dataId":13,"value1":1,"value2":0},
+		{"code":22,"dataId":14,"value1":1,"value2":0},
+		{"code":22,"dataId":15,"value1":1,"value2":0},
+		{"code":22,"dataId":16,"value1":1,"value2":0},
+		{"code":22,"dataId":17,"value1":1,"value2":0},
+		{"code":22,"dataId":18,"value1":1,"value2":0},
+		{"code":22,"dataId":19,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":602,"itypeId":1,"name":"家庭號奇蹟之靈","note":"<道具>\n<speed:20000>\n<forAllFriends>\n<道具額外文字檔:BLR_custom/detail/item/Items215.txt>","occasion":0,"price":2,"repeats":4,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":219,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":220,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -618,8 +634,26 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":229,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":230,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":230,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":0},"description":"我方全體HP、MP回復100%，解除全狀態異常，解除\\it[1]，\n重複5次，並獲得不死庇護，持續3次行動。","effects":[
+		{"code":11,"dataId":0,"value1":1,"value2":0},
+		{"code":12,"dataId":0,"value1":1,"value2":0},
+		{"code":22,"dataId":6,"value1":1,"value2":0},
+		{"code":22,"dataId":7,"value1":1,"value2":0},
+		{"code":22,"dataId":8,"value1":1,"value2":0},
+		{"code":22,"dataId":9,"value1":1,"value2":0},
+		{"code":22,"dataId":10,"value1":1,"value2":0},
+		{"code":22,"dataId":11,"value1":1,"value2":0},
+		{"code":22,"dataId":12,"value1":1,"value2":0},
+		{"code":22,"dataId":13,"value1":1,"value2":0},
+		{"code":22,"dataId":14,"value1":1,"value2":0},
+		{"code":22,"dataId":15,"value1":1,"value2":0},
+		{"code":22,"dataId":16,"value1":1,"value2":0},
+		{"code":22,"dataId":17,"value1":1,"value2":0},
+		{"code":22,"dataId":18,"value1":1,"value2":0},
+		{"code":22,"dataId":19,"value1":1,"value2":0},
+		{"code":21,"dataId":235,"value1":1,"value2":0},
+		{"code":21,"dataId":236,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":980,"itypeId":1,"name":"世界樹樹枝","note":"<道具>\n<speed:20000>\n<forAllFriends>\n<道具額外文字檔:BLR_custom/detail/item/Items215.txt>","occasion":0,"price":2,"repeats":5,"scope":8,"speed":2000,"successRate":100,"tpGain":0},
 	{"id":231,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":232,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1052,12 +1086,34 @@
 	{"id":342,"animationId":11,"consumable":true,"damage":{"critical":true,"elementId":2,"formula":"a.luk / 2 + a.atk / 2 - b.def / 3","type":1,"variance":20},"description":"「物理&斬屬性」給予敵方單體攻擊傷害，依照使用者的\n幸運提升威力，有一定機率麻痺。","effects":[
 		{"code":21,"dataId":19,"value1":0.3,"value2":0}
 	],"hitType":1,"iconIndex":96,"itypeId":1,"name":"麻痺苦無","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":2000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":1},
-	{"id":343,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":344,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":345,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":343,"animationId":11,"consumable":true,"damage":{"critical":false,"elementId":6,"formula":"2000","type":2,"variance":50},"description":"「魔法&冰屬性」茉莉的句點，給予敵方單體大量MP攻擊傷害，\n並給予＂尷尬＂。※尷尬：無法行動，持續1回合","effects":[
+		{"code":21,"dataId":380,"value1":1,"value2":0}
+	],"hitType":2,"iconIndex":750,"itypeId":1,"name":"句點","note":"<道具>\n<speed:20000>\n<道具額外文字檔:BLR_custom/detail/item/Items323.txt>","occasion":1,"price":2000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":1},
+	{"id":344,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"限戰鬥中使用，持有上限1，我方全體獲得『必閃』持續\n3次行動。※必閃：迴避除了絕對命中以外的物理、魔法傷害。","effects":[
+		{"code":21,"dataId":480,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":225,"itypeId":1,"name":"必閃藥水四瓶裝","note":"<speed:20000>\n<maxStack:1>","occasion":1,"price":2,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
+	{"id":345,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"雷歐娜贈與的月藍寶物，我方單體解除所有駭惡狀態，\n可無限使用。","effects":[
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0},
+		{"code":21,"dataId":199,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":210,"itypeId":1,"name":"黑魔寶匣","note":"<speed:20000>\n<maxStack:1>","occasion":1,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":346,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":347,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1304,12 +1360,14 @@
 		{"code":42,"dataId":6,"value1":10,"value2":0},
 		{"code":42,"dataId":7,"value1":10,"value2":0}
 	],"hitType":0,"iconIndex":1650,"itypeId":1,"name":"超美味大蛋糕","note":"<道具>\n<usedOnTags:[\"女\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":416,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":417,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":418,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":416,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"王國第一大製油廠出品的武器用油，但最近爆出了品質問題\n令人不安，使用利器武器的人才能使用，使用後攻擊力+5","effects":[
+		{"code":42,"dataId":2,"value1":5,"value2":0}
+	],"hitType":0,"iconIndex":1650,"itypeId":1,"name":"帝鉤油","note":"<道具>\n<usedOnTags:[\"陸維皮\",\"天使蛋糕\",\"娜娜美\",\"白色向日葵\",\"星之風\",\"露西蛋糕\"]>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":417,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"[2,3,4,5,6,7].forEach(i=>b.addParam(i,[1,3,10,17].includes(b.actorId())?5:0));0","type":3,"variance":20},"description":"青蛙肉做的肉羹湯，好喝爽口，滋補壯陽，使用後最大HP+50，\n男性使用效果更好。","effects":[
+		{"code":42,"dataId":0,"value1":50,"value2":0}
+	],"hitType":0,"iconIndex":1769,"itypeId":1,"name":"蛙肉羹湯","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items409.txt>","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":418,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"let p=[0,1,2,3,4,5,6,7];for(let i=p.length-1;i>0;i--){let j=Math.floor(Math.random()*(i+1));[p[i],p[j]]=[p[j],p[i]];}for(let i=0;i<3;i++){let v=(Math.floor(Math.random()*30)+1)*(Math.random()<0.5?-1:1);b.addParam(p[i],v);}0","type":3,"variance":0},"description":"雪葉調製的神祕飲料，內容非常混沌，聞起來有辣椒的味道，\n全能力中隨機三項能力永久隨機變化。","effects":[
+	],"hitType":0,"iconIndex":428,"itypeId":1,"name":"神秘特調","note":"<道具>\n<overflowDamage:1>\n<道具額外文字檔:BLR_custom/detail/item/Items413.txt>\n","occasion":2,"price":2,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":419,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":420,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1463,8 +1521,8 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":494,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":495,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":495,"animationId":0,"consumable":false,"damage":{"critical":false,"elementId":0,"formula":"1","type":0,"variance":0},"description":"霍恩贈與的奇怪箱子，上頭有強力的封印，被告知必須通關\n絕無城所有關卡封印才會自動解開。","effects":[
+	],"hitType":0,"iconIndex":210,"itypeId":2,"name":"奇怪的箱子","note":"<maxStack:1>","occasion":3,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":496,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":497,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1473,28 +1531,30 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":499,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":500,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":501,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":500,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"非常高級的茶葉禮盒，外觀風雅至極，送給愛喝茶的長輩的\n最佳選擇，使用後獲得任一【凱鐵支畝村花草店花茶效果】","effects":[
+		{"code":44,"dataId":271,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":210,"itypeId":1,"name":"高級茶葉禮盒","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":501,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"四戀❦楚歌咖啡廳的特製外帶餐點，使用後獲得任一\n【四戀❦楚歌內用餐點效果】","effects":[
+		{"code":44,"dataId":281,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":208,"itypeId":1,"name":"咖啡廳外帶餐盒","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":502,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":503,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":504,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":505,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":506,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":507,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":508,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":509,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":510,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":505,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"酸烤蔬菜與炭燒三明治搭配清涼飲料的組合。\n食用這項餐點後，我方全隊免疫「物攻下降」、「物攻+30」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"直覺預感套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":506,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"嚴選特級的紅豆製成的和果子，搭配史萊姆涼糕的組合。\n食用這項餐點後，我方全隊免疫「魔攻下降」、「魔攻+30」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"公主假日套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":507,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"香甜蘋果派與使用蜂糖淋醬的蜜汁排骨的組合。\n食用這項餐點後，我方全隊免疫「防禦下降」、「防禦+30」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"甜蜜思念套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":508,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"豪邁的燒烤整條大魚，配上嗆辣炒魷魚的組合。\n食用這項餐點後，我方全隊免疫「魔防下降」、「魔防+30」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"青春修練套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":509,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"山苦瓜與豬後腿肉製成的鑲肉料理，搭配長生菜煲湯的組合。\n食用這項餐點後，我方全隊免疫「HP下降」、「最大HP+150」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"褪色約定套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":510,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"各色食材包裹米飯製成的七彩糰球，與各式醃菜的組合。\n食用這項餐點後，我方全隊免疫「MP下降」、「最大MP+150」","effects":[
+	],"hitType":0,"iconIndex":274,"itypeId":1,"name":"斑斕回憶套餐","note":"<maxStack:1>\n<unionCnt:[[\"i\",505],[\"i\",506],[\"i\",507],[\"i\",508],[\"i\",509],[\"i\",510]]>","occasion":3,"price":10000,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":511,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":512,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -1913,8 +1973,8 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":719,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":720,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	{"id":720,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"5","type":0,"variance":0},"description":"馬大嬸常用的磨刀石，用來磨菜刀最好用了。","effects":[
+	],"hitType":0,"iconIndex":688,"itypeId":1,"name":"磨刀石","note":"<道具>\n<道具額外文字檔:BLR_custom/detail/item/Items695.txt>","occasion":3,"price":400,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":721,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":722,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
@@ -2077,24 +2137,26 @@
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":800,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"--技能書--","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":801,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"重影所贈的忍術卷軸，使用後星之風可學會『八穴齊開』。","effects":[
+	{"id":801,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"重影所贈的忍術卷軸，使用後星之風可習得【八穴齊開】。","effects":[
 		{"code":44,"dataId":255,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"忍術卷軸","note":"","occasion":2,"price":0,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
-	{"id":802,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"古舊的武功秘笈，使用後陸維皮可學會『空蟬探花手』。","effects":[
+	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"忍術卷軸","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":802,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"古舊的武功秘笈，使用後陸維皮可習得【空蟬探花手】。","effects":[
 		{"code":44,"dataId":254,"value1":1,"value2":0}
-	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"手卷","note":"","occasion":2,"price":0,"repeats":1,"scope":8,"speed":0,"successRate":100,"tpGain":0},
-	{"id":803,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":804,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":805,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":806,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":807,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
-	{"id":808,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
-	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
+	],"hitType":0,"iconIndex":191,"itypeId":2,"name":"手卷","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":803,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"雷歐娜研究出來，用來強化露西蛋糕戰鬥能力的輔助晶片，\n使用後露西蛋糕可習得【補給】。","effects":[
+	],"hitType":0,"iconIndex":83,"itypeId":2,"name":"擴充晶片X","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":804,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"雷歐娜研究出來，用來強化露西蛋糕戰鬥能力的輔助晶片，\n使用後露西蛋糕可習得【鐵壁】。","effects":[
+		{"code":44,"dataId":254,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":83,"itypeId":2,"name":"擴充晶片Y","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":805,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"雷歐娜研究出來，用來強化露西蛋糕戰鬥能力的輔助晶片，\n使用後露西蛋糕可習得【鬥志】。","effects":[
+	],"hitType":0,"iconIndex":83,"itypeId":2,"name":"擴充晶片Z","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":806,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"用來改造大砲用的相關工具，如果風鈴鈴已學會【王都砲兵團】，\n使用後能從三種強化中選擇一種。","effects":[
+		{"code":44,"dataId":256,"value1":1,"value2":0}
+	],"hitType":0,"iconIndex":210,"itypeId":2,"name":"軍火改造箱","note":"","occasion":2,"price":0,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":807,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"某人過去隨手寫的教學，但他卻忘了相關技巧，才整天被玩家嫌爛。\n使用後攸特可強化【淨化重生】、【回復術】、【治療術】相關技能。","effects":[
+	],"hitType":0,"iconIndex":234,"itypeId":1,"name":"30秒教你進階恢復術","note":"<maxStack:1>\n","occasion":3,"price":10000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
+	{"id":808,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"需在極度憤怒、壓力破表的心境下才能發揮最大威力的武功，因為\n冰月的緣故累積了不少不滿，使用後風鈴鈴可習得【不平怒憤掌】。","effects":[
+	],"hitType":0,"iconIndex":231,"itypeId":1,"name":"不平怒憤掌","note":"<maxStack:1>\n","occasion":3,"price":10000,"repeats":1,"scope":0,"speed":0,"successRate":100,"tpGain":0},
 	{"id":809,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[
 	],"hitType":0,"iconIndex":0,"itypeId":1,"name":"","note":"","occasion":0,"price":0,"repeats":1,"scope":7,"speed":0,"successRate":100,"tpGain":0},
 	{"id":810,"animationId":0,"consumable":true,"damage":{"critical":false,"elementId":0,"formula":"0","type":0,"variance":20},"description":"","effects":[

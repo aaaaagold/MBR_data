@@ -15,8 +15,11 @@
 	],"price":500,"wtypeId":1},
 	{"id":2,"animationId":1,"description":"「鈍屬性」物攻+3","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
-		{"code":22,"dataId":0,"value":-0.1}
-	],"iconIndex":110,"name":"木棍","note":"<武器>\n<weaponImg:Weapon_Joke1,2,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons2.txt>","params":[
+		{"code":22,"dataId":0,"value":-0.1},
+		{"code":13,"dataId":6,"value":1},
+		{"code":13,"dataId":8,"value":1},
+		{"code":13,"dataId":11,"value":1}
+	],"iconIndex":110,"name":"木棍","note":"<武器>\n<weaponImg:Weapon_Joke1,2,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons2.txt>","params":[
 		0,
 		0,
 		3,
@@ -28,7 +31,7 @@
 	],"price":10,"wtypeId":13},
 	{"id":3,"animationId":6,"description":"「斬屬性」物攻+10","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":96,"name":"短刀","note":"<武器>\n<weaponImg:Weapon_Bone,1,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons3.txt>","params":[
+	],"iconIndex":96,"name":"短刀","note":"<武器>\n<weaponImg:Weapon_Bone,1,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons3.txt>","params":[
 		0,
 		0,
 		10,
@@ -40,7 +43,7 @@
 	],"price":100,"wtypeId":1},
 	{"id":4,"animationId":6,"description":"「斬屬性」物攻+25","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":96,"name":"彎刀","note":"<武器>\n<weaponImg:Weapons1,0,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons4.txt>","params":[
+	],"iconIndex":96,"name":"彎刀","note":"<武器>\n<weaponImg:Weapons1,0,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons4.txt>","params":[
 		0,
 		0,
 		25,
@@ -52,7 +55,7 @@
 	],"price":300,"wtypeId":1},
 	{"id":5,"animationId":6,"description":"「斬屬性」物攻+40、速度+2","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1088,"name":"鐵刀","note":"<武器>\n<weaponImg:Weapon_ChromeLight,0,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons5.txt>","params":[
+	],"iconIndex":1088,"name":"鐵刀","note":"<武器>\n<weaponImg:Weapon_ChromeLight,0,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons5.txt>","params":[
 		0,
 		0,
 		40,
@@ -64,7 +67,7 @@
 	],"price":700,"wtypeId":1},
 	{"id":6,"animationId":6,"description":"「斬屬性」物攻+55、速度+3","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1088,"name":"鋼刀","note":"<武器>\n<weaponImg:Weapon_ChromeLight,0,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons6.txt>","params":[
+	],"iconIndex":1088,"name":"鋼刀","note":"<武器>\n<weaponImg:Weapon_ChromeLight,0,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons6.txt>","params":[
 		0,
 		0,
 		55,
@@ -74,9 +77,9 @@
 		3,
 		0
 	],"price":1500,"wtypeId":1},
-	{"id":7,"animationId":6,"description":"「斬屬性」物攻+70、速度+5，攻擊附加機率\\it[6]。","etypeId":1,"traits":[
+	{"id":7,"animationId":6,"description":"「斬屬性」物攻+70、速度+5，攻擊機率附加\\it[6]。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1092,"name":"淬毒刀","note":"<武器>\n<weaponImg:Weapon_Flower,0,1>\n<skill_id:10>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons7.txt>","params":[
+	],"iconIndex":1092,"name":"@淬毒刀","note":"<武器>\n<weaponImg:Weapon_Flower,0,1>\n<skill_id:10>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons7.txt>","params":[
 		0,
 		0,
 		70,
@@ -88,7 +91,7 @@
 	],"price":3600,"wtypeId":1},
 	{"id":8,"animationId":6,"description":"「斬屬性」物攻+85、速度+6","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1101,"name":"軍刀","note":"<武器>\n<weaponImg:Weapon_Katanas,0,1>\n<skill_id:9>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons8.txt>","params":[
+	],"iconIndex":1101,"name":"軍刀","note":"<武器>\n<weaponImg:Weapon_Katanas,0,1>\n<skill_id:1>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons8.txt>","params":[
 		0,
 		0,
 		85,
@@ -100,7 +103,7 @@
 	],"price":7000,"wtypeId":1},
 	{"id":9,"animationId":6,"description":"「斬屬性」物攻+110、速度+8","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1102,"name":"烏鋼銳刀","note":"<武器>\n<weaponImg:Weapon_StarForged,0,1>\n<skill_id:9>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons9.txt>","params":[
+	],"iconIndex":1102,"name":"烏鋼銳刀","note":"<武器>\n<weaponImg:Weapon_StarForged,0,1>\n<skill_id:1>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons9.txt>","params":[
 		0,
 		0,
 		110,
@@ -112,7 +115,7 @@
 	],"price":10000,"wtypeId":1},
 	{"id":10,"animationId":6,"description":"「斬屬性」物攻+135、速度+10","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1102,"name":"忍者刀","note":"<武器>\n<weaponImg:Weapon_Katanas,0,1>\n<skill_id:9>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons10.txt>","params":[
+	],"iconIndex":1102,"name":"忍者刀","note":"<武器>\n<weaponImg:Weapon_Katanas,0,1>\n<skill_id:1>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons10.txt>","params":[
 		0,
 		0,
 		135,
@@ -135,10 +138,10 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":12,"animationId":1,"description":"「鈍屬性」物攻+75、爆擊率+25%，\n裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
+	{"id":12,"animationId":1,"description":"「鈍屬性」物攻+75、暴擊率+25%，裝備後無法使用\n刀劍類技能。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.25}
-	],"iconIndex":260,"name":"40磅的魚","note":"<武器>\n<weaponImg:Weapon_Joke1,3,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons12.txt>","params":[
+	],"iconIndex":260,"name":"40磅的魚","note":"<武器>\n<weaponImg:Weapon_Joke1,3,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons12.txt>","params":[
 		0,
 		0,
 		75,
@@ -148,12 +151,12 @@
 		0,
 		0
 	],"price":500,"wtypeId":13},
-	{"id":13,"animationId":6,"description":"「斬、火屬性」物攻+100、速度+6，攻擊附加機率\\it[12]，\n可使用技能【\\ns[455]】","etypeId":1,"traits":[
+	{"id":13,"animationId":6,"description":"「斬、火屬性」物攻+100、速度+6，攻擊機率附加\\it[12]，\n可使用技能【\\ns[455]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":4,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":455,"value":1}
-	],"iconIndex":1089,"name":"日炎刀","note":"<武器>\n<weaponImg:Weapon_crystal,4,1>\n<skill_id:18>\nCp5凱鐵支姆村/敏東村，實際威力比Cp7弱一點\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons13.txt>","params":[
+	],"iconIndex":1089,"name":"@日炎刀","note":"<武器>\n<weaponImg:Weapon_crystal,4,1>\n<skill_id:18>\nCp5凱鐵支姆村/敏東村，實際威力比Cp7弱一點\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons13.txt>","params":[
 		0,
 		0,
 		100,
@@ -163,10 +166,10 @@
 		6,
 		0
 	],"price":7000,"wtypeId":1},
-	{"id":14,"animationId":6,"description":"「斬屬性」物攻+60、速度+10，裝備後無法使用刀劍類技能。\n普攻可使用【流血爪】，可使用奧義【\\ns[441]】","etypeId":1,"traits":[
+	{"id":14,"animationId":6,"description":"「斬屬性」物攻+60、速度+10，裝備後無法使用刀劍類技能。\n普攻可使用【\\ns[479]】，可使用奧義【\\ns[441]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":43,"dataId":441,"value":1}
-	],"iconIndex":1232,"name":"利血爪","note":"<武器>\n<weaponImg:Weapon_Gloves,11,0>\n<skill_id:479>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons14.txt>","params":[
+	],"iconIndex":1232,"name":"@利血爪","note":"<武器>\n<weaponImg:Weapon_Gloves,11,0>\n<skill_id:479>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons14.txt>","params":[
 		0,
 		0,
 		60,
@@ -176,11 +179,12 @@
 		10,
 		0
 	],"price":1000,"wtypeId":13},
-	{"id":15,"animationId":555,"description":"「斬屬性」物攻+100、爆擊率+20%、命中+20%\n造成四次攻擊傷害，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
+	{"id":15,"animationId":555,"description":"「斬屬性」物攻+100、暴擊率+20%、命中+20%\n造成四次攻擊傷害，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.2},
-		{"code":22,"dataId":0,"value":0.2}
-	],"iconIndex":117,"name":"電鋸","note":"<武器>\n<weaponImg:Weapons2,9,2>\n<skill_id:17>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons15.txt>","params":[
+		{"code":22,"dataId":0,"value":0.2},
+		{"code":34,"dataId":0,"value":3}
+	],"iconIndex":117,"name":"@電鋸","note":"<武器>\n<weaponImg:Weapons2,9,2>\n<skill_id:17>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons15.txt>","params":[
 		0,
 		0,
 		100,
@@ -196,7 +200,7 @@
 		{"code":43,"dataId":443,"value":1},
 		{"code":43,"dataId":444,"value":1},
 		{"code":43,"dataId":445,"value":1}
-	],"iconIndex":1103,"name":"三元之刃","note":"<武器>\n<weaponImg:Weapons_Angel,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[6,1.10]]>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons16.txt>","params":[
+	],"iconIndex":1103,"name":"三元之刃","note":"<武器>\n<weaponImg:Weapons_Angel,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[6,1.10]]>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons16.txt>","params":[
 		0,
 		0,
 		75,
@@ -207,7 +211,7 @@
 		0
 	],"price":3000,"wtypeId":1},
 	{"id":17,"animationId":0,"description":"「斬+暗屬性」物攻+150，魔防+60，普通攻擊時會吸收\n敵人HP，並給予敵人印記，此印記會讓敵人受到傷害變成兩倍，受到下次攻擊後解除。","etypeId":1,"traits":[
-	],"iconIndex":1422,"name":"邪刀咒怨","note":"<weaponImg:Weapon_book_summons,7,2>\n","params":[
+	],"iconIndex":1422,"name":"@邪刀咒怨","note":"<weaponImg:Weapon_book_summons,7,2>\n","params":[
 		0,
 		0,
 		150,
@@ -217,12 +221,12 @@
 		0,
 		0
 	],"price":0,"wtypeId":6},
-	{"id":18,"animationId":6,"description":"「斬+火屬性」物攻+180、速度+15，攻擊附加機率\\it[14]，\n造成二次攻擊傷害，可使用技能【\\ns[458]】","etypeId":1,"traits":[
+	{"id":18,"animationId":6,"description":"「斬+火屬性」物攻+180、速度+15，攻擊機率附加\\it[14]，\n造成二次攻擊傷害，可使用技能【\\ns[458]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":4,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":458,"value":1}
-	],"iconIndex":1089,"name":"朱雀刀","note":"<武器>\n<weaponImg:Weapon_Katanas,3,1>\n<skill_id:20>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons18.txt>","params":[
+	],"iconIndex":1089,"name":"@朱雀刀","note":"<武器>\n<weaponImg:Weapon_Katanas,3,1>\n<skill_id:20>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons18.txt>","params":[
 		0,
 		0,
 		180,
@@ -234,7 +238,7 @@
 	],"price":0,"wtypeId":1},
 	{"id":19,"animationId":6,"description":"「斬屬性」物攻+75，刀柄上有奇怪的刻痕。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1099,"name":"採花大盜之刀","note":"<武器>\n<weaponImg:Weapon_Katanas,8,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons19.txt>","params":[
+	],"iconIndex":1099,"name":"@採花大盜之刀","note":"<武器>\n<weaponImg:Weapon_Katanas,8,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons19.txt>","params":[
 		0,
 		0,
 		75,
@@ -244,9 +248,9 @@
 		0,
 		0
 	],"price":0,"wtypeId":1},
-	{"id":20,"animationId":6,"description":"「斬屬性」物攻+150、速度+10，普攻造成的爆擊率提升，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
+	{"id":20,"animationId":6,"description":"「斬屬性」物攻+150、速度+10，普攻造成的暴擊率提升，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1099,"name":"變態魔刃","note":"<武器>\n<weaponImg:Weapon_Katanas,9,1>\n<skill_id:11>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons20.txt>","params":[
+	],"iconIndex":1099,"name":"@變態魔刃","note":"<武器>\n<weaponImg:Weapon_Katanas,9,1>\n<skill_id:11>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons20.txt>","params":[
 		0,
 		0,
 		150,
@@ -256,10 +260,10 @@
 		10,
 		0
 	],"price":0,"wtypeId":1},
-	{"id":21,"animationId":6,"description":"「斬屬性」物攻+180，速度+20，爆擊率+30%，普攻造成的\n爆擊率提升，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
+	{"id":21,"animationId":6,"description":"「斬屬性」物攻+180，速度+20，暴擊率+30%，普攻造成的\n爆擊率提升，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.3}
-	],"iconIndex":1099,"name":"病態魔刃","note":"<武器>\n<weaponImg:Weapon_Katanas,6,1>\n<skill_id:11>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons21.txt>","params":[
+	],"iconIndex":1099,"name":"@病態魔刃","note":"<武器>\n<weaponImg:Weapon_Katanas,6,1>\n<skill_id:11>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons21.txt>","params":[
 		0,
 		0,
 		180,
@@ -269,10 +273,10 @@
 		20,
 		0
 	],"price":0,"wtypeId":1},
-	{"id":22,"animationId":6,"description":"「斬屬性」物攻+180，爆擊率+10%，，普攻可使用【拔刀斬】。","etypeId":1,"traits":[
+	{"id":22,"animationId":6,"description":"「斬屬性」物攻+180，暴擊率+10%，普攻可使用【拔刀斬】。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":1408,"name":"武士刀","note":"<武器>\n<weaponImg:Weapon_Katanas,6,1>\n<skill_id:948>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons21.txt>","params":[
+	],"iconIndex":1408,"name":"@武士刀","note":"<武器>\n<weaponImg:Weapon_Katanas,6,1>\n<skill_id:948>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons21.txt>","params":[
 		0,
 		0,
 		180,
@@ -308,9 +312,9 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":25,"animationId":6,"description":"「斬+風屬性」物攻、幸運+100、命中+30%，\n小幅提升自身火、雷、光屬性攻擊傷害。","etypeId":1,"traits":[
+	{"id":25,"animationId":719,"description":"「斬+風屬性」物攻、幸運+100、命中+30%，\n小幅提升自身火、雷、光屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1093,"name":"妖精的嘆息","note":"<武器>\n<weaponImg:Weapon_Forest,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[10,1.10]]>\n<skill_id:485>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons25.txt>","params":[
+	],"iconIndex":1093,"name":"妖精的嘆息","note":"<武器>\n<weaponImg:Weapon_Forest,0,1>\n<屬性傷害倍率:[[4,1.10],[5,1.10],[10,1.10]]>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons25.txt>","params":[
 		0,
 		0,
 		100,
@@ -346,9 +350,9 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":28,"animationId":6,"description":"「斬屬性」物攻+15，暴擊率+10%，\n造成多次攻擊傷害。","etypeId":1,"traits":[
+	{"id":28,"animationId":6,"description":"「斬屬性」物攻+15，暴擊率+10%，普攻可使用\n【\\ns[760]】","etypeId":1,"traits":[
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":224,"name":"馬大嬸的菜刀","note":"<weaponImg:Weapon_Joke1,5,1>\n<skill_id:760>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons28.txt>","params":[
+	],"iconIndex":224,"name":"@馬大嬸的菜刀","note":"<weaponImg:Weapon_Joke1,5,1>\n<skill_id:760>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons28.txt>","params":[
 		0,
 		0,
 		15,
@@ -360,7 +364,7 @@
 	],"price":10,"wtypeId":1},
 	{"id":29,"animationId":1,"description":"「鈍屬性」法系職業與維皮皆可使用，物攻、魔攻+30，使用者等級會\n大幅增加普攻威力，攻擊附加混亂，對非頭目級的敵人造成機率性即死。","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1765,"name":"兔耳雷神水壺槌","note":"<weaponImg:Weapon_Rabbit,0,1>\n<skill_id:480>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons29.txt>","params":[
+	],"iconIndex":1765,"name":"@兔耳雷神水壺槌","note":"<weaponImg:Weapon_Rabbit,0,1>\n<skill_id:480>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons29.txt>","params":[
 		0,
 		0,
 		30,
@@ -370,9 +374,9 @@
 		0,
 		0
 	],"price":10000,"wtypeId":9},
-	{"id":30,"animationId":1,"description":"「刺屬性」物攻+150，暴擊率+50%，\n造成的攻擊傷害數值離散率極大。","etypeId":1,"traits":[
+	{"id":30,"animationId":1,"description":"「刺屬性」物攻+150，暴擊率+50%，普攻可使用【\\ns[761]】\n普攻造成的傷害離散度極大。","etypeId":1,"traits":[
 		{"code":22,"dataId":2,"value":0.5}
-	],"iconIndex":1657,"name":"神劍牙籤","note":"<weaponImg:Weapon_Joke4,0,1>\n<skill_id:761>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons30.txt>","params":[
+	],"iconIndex":1657,"name":"@神劍牙籤","note":"<weaponImg:Weapon_Joke4,0,1>\n<skill_id:761>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons30.txt>","params":[
 		0,
 		0,
 		150,
@@ -398,7 +402,7 @@
 	{"id":32,"animationId":6,"description":"「斬屬性」物攻+10、命中-5%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":-0.05}
-	],"iconIndex":97,"name":"短劍","note":"<武器>\n<weaponImg:Weapon_Stone,1,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons32.txt>","params":[
+	],"iconIndex":97,"name":"短劍","note":"<武器>\n<weaponImg:Weapon_Stone,1,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons32.txt>","params":[
 		0,
 		0,
 		10,
@@ -410,7 +414,7 @@
 	],"price":110,"wtypeId":2},
 	{"id":33,"animationId":6,"description":"「斬屬性」物攻+30","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":97,"name":"鐵劍","note":"<武器>\n<weaponImg:Weapon_Bone,2,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons33.txt>","params":[
+	],"iconIndex":97,"name":"鐵劍","note":"<武器>\n<weaponImg:Weapon_Bone,2,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons33.txt>","params":[
 		0,
 		0,
 		30,
@@ -420,11 +424,11 @@
 		0,
 		0
 	],"price":320,"wtypeId":2},
-	{"id":34,"animationId":6,"description":"「斬屬性」物攻+45、命中-5%、爆擊率+5%","etypeId":1,"traits":[
+	{"id":34,"animationId":6,"description":"「斬屬性」物攻+45、命中-5%、暴擊率+5%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":-0.05},
 		{"code":22,"dataId":2,"value":0.05}
-	],"iconIndex":97,"name":"闊劍","note":"<武器>\n<weaponImg:Weapon_ChromeLight,1,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons34.txt>","params":[
+	],"iconIndex":97,"name":"闊劍","note":"<武器>\n<weaponImg:Weapon_ChromeLight,1,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons34.txt>","params":[
 		0,
 		0,
 		45,
@@ -436,7 +440,7 @@
 	],"price":800,"wtypeId":2},
 	{"id":35,"animationId":6,"description":"「斬屬性」物攻+60","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1104,"name":"長劍","note":"<武器>\n<weaponImg:Weapon_Swords,1,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons35.txt>","params":[
+	],"iconIndex":1104,"name":"長劍","note":"<武器>\n<weaponImg:Weapon_Swords,1,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons35.txt>","params":[
 		0,
 		0,
 		60,
@@ -446,9 +450,9 @@
 		0,
 		0
 	],"price":1600,"wtypeId":2},
-	{"id":36,"animationId":6,"description":"「斬屬性」物攻+75、攻擊附加機率\\it[8]","etypeId":1,"traits":[
+	{"id":36,"animationId":6,"description":"「斬屬性」物攻+75、攻擊機率附加\\it[8]","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1117,"name":"黑暗劍","note":"<武器>\n<weaponImg:Weapon_Swords,6,1>\n<skill_id:21>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons36.txt>","params":[
+	],"iconIndex":1117,"name":"@黑暗劍","note":"<武器>\n<weaponImg:Weapon_Swords,6,1>\n<skill_id:21>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons36.txt>","params":[
 		0,
 		0,
 		75,
@@ -458,10 +462,10 @@
 		0,
 		0
 	],"price":3800,"wtypeId":2},
-	{"id":37,"animationId":6,"description":"「斬屬性」物攻+90、攻擊附加機率\\it[9]","etypeId":1,"traits":[
+	{"id":37,"animationId":6,"description":"「斬屬性」物攻+90、攻擊機率附加\\it[9]","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":32,"dataId":9,"value":0.5}
-	],"iconIndex":1113,"name":"夢迷劍","note":"<武器>\n<weaponImg:Weapon_Swords,8,1>\n<skill_id:499>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons37.txt>","params":[
+	],"iconIndex":1113,"name":"@夢迷劍","note":"<武器>\n<weaponImg:Weapon_Swords,8,1>\n<skill_id:499>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons37.txt>","params":[
 		0,
 		0,
 		90,
@@ -471,10 +475,10 @@
 		0,
 		0
 	],"price":7000,"wtypeId":2},
-	{"id":38,"animationId":6,"description":"「斬屬性」物攻+120、爆擊率+10%","etypeId":1,"traits":[
+	{"id":38,"animationId":6,"description":"「斬屬性」物攻+120、暴擊率+10%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":1119,"name":"斬鐵劍","note":"<武器>\n<weaponImg:Weapon_Swords,5,1>\n<skill_id:9>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons38.txt>","params":[
+	],"iconIndex":1119,"name":"斬鐵劍","note":"<武器>\n<weaponImg:Weapon_Swords,5,1>\n<skill_id:1>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons38.txt>","params":[
 		0,
 		0,
 		120,
@@ -484,10 +488,10 @@
 		0,
 		0
 	],"price":11000,"wtypeId":2},
-	{"id":39,"animationId":6,"description":"「斬屬性」物攻+145、攻擊附加機率\\it[7]","etypeId":1,"traits":[
+	{"id":39,"animationId":6,"description":"「斬屬性」物攻+145、攻擊機率附加\\it[7]","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":32,"dataId":7,"value":0.5}
-	],"iconIndex":1108,"name":"龍泉劍","note":"<武器>\n<weaponImg:Weapon_Swords,11,1>\n<skill_id:498>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons39.txt>","params":[
+	],"iconIndex":1108,"name":"@龍泉劍","note":"<武器>\n<weaponImg:Weapon_Swords,11,1>\n<skill_id:498>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons39.txt>","params":[
 		0,
 		0,
 		145,
@@ -510,7 +514,34 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":41,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":41,"animationId":6,"description":"「斬屬性」物攻+15，TP獲得量提升(小)，普攻可使用【顛杓】\n※顛杓：普通攻擊時自身攻擊力計算的基數比重提高","etypeId":1,"traits":[
+		{"code":31,"dataId":1,"value":0}
+	],"iconIndex":1584,"name":"@馬大嬸的鍋鏟","note":"<maxStack:1>","params":[
+		0,
+		0,
+		15,
+		0,
+		0,
+		0,
+		0,
+		0
+	],"price":7500,"wtypeId":11},
+	{"id":42,"animationId":6,"description":"「斬、雷屬性」物攻+110，攻擊機率附加\\it[19]，\n可使用技能【\\ns[456]】","etypeId":1,"traits":[
+		{"code":31,"dataId":1,"value":0},
+		{"code":31,"dataId":5,"value":0},
+		{"code":41,"dataId":18,"value":1},
+		{"code":43,"dataId":456,"value":1}
+	],"iconIndex":1114,"name":"@月雷劍","note":"<武器>\n<weaponImg:Weapon_special,7,1>\n<skill_id:497>\nCp5凱鐵支姆村/敏東村，實際威力比Cp7弱一點\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons42.txt>","params":[
+		0,
+		0,
+		110,
+		0,
+		0,
+		0,
+		0,
+		0
+	],"price":7000,"wtypeId":2},
+	{"id":43,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
 	],"iconIndex":0,"name":"","note":"","params":[
@@ -523,39 +554,12 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":42,"animationId":6,"description":"「斬、雷屬性」物攻+110，攻擊附加機率\\it[19]，\n可使用技能【\\ns[456]】","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":31,"dataId":5,"value":0},
-		{"code":41,"dataId":18,"value":1},
-		{"code":43,"dataId":456,"value":1}
-	],"iconIndex":1114,"name":"月雷劍","note":"<武器>\n<weaponImg:Weapon_special,7,1>\n<skill_id:497>\nCp5凱鐵支姆村/敏東村，實際威力比Cp7弱一點\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons42.txt>","params":[
-		0,
-		0,
-		110,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":7000,"wtypeId":2},
-	{"id":43,"animationId":6,"description":"「打屬性」物攻+60、每次普攻後可隨機產特殊效果。\n裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1642,"name":"釣魚竿","note":"<武器>\n<weaponImg:Weapon_FishingPoles,0,1>\n<skill_id:496>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons43.txt>","params":[
-		0,
-		0,
-		60,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":7500,"wtypeId":11},
 	{"id":44,"animationId":6,"description":"「斬屬性」物攻+40、命中率-5%。\n可使用技能【\\ns[439]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":439,"value":1},
 		{"code":22,"dataId":0,"value":-0.05}
-	],"iconIndex":97,"name":"謝頂之劍","note":"<武器>\n<weaponImg:Weapon_special,4,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons44.txt>","params":[
+	],"iconIndex":97,"name":"謝頂之劍","note":"<武器>\n<weaponImg:Weapon_special,4,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons44.txt>","params":[
 		0,
 		0,
 		40,
@@ -565,10 +569,10 @@
 		0,
 		0
 	],"price":1000,"wtypeId":2},
-	{"id":45,"animationId":0,"description":"「斬屬性」物攻+120，防禦、魔防+30，被攻擊機率+100%","etypeId":1,"traits":[
+	{"id":45,"animationId":0,"description":"「斬屬性」物攻+120，防禦、魔防+30，被攻擊機率x200%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":23,"dataId":0,"value":2}
-	],"iconIndex":1117,"name":"鍛鋼護手刃","note":"<武器>\n<weaponImg:Weapon_special,6,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>\n絕無城","params":[
+	],"iconIndex":1117,"name":"鍛鋼護手刃","note":"<武器>\n<weaponImg:Weapon_special,6,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>\n絕無城","params":[
 		0,
 		0,
 		120,
@@ -591,13 +595,13 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":47,"animationId":6,"description":"「斬+雷屬性」物攻+200，爆擊率+15%，攻擊附加\\it[19]，\n可使用技能【\\ns[461]】","etypeId":1,"traits":[
+	{"id":47,"animationId":6,"description":"「斬+雷屬性」物攻+200，暴擊率+15%，攻擊附加\\it[19]，\n可使用技能【\\ns[461]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":5,"value":0},
 		{"code":22,"dataId":2,"value":0.15},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":461,"value":1}
-	],"iconIndex":1109,"name":"青龍劍","note":"<武器>\n<weaponImg:Weapon_Forest,1,1>\n<skill_id:494>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons47.txt>","params":[
+	],"iconIndex":1109,"name":"@青龍劍","note":"<武器>\n<weaponImg:Weapon_Forest,1,1>\n<skill_id:494>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons47.txt>","params":[
 		0,
 		0,
 		200,
@@ -609,7 +613,7 @@
 	],"price":0,"wtypeId":2},
 	{"id":48,"animationId":6,"description":"「斬屬性」物攻+20，攻擊附加機率\\it[6]，\n劍柄上有奇怪的刻痕。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0}
-	],"iconIndex":1106,"name":"鏽蝕大劍","note":"<武器>\n<weaponImg:Weapon_Swords,4,1>\n<skill_id:10>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons48.txt>","params":[
+	],"iconIndex":1106,"name":"@鏽蝕大劍","note":"<武器>\n<weaponImg:Weapon_Swords,4,1>\n<skill_id:10>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons48.txt>","params":[
 		0,
 		0,
 		20,
@@ -624,7 +628,7 @@
 		{"code":31,"dataId":10,"value":0},
 		{"code":22,"dataId":0,"value":0.5},
 		{"code":23,"dataId":2,"value":1.1}
-	],"iconIndex":1107,"name":"聖劍","note":"<武器>\n<weaponImg:Weapons_Angel,1,1>\n<skill_id:493>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons49.txt>","params":[
+	],"iconIndex":1107,"name":"@聖劍","note":"<武器>\n<weaponImg:Weapons_Angel,1,1>\n<skill_id:493>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons49.txt>","params":[
 		0,
 		0,
 		165,
@@ -634,13 +638,13 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":50,"animationId":167,"description":"「斬+光屬性」物攻+200，魔攻+100，命中+50%，攻擊附加\n失明，造成二次攻擊傷害，提升受到的恢復效果(小)。","etypeId":1,"traits":[
+	{"id":50,"animationId":167,"description":"「斬+光屬性」物攻+200，魔攻+100，命中+50%，攻擊附加\n\\it[8]，造成二次攻擊傷害，提升受到的恢復效果(小)。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":10,"value":0},
 		{"code":22,"dataId":0,"value":0.5},
 		{"code":32,"dataId":8,"value":1},
 		{"code":23,"dataId":2,"value":1.1}
-	],"iconIndex":1107,"name":"龍咬劍","note":"<武器>\n<weaponImg:Weapon_Lava,1,1>\n<skill_id:492>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons50.txt>","params":[
+	],"iconIndex":1107,"name":"@龍咬劍","note":"<武器>\n<weaponImg:Weapon_Lava,1,1>\n<skill_id:492>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons50.txt>","params":[
 		0,
 		0,
 		200,
@@ -677,10 +681,10 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":53,"animationId":8,"description":"「斬+火屬性」物攻+80、魔攻+30","etypeId":1,"traits":[
+	{"id":53,"animationId":8,"description":"「斬+火屬性」物攻+80、魔攻+30，攻擊機率附加\\it[12]","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":1280,"name":"炎魔劍","note":"<skill_id:201>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons53.txt>","params":[
+	],"iconIndex":1280,"name":"@炎魔劍","note":"<skill_id:201>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons53.txt>","params":[
 		0,
 		0,
 		80,
@@ -690,11 +694,12 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":54,"animationId":8,"description":"「斬+火屬性」物攻+175、魔攻+125、命中+50%、速度+50。","etypeId":1,"traits":[
+	{"id":54,"animationId":8,"description":"「斬+火屬性」物攻+175、魔攻+125、命中+50%、速度+50，\n攻擊機率附加\\it[12]","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
+		{"code":31,"dataId":4,"value":0},
 		{"code":53,"dataId":1,"value":1},
 		{"code":22,"dataId":0,"value":0.5}
-	],"iconIndex":1280,"name":"真炎劍","note":"<skill_id:201>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons54.txt>","params":[
+	],"iconIndex":1280,"name":"@真炎劍","note":"<skill_id:201>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons54.txt>","params":[
 		0,
 		0,
 		175,
@@ -721,7 +726,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":10,"value":0},
 		{"code":55,"dataId":1,"value":1}
-	],"iconIndex":1119,"name":"白翼劍","note":"<武器>\n<skill_id:483>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons56.txt>","params":[
+	],"iconIndex":1119,"name":"白翼劍","note":"<武器>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons56.txt>","params":[
 		0,
 		0,
 		0,
@@ -731,11 +736,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":57,"animationId":0,"description":"「斬+水屬性」物攻+120、魔防+50、命中+30%、\n被攻擊機率+100%","etypeId":1,"traits":[
+	{"id":57,"animationId":719,"description":"「斬+水屬性」物攻+120、魔防+50、命中+30%、\n被攻擊機率x200%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":23,"dataId":0,"value":2},
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1111,"name":"妖精的回音","note":"<武器>\n<weaponImg:Weapon_Swords,8,1>\n<skill_id:484>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>","params":[
+	],"iconIndex":1111,"name":"妖精的回音","note":"<武器>\n<weaponImg:Weapon_Swords,8,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>","params":[
 		0,
 		0,
 		120,
@@ -745,13 +750,13 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":58,"animationId":0,"description":"「斬屬性」魔攻+100、速度+50、免疫即死，中幅提升自身火\n風光暗屬性攻擊傷害。可使用技能【渾沌閃光、火焰旋風】","etypeId":1,"traits":[
+	{"id":58,"animationId":6,"description":"「斬屬性」魔攻+100、速度+50、免疫\\it[482]，中幅提升自身\n火、風、光、暗屬性攻擊傷害。可使用技能【\\ns[435]、\\ns[436]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":435,"value":1},
 		{"code":43,"dataId":436,"value":1}
-	],"iconIndex":1119,"name":"魔劍【渾沌、焚嵐】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[4,1.3],[7,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【渾沌、焚嵐】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[4,1.3],[7,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -761,13 +766,13 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":59,"animationId":0,"description":"「斬屬性」魔攻+150、免疫即死，中幅提升自身水雷光暗屬性\n攻擊傷害，可使用技能【渾沌閃光、水球閃電】","etypeId":1,"traits":[
+	{"id":59,"animationId":0,"description":"「斬屬性」魔攻+150、免疫\\it[482]，中幅提升自身水、雷、\n光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":435,"value":1},
 		{"code":43,"dataId":437,"value":1}
-	],"iconIndex":1119,"name":"魔劍【渾沌、海雷】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[5,1.3],[9,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【渾沌、海雷】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[5,1.3],[9,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -777,13 +782,13 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":60,"animationId":0,"description":"「斬屬性」魔攻+100、防禦魔防+75、免疫即死，中幅提升自身\n冰土光暗屬性攻擊傷害，可使用技能【渾沌閃光、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":60,"animationId":0,"description":"「斬屬性」魔攻+100、雙防+75、免疫\\it[482]，中幅提升自身\n冰、土、光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":435,"value":1},
 		{"code":43,"dataId":438,"value":1}
-	],"iconIndex":1119,"name":"魔劍【渾沌、霜脈】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【渾沌、霜脈】","note":"<武器>\n<屬性傷害倍率:[[10,1.3],[11,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -793,12 +798,12 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":61,"animationId":0,"description":"「斬屬性」魔攻+150、速度+50，中幅提升自身火風水雷屬性\n攻擊傷害，可使用技能【火焰旋風、水球閃電】","etypeId":1,"traits":[
+	{"id":61,"animationId":0,"description":"「斬屬性」魔攻+150、速度+50，中幅提升自身火、風、水、雷\n屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
 		{"code":43,"dataId":437,"value":1}
-	],"iconIndex":1119,"name":"魔劍【焚嵐、海雷】","note":"<武器>\n<屬性傷害倍率:[[4,1.3],[7,1.3],[5,1.3],[9,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【焚嵐、海雷】","note":"<武器>\n<屬性傷害倍率:[[4,1.3],[7,1.3],[5,1.3],[9,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -808,12 +813,12 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":62,"animationId":0,"description":"「斬屬性」魔攻+100、防禦魔防+75、速度+50，中幅提升自身\n火風冰土屬性攻擊傷害，可使用技能【火焰旋風、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":62,"animationId":0,"description":"「斬屬性」魔攻+100、雙防+75、速度+50，中幅提升自身\n火、風、冰、土屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
 		{"code":43,"dataId":438,"value":1}
-	],"iconIndex":1119,"name":"魔劍【焚嵐、霜脈】","note":"<武器>\n<屬性傷害倍率:[[4,1.3],[7,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【焚嵐、霜脈】","note":"<武器>\n<屬性傷害倍率:[[4,1.3],[7,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -823,12 +828,12 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":63,"animationId":0,"description":"「斬屬性」魔攻+150、防禦、魔防+75，中幅提升自身水雷冰\n土屬性攻擊傷害，可使用技能【水球閃電、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":63,"animationId":0,"description":"「斬屬性」魔攻+150、雙防+75，中幅提升自身水、雷、\n冰、土屬性攻擊傷害，可使用技能【\\ns[437]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":437,"value":1},
 		{"code":43,"dataId":438,"value":1}
-	],"iconIndex":1119,"name":"魔劍【海雷、霜脈】","note":"<武器>\n<屬性傷害倍率:[[5,1.3],[9,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:9>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
+	],"iconIndex":1119,"name":"魔劍【海雷、霜脈】","note":"<武器>\n<屬性傷害倍率:[[5,1.3],[9,1.3],[6,1.3],[8,1.3]]>\n<weaponImg:Weapon_Swords,2,1>\n<skill_id:1>\n<maxStack:1>\n<unionCnt:[[\"w\",58],[\"w\",59],[\"w\",60],[\"w\",61],[\"w\",62],[\"w\",63]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons58.txt>","params":[
 		0,
 		0,
 		0,
@@ -1204,7 +1209,7 @@
 	],"price":500,"wtypeId":4},
 	{"id":92,"animationId":504,"description":"「刺屬性」物攻+9","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":102,"name":"短弓","note":"<武器>\n<weaponImg:Weapon_bows,6,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons92.txt>","params":[
+	],"iconIndex":102,"name":"短弓","note":"<武器>\n<weaponImg:Weapon_bows,6,2>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons92.txt>","params":[
 		0,
 		0,
 		9,
@@ -1214,9 +1219,9 @@
 		0,
 		0
 	],"price":90,"wtypeId":4},
-	{"id":93,"animationId":504,"description":"「刺屬性」物攻+24","etypeId":1,"traits":[
+	{"id":93,"animationId":561,"description":"「刺屬性」物攻+24","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1184,"name":"長弓","note":"<武器>\n<weaponImg:Weapon_bows,3,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons93.txt>","params":[
+	],"iconIndex":1184,"name":"長弓","note":"<武器>\n<weaponImg:Weapon_bows,3,2>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons93.txt>","params":[
 		0,
 		0,
 		24,
@@ -1228,7 +1233,7 @@
 	],"price":280,"wtypeId":4},
 	{"id":94,"animationId":504,"description":"「刺屬性」物攻、魔攻+30，速度+10","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1189,"name":"仙靈弓","note":"<武器>\n<weaponImg:Weapon_Flower,6,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons94.txt>","params":[
+	],"iconIndex":1189,"name":"仙靈弓","note":"<武器>\n<weaponImg:Weapon_Flower,6,2>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons94.txt>","params":[
 		0,
 		0,
 		30,
@@ -1243,7 +1248,7 @@
 		{"code":31,"dataId":9,"value":0},
 		{"code":31,"dataId":7,"value":0},
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1184,"name":"妖精的旋律","note":"<武器>\n<weaponImg:Weapon_bows,3,2>\n<屬性傷害倍率:[[7,1.10],[8,1.10],[9,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons93.txt>","params":[
+	],"iconIndex":1184,"name":"@妖精的旋律","note":"<武器>\n<weaponImg:Weapon_bows,3,2>\n<屬性傷害倍率:[[7,1.10],[8,1.10],[9,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons93.txt>","params":[
 		0,
 		0,
 		120,
@@ -1255,7 +1260,7 @@
 	],"price":280,"wtypeId":4},
 	{"id":96,"animationId":504,"description":"「刺屬性」物攻、魔攻、幸運+60","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1196,"name":"糖心弓","note":"<武器>\n<weaponImg:Weapon_candy,6,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons96.txt>\n絕無城","params":[
+	],"iconIndex":1196,"name":"糖心弓","note":"<武器>\n<weaponImg:Weapon_candy,6,2>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons96.txt>\n絕無城","params":[
 		0,
 		0,
 		60,
@@ -1267,7 +1272,7 @@
 	],"price":10000,"wtypeId":4},
 	{"id":97,"animationId":504,"description":"「刺屬性」物攻+100，魔攻+40，速度+15\n","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1184,"name":"獵手神弓","note":"<武器>\n<weaponImg:Weapon_bows,0,2>\n<skill_id:482>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons97.txt>","params":[
+	],"iconIndex":1184,"name":"獵手神弓","note":"<武器>\n<weaponImg:Weapon_bows,0,2>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons97.txt>","params":[
 		0,
 		0,
 		100,
@@ -1277,19 +1282,19 @@
 		15,
 		0
 	],"price":10000,"wtypeId":4},
-	{"id":98,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":98,"animationId":504,"description":"「刺+鈍屬性」物攻+16、速度+5，提高自身獲得酒醉的機率，\n普攻時自身有酒醉狀態傷害提升","etypeId":1,"traits":[
+		{"code":31,"dataId":2,"value":0},
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":1440,"name":"@馬大叔的彈弓","note":"<maxStack:1>","params":[
+		0,
+		0,
+		16,
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
+		5,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":800,"wtypeId":4},
 	{"id":99,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -1593,7 +1598,7 @@
 	{"id":122,"animationId":209,"description":"「斬、刺屬性」物攻+3，速度-3，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":215,"name":"繩索","note":"<武器>\n<weaponImg:Weapons1,4,1>\n<skill_id:12>\nCp3泉晨鎮\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons122.txt>","params":[
+	],"iconIndex":215,"name":"@繩索","note":"<武器>\n<weaponImg:Weapons1,4,1>\n<skill_id:12>\nCp3泉晨鎮\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons122.txt>","params":[
 		0,
 		0,
 		3,
@@ -1606,7 +1611,7 @@
 	{"id":123,"animationId":209,"description":"「斬、刺屬性」物攻+45，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1628,"name":"章魚觸手鞭","note":"<武器>\n<weaponImg:Weapon_Joke3,4,1>\n<skill_id:12>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons123.txt>","params":[
+	],"iconIndex":1628,"name":"@章魚觸手鞭","note":"<武器>\n<weaponImg:Weapon_Joke3,4,1>\n<skill_id:12>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons123.txt>","params":[
 		0,
 		0,
 		45,
@@ -1619,7 +1624,7 @@
 	{"id":124,"animationId":209,"description":"「斬、刺屬性」物攻+30，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1165,"name":"鐵鞭","note":"<武器>\n<weaponImg:Weapon_StarForged,4,1>\n<skill_id:12>\nCp4鄉南村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons124.txt>","params":[
+	],"iconIndex":1165,"name":"@鐵鞭","note":"<武器>\n<weaponImg:Weapon_StarForged,4,1>\n<skill_id:12>\nCp4鄉南村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons124.txt>","params":[
 		0,
 		0,
 		30,
@@ -1629,10 +1634,10 @@
 		0,
 		0
 	],"price":1500,"wtypeId":5},
-	{"id":125,"animationId":210,"description":"「斬、刺屬性」物攻+50，攻擊附加機率\\it[6]，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
+	{"id":125,"animationId":210,"description":"「斬、刺屬性」物攻+50，攻擊機率附加\\it[6]，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1157,"name":"蛇鞭","note":"<武器>\n<weaponImg:Weapon_Flower,4,1>\n<skill_id:14>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons125.txt>","params":[
+	],"iconIndex":1157,"name":"@蛇鞭","note":"<武器>\n<weaponImg:Weapon_Flower,4,1>\n<skill_id:14>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons125.txt>","params":[
 		0,
 		0,
 		50,
@@ -1642,10 +1647,10 @@
 		0,
 		0
 	],"price":3400,"wtypeId":5},
-	{"id":126,"animationId":211,"description":"「斬、刺屬性」物攻+70，攻擊附加機率\\it[17]，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
+	{"id":126,"animationId":211,"description":"「斬、刺屬性」物攻+70，攻擊機率附加\\it[17]，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1167,"name":"倒鉤鞭","note":"<武器>\n<weaponImg:Weapon_Forest,4,1>\n<skill_id:15>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons126.txt>","params":[
+	],"iconIndex":1167,"name":"@倒鉤鞭","note":"<武器>\n<weaponImg:Weapon_Forest,4,1>\n<skill_id:15>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons126.txt>","params":[
 		0,
 		0,
 		70,
@@ -1668,12 +1673,13 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":128,"animationId":211,"description":"「斬、土屬性」物攻+80，魔攻+30，攻擊附加機率\\it[18]，\n對敵方全體造成攻擊傷害，可使用技能【\\ns[457]】","etypeId":1,"traits":[
+	{"id":128,"animationId":211,"description":"「斬、鈍、土屬性」物攻+80，魔攻+30，攻擊機率附加\\it[18]，\n對敵方全體造成攻擊傷害，可使用技能【\\ns[457]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
+		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":8,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":457,"value":1}
-	],"iconIndex":1155,"name":"星土鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1155,"name":"@星土鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		80,
@@ -1683,11 +1689,12 @@
 		0,
 		0
 	],"price":7000,"wtypeId":5},
-	{"id":129,"animationId":211,"description":"「斬+風屬性」物攻+140、命中+30%、小幅提升自身冰屬性\n攻擊傷害。","etypeId":1,"traits":[
+	{"id":129,"animationId":211,"description":"「斬、刺、風屬性」物攻+140、命中+30%、小幅提升自身\n冰屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
+		{"code":31,"dataId":2,"value":0},
 		{"code":31,"dataId":7,"value":0},
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1157,"name":"妖精的呼吸","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<屬性傷害倍率:[[6,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1157,"name":"@妖精的呼吸","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<屬性傷害倍率:[[6,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		140,
@@ -1697,10 +1704,10 @@
 		0,
 		0
 	],"price":7000,"wtypeId":5},
-	{"id":130,"animationId":209,"description":"「斬、刺屬性」物攻+115，魔攻+30，\n對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
+	{"id":130,"animationId":209,"description":"「斬、刺屬性」物攻+115，魔攻+30，對敵方全體造成攻擊\n傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1164,"name":"妃糖鞭","note":"<武器>\n<weaponImg:Weapon_candy,4,1>\n<skill_id:12>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons130.txt>\n絕無城","params":[
+	],"iconIndex":1164,"name":"@妃糖鞭","note":"<武器>\n<weaponImg:Weapon_candy,4,1>\n<skill_id:12>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons130.txt>\n絕無城","params":[
 		0,
 		0,
 		115,
@@ -1710,19 +1717,18 @@
 		0,
 		0
 	],"price":10000,"wtypeId":5},
-	{"id":131,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":131,"animationId":209,"description":"「鈍屬性」物攻+15，暴擊傷害+10%，對敵方全體造成攻擊\n傷害，普攻提升對酒醉狀態敵人的傷害。","etypeId":1,"traits":[
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":215,"name":"@馬大嬸的晾衣繩","note":"<maxStack:1>","params":[
 		0,
 		0,
-		0,
+		15,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":50,"wtypeId":5},
 	{"id":132,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -1985,7 +1991,7 @@
 	],"price":500,"wtypeId":6},
 	{"id":152,"animationId":1,"description":"「鈍屬性」物攻+5、魔攻+10","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":101,"name":"木杖","note":"<武器>\n<weaponImg:Weapon_Joke3,2,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons152.txt>","params":[
+	],"iconIndex":101,"name":"木杖","note":"<武器>\n<weaponImg:Weapon_Joke3,2,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons152.txt>","params":[
 		0,
 		0,
 		5,
@@ -1998,7 +2004,7 @@
 	{"id":153,"animationId":1,"description":"「鈍屬性」物攻+25，命中率+10%","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":0,"value":0.1}
-	],"iconIndex":1613,"name":"掃帚","note":"<武器>\n<weaponImg:Weapon_Joke1,0,0>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons153.txt>","params":[
+	],"iconIndex":1613,"name":"掃帚","note":"<武器>\n<weaponImg:Weapon_Joke1,0,0>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons153.txt>","params":[
 		0,
 		0,
 		25,
@@ -2010,7 +2016,7 @@
 	],"price":200,"wtypeId":6},
 	{"id":154,"animationId":1,"description":"「鈍屬性」物攻+10、魔攻+25","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":101,"name":"學徒杖","note":"<武器>\n<weaponImg:Weapons1,5,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons154.txt>","params":[
+	],"iconIndex":101,"name":"學徒杖","note":"<武器>\n<weaponImg:Weapons1,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons154.txt>","params":[
 		0,
 		0,
 		10,
@@ -2022,7 +2028,7 @@
 	],"price":300,"wtypeId":6},
 	{"id":155,"animationId":1,"description":"「鈍屬性」物攻+25、魔攻+40","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1168,"name":"魔法杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,9,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons155.txt>","params":[
+	],"iconIndex":1168,"name":"魔法杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,9,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons155.txt>","params":[
 		0,
 		0,
 		25,
@@ -2034,7 +2040,7 @@
 	],"price":750,"wtypeId":6},
 	{"id":156,"animationId":1,"description":"「鈍屬性」物攻+25、魔攻+10、幸運+50","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1360,"name":"服事杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,3,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons156.txt>","params":[
+	],"iconIndex":1360,"name":"服事杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,3,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons156.txt>","params":[
 		0,
 		0,
 		25,
@@ -2044,10 +2050,10 @@
 		0,
 		50
 	],"price":750,"wtypeId":6},
-	{"id":157,"animationId":1,"description":"「鈍屬性」物攻+35、魔攻+50、幸運+40，攻擊附加機率\\it[8]","etypeId":1,"traits":[
+	{"id":157,"animationId":1,"description":"「鈍屬性」物攻+35、魔攻+50、幸運+40，攻擊機率附加\\it[8]","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":32,"dataId":8,"value":0.5}
-	],"iconIndex":1182,"name":"咒邪之杖","note":"<武器>\n<weaponImg:Weapon_Devil,5,1>\n<skill_id:490>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons157.txt>","params":[
+	],"iconIndex":1182,"name":"咒邪之杖","note":"<武器>\n<weaponImg:Weapon_Devil,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons157.txt>","params":[
 		0,
 		0,
 		35,
@@ -2059,7 +2065,7 @@
 	],"price":1500,"wtypeId":6},
 	{"id":158,"animationId":1,"description":"「鈍屬性」物攻+55、魔攻+70","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1174,"name":"魔晶杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:8>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons158.txt>","params":[
+	],"iconIndex":1174,"name":"魔晶杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:1>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons158.txt>","params":[
 		0,
 		0,
 		55,
@@ -2071,7 +2077,7 @@
 	],"price":3500,"wtypeId":6},
 	{"id":159,"animationId":1,"description":"「鈍屬性」物攻+55、魔攻+20、幸運+75","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1366,"name":"水晶杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,6,1>\n<skill_id:8>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons159.txt>","params":[
+	],"iconIndex":1366,"name":"水晶杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,6,1>\n<skill_id:1>\nCp5凱鐵支姆村/敏東村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons159.txt>","params":[
 		0,
 		0,
 		55,
@@ -2083,7 +2089,7 @@
 	],"price":3500,"wtypeId":6},
 	{"id":160,"animationId":1,"description":"「鈍屬性」物攻+70、魔攻+90","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1168,"name":"魔導師之杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,1,1>\n<skill_id:8>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons160.txt>","params":[
+	],"iconIndex":1168,"name":"魔導師之杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,1,1>\n<skill_id:1>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons160.txt>","params":[
 		0,
 		0,
 		75,
@@ -2095,7 +2101,7 @@
 	],"price":8000,"wtypeId":6},
 	{"id":161,"animationId":1,"description":"「鈍屬性」物攻+70、魔攻+30、幸運+95","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1360,"name":"魔祭司之杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,0,1>\n<skill_id:8>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons161.txt>","params":[
+	],"iconIndex":1360,"name":"魔祭司之杖","note":"<武器>\n<weaponImg:Weapon_WandsandStaffs,0,1>\n<skill_id:1>\nCp6王都\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons161.txt>","params":[
 		0,
 		0,
 		70,
@@ -2107,7 +2113,7 @@
 	],"price":8000,"wtypeId":6},
 	{"id":162,"animationId":1,"description":"「鈍屬性」物攻+80，魔攻、幸運+100","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":1344,"name":"約拿杖","note":"<武器>\n<weaponImg:Weapon_ChromeLight,5,1>\n<skill_id:8>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons162.txt>","params":[
+	],"iconIndex":1344,"name":"約拿杖","note":"<武器>\n<weaponImg:Weapon_ChromeLight,5,1>\n<skill_id:1>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons162.txt>","params":[
 		0,
 		0,
 		80,
@@ -2120,7 +2126,7 @@
 	{"id":163,"animationId":1,"description":"「鈍屬性」物攻+90，魔攻、幸運+130，防禦、魔防+20","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":0,"value":0.1}
-	],"iconIndex":1362,"name":"女神之杖","note":"<武器>\n<weaponImg:Weapon_Forest,5,1>\n<skill_id:8>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons163.txt>","params":[
+	],"iconIndex":1362,"name":"女神之杖","note":"<武器>\n<weaponImg:Weapon_Forest,5,1>\n<skill_id:1>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons163.txt>","params":[
 		0,
 		0,
 		90,
@@ -2135,7 +2141,7 @@
 		{"code":31,"dataId":10,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":949,"value":1}
-	],"iconIndex":1362,"name":"金錫杖","note":"<武器>\n<weaponImg:Weapon_Flower,5,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons166.txt>","params":[
+	],"iconIndex":1362,"name":"@金錫杖","note":"<武器>\n<weaponImg:Weapon_Flower,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons166.txt>","params":[
 		0,
 		0,
 		120,
@@ -2158,13 +2164,13 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":166,"animationId":1,"description":"「鈍+風屬性」物攻+120、魔攻、幸運+180，速度+30，\n被攻擊機率-50%，可使用技能【\\ns[460]】","etypeId":1,"traits":[
+	{"id":166,"animationId":1,"description":"「鈍+風屬性」物攻+120、魔攻、幸運+180，速度+30，\n被攻擊機率x50%，可使用技能【\\ns[460]】","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":7,"value":0},
 		{"code":23,"dataId":0,"value":0.5},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":460,"value":1}
-	],"iconIndex":1349,"name":"白虎杖","note":"<武器>\n<weaponImg:Weapon_Flower,5,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons166.txt>","params":[
+	],"iconIndex":1349,"name":"白虎杖","note":"<武器>\n<weaponImg:Weapon_Flower,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons166.txt>","params":[
 		0,
 		0,
 		120,
@@ -2179,7 +2185,7 @@
 		{"code":31,"dataId":6,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":459,"value":1}
-	],"iconIndex":1351,"name":"玄武杖","note":"<武器>\n<weaponImg:Weapon_special,2,1>\n<skill_id:489>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons167.txt>","params":[
+	],"iconIndex":1351,"name":"@玄武杖","note":"<武器>\n<weaponImg:Weapon_special,2,1>\n<skill_id:489>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons167.txt>","params":[
 		0,
 		0,
 		120,
@@ -2191,7 +2197,7 @@
 	],"price":0,"wtypeId":6},
 	{"id":168,"animationId":1,"description":"「鈍屬性」物攻+5，魔攻+10，杖身上有奇怪的刻痕\n","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":101,"name":"有著凹洞的木棍","note":"<武器>\n<weaponImg:Weapon_Joke4,6,0>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons168.txt>","params":[
+	],"iconIndex":101,"name":"有著凹洞的木棍","note":"<武器>\n<weaponImg:Weapon_Joke4,6,0>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons168.txt>","params":[
 		0,
 		0,
 		5,
@@ -2201,11 +2207,11 @@
 		0,
 		0
 	],"price":0,"wtypeId":6},
-	{"id":169,"animationId":1,"description":"「鈍、暗屬性」物攻+100，魔攻、幸運+150，\n技能MP消耗-25%","etypeId":1,"traits":[
+	{"id":169,"animationId":1,"description":"「鈍、暗屬性」物攻+100，魔攻、幸運+150，\n技能MP消耗x75%","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":11,"value":0},
 		{"code":23,"dataId":4,"value":0.75}
-	],"iconIndex":1373,"name":"天使之杖","note":"<武器>\n<weaponImg:Weapon_DarkAngel,5,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons169.txt>","params":[
+	],"iconIndex":1373,"name":"天使之杖","note":"<武器>\n<weaponImg:Weapon_DarkAngel,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons169.txt>","params":[
 		0,
 		0,
 		100,
@@ -2215,12 +2221,12 @@
 		0,
 		150
 	],"price":0,"wtypeId":6},
-	{"id":170,"animationId":2,"description":"「鈍、光屬性」物攻+100，魔攻、幸運+200，最大MP+200\n技能MP消耗-25%，可自動恢復MP(小)","etypeId":1,"traits":[
+	{"id":170,"animationId":2,"description":"「鈍、光屬性」物攻+100，魔攻、幸運+200，最大MP+200\n技能MP消耗x75%，可自動恢復MP(小)","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":10,"value":0},
 		{"code":23,"dataId":4,"value":0.75},
 		{"code":22,"dataId":8,"value":0.03}
-	],"iconIndex":1375,"name":"聖天使之杖","note":"<武器>\n<weaponImg:Weapons_Angel,5,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons170.txt>","params":[
+	],"iconIndex":1375,"name":"聖天使之杖","note":"<武器>\n<weaponImg:Weapons_Angel,5,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons170.txt>","params":[
 		0,
 		200,
 		100,
@@ -2230,11 +2236,11 @@
 		0,
 		200
 	],"price":0,"wtypeId":6},
-	{"id":171,"animationId":1,"description":"「斬屬性」物攻+75、魔攻+50，幸運-150\n可使用技能【\\ns[440]】","etypeId":1,"traits":[
+	{"id":171,"animationId":7,"description":"「斬屬性」物攻+75、魔攻+50，幸運-150\n可使用技能【\\ns[440]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":440,"value":1}
-	],"iconIndex":122,"name":"死鐮之杖","note":"<武器>\n<weaponImg:Weapon_Devil,10,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons171.txt>","params":[
+	],"iconIndex":122,"name":"死鐮之杖","note":"<武器>\n<weaponImg:Weapon_Devil,10,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons171.txt>","params":[
 		0,
 		0,
 		75,
@@ -2244,11 +2250,11 @@
 		0,
 		-150
 	],"price":1000,"wtypeId":6},
-	{"id":172,"animationId":11,"description":"「鈍屬性」物攻+35，命中+10%，可自動恢復HP(小)","etypeId":1,"traits":[
+	{"id":172,"animationId":1,"description":"「鈍屬性」物攻+35，命中+10%，可自動恢復HP(小)","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":0,"value":0.1},
 		{"code":22,"dataId":7,"value":0.03}
-	],"iconIndex":256,"name":"結實的蘿蔔","note":"<武器>\n<weaponImg:Weapon_Joke2,1,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons172.txt>","params":[
+	],"iconIndex":256,"name":"結實的蘿蔔","note":"<武器>\n<weaponImg:Weapon_Joke2,1,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons172.txt>","params":[
 		0,
 		0,
 		35,
@@ -2261,7 +2267,7 @@
 	{"id":173,"animationId":11,"description":"「刺屬性」物攻+100，命中+10%","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":0,"value":0.1}
-	],"iconIndex":183,"name":"鋤草農具","note":"<武器>\n<weaponImg:Weapon_Joke2,4,0>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons173.txt>","params":[
+	],"iconIndex":183,"name":"鋤草農具","note":"<武器>\n<weaponImg:Weapon_Joke2,4,0>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons173.txt>","params":[
 		0,
 		0,
 		100,
@@ -2275,7 +2281,7 @@
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":0,"value":0.1},
 		{"code":22,"dataId":7,"value":0.1}
-	],"iconIndex":1611,"name":"帶骨肉棒棒","note":"<武器>\n<weaponImg:Weapon_Joke2,7,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons174.txt>","params":[
+	],"iconIndex":1611,"name":"帶骨肉棒棒","note":"<武器>\n<weaponImg:Weapon_Joke2,7,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons174.txt>","params":[
 		0,
 		0,
 		150,
@@ -2287,7 +2293,7 @@
 	],"price":1000,"wtypeId":6},
 	{"id":175,"animationId":0,"description":"「風屬性」魔攻、幸運+100、命中+30%、普攻可發動\n技能【破風】，對敵方單體造成風屬性魔法攻擊傷害","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":233,"name":"妖精的餽贈","note":"<武器>\n<weaponImg:Weapon_book_summons,7,2>\n<skill_id:115>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons175.txt>","params":[
+	],"iconIndex":233,"name":"@妖精的餽贈","note":"<武器>\n<weaponImg:Weapon_book_summons,7,2>\n<skill_id:115>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons175.txt>","params":[
 		0,
 		0,
 		0,
@@ -2301,7 +2307,7 @@
 		{"code":31,"dataId":3,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":446,"value":1}
-	],"iconIndex":1173,"name":"安特之杖","note":"<武器>\n<weaponImg:Weapon_Forest,5,2>\n<skill_id:8>\n<buff消除抵抗:{\"mhp\":0.5,\"mmp\":0.5,\"atk\":0.5,\"def\":0.5,\"mat\":0.5,\"mdf\":0.5,\"agi\":0.5,\"luk\":0.5}>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons176.txt>","params":[
+	],"iconIndex":1173,"name":"安特之杖","note":"<武器>\n<weaponImg:Weapon_Forest,5,2>\n<skill_id:1>\n<buff消除抵抗:{\"mhp\":0.5,\"mmp\":0.5,\"atk\":0.5,\"def\":0.5,\"mat\":0.5,\"mdf\":0.5,\"agi\":0.5,\"luk\":0.5}>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons176.txt>","params":[
 		0,
 		0,
 		80,
@@ -2311,8 +2317,8 @@
 		0,
 		0
 	],"price":10000,"wtypeId":6},
-	{"id":177,"animationId":0,"description":"「鈍屬性」物攻+80，魔攻+180，中幅提升自身火、水、\n雷、風、土、冰元素傷害。","etypeId":1,"traits":[
-	],"iconIndex":1373,"name":"銀鹿","note":"<weaponImg:Weapon_book_summons,7,2>\n<屬性傷害倍率:[[4,1.30],[5,1.30],[6,1.30],[7,1.30],[8,1.30],[9,1.30]]>","params":[
+	{"id":177,"animationId":0,"description":"「鈍屬性」物攻+80，魔攻+180，中幅提升自身火、水、\n雷、風、土、冰屬性傷害。","etypeId":1,"traits":[
+	],"iconIndex":1373,"name":"@銀鹿","note":"<weaponImg:Weapon_book_summons,7,2>\n<屬性傷害倍率:[[4,1.30],[5,1.30],[6,1.30],[7,1.30],[8,1.30],[9,1.30]]>","params":[
 		0,
 		0,
 		80,
@@ -2339,7 +2345,7 @@
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":7,"value":0.03},
 		{"code":22,"dataId":8,"value":0.03}
-	],"iconIndex":1134,"name":"黑色枷鎖","note":"<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons179.txt>","params":[
+	],"iconIndex":1134,"name":"黑色枷鎖","note":"<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons179.txt>","params":[
 		0,
 		0,
 		60,
@@ -2354,7 +2360,7 @@
 		{"code":22,"dataId":7,"value":0.03},
 		{"code":22,"dataId":8,"value":0.03},
 		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":1134,"name":"黑色枷鎖","note":"<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons179.txt>","params":[
+	],"iconIndex":1134,"name":"黑色枷鎖","note":"<weaponImg:Weapon_WandsandStaffs,7,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons179.txt>","params":[
 		0,
 		0,
 		60,
@@ -2380,7 +2386,7 @@
 	{"id":182,"animationId":621,"description":"「斬、鈍屬性」物攻+90","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":99,"name":"獸骨手斧","note":"<武器>\n<weaponImg:Weapon_Bone,3,1>\n<skill_id:488>\n起手\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons182.txt>","params":[
+	],"iconIndex":99,"name":"獸骨手斧","note":"<武器>\n<weaponImg:Weapon_Bone,3,1>\n<skill_id:1>\n起手\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons182.txt>","params":[
 		0,
 		0,
 		90,
@@ -2394,7 +2400,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.05}
-	],"iconIndex":1136,"name":"戰斧","note":"<武器>\n<weaponImg:Weapons_axes,0,1>\n<skill_id:488>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons183.txt>","params":[
+	],"iconIndex":1136,"name":"戰斧","note":"<武器>\n<weaponImg:Weapons_axes,0,1>\n<skill_id:1>\nCp7船上/雪北村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons183.txt>","params":[
 		0,
 		0,
 		120,
@@ -2404,12 +2410,13 @@
 		0,
 		0
 	],"price":10000,"wtypeId":7},
-	{"id":184,"animationId":621,"description":"「斬、鈍、光屬性」物攻+150、爆擊率+5%","etypeId":1,"traits":[
+	{"id":184,"animationId":621,"description":"「斬、鈍、光屬性」物攻+150、暴擊率+5%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":10,"value":0},
+		{"code":31,"dataId":10,"value":0},
 		{"code":22,"dataId":2,"value":0.05}
-	],"iconIndex":1151,"name":"銀刃斧","note":"<武器>\n<weaponImg:Weapons_axes,3,1>\n<skill_id:487>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons184.txt>","params":[
+	],"iconIndex":1151,"name":"銀刃斧","note":"<武器>\n<weaponImg:Weapons_axes,3,1>\n<skill_id:1>\nCp8達西村\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons184.txt>","params":[
 		0,
 		0,
 		150,
@@ -2419,11 +2426,11 @@
 		0,
 		0
 	],"price":19000,"wtypeId":7},
-	{"id":185,"animationId":621,"description":"「斬+土屬性」物攻+140、命中+30%、小幅提升自身雷、\n土屬性攻擊傷害。","etypeId":1,"traits":[
+	{"id":185,"animationId":719,"description":"「斬+土屬性」物攻+140、命中+30%、小幅提升自身雷、\n土屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":8,"value":0},
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1140,"name":"妖精的輓歌","note":"<武器>\n<weaponImg:Weapons_axes,3,1>\n<屬性傷害倍率:[[5,1.10],[8,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons184.txt>","params":[
+	],"iconIndex":1140,"name":"妖精的輓歌","note":"<武器>\n<weaponImg:Weapons_axes,3,1>\n<skill_id:1>\n<屬性傷害倍率:[[5,1.10],[8,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons184.txt>","params":[
 		0,
 		0,
 		140,
@@ -2446,10 +2453,10 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":187,"animationId":1,"description":"「鈍屬性」物攻+90、爆擊率+25%","etypeId":1,"traits":[
+	{"id":187,"animationId":1,"description":"「鈍屬性」物攻+90、暴擊率+25%","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.25}
-	],"iconIndex":1629,"name":"裝了磚頭的公事包","note":"<武器>\n<weaponImg:Weapon_Joke1,11,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons187.txt>","params":[
+	],"iconIndex":1629,"name":"裝了磚頭的公事包","note":"<武器>\n<weaponImg:Weapon_Joke1,11,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons187.txt>","params":[
 		0,
 		0,
 		90,
@@ -2462,7 +2469,7 @@
 	{"id":188,"animationId":621,"description":"「斬、鈍屬性」物攻+40","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0}
-	],"iconIndex":99,"name":"破爛手斧","note":"<武器>\n<weaponImg:Weapon_ChromeLight,3,1>\n<skill_id:488>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons188.txt>","params":[
+	],"iconIndex":99,"name":"破爛手斧","note":"<武器>\n<weaponImg:Weapon_ChromeLight,3,1>\n<skill_id:1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons188.txt>","params":[
 		0,
 		0,
 		40,
@@ -2472,11 +2479,11 @@
 		0,
 		0
 	],"price":350,"wtypeId":7},
-	{"id":189,"animationId":621,"description":"「斬、鈍屬性」物攻+145、爆擊率+10%","etypeId":1,"traits":[
+	{"id":189,"animationId":621,"description":"「斬、鈍屬性」物攻+145、暴擊率+10%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
-	],"iconIndex":1148,"name":"拐杖斧","note":"<武器>\n<weaponImg:Weapon_candy,3,1>\n<skill_id:488>\n絕無城\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons189.txt>","params":[
+	],"iconIndex":1148,"name":"拐杖斧","note":"<武器>\n<weaponImg:Weapon_candy,3,1>\n<skill_id:1>\n絕無城\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons189.txt>","params":[
 		0,
 		0,
 		145,
@@ -2682,7 +2689,7 @@
 		0
 	],"price":0,"wtypeId":0},
 	{"id":205,"animationId":11,"description":"「爆裂屬性」「需長時間詠唱」裝備後無法使用部分武器\n相關技能，對敵方全體造成約750點無視防禦的直接傷害。","etypeId":1,"traits":[
-	],"iconIndex":1471,"name":"能量光束槍","note":"<武器>\n<weaponImg:Weapon_Blasters,7,2>\n<skill_id:481>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons205.txt>","params":[
+	],"iconIndex":1471,"name":"@能量光束槍","note":"<武器>\n<weaponImg:Weapon_Blasters,7,2>\n<skill_id:481>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons205.txt>","params":[
 		0,
 		0,
 		0,
@@ -2696,7 +2703,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0.5},
 		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":1342,"name":"暴動魔槍「blueGiga」","note":"<skill_id:223>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons206.txt>","params":[
+	],"iconIndex":1342,"name":"@暴動魔槍「blueGiga」","note":"<skill_id:223>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons206.txt>","params":[
 		0,
 		0,
 		200,
@@ -2708,7 +2715,7 @@
 	],"price":0,"wtypeId":2},
 	{"id":207,"animationId":11,"description":"「爆裂屬性」裝備後無法使用部分武器相關技能，\n對敵方單體造成約200點無視防禦的直接傷害。","etypeId":1,"traits":[
 		{"code":22,"dataId":0,"value":0.3}
-	],"iconIndex":1456,"name":"手槍","note":"<武器>\n<weaponImg:Weapons1,8,2>\n<skill_id:13>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons207.txt>","params":[
+	],"iconIndex":1456,"name":"@手槍","note":"<武器>\n<weaponImg:Weapons1,8,2>\n<skill_id:13>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons207.txt>","params":[
 		0,
 		0,
 		0,
@@ -2722,7 +2729,7 @@
 		{"code":31,"dataId":2,"value":0},
 		{"code":62,"dataId":0,"value":1},
 		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":107,"name":"士兵用長矛","note":"<weaponImg:Weapons1,11,0>\n<skill_id:486>","params":[
+	],"iconIndex":107,"name":"士兵用長矛","note":"<weaponImg:Weapons1,11,0>\n<skill_id:1>","params":[
 		0,
 		0,
 		30,
@@ -2748,7 +2755,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":12,"value":0},
 		{"code":22,"dataId":0,"value":1}
-	],"iconIndex":1506,"name":"月藍戰鬥魔戒","note":"<weaponImg:Weapon_book_summons,11,1>\n<skill_id:297>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons210.txt>","params":[
+	],"iconIndex":1506,"name":"@月藍戰鬥魔戒","note":"<weaponImg:Weapon_book_summons,11,1>\n<skill_id:297>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons210.txt>","params":[
 		0,
 		0,
 		250,
@@ -3661,30 +3668,32 @@
 		0,
 		0
 	],"price":0,"wtypeId":12},
-	{"id":283,"animationId":21,"description":"「鈍屬性」在兩頭前端盤著龍形鋼雕製成的武術長棍，相當\n沉重，非內家高手難以使用，物攻+150，TP獲得量提升(大)。","etypeId":1,"traits":[
-		{"code":23,"dataId":5,"value":1.5},
-		{"code":53,"dataId":1,"value":1}
-	],"iconIndex":1522,"name":"蟠龍棍","note":"<skill_id:1022>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons283.txt>","params":[
+	{"id":283,"animationId":0,"description":"","etypeId":1,"traits":[
+		{"code":31,"dataId":1,"value":0},
+		{"code":22,"dataId":0,"value":0}
+	],"iconIndex":0,"name":"","note":"","params":[
 		0,
 		0,
-		150,
+		0,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":12},
+	],"price":0,"wtypeId":0},
 	{"id":284,"animationId":0,"description":"","etypeId":1,"traits":[
-	],"iconIndex":0,"name":"月花團通用武器","note":"","params":[
+		{"code":31,"dataId":1,"value":0},
+		{"code":22,"dataId":0,"value":0}
+	],"iconIndex":0,"name":"","note":"","params":[
 		0,
 		0,
-		90,
+		0,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":12},
+	],"price":0,"wtypeId":0},
 	{"id":285,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -3815,19 +3824,18 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":295,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":295,"animationId":6,"description":"「鈍屬性」物攻+280，物防+50，可以使用『續氣』\n※續氣：自身獲得攻擊、速度上升兩層，『溫柔之夜』狀態","etypeId":1,"traits":[
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":1259,"name":"@無雙拳套","note":"<武器>\n<weaponImg:Weapon_Katanas,0,1>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons10.txt>","params":[
 		0,
 		0,
-		0,
-		0,
+		280,
+		50,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":16000,"wtypeId":1},
 	{"id":296,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -4034,7 +4042,7 @@
 		10,
 		0
 	],"price":1000,"wtypeId":13},
-	{"id":311,"animationId":555,"description":"「斬屬性」物攻+200、爆擊率+25%、命中+20%\n造成四次攻擊傷害，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
+	{"id":311,"animationId":555,"description":"「斬屬性」物攻+200、暴擊率+25%、命中+20%\n造成四次攻擊傷害，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.25},
 		{"code":22,"dataId":0,"value":0.2}
@@ -4048,7 +4056,7 @@
 		0,
 		0
 	],"price":1000,"wtypeId":13},
-	{"id":312,"animationId":555,"description":"「斬屬性」物攻+250、爆擊率+30%、命中+20%，最終物攻額外提升20%\n造成四次攻擊傷害，普通攻擊有100%機率即死，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
+	{"id":312,"animationId":555,"description":"「斬屬性」物攻+250、暴擊率+30%、命中+20%，最終物攻額外提升20%\n造成四次攻擊傷害，普通攻擊有100%機率即死，裝備後無法使用刀劍類技能。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":2,"value":0.25},
 		{"code":22,"dataId":0,"value":0.2},
@@ -4347,7 +4355,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":335,"animationId":6,"description":"「斬屬性」物攻+280 暴擊率+100%，但最終物攻-50%。","etypeId":1,"traits":[
+	{"id":335,"animationId":6,"description":"「斬屬性」物攻+280 暴擊率+100%，最終物攻額外降低50%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":21,"dataId":2,"value":0.5},
 		{"code":22,"dataId":2,"value":1}
@@ -4436,10 +4444,10 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":342,"animationId":0,"description":"「斬+暗屬性」物攻、魔攻+150，普通攻擊機率機率給予敵人『疼痛印記』，\n※疼痛印記：受到物理、魔法傷害變成兩倍，受到傷害後解除。","etypeId":1,"traits":[
+	{"id":342,"animationId":0,"description":"「斬+暗屬性」物攻、魔攻+150，普通攻擊機率機率給予敵人「疼痛印記」。\n※疼痛印記：受到物理、魔法傷害變成兩倍，受到傷害後解除。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"@怨念長刀","note":"","params":[
+	],"iconIndex":1422,"name":"@怨念長刀","note":"","params":[
 		0,
 		0,
 		150,
@@ -4594,7 +4602,7 @@
 		0,
 		0
 	],"price":18000,"wtypeId":2},
-	{"id":354,"animationId":0,"description":"「斬+水屬性」物攻+120、魔防+60、命中+40%、\n被攻擊機率+200%","etypeId":1,"traits":[
+	{"id":354,"animationId":0,"description":"「斬+水屬性」物攻+120、魔防+60、命中+40%、\n被攻擊機率x300%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":23,"dataId":0,"value":3},
 		{"code":22,"dataId":0,"value":0.4}
@@ -4608,7 +4616,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":355,"animationId":0,"description":"「斬+水屬性」物攻+120、魔防+70、命中+50%、\n被攻擊機率+300%","etypeId":1,"traits":[
+	{"id":355,"animationId":0,"description":"「斬+水屬性」物攻+120、魔防+70、命中+50%、\n被攻擊機率x400%","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":23,"dataId":0,"value":4},
 		{"code":22,"dataId":0,"value":0.5}
@@ -4622,7 +4630,33 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":356,"animationId":6,"description":"「斬、雷屬性」物攻+110、魔攻+55，攻擊附加機率\\it[19]，\n可使用技能【\\ns[456]、\\ns[448]】","etypeId":1,"traits":[
+	{"id":356,"animationId":0,"description":"「斬屬性」物攻+135，防禦、魔防+40，被攻擊機率x300%","etypeId":1,"traits":[
+		{"code":31,"dataId":1,"value":0},
+		{"code":23,"dataId":0,"value":3}
+	],"iconIndex":1117,"name":"鍛鋼護手刃+1","note":"<武器>\n<weaponImg:Weapon_special,6,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>\n絕無城","params":[
+		0,
+		0,
+		135,
+		40,
+		0,
+		40,
+		0,
+		0
+	],"price":10000,"wtypeId":2},
+	{"id":357,"animationId":0,"description":"「斬屬性」物攻+150，防禦、魔防+50，被攻擊機率x500%","etypeId":1,"traits":[
+		{"code":31,"dataId":1,"value":0},
+		{"code":23,"dataId":0,"value":5}
+	],"iconIndex":1117,"name":"鍛鋼護手刃+2","note":"<武器>\n<weaponImg:Weapon_special,6,1>\n<skill_id:9>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons57.txt>\n絕無城","params":[
+		0,
+		0,
+		150,
+		50,
+		0,
+		50,
+		0,
+		0
+	],"price":10000,"wtypeId":2},
+	{"id":358,"animationId":6,"description":"「斬、雷屬性」物攻+110、魔攻+55，攻擊附加機率\\it[19]，\n可使用技能【\\ns[456]、\\ns[448]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":5,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4638,7 +4672,7 @@
 		0,
 		0
 	],"price":7000,"wtypeId":2},
-	{"id":357,"animationId":6,"description":"「斬、雷屬性」物攻+110、魔攻+110，攻擊附加機率\\it[19]，\n可使用技能【\\ns[456]、\\ns[932]】","etypeId":1,"traits":[
+	{"id":359,"animationId":6,"description":"「斬、雷屬性」物攻+110、魔攻+110，攻擊附加機率\\it[19]，\n可使用技能【\\ns[456]、\\ns[932]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":5,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4655,7 +4689,7 @@
 		0,
 		0
 	],"price":7000,"wtypeId":2},
-	{"id":358,"animationId":0,"description":"「斬屬性」魔攻+150、速度+50、免疫即死，中幅提升自身火\n風光暗屬性攻擊傷害。可使用技能【渾沌閃光、火焰旋風】","etypeId":1,"traits":[
+	{"id":360,"animationId":0,"description":"「斬屬性」魔攻+150、速度+50、免疫\\it[482]，中幅提升自身\n火、風、光、暗屬性攻擊傷害。可使用技能【\\ns[435]、\\ns[436]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4671,7 +4705,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":359,"animationId":0,"description":"「斬屬性」魔攻+180、速度+50、免疫即死，大幅提升自身火\n風光暗屬性攻擊傷害。可使用技能【渾沌閃光、火焰旋風】","etypeId":1,"traits":[
+	{"id":361,"animationId":0,"description":"「斬屬性」魔攻+180、速度+50、免疫\\it[482]，大幅提升自身\n火、風、光、暗屬性攻擊傷害。可使用技能【\\ns[435]、\\ns[436]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4687,7 +4721,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":360,"animationId":0,"description":"「斬屬性」魔攻+200、免疫即死，中幅提升自身水雷光暗屬性\n攻擊傷害，可使用技能【渾沌閃光、水球閃電】","etypeId":1,"traits":[
+	{"id":362,"animationId":0,"description":"「斬屬性」魔攻+200、免疫\\it[482]，中幅提升自身水、雷、\n光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4703,7 +4737,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":361,"animationId":0,"description":"「斬屬性」魔攻+230、免疫即死，大幅提升自身水雷光暗屬性\n攻擊傷害，可使用技能【渾沌閃光、水球閃電】","etypeId":1,"traits":[
+	{"id":363,"animationId":0,"description":"「斬屬性」魔攻+230、免疫\\it[482]，大幅提升自身水、雷、\n光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4719,7 +4753,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":362,"animationId":0,"description":"「斬屬性」魔攻+150、防禦魔防+75、免疫即死，中幅提升自身\n冰土光暗屬性攻擊傷害，可使用技能【渾沌閃光、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":364,"animationId":0,"description":"「斬屬性」魔攻+150、雙防+75、免疫\\it[482]，中幅提升自身\n冰、土、光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4735,7 +4769,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":363,"animationId":0,"description":"「斬屬性」魔攻+180、防禦魔防+75、免疫即死，大幅提升自身\n冰土光暗屬性攻擊傷害，可使用技能【渾沌閃光、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":365,"animationId":0,"description":"「斬屬性」魔攻+180、雙防+75、免疫\\it[482]，大幅提升自身\n冰、土、光、暗屬性攻擊傷害，可使用技能【\\ns[435]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":13,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
@@ -4751,7 +4785,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":364,"animationId":0,"description":"「斬屬性」魔攻+200、速度+50，中幅提升自身火風水雷屬性\n攻擊傷害，可使用技能【火焰旋風、水球閃電】","etypeId":1,"traits":[
+	{"id":366,"animationId":0,"description":"「斬屬性」魔攻+200、速度+50，中幅提升自身火、風、水、雷\n屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
@@ -4766,7 +4800,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":365,"animationId":0,"description":"「斬屬性」魔攻+230、速度+50，大幅提升自身火風水雷屬性\n攻擊傷害，可使用技能【火焰旋風、水球閃電】","etypeId":1,"traits":[
+	{"id":367,"animationId":0,"description":"「斬屬性」魔攻+230、速度+50，大幅提升自身火、風、水、雷\n屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[437]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
@@ -4781,7 +4815,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":366,"animationId":0,"description":"「斬屬性」魔攻+150、防禦魔防+75、速度+50，中幅提升自身\n火風冰土屬性攻擊傷害，可使用技能【火焰旋風、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":368,"animationId":0,"description":"「斬屬性」魔攻+150、雙防+75、速度+50，中幅提升自身\n火、風、冰、土屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
@@ -4796,7 +4830,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":367,"animationId":0,"description":"「斬屬性」魔攻+180、防禦魔防+75、速度+50，大幅提升自身\n火風冰土屬性攻擊傷害，可使用技能【火焰旋風、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":369,"animationId":0,"description":"「斬屬性」魔攻+180、雙防+75、速度+50，大幅提升自身\n火、風、冰、土屬性攻擊傷害，可使用技能【\\ns[436]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":436,"value":1},
@@ -4811,7 +4845,7 @@
 		50,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":368,"animationId":0,"description":"「斬屬性」魔攻+200、防禦、魔防+75，中幅提升自身水雷冰\n土屬性攻擊傷害，可使用技能【水球閃電、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":370,"animationId":0,"description":"「斬屬性」魔攻+200、雙防+75，中幅提升自身水、雷、\n冰、土屬性攻擊傷害，可使用技能【\\ns[437]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":437,"value":1},
@@ -4826,7 +4860,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":369,"animationId":0,"description":"「斬屬性」魔攻+230、防禦、魔防+75，大幅提升自身水雷冰\n土屬性攻擊傷害，可使用技能【水球閃電、冰岩刺擊】","etypeId":1,"traits":[
+	{"id":371,"animationId":0,"description":"「斬屬性」魔攻+230、雙防+75，大幅提升自身水、雷、\n冰、土屬性攻擊傷害，可使用技能【\\ns[437]、\\ns[438]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":437,"value":1},
@@ -4841,7 +4875,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":2},
-	{"id":370,"animationId":6,"description":"「斬屬性」物攻+210\n可使用技能【\\ns[439]、\\ns[934]】","etypeId":1,"traits":[
+	{"id":372,"animationId":6,"description":"「斬屬性」物攻+210\n可使用技能【\\ns[439]、\\ns[934]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":439,"value":1},
@@ -4856,7 +4890,7 @@
 		0,
 		0
 	],"price":1000,"wtypeId":2},
-	{"id":371,"animationId":6,"description":"「斬屬性」物攻+270\n可使用技能【\\ns[439]、\\ns[934]、\\ns[935]】","etypeId":1,"traits":[
+	{"id":373,"animationId":6,"description":"「斬屬性」物攻+270\n可使用技能【\\ns[439]、\\ns[934]、\\ns[935]】","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":41,"dataId":18,"value":1},
 		{"code":43,"dataId":439,"value":1},
@@ -4872,7 +4906,7 @@
 		0,
 		0
 	],"price":1000,"wtypeId":2},
-	{"id":372,"animationId":139,"description":"「斬+光屬性」魔攻+200、魔防+60，獲得『雙持武器』能力，\n可使用【\\ns[936]】。","etypeId":1,"traits":[
+	{"id":374,"animationId":139,"description":"「斬+光屬性」魔攻+200、魔防+60，獲得『雙持武器』能力，\n可使用【\\ns[936]】。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":10,"value":0},
 		{"code":55,"dataId":1,"value":1},
@@ -4888,7 +4922,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":373,"animationId":139,"description":"「斬+光屬性」魔攻+250、魔防+80，獲得『雙持武器』能力，\n可使用【\\ns[936]、\\ns[937]】。","etypeId":1,"traits":[
+	{"id":375,"animationId":139,"description":"「斬+光屬性」魔攻+250、魔防+80，獲得『雙持武器』能力，\n可使用【\\ns[936]、\\ns[937]】。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":10,"value":0},
 		{"code":55,"dataId":1,"value":1},
@@ -4905,58 +4939,34 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":374,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":376,"animationId":6,"description":"「斬屬性」物攻+200，TP獲得量提升(小)、可自動恢復TP(小)，普攻可使用【顛杓】\n※顛杓：普通攻擊時自身攻擊力計算的基數比重提高","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":23,"dataId":5,"value":1.1},
+		{"code":22,"dataId":9,"value":0.03}
+	],"iconIndex":1584,"name":"馬大嬸的鍋鏟+1","note":"<maxStack:1>","params":[
 		0,
 		0,
-		0,
+		200,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
-	{"id":375,"animationId":0,"description":"","etypeId":1,"traits":[
+	],"price":7500,"wtypeId":11},
+	{"id":377,"animationId":6,"description":"「斬屬性」物攻+400，TP獲得量提升(中)、可自動恢復TP(中)，普攻可使用【顛杓】\n※顛杓：普通攻擊時自身攻擊力計算的基數比重提高","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":23,"dataId":5,"value":1.3},
+		{"code":22,"dataId":9,"value":0.05}
+	],"iconIndex":1584,"name":"馬大嬸的鍋鏟+2","note":"<maxStack:1>","params":[
 		0,
 		0,
-		0,
+		400,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
-	{"id":376,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0,"wtypeId":0},
-	{"id":377,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0,"wtypeId":0},
+	],"price":7500,"wtypeId":11},
 	{"id":378,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -5231,19 +5241,19 @@
 		0,
 		0
 	],"price":0,"wtypeId":2},
-	{"id":399,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":399,"animationId":139,"description":"「斬、鈍屬性」物攻+200、防禦+100，普通攻擊替換為【\\ns[968]】\n※\\ns[968]：普通攻擊依照自身防禦力額外提升威力。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":1118,"name":"神鷹巨劍","note":"<maxStack:1>\n","params":[
 		0,
 		0,
-		0,
-		0,
+		200,
+		100,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":0,"wtypeId":2},
 	{"id":400,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -5468,7 +5478,7 @@
 		15,
 		0
 	],"price":10000,"wtypeId":4},
-	{"id":417,"animationId":504,"description":"「刺屬性」物攻+125，魔攻+40，速度+15，免疫失明，\n小幅提升刺屬性傷害。","etypeId":1,"traits":[
+	{"id":417,"animationId":504,"description":"「刺屬性」物攻+125，魔攻+40，速度+15，免疫失明，\n小幅提升自身刺屬性傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":14,"dataId":8,"value":1}
 	],"iconIndex":1184,"name":"獵手神弓+2","note":"<武器>\n<weaponImg:Weapon_bows,0,2>\n<屬性傷害倍率:[[2,1.10]]>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons97.txt>","params":[
@@ -5481,7 +5491,7 @@
 		15,
 		0
 	],"price":10000,"wtypeId":4},
-	{"id":418,"animationId":504,"description":"物攻、魔攻+45、速度+30，普通攻擊替換為『仙靈箭』\n※仙靈箭：單體恢復HP並解除全能力減益","etypeId":1,"traits":[
+	{"id":418,"animationId":504,"description":"物攻、魔攻+45、速度+30，普通攻擊替換為『仙靈箭』\n※仙靈箭：我方單體恢復HP，並解除全能力減益","etypeId":1,"traits":[
 	],"iconIndex":1189,"name":"仙靈弓+1","note":"<武器>\n<weaponImg:Weapon_Flower,6,2>\n<skill_id:940>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons94.txt>","params":[
 		0,
 		0,
@@ -5492,7 +5502,7 @@
 		30,
 		0
 	],"price":800,"wtypeId":4},
-	{"id":419,"animationId":504,"description":"物攻、魔攻+80、速度+50，普通攻擊替換為『仙靈箭』\n※仙靈箭：單體恢復HP並解除全能力減益","etypeId":1,"traits":[
+	{"id":419,"animationId":504,"description":"物攻、魔攻+80、速度+50，普通攻擊替換為『仙靈箭』\n※仙靈箭：我方單體恢復HP，並解除全能力減益","etypeId":1,"traits":[
 	],"iconIndex":1189,"name":"仙靈弓+2","note":"<武器>\n<weaponImg:Weapon_Flower,6,2>\n<skill_id:940>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons94.txt>","params":[
 		0,
 		0,
@@ -5503,32 +5513,32 @@
 		50,
 		0
 	],"price":800,"wtypeId":4},
-	{"id":420,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":420,"animationId":504,"description":"「刺+鈍屬性」物攻+160、速度+15，提高自身獲得酒醉的機率，\n普攻時自身有酒醉狀態傷害提升","etypeId":1,"traits":[
+		{"code":31,"dataId":2,"value":0},
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":1440,"name":"馬大叔的彈弓+1","note":"<maxStack:1>","params":[
+		0,
+		0,
+		160,
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
+		15,
 		0
-	],"price":0,"wtypeId":0},
-	{"id":421,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	],"price":800,"wtypeId":4},
+	{"id":421,"animationId":504,"description":"「刺+鈍屬性」物攻+320、速度+25，獲得酒醉狀態時無視機率\n必定獲得狀態，普攻時自身有酒醉狀態傷害提升。","etypeId":1,"traits":[
+		{"code":31,"dataId":2,"value":0},
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":1440,"name":"馬大叔的彈弓+2","note":"<maxStack:1>","params":[
+		0,
+		0,
+		321,
 		0,
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
+		25,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":800,"wtypeId":4},
 	{"id":422,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -5645,7 +5655,7 @@
 		0,
 		0
 	],"price":280,"wtypeId":4},
-	{"id":431,"animationId":504,"description":"「刺屬性」物攻+150，爆擊率+30%。","etypeId":1,"traits":[
+	{"id":431,"animationId":504,"description":"「刺屬性」物攻+150，暴擊率+30%。","etypeId":1,"traits":[
 		{"code":31,"dataId":2,"value":0},
 		{"code":22,"dataId":2,"value":0.3}
 	],"iconIndex":1184,"name":"狙殺長弓","note":"<武器>\n<weaponImg:Weapon_bows,3,2>\n","params":[
@@ -6102,32 +6112,31 @@
 		0,
 		0
 	],"price":7000,"wtypeId":5},
-	{"id":465,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+	{"id":465,"animationId":209,"description":"「鈍屬性」物攻+175，爆擊傷害+25%，對敵方全體造成攻擊\n傷害，普攻提升對酒醉狀態敵人的傷害。","etypeId":1,"traits":[
+		{"code":31,"dataId":3,"value":0}
+	],"iconIndex":215,"name":"馬大嬸的晾衣繩+1","note":"<maxStack:1>","params":[
 		0,
 		0,
-		0,
-		0,
-		0,
-		0,
-		0,
-		0
-	],"price":0,"wtypeId":0},
-	{"id":466,"animationId":0,"description":"","etypeId":1,"traits":[
-		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
-		0,
-		0,
-		0,
+		175,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":50,"wtypeId":5},
+	{"id":466,"animationId":209,"description":"「鈍屬性」物攻+350，爆擊傷害+50%，免疫酒醉，對敵方\n全體造成攻擊傷害，普攻超大幅提升對酒醉狀態敵人的傷害。","etypeId":1,"traits":[
+		{"code":31,"dataId":3,"value":0},
+		{"code":14,"dataId":3,"value":1}
+	],"iconIndex":215,"name":"馬大嬸的晾衣繩+2","note":"<maxStack:1>custom/detail/weapons/Weapons122.txt>","params":[
+		0,
+		0,
+		350,
+		0,
+		0,
+		0,
+		0,
+		0
+	],"price":50,"wtypeId":5},
 	{"id":467,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -6235,7 +6244,7 @@
 	{"id":475,"animationId":211,"description":"「斬+刺屬性」物攻+250，對敵方全體造成攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1155,"name":"九龍鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1154,"name":"九龍鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		250,
@@ -6313,7 +6322,7 @@
 	{"id":481,"animationId":211,"description":"「斬+刺屬性」物攻+150、防禦+100，對敵方全體造成攻擊傷害。\n普通攻擊時，對象身上的異常狀態數量呈倍數提升傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1155,"name":"倍痛鐵鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1165,"name":"倍痛鐵鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		150,
@@ -6391,7 +6400,7 @@
 	{"id":487,"animationId":211,"description":"「斬+刺屬性」物攻+250，普通攻擊減少敵方的TP。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0}
-	],"iconIndex":1155,"name":"失意藤鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1157,"name":"失意藤鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		250,
@@ -6405,7 +6414,7 @@
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":2,"value":0},
 		{"code":32,"dataId":7,"value":0.2}
-	],"iconIndex":1155,"name":"屍毒鎖鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
+	],"iconIndex":1166,"name":"屍毒鎖鞭","note":"<武器>\n<weaponImg:Weapon_DarkAngel,4,1>\n<skill_id:16>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons128.txt>","params":[
 		0,
 		0,
 		140,
@@ -6415,19 +6424,21 @@
 		0,
 		0
 	],"price":7000,"wtypeId":5},
-	{"id":489,"animationId":0,"description":"","etypeId":1,"traits":[
+	{"id":489,"animationId":211,"description":"「斬+刺+雷屬性」物攻+280，對敵方全體造成攻擊傷害，\n二次攻擊，攻擊機率\\it[19]，並依照魔攻增幅傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
-		{"code":22,"dataId":0,"value":0}
-	],"iconIndex":0,"name":"","note":"","params":[
+		{"code":31,"dataId":2,"value":0},
+		{"code":31,"dataId":5,"value":0},
+		{"code":32,"dataId":19,"value":1}
+	],"iconIndex":1155,"name":"抹鹽倒鉤的通電紋鞭","note":"<maxStack:1>\n","params":[
 		0,
 		0,
-		0,
+		280,
 		0,
 		0,
 		0,
 		0,
 		0
-	],"price":0,"wtypeId":0},
+	],"price":7000,"wtypeId":5},
 	{"id":490,"animationId":0,"description":"","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":22,"dataId":0,"value":0}
@@ -7279,7 +7290,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":555,"animationId":621,"description":"「斬、鈍、光屬性」物攻+160、爆擊率+5%、小幅提升自身斬、\n鈍屬性攻擊傷害。","etypeId":1,"traits":[
+	{"id":555,"animationId":621,"description":"「斬、鈍、光屬性」物攻+160、暴擊率+5%、小幅提升自身斬、\n鈍屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":10,"value":0},
@@ -7294,7 +7305,7 @@
 		0,
 		0
 	],"price":19000,"wtypeId":7},
-	{"id":556,"animationId":621,"description":"「斬、鈍、光屬性」物攻+170、爆擊率+5%、中幅提升自身斬、\n鈍屬性攻擊傷害。","etypeId":1,"traits":[
+	{"id":556,"animationId":621,"description":"「斬、鈍、光屬性」物攻+170、暴擊率+5%、中幅提升自身斬、\n鈍屬性攻擊傷害。","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":31,"dataId":10,"value":0},
@@ -7402,7 +7413,7 @@
 		0,
 		0
 	],"price":0,"wtypeId":0},
-	{"id":564,"animationId":1,"description":"「鈍屬性」物攻+135、爆擊率+35%","etypeId":1,"traits":[
+	{"id":564,"animationId":1,"description":"「鈍屬性」物攻+135、暴擊率+35%","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.35}
 	],"iconIndex":1629,"name":"裝了磚頭的公事包+1","note":"<武器>\n<weaponImg:Weapon_Joke1,11,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons187.txt>","params":[
@@ -7415,7 +7426,7 @@
 		0,
 		0
 	],"price":100,"wtypeId":7},
-	{"id":565,"animationId":1,"description":"「鈍屬性」物攻+180、爆擊率+50%","etypeId":1,"traits":[
+	{"id":565,"animationId":1,"description":"「鈍屬性」物攻+180、暴擊率+50%","etypeId":1,"traits":[
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.5}
 	],"iconIndex":1629,"name":"裝了磚頭的公事包+2","note":"<武器>\n<weaponImg:Weapon_Joke1,11,1>\n<skill_id:8>\n<道具額外文字檔:BLR_custom/detail/weapons/Weapons187.txt>","params":[
@@ -7428,7 +7439,7 @@
 		0,
 		0
 	],"price":100,"wtypeId":7},
-	{"id":566,"animationId":621,"description":"「斬、鈍屬性」物攻+155、爆擊率+10%\n戰鬥開始獲得自動回血50","etypeId":1,"traits":[
+	{"id":566,"animationId":621,"description":"「斬、鈍屬性」物攻+155、暴擊率+10%\n戰鬥開始獲得自動回血50","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
@@ -7442,7 +7453,7 @@
 		0,
 		0
 	],"price":10000,"wtypeId":7},
-	{"id":567,"animationId":621,"description":"「斬、鈍屬性」物攻+165、爆擊率+10%\n戰鬥開始獲得自動回血50、自動回魔25","etypeId":1,"traits":[
+	{"id":567,"animationId":621,"description":"「斬、鈍屬性」物攻+165、暴擊率+10%\n戰鬥開始獲得自動回血50、自動回魔25","etypeId":1,"traits":[
 		{"code":31,"dataId":1,"value":0},
 		{"code":31,"dataId":3,"value":0},
 		{"code":22,"dataId":2,"value":0.1}
