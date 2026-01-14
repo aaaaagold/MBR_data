@@ -12648,7 +12648,7 @@
 				0,
 				603,
 				21,
-				16,
+				18,
 				2,
 				0
 			]},
@@ -13768,18 +13768,6 @@
 			]},
 			{"code":605,"indent":1,"parameters":[
 				0,
-				96,
-				1,
-				10000
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
-				216,
-				1,
-				15000
-			]},
-			{"code":605,"indent":1,"parameters":[
-				0,
 				124,
 				0,
 				0
@@ -13836,29 +13824,11 @@
 				"購買裝備"
 			]},
 			{"code":302,"indent":1,"parameters":[
-				1,
-				25,
-				1,
-				10000,
-				false
-			]},
-			{"code":605,"indent":1,"parameters":[
-				1,
-				57,
-				1,
-				10000
-			]},
-			{"code":605,"indent":1,"parameters":[
-				1,
-				175,
-				1,
-				10000
-			]},
-			{"code":605,"indent":1,"parameters":[
 				2,
 				604,
 				0,
-				0
+				0,
+				false
 			]},
 			{"code":605,"indent":1,"parameters":[
 				2,
@@ -13868,15 +13838,27 @@
 			]},
 			{"code":605,"indent":1,"parameters":[
 				2,
-				615,
+				610,
 				1,
-				10000
+				5000
 			]},
 			{"code":605,"indent":1,"parameters":[
 				2,
-				616,
+				885,
 				1,
-				10000
+				15000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				886,
+				1,
+				15000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				2,
+				887,
+				1,
+				15000
 			]},
 			{"code":605,"indent":1,"parameters":[
 				2,
@@ -13972,10 +13954,10 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「不過！會建議你把背包內\\C[2]不用的東西通通"
+				"「不過！ＧＧ會建議斟酌一下，把背包內\\C[2]"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"都賣掉\\C[0]！」"
+				"你認為用不到的東西通通都賣掉\\C[0]！」"
 			]},
 			{"code":101,"indent":1,"parameters":[
 				"BLR_G",
@@ -13987,22 +13969,7 @@
 				"機器人Ｇ"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"「都到絕無城了，\\C[2]沒有任務\\C[6]跟你\\C[2]收怪物素材\\C[6]、"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"\\C[2]低階補品\\C[6]也用不到\\C[0]，\\C[2]低階裝備\\C[6]更是沒用。\\C[0]」"
-			]},
-			{"code":101,"indent":1,"parameters":[
-				"BLR_G",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"機器人Ｇ"
-			]},
-			{"code":401,"indent":1,"parameters":[
-				"「趁著個機會，好好更新一下背包吧！」"
+				"「趁著個機會，好好整理一下背包吧！」"
 			]},
 			{"code":119,"indent":1,"parameters":[
 				"01"
@@ -14181,25 +14148,31 @@
 				6,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
 				36,
 				0,
 				0,
+				15
+			]},
+			{"code":126,"indent":2,"parameters":[
+				95,
+				0,
+				0,
 				10
 			]},
 			{"code":126,"indent":2,"parameters":[
-				96,
+				272,
 				0,
 				0,
-				5
+				10
 			]},
 			{"code":126,"indent":2,"parameters":[
 				364,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
 				582,
@@ -14328,7 +14301,7 @@
 				false
 			]},
 			{"code":127,"indent":2,"parameters":[
-				45,
+				39,
 				0,
 				0,
 				1,
@@ -14415,31 +14388,31 @@
 				6,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
 				36,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
-				96,
+				95,
 				0,
 				0,
-				5
+				10
 			]},
 			{"code":126,"indent":2,"parameters":[
 				272,
 				0,
 				0,
-				5
+				10
 			]},
 			{"code":126,"indent":2,"parameters":[
 				364,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
 				582,
@@ -14627,31 +14600,31 @@
 				6,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
 				36,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":126,"indent":2,"parameters":[
-				96,
+				95,
 				0,
 				0,
-				5
+				10
 			]},
 			{"code":126,"indent":2,"parameters":[
 				272,
 				0,
 				0,
-				5
+				10
 			]},
 			{"code":126,"indent":2,"parameters":[
 				364,
 				0,
 				0,
-				10
+				15
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
@@ -14691,7 +14664,7 @@
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":31,"y":14},
 	{"id":22,"name":"EV022","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -14733,10 +14706,10 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":12,"y":16},
 	{"id":23,"name":"EV023","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -14760,9 +14733,6 @@
 				0,
 				0,
 				2
-			]},
-			{"code":401,"indent":0,"parameters":[
-				""
 			]},
 			{"code":401,"indent":0,"parameters":[
 				"下面寫了幾行小字："
@@ -14790,10 +14760,10 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":21,"y":16},
 	{"id":24,"name":"EV024","note":"","pages":[
-		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":false,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":91,"variableValid":true,"variableValue":10},"directionFix":true,"image":{"tileId":0,"characterName":"$BLR_Blackboard","direction":8,"pattern":1,"characterIndex":0},"list":[
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -14835,6 +14805,6 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
 	],"x":30,"y":16}
 ]}

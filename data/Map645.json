@@ -76864,10 +76864,16 @@
 				10
 			]},
 			{"code":126,"indent":2,"parameters":[
+				327,
+				0,
+				0,
+				20
+			]},
+			{"code":126,"indent":2,"parameters":[
 				215,
 				0,
 				0,
-				1
+				3
 			]},
 			{"code":101,"indent":2,"parameters":[
 				"",
@@ -76876,10 +76882,10 @@
 				2
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"獲得\\ni[96]10個、\\ni[80]10個、"
+				"獲得\\ni[96]10個、\\ni[80]10個、\\ni[327]20個"
 			]},
 			{"code":401,"indent":2,"parameters":[
-				"\\ni[214]20個、\\ni[215]。"
+				"\\ni[214]20個、\\ni[215]3個。"
 			]},
 			{"code":122,"indent":2,"parameters":[
 				273,
@@ -76942,5 +76948,126 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
-	],"x":66,"y":12}
+	],"x":66,"y":12},
+	{"id":165,"name":"機器人G","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":10,"variableValid":false,"variableValue":1085},"directionFix":false,"image":{"tileId":0,"characterName":"Robot-1","direction":2,"pattern":1,"characterIndex":3},"list":[
+			{"code":101,"indent":0,"parameters":[
+				"BLR_G",
+				4,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"機器人Ｇ"
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"「歡迎光臨ＧＧ簡易商店。」"
+			]},
+			{"code":102,"indent":0,"parameters":[
+				[
+					"購買補品",
+					"離開"
+				],
+				3,
+				0,
+				2,
+				0
+			]},
+			{"code":402,"indent":0,"parameters":[
+				0,
+				"購買補品"
+			]},
+			{"code":302,"indent":1,"parameters":[
+				0,
+				6,
+				0,
+				0,
+				false
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				36,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				76,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				95,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				124,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				154,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				212,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				213,
+				1,
+				25000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				255,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				272,
+				0,
+				0
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				260,
+				1,
+				10000
+			]},
+			{"code":605,"indent":1,"parameters":[
+				0,
+				364,
+				0,
+				0
+			]},
+			{"code":119,"indent":1,"parameters":[
+				"01"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":402,"indent":0,"parameters":[
+				1,
+				"離開"
+			]},
+			{"code":0,"indent":1,"parameters":[
+			]},
+			{"code":404,"indent":0,"parameters":[
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+	],"x":11,"y":9}
 ]}

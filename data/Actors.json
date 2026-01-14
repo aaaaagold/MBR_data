@@ -7,7 +7,7 @@
 		3,
 		0
 	],"faceIndex":0,"faceName":"BLR_01_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\",\"男\"]>\n<男>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。"},
+	],"initialLevel":1,"maxLevel":99,"name":"陸維皮","nickname":"輕浮少年","note":"<usedOnTags:[\"陸維皮\",\"男\"]>\n<男>","profile":"被最果之雨村收養的青年，生性好色助人為樂，做事還\n像個孩子一樣沒有太多的自制力，正在旅途中成長。","meta":{"usedOnTags":"[\"陸維皮\",\"男\"]","男":true}},
 	{"id":2,"battlerName":"SV_Lilia","characterIndex":1,"characterName":"BLR_Actor_Angel","classId":2,"equips":[
 		32,
 		662,
@@ -15,7 +15,7 @@
 		392,
 		0
 	],"faceIndex":0,"faceName":"BLR_02_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"天使蛋糕","nickname":"神秘少女","note":"<usedOnTags:[\"天使蛋糕\",\"女\"]>\n<女>","profile":"擁有特別氣息的女孩，身世不明，名字也非常奇特，似乎\n對維皮情有獨鍾．．．"},
+	],"initialLevel":1,"maxLevel":99,"name":"天使蛋糕","nickname":"神秘少女","note":"<usedOnTags:[\"天使蛋糕\",\"女\"]>\n<女>","profile":"擁有特別氣息的女孩，身世不明，名字也非常奇特，似乎\n對維皮情有獨鍾．．．","meta":{"usedOnTags":"[\"天使蛋糕\",\"女\"]","女":true}},
 	{"id":3,"battlerName":"BLR_Yuter_MV_SV","characterIndex":0,"characterName":"BLR_Yuter_MV01","classId":3,"equips":[
 		152,
 		0,
@@ -23,7 +23,7 @@
 		302,
 		4
 	],"faceIndex":0,"faceName":"BLR_03_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"攸特","nickname":"資料不明","note":"<usedOnTags:[\"攸特\",\"男\"]>\n<男>","profile":"精通煉金術跟各種知識的可靠旅人，興趣是考古，因為如此\n正在世界各地遊走，多年的智慧讓他常常開導身旁的人。"},
+	],"initialLevel":1,"maxLevel":99,"name":"攸特","nickname":"資料不明","note":"<usedOnTags:[\"攸特\",\"男\"]>\n<男>","profile":"精通煉金術跟各種知識的可靠旅人，興趣是考古，因為如此\n正在世界各地遊走，多年的智慧讓他常常開導身旁的人。","meta":{"usedOnTags":"[\"攸特\",\"男\"]","男":true}},
 	{"id":4,"battlerName":"SV_Helen","characterIndex":7,"characterName":"2000_Actor2","classId":4,"equips":[
 		92,
 		642,
@@ -31,7 +31,7 @@
 		303,
 		4
 	],"faceIndex":3,"faceName":"BLR_04_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\",\"女\"]>\n<女>","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」"},
+	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\",\"女\"]>\n<女>","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」","meta":{"立繪if暱稱":"{\"村姑\":\"Actor_4_2\"}","usedOnTags":"[\"花香兔兔\",\"女\"]","女":true}},
 	{"id":5,"battlerName":"BLR_RinNaMZ_SV","characterIndex":1,"characterName":"BLR_Yuter_MV01","classId":5,"equips":[
 		122,
 		0,
@@ -39,7 +39,7 @@
 		304,
 		711
 	],"faceIndex":0,"faceName":"BLR_05_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"艾斯亞雷娜","nickname":"SM女王","note":"<usedOnTags:[\"艾斯亞雷娜\",\"女\"]>\n<女>","profile":"似乎擁有許多故事的漂亮女子，個性堅強且成熟，可以從\n她身上感覺到不平凡的歷練，正與自己的人生戰鬥中。"},
+	],"initialLevel":1,"maxLevel":99,"name":"艾斯亞雷娜","nickname":"SM女王","note":"<usedOnTags:[\"艾斯亞雷娜\",\"女\"]>\n<女>","profile":"似乎擁有許多故事的漂亮女子，個性堅強且成熟，可以從\n她身上感覺到不平凡的歷練，正與自己的人生戰鬥中。","meta":{"usedOnTags":"[\"艾斯亞雷娜\",\"女\"]","女":true}},
 	{"id":6,"battlerName":"BLR_PinHan_MV_SV","characterIndex":3,"characterName":"BLR_Yuter_MV01","classId":11,"equips":[
 		53,
 		603,
@@ -47,7 +47,7 @@
 		373,
 		0
 	],"faceIndex":0,"faceName":"BLR_06_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"娜娜美","nickname":"品涵","note":"<usedOnTags:[\"娜娜美\",\"女\"]>\n<女>","profile":"極度面癱的女生，對於任何狀況都板著一張臉，但還是能透\n過外型看出當下她的情緒變化，跟天使一樣有特別的氣場"},
+	],"initialLevel":1,"maxLevel":99,"name":"娜娜美","nickname":"品涵","note":"<usedOnTags:[\"娜娜美\",\"女\"]>\n<女>","profile":"極度面癱的女生，對於任何狀況都板著一張臉，但還是能透\n過外型看出當下她的情緒變化，跟天使一樣有特別的氣場","meta":{"usedOnTags":"[\"娜娜美\",\"女\"]","女":true}},
 	{"id":7,"battlerName":"BLR_WindRinRin_MZ_SV","characterIndex":2,"characterName":"BLR_Yuter_MV01","classId":8,"equips":[
 		155,
 		710,
@@ -55,7 +55,7 @@
 		334,
 		857
 	],"faceIndex":1,"faceName":"BLR_07_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"風鈴鈴","nickname":"穿越者","note":"<usedOnTags:[\"風鈴鈴\",\"女\"]>\n<女>","profile":"王都考古團的分隊長，擁有相當程度的戰鬥能力，沒人知道\n她到底是出生於哪裡，身份是個謎，除此之外癡迷壯漢。"},
+	],"initialLevel":1,"maxLevel":99,"name":"風鈴鈴","nickname":"穿越者","note":"<usedOnTags:[\"風鈴鈴\",\"女\"]>\n<女>","profile":"王都考古團的分隊長，擁有相當程度的戰鬥能力，沒人知道\n她到底是出生於哪裡，身份是個謎，除此之外癡迷壯漢。","meta":{"usedOnTags":"[\"風鈴鈴\",\"女\"]","女":true}},
 	{"id":8,"battlerName":"SV_Rebecca","characterIndex":5,"characterName":"2000_Actor2","classId":13,"equips":[
 		182,
 		667,
@@ -63,7 +63,7 @@
 		366,
 		856
 	],"faceIndex":0,"faceName":"BLR_08_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"白色向日葵","nickname":"嚮往戀愛的少女","note":"<usedOnTags:[\"白色向日葵\",\"女\"]>\n<女>","profile":"嚮往戀愛的少女，個性開朗活潑，總是喜歡用自己星之瞳\n向人撒嬌，正在努力尋找屬於自己的白馬王子"},
+	],"initialLevel":1,"maxLevel":99,"name":"白色向日葵","nickname":"嚮往戀愛的少女","note":"<usedOnTags:[\"白色向日葵\",\"女\"]>\n<女>","profile":"嚮往戀愛的少女，個性開朗活潑，總是喜歡用自己星之瞳\n向人撒嬌，正在努力尋找屬於自己的白馬王子","meta":{"usedOnTags":"[\"白色向日葵\",\"女\"]","女":true}},
 	{"id":9,"battlerName":"SV_Gomez","characterIndex":4,"characterName":"2000_Actor2","classId":20,"equips":[
 		0,
 		0,
@@ -71,7 +71,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"BLR_09_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"忠之琳","nickname":"絡腮鬍","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"忠之琳","nickname":"絡腮鬍","note":"","profile":"","meta":{}},
 	{"id":10,"battlerName":"BLR_StarWind_MV_SV","characterIndex":2,"characterName":"PeopleMV_BLR_Adult02_1","classId":10,"equips":[
 		37,
 		667,
@@ -79,7 +79,7 @@
 		397,
 		901
 	],"faceIndex":0,"faceName":"BLR_10_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<usedOnTags:[\"星之風\",\"男\"]>\n<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。"},
+	],"initialLevel":1,"maxLevel":99,"name":"星之風","nickname":"魔破劍士","note":"<usedOnTags:[\"星之風\",\"男\"]>\n<男>","profile":"總是瞇著眼睛的傭兵，在元素大陸四處流浪，對於自己的\n過去幾乎不曾提起，他談吐的背後似乎有著神秘的故事。","meta":{"usedOnTags":"[\"星之風\",\"男\"]","男":true}},
 	{"id":11,"battlerName":"SV_Carol","characterIndex":5,"characterName":"2000_Actor1","classId":9,"equips":[
 		180,
 		620,
@@ -87,7 +87,7 @@
 		360,
 		906
 	],"faceIndex":0,"faceName":"BLR_11_01","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"如如","nickname":"暗之女","note":"<立繪if暱稱:{\"平靜少女\":\"Actor_11_2\"}>\n<usedOnTags:[\"如如\",\"女\"]>\n<女>","profile":"迷一般的少女，全身上下散發著不詳的氣息，言語透露出\n狂氣，擁有使喚魔物的能力，似乎在追尋著什麼。"},
+	],"initialLevel":1,"maxLevel":99,"name":"如如","nickname":"暗之女","note":"<立繪if暱稱:{\"平靜少女\":\"Actor_11_2\"}>\n<usedOnTags:[\"如如\",\"女\"]>\n<女>","profile":"迷一般的少女，全身上下散發著不詳的氣息，言語透露出\n狂氣，擁有使喚魔物的能力，似乎在追尋著什麼。","meta":{"立繪if暱稱":"{\"平靜少女\":\"Actor_11_2\"}","usedOnTags":"[\"如如\",\"女\"]","女":true}},
 	{"id":12,"battlerName":"真攸特1","characterIndex":0,"characterName":"真攸特","classId":7,"equips":[
 		209,
 		0,
@@ -114,7 +114,7 @@
 		{"code":22,"dataId":7,"value":0.1},
 		{"code":22,"dataId":8,"value":0.1},
 		{"code":22,"dataId":9,"value":0.1}
-	],"initialLevel":80,"maxLevel":80,"name":"真攸特","nickname":"地上最強","note":"<男>","profile":"透過時間寶珠的能力，將死去摯友的武藝修練了百年並達到\n怪物等級的戰士，已經是人類最強的代表了。"},
+	],"initialLevel":80,"maxLevel":80,"name":"真攸特","nickname":"地上最強","note":"<男>","profile":"透過時間寶珠的能力，將死去摯友的武藝修練了百年並達到\n怪物等級的戰士，已經是人類最強的代表了。","meta":{"男":true}},
 	{"id":13,"battlerName":"SV_LiliaSP","characterIndex":1,"characterName":"BLR_Actor_Angel","classId":6,"equips":[
 		52,
 		674,
@@ -142,7 +142,7 @@
 		{"code":12,"dataId":5,"value":0},
 		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0}
-	],"initialLevel":50,"maxLevel":99,"name":"狂暴天使蛋糕","nickname":"月藍機神","note":"","profile":"正在爆走中的天使蛋糕"},
+	],"initialLevel":50,"maxLevel":99,"name":"狂暴天使蛋糕","nickname":"月藍機神","note":"","profile":"正在爆走中的天使蛋糕","meta":{}},
 	{"id":14,"battlerName":"","characterIndex":0,"characterName":"","classId":8,"equips":[
 		0,
 		0,
@@ -150,7 +150,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":20,"maxLevel":99,"name":"風鈴玲劇情用","nickname":"風鈴玲","note":"","profile":""},
+	],"initialLevel":20,"maxLevel":99,"name":"風鈴玲劇情用","nickname":"風鈴玲","note":"","profile":"","meta":{}},
 	{"id":15,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -158,7 +158,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"真攸特變身用","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"真攸特變身用","nickname":"","note":"","profile":"","meta":{}},
 	{"id":16,"battlerName":"BLR_Lucy_SV","characterIndex":1,"characterName":"BLR_IceMoon","classId":12,"equips":[
 		206,
 		0,
@@ -166,7 +166,7 @@
 		411,
 		877
 	],"faceIndex":0,"faceName":"BLR_16_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"露西蛋糕","nickname":"月藍軍神","note":"<usedOnTags:[\"露西蛋糕\",\"女\"]>\n<女>","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。"},
+	],"initialLevel":1,"maxLevel":99,"name":"露西蛋糕","nickname":"月藍軍神","note":"<usedOnTags:[\"露西蛋糕\",\"女\"]>\n<女>","profile":"月藍國的武力門面，同時也是王國最高戰力，也擁有軍神，\n女武神，機神等等的美名，言行舉止十分嚴肅。","meta":{"usedOnTags":"[\"露西蛋糕\",\"女\"]","女":true}},
 	{"id":17,"battlerName":"SV_Ardis","characterIndex":6,"characterName":"2000_Actor2","classId":14,"equips":[
 		0,
 		0,
@@ -174,7 +174,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"BLR_MainNPCs","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"<usedOnTags:[\"晨\",\"男\"]>\n<男>","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。"},
+	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"<usedOnTags:[\"晨\",\"男\"]>\n<男>","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。","meta":{"usedOnTags":"[\"晨\",\"男\"]","男":true}},
 	{"id":18,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":15,"equips":[
 		0,
 		0,
@@ -182,7 +182,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"BLR_BigSun","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"大陽","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"大陽","nickname":"","note":"","profile":"","meta":{}},
 	{"id":19,"battlerName":"","characterIndex":0,"characterName":"Monster_20190405_1372700","classId":20,"equips":[
 		155,
 		0,
@@ -190,7 +190,7 @@
 		334,
 		0
 	],"faceIndex":1,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":1,"name":"玩家","nickname":"玩家","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":1,"name":"玩家","nickname":"玩家","note":"","profile":"","meta":{}},
 	{"id":20,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -198,7 +198,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":21,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -206,7 +206,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":22,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -214,7 +214,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":23,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -222,7 +222,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":24,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -230,7 +230,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":25,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -238,7 +238,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"絕無幣","nickname":"","note":"","profile":"絕無城代幣名稱"},
+	],"initialLevel":1,"maxLevel":99,"name":"絕無幣","nickname":"","note":"","profile":"絕無城代幣名稱","meta":{}},
 	{"id":26,"battlerName":"BLR_soldier_red","characterIndex":2,"characterName":"Recolor_Soldiers","classId":20,"equips":[
 		208,
 		1,
@@ -246,7 +246,7 @@
 		3,
 		0
 	],"faceIndex":2,"faceName":"Recolor_Soldiers","traits":[
-	],"initialLevel":25,"maxLevel":25,"name":"考古團士兵","nickname":"","note":"","profile":""},
+	],"initialLevel":25,"maxLevel":25,"name":"考古團士兵","nickname":"","note":"","profile":"","meta":{}},
 	{"id":27,"battlerName":"BLR_soldier_red","characterIndex":2,"characterName":"Recolor_Soldiers","classId":20,"equips":[
 		208,
 		1,
@@ -254,7 +254,7 @@
 		3,
 		0
 	],"faceIndex":2,"faceName":"Recolor_Soldiers","traits":[
-	],"initialLevel":25,"maxLevel":25,"name":"考古團士兵","nickname":"","note":"","profile":""},
+	],"initialLevel":25,"maxLevel":25,"name":"考古團士兵","nickname":"","note":"","profile":"","meta":{}},
 	{"id":28,"battlerName":"BLR_plant","characterIndex":4,"characterName":"KH06_MVmonster_01","classId":19,"equips":[
 		0,
 		1,
@@ -265,7 +265,7 @@
 		{"code":43,"dataId":597,"value":1},
 		{"code":44,"dataId":478,"value":1},
 		{"code":62,"dataId":0,"value":1}
-	],"initialLevel":37,"maxLevel":37,"name":"魔彈花","nickname":"","note":"","profile":""},
+	],"initialLevel":37,"maxLevel":37,"name":"魔彈花","nickname":"","note":"","profile":"","meta":{}},
 	{"id":29,"battlerName":"BLR_skeleton-dogSV","characterIndex":0,"characterName":"$BLR_skeleton-dog","classId":17,"equips":[
 		0,
 		1,
@@ -277,7 +277,7 @@
 		{"code":43,"dataId":568,"value":1},
 		{"code":44,"dataId":478,"value":1},
 		{"code":62,"dataId":0,"value":1}
-	],"initialLevel":37,"maxLevel":37,"name":"骸骨犬","nickname":"","note":"","profile":""},
+	],"initialLevel":37,"maxLevel":37,"name":"骸骨犬","nickname":"","note":"","profile":"","meta":{}},
 	{"id":30,"battlerName":"BLR_Demon","characterIndex":4,"characterName":"Monster","classId":18,"equips":[
 		0,
 		0,
@@ -288,7 +288,7 @@
 		{"code":43,"dataId":521,"value":1},
 		{"code":43,"dataId":584,"value":1},
 		{"code":62,"dataId":0,"value":1}
-	],"initialLevel":37,"maxLevel":37,"name":"小惡魔","nickname":"","note":"","profile":""},
+	],"initialLevel":37,"maxLevel":37,"name":"小惡魔","nickname":"","note":"","profile":"","meta":{}},
 	{"id":31,"battlerName":"2_DF_Actor1","characterIndex":1,"characterName":"2000_Actor2","classId":1,"equips":[
 		0,
 		0,
@@ -296,7 +296,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"1lee","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"熟操送餐NPC","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"熟操送餐NPC","nickname":"","note":"","profile":"","meta":{}},
 	{"id":32,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -304,7 +304,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":33,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -312,7 +312,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":34,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -320,7 +320,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":35,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -328,7 +328,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":36,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -336,7 +336,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":37,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -344,7 +344,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":38,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -352,7 +352,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":39,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -360,7 +360,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":40,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -368,7 +368,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":41,"battlerName":"Package1_1","characterIndex":0,"characterName":"Package1","classId":26,"equips":[
 		251,
 		0,
@@ -376,7 +376,7 @@
 		1100,
 		0
 	],"faceIndex":0,"faceName":"Package1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"戰士","nickname":"戰士","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"戰士","nickname":"戰士","note":"","profile":"","meta":{}},
 	{"id":42,"battlerName":"Package1_6","characterIndex":5,"characterName":"Package1","classId":27,"equips":[
 		258,
 		0,
@@ -384,7 +384,7 @@
 		1106,
 		0
 	],"faceIndex":5,"faceName":"Package1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"法師","nickname":"戰士","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"法師","nickname":"戰士","note":"","profile":"","meta":{}},
 	{"id":43,"battlerName":"Package2_1","characterIndex":0,"characterName":"Package2","classId":28,"equips":[
 		265,
 		0,
@@ -392,7 +392,7 @@
 		1112,
 		0
 	],"faceIndex":0,"faceName":"Package2","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"精靈","nickname":"戰士","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"精靈","nickname":"戰士","note":"","profile":"","meta":{}},
 	{"id":44,"battlerName":"Recolor_Old","characterIndex":6,"characterName":"People1","classId":29,"equips":[
 		272,
 		0,
@@ -400,7 +400,7 @@
 		1112,
 		0
 	],"faceIndex":6,"faceName":"People1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"老頭","nickname":"老頭","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"老頭","nickname":"老頭","note":"","profile":"","meta":{}},
 	{"id":45,"battlerName":"Package2_7","characterIndex":6,"characterName":"Package2","classId":30,"equips":[
 		280,
 		0,
@@ -409,7 +409,7 @@
 		0
 	],"faceIndex":6,"faceName":"Package2","traits":[
 		{"code":53,"dataId":1,"value":1}
-	],"initialLevel":1,"maxLevel":99,"name":"鐵匠","nickname":"鐵匠","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"鐵匠","nickname":"鐵匠","note":"","profile":"","meta":{}},
 	{"id":46,"battlerName":"BLR_N2","characterIndex":2,"characterName":"Nature","classId":31,"equips":[
 		281,
 		0,
@@ -417,7 +417,7 @@
 		0,
 		0
 	],"faceIndex":2,"faceName":"Nature","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"雞","nickname":"雞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"雞","nickname":"雞","note":"","profile":"","meta":{}},
 	{"id":47,"battlerName":"Package2_8","characterIndex":7,"characterName":"Package2","classId":32,"equips":[
 		282,
 		0,
@@ -425,7 +425,7 @@
 		0,
 		0
 	],"faceIndex":7,"faceName":"Package2","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"機器人","nickname":"機器人","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"機器人","nickname":"機器人","note":"","profile":"","meta":{}},
 	{"id":48,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -433,7 +433,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":49,"battlerName":"BLR_BlackLion_SV","characterIndex":3,"characterName":"BLR_BlackLion","classId":1,"equips":[
 		283,
 		1017,
@@ -441,7 +441,7 @@
 		1119,
 		1120
 	],"faceIndex":3,"faceName":"lufay","traits":[
-	],"initialLevel":60,"maxLevel":99,"name":"陸小飛","nickname":"偷懶小鬼頭","note":"<usedOnTags:[\"B\"]>","profile":""},
+	],"initialLevel":60,"maxLevel":99,"name":"陸小飛","nickname":"偷懶小鬼頭","note":"<usedOnTags:[\"B\"]>","profile":"","meta":{"usedOnTags":"[\"B\"]"}},
 	{"id":50,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -449,7 +449,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都考古團","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都考古團","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":51,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -457,7 +457,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"搖籃","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"搖籃","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":52,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -465,7 +465,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"星辰馬戲團","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"星辰馬戲團","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":53,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -473,7 +473,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"西南大陸","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"西南大陸","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":54,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -481,7 +481,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"東南大陸","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"東南大陸","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":55,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -489,7 +489,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"西北大陸","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"西北大陸","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":56,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -497,7 +497,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"第一隊員","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"第一隊員","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":57,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -505,7 +505,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"第二隊員","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"第二隊員","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":58,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -513,7 +513,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"第三隊員","nickname":"文本專有名詞","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"第三隊員","nickname":"文本專有名詞","note":"","profile":"","meta":{}},
 	{"id":59,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -521,7 +521,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":60,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -529,7 +529,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":61,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -537,7 +537,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":62,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -545,7 +545,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":63,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -553,7 +553,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":64,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -561,7 +561,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"王都書本用名稱","nickname":"","note":"","profile":"","meta":{}},
 	{"id":65,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -569,7 +569,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"拖爾","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"拖爾","nickname":"","note":"","profile":"","meta":{}},
 	{"id":66,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -577,7 +577,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"肉品","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"肉品","nickname":"","note":"","profile":"","meta":{}},
 	{"id":67,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -585,7 +585,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"Orange Watch Plus+","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"Orange Watch Plus+","nickname":"","note":"","profile":"","meta":{}},
 	{"id":68,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -593,7 +593,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"夢境搖籃","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"夢境搖籃","nickname":"","note":"","profile":"","meta":{}},
 	{"id":69,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -601,7 +601,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"雪女名字","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"雪女名字","nickname":"","note":"","profile":"","meta":{}},
 	{"id":70,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -609,7 +609,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"ActorS1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話1","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話1>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話1","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話1>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":"","meta":{"Action Cutin Duration":" 65","Action Cutin Blend Mode":" Normal","Action Cutin Height":" 1000","Action Cutin Picture":" ../pictures/熱血對話1","Action Cutin Scale":" 1.2","Action Cutin Forced Offset X":" 0","Action Cutin Hue":" 5","Action Cutin Sound Filename":" Ice7","action cutin":true,"ACTION CUTIN Image":" ../pictures/Speedlines5"}},
 	{"id":71,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -617,7 +617,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"ActorS1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話2","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話2>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話2","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話2>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":"","meta":{"Action Cutin Duration":" 65","Action Cutin Blend Mode":" Normal","Action Cutin Height":" 1000","Action Cutin Picture":" ../pictures/熱血對話2","Action Cutin Scale":" 1.2","Action Cutin Forced Offset X":" 0","Action Cutin Hue":" 5","Action Cutin Sound Filename":" Ice7","action cutin":true,"ACTION CUTIN Image":" ../pictures/Speedlines5"}},
 	{"id":72,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -625,7 +625,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"ActorS1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話3","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話3>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話3","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話3>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":"","meta":{"Action Cutin Duration":" 65","Action Cutin Blend Mode":" Normal","Action Cutin Height":" 1000","Action Cutin Picture":" ../pictures/熱血對話3","Action Cutin Scale":" 1.2","Action Cutin Forced Offset X":" 0","Action Cutin Hue":" 5","Action Cutin Sound Filename":" Ice7","action cutin":true,"ACTION CUTIN Image":" ../pictures/Speedlines5"}},
 	{"id":73,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -633,7 +633,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"ActorS1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話3","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話4>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"彈珠檯用cutin-熱血對話3","nickname":"","note":"<Action Cutin Duration: 65>\n<Action Cutin Blend Mode: Normal>\n<Action Cutin Height: 1000>\n<Action Cutin Picture: ../pictures/熱血對話4>\n<Action Cutin Scale: 1.2>\n<Action Cutin Forced Offset X: 0>\n<Action Cutin Hue: 5>\n<Action Cutin Sound Filename: Ice7>\n<action cutin>\n<ACTION CUTIN Image: ../pictures/Speedlines5>","profile":"","meta":{"Action Cutin Duration":" 65","Action Cutin Blend Mode":" Normal","Action Cutin Height":" 1000","Action Cutin Picture":" ../pictures/熱血對話4","Action Cutin Scale":" 1.2","Action Cutin Forced Offset X":" 0","Action Cutin Hue":" 5","Action Cutin Sound Filename":" Ice7","action cutin":true,"ACTION CUTIN Image":" ../pictures/Speedlines5"}},
 	{"id":74,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -641,7 +641,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"冰","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"冰","nickname":"","note":"","profile":"","meta":{}},
 	{"id":75,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -649,7 +649,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":76,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -657,7 +657,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":77,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -665,7 +665,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":78,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -673,7 +673,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":79,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -681,7 +681,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
 	{"id":80,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -689,5 +689,5 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}}
 ]

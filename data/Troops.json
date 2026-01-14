@@ -88,9 +88,15 @@
 		],"span":0}
 	]},
 	{"id":5,"members":[
-		{"enemyId":5,"x":135,"y":433,"hidden":false}
+		{"enemyId":5,"x":123,"y":444,"hidden":false},
+		{"enemyId":7,"x":195,"y":295,"hidden":false},
+		{"enemyId":7,"x":246,"y":444,"hidden":false},
+		{"enemyId":7,"x":408,"y":436,"hidden":false}
 	],"name":"打不死的慶記","pages":[
-		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":313,"indent":0,"parameters":[0,0,0,100]},
+			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
+			{"code":313,"indent":0,"parameters":[0,0,0,487]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -104,7 +110,8 @@
 		],"span":0}
 	]},
 	{"id":7,"members":[
-		{"enemyId":2,"x":102,"y":388,"hidden":false}
+		{"enemyId":2,"x":102,"y":388,"hidden":false},
+		{"enemyId":474,"x":234,"y":394,"hidden":false}
 	],"name":"","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":false},"list":[
 			{"code":0,"indent":0,"parameters":[]}
@@ -15980,7 +15987,6 @@
 		{"enemyId":480,"x":204,"y":444,"hidden":false}
 	],"name":"忠之琳與他的夥伴們","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
-			{"code":117,"indent":0,"parameters":[271]},
 			{"code":111,"indent":0,"parameters":[0,4,0]},
 			{"code":333,"indent":1,"parameters":[0,0,50]},
 			{"code":0,"indent":1,"parameters":[]},
@@ -16151,7 +16157,7 @@
 			{"code":0,"indent":1,"parameters":[]},
 			{"code":411,"indent":0,"parameters":[]},
 			{"code":122,"indent":1,"parameters":[22,22,0,0,4]},
-			{"code":122,"indent":1,"parameters":[23,23,0,0,3]},
+			{"code":122,"indent":1,"parameters":[23,23,0,0,5]},
 			{"code":112,"indent":1,"parameters":[]},
 			{"code":117,"indent":2,"parameters":[270]},
 			{"code":122,"indent":2,"parameters":[22,22,2,0,1]},
