@@ -4,6 +4,8 @@
 		{"enemyId":2,"x":117,"y":415,"hidden":false}
 	],"name":"TEST","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
+			{"code":318,"indent":0,"parameters":[0,0,0,159]},
+			{"code":313,"indent":0,"parameters":[0,11,0,138]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -96,7 +98,8 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":313,"indent":0,"parameters":[0,0,0,100]},
 			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
-			{"code":313,"indent":0,"parameters":[0,0,0,487]},
+			{"code":311,"indent":0,"parameters":[0,2,1,0,5000,false]},
+			{"code":126,"indent":0,"parameters":[582,1,0,98]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},

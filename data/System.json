@@ -787,11 +787,18 @@
 	"命中",
 	"迴避"
 ],"messages":{"actionFailure":"對 %1 無效果！","actorDamage":"%1 遭受 %2 傷害！","actorDrain":"%1 耗盡 %2 %3！","actorGain":"%1 獲得 %2 %3！","actorLoss":"%1 損失 %2 %3！","actorNoDamage":"%1 未遭受傷害！","actorNoHit":"未擊中！%1 未遭受傷害！","actorRecovery":"%1 恢復了 %2 %3！","alwaysDash":"始終衝刺","bgmVolume":"BGM 音量","bgsVolume":"BGS 音量","buffAdd":"%1 的 %2 上升！","buffRemove":"%1 的 %2 恢復正常！","commandRemember":"命令記住","counterAttack":"%1 反擊！","criticalToActor":"危險！！","criticalToEnemy":"打得好！！","debuffAdd":"%1 的 %2 下降！","defeat":"%1 被擊敗。","emerge":"%1 出現！","enemyDamage":"%1 遭受 %2 傷害！","enemyDrain":"%1 耗盡 %2 %3！","enemyGain":"%1 獲得 %2 %3！","enemyLoss":"%1 損失 %2 %3！","enemyNoDamage":"%1 未遭受傷害！","enemyNoHit":"未擊中！%1 未遭受傷害！","enemyRecovery":"%1 恢復了 %2 %3！","escapeFailure":"然而，其未能跳脫！","escapeStart":"%1 開始逃跑！","evasion":"%1 閃避了攻擊！","expNext":"至下一個 %1","expTotal":"當前 %1","file":"檔案","levelUp":"%1 現在是 %2 %3！","loadMessage":"讀取哪個檔案？","magicEvasion":"%1 使魔法失效！","magicReflection":"%1 反射了魔法！","meVolume":"ME 音量","obtainExp":"收到 %1 %2！","obtainGold":"找到%1\\G！","obtainItem":"找到%1！","obtainSkill":"已學習%1！","partyName":"%1 的隊伍","possession":"持有數","preemptive":"%1 占上風！","saveMessage":"保存到哪個檔案？","seVolume":"SE 音量","substitute":"%1 保護了 %2！","surprise":"%1 被突襲！","useItem":"%1 使用 %2！","victory":"%1 獲勝！"}},"testBattlers":[
-	{"actorId":2,"equips":[
-		375,
-		662,
+	{"actorId":1,"equips":[
+		28,
+		1,
 		0,
-		392,
+		3,
+		0
+	],"level":99},
+	{"actorId":17,"equips":[
+		95,
+		651,
+		0,
+		0,
 		0
 	],"level":99},
 	{"actorId":0,"equips":[
@@ -801,13 +808,6 @@
 		3,
 		0
 	],"level":1},
-	{"actorId":0,"equips":[
-		0,
-		1,
-		0,
-		3,
-		0
-	],"level":99},
 	{"actorId":0,"equips":[
 		0,
 		1,
@@ -1317,7 +1317,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":52198858,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":96008178,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",
