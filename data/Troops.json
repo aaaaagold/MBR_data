@@ -97,9 +97,8 @@
 	],"name":"打不死的慶記","pages":[
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":313,"indent":0,"parameters":[0,0,0,100]},
-			{"code":326,"indent":0,"parameters":[0,0,0,0,100]},
-			{"code":311,"indent":0,"parameters":[0,2,1,0,5000,false]},
-			{"code":126,"indent":0,"parameters":[582,1,0,98]},
+			{"code":313,"indent":0,"parameters":[0,0,0,481]},
+			{"code":311,"indent":0,"parameters":[0,0,1,0,500,false]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13237,12 +13236,13 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":4,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
-			{"code":117,"indent":0,"parameters":[293]},
+			{"code":117,"indent":0,"parameters":[296]},
+			{"code":230,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13256,7 +13256,7 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13270,7 +13270,13 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":4,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[296]},
+			{"code":230,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13284,7 +13290,7 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13298,7 +13304,13 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
+			{"code":0,"indent":0,"parameters":[]}
+		],"span":0},
+		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":4,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
+			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
+			{"code":117,"indent":0,"parameters":[296]},
+			{"code":230,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13312,12 +13324,13 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":99,"enemyIndex":0,"enemyValid":false,"switchId":4,"switchValid":false,"turnA":0,"turnB":1,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@PARALLEL"]},
-			{"code":117,"indent":0,"parameters":[293]},
+			{"code":117,"indent":0,"parameters":[296]},
+			{"code":230,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -13331,7 +13344,7 @@
 		{"conditions":{"actorHp":50,"actorId":1,"actorValid":false,"enemyHp":50,"enemyIndex":0,"enemyValid":false,"switchId":1,"switchValid":false,"turnA":0,"turnB":0,"turnEnding":false,"turnValid":true},"list":[
 			{"code":108,"indent":0,"parameters":["@NOTE"]},
 			{"code":108,"indent":0,"parameters":["<appearRate:{\"0\":0.75,\"1\":0.75,\"2\":0.75,\"3\":0.75,\"4\":0.75}>"]},
-			{"code":117,"indent":0,"parameters":[294]},
+			{"code":117,"indent":0,"parameters":[295]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0}
 	]},
@@ -15070,6 +15083,7 @@
 			{"code":101,"indent":0,"parameters":["BLR_MainNPCs",6,0,2]},
 			{"code":401,"indent":0,"parameters":["哈瑞"]},
 			{"code":401,"indent":0,"parameters":["「聞香養心流‧免許皆傳─哈瑞，請賜教！」"]},
+			{"code":339,"indent":0,"parameters":[0,0,1392,-1]},
 			{"code":122,"indent":0,"parameters":[447,447,0,0,1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},
@@ -15080,7 +15094,7 @@
 			{"code":655,"indent":0,"parameters":["    a.gainHp(-a.hp); // 強制死亡"]},
 			{"code":655,"indent":0,"parameters":["  }"]},
 			{"code":655,"indent":0,"parameters":["});"]},
-			{"code":117,"indent":0,"parameters":[293]},
+			{"code":117,"indent":0,"parameters":[296]},
 			{"code":230,"indent":0,"parameters":[1]},
 			{"code":0,"indent":0,"parameters":[]}
 		],"span":0},

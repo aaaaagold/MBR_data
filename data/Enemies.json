@@ -119,6 +119,7 @@
 		700
 	],"meta":{"Sideview battler":" 真攸特1","alter":"{\"cond\":4,\"atk\":850,\"mat\":750,\"def\":550,\"mdf\":550,\"agi\":600,\"luk\":900,\"hp\":30000,\"mp\":1000}","addcond":"{\"switches\":[4],\"lines\":[5]}"}},
 	{"id":5,"actions":[
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1494}
 	],"battlerHue":0,"battlerName":"目標是慶記","dropItems":[
 		{"dataId":1,"denominator":1,"kind":0},
 		{"dataId":1,"denominator":1,"kind":0},
@@ -21574,6 +21575,8 @@
 	{"id":472,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":1,"rating":5,"skillId":1303},
 		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":1300},
+		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":1300},
+		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":1300},
 		{"conditionParam1":0,"conditionParam2":4,"conditionType":1,"rating":4,"skillId":1301},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1302},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":1303},
@@ -21586,10 +21589,10 @@
 		{"kind":1,"dataId":500,"denominator":1}
 	],"exp":75000,"traits":[
 		{"code":23,"dataId":0,"value":1},
-		{"code":22,"dataId":0,"value":1.3},
-		{"code":22,"dataId":2,"value":0.25},
-		{"code":22,"dataId":1,"value":0.25},
-		{"code":22,"dataId":4,"value":0.25},
+		{"code":22,"dataId":0,"value":1.5},
+		{"code":22,"dataId":2,"value":0.05},
+		{"code":22,"dataId":1,"value":0.5},
+		{"code":22,"dataId":4,"value":0.5},
 		{"code":11,"dataId":4,"value":1.5},
 		{"code":11,"dataId":5,"value":1.5},
 		{"code":11,"dataId":6,"value":0.5},
@@ -21605,7 +21608,7 @@
 		{"code":13,"dataId":8,"value":0.1},
 		{"code":13,"dataId":9,"value":0.2},
 		{"code":14,"dataId":10,"value":1},
-		{"code":13,"dataId":11,"value":1},
+		{"code":13,"dataId":11,"value":0.1},
 		{"code":13,"dataId":12,"value":1},
 		{"code":13,"dataId":13,"value":1},
 		{"code":13,"dataId":14,"value":1},
@@ -21616,11 +21619,11 @@
 		{"code":13,"dataId":19,"value":0.1},
 		{"code":12,"dataId":0,"value":0.2},
 		{"code":12,"dataId":1,"value":0.2},
-		{"code":12,"dataId":2,"value":1},
+		{"code":12,"dataId":2,"value":0.3},
 		{"code":12,"dataId":3,"value":0.2},
 		{"code":12,"dataId":4,"value":0.2},
 		{"code":12,"dataId":5,"value":0.2},
-		{"code":12,"dataId":6,"value":0.1},
+		{"code":12,"dataId":6,"value":0},
 		{"code":12,"dataId":7,"value":0.2}
 	],"gold":0,"name":"哈瑞","note":"<alter:{\"cond\":4,\"atk\":650,\"mat\":650,\"def\":650,\"mdf\":650,\"agi\":750,\"luk\":700,\"hp\":35000,\"mp\":7500}>\n<Sideview battler: BLR_HARUEI>\n<Sideview Weapon: 23>\n<showShadow>","params":[
 		30000,
@@ -22014,7 +22017,7 @@
 		{"code":14,"dataId":7,"value":1},
 		{"code":14,"dataId":147,"value":1},
 		{"code":14,"dataId":15,"value":1},
-		{"code":13,"dataId":19,"value":0.3},
+		{"code":13,"dataId":19,"value":0.2},
 		{"code":14,"dataId":18,"value":1},
 		{"code":13,"dataId":1,"value":0},
 		{"code":12,"dataId":0,"value":0.25},
@@ -26831,7 +26834,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"野猿獷雉","note":"<StealPool: [6, 36, 46]>","params":[
+	],"gold":0,"name":"野猿獷雉","note":"<StealPool: [42, 43, 44, 47, 48]>\n可偷道具：\n蘋果\n葡萄\n藍莓\n香蕉\n爛掉的香蕉","params":[
 		3500,
 		1000,
 		400,
@@ -26840,7 +26843,7 @@
 		300,
 		500,
 		200
-	],"meta":{"StealPool":" [6, 36, 46]"}},
+	],"meta":{"StealPool":" [42, 43, 44, 47, 48]"}},
 	{"id":604,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":5},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":457},
@@ -26850,7 +26853,7 @@
 	],"battlerHue":0,"battlerName":"ETNR_010-1","dropItems":[
 		{"kind":1,"dataId":602,"denominator":1},
 		{"kind":1,"dataId":42,"denominator":1},
-		{"kind":1,"dataId":414,"denominator":10}
+		{"kind":1,"dataId":414,"denominator":20}
 	],"exp":5000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.2},
@@ -26883,7 +26886,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"金剛佐助","note":"","params":[
+	],"gold":0,"name":"金剛佐助","note":"<StealPool: [42, 43, 44, 47, 48]>\n可偷道具：\n蘋果\n葡萄\n藍莓\n香蕉\n爛掉的香蕉","params":[
 		8000,
 		1000,
 		600,
@@ -26892,13 +26895,13 @@
 		500,
 		300,
 		200
-	],"meta":{}},
+	],"meta":{"StealPool":" [42, 43, 44, 47, 48]"}},
 	{"id":605,"actions":[
 		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":1,"skillId":948},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":513},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":627}
 	],"battlerHue":360,"battlerName":"ETNR_Enemy110_3","dropItems":[
-		{"kind":1,"dataId":664,"denominator":1},
+		{"kind":1,"dataId":4,"denominator":1},
 		{"kind":3,"dataId":1075,"denominator":15},
 		{"kind":2,"dataId":22,"denominator":15}
 	],"exp":5000,"traits":[
@@ -26935,7 +26938,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":500,"name":"鎧武者","note":"","params":[
+	],"gold":500,"name":"鎧武者","note":"<StealPool: [65, 103, 603, 664, \"a903\"]>\n可偷道具：\n壓縮乾糧\n軍糧丸\n裝備碎塊\n鬼甲的碎片\n護身符","params":[
 		8000,
 		1500,
 		800,
@@ -26944,11 +26947,12 @@
 		600,
 		150,
 		10
-	],"meta":{}},
+	],"meta":{"StealPool":" [603, 758, 758]"}},
 	{"id":606,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":524},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":610},
-		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":818},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":603},
+		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":604},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":612},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":541},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":584}
@@ -26989,7 +26993,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"鴉天狗","note":"","params":[
+	],"gold":0,"name":"鴉天狗","note":"<StealPool: [763, 763, 763]>\n可偷道具：\n天狗羽毛\n天狗羽毛\n天狗羽毛","params":[
 		6000,
 		3000,
 		300,
@@ -26998,7 +27002,7 @@
 		500,
 		600,
 		300
-	],"meta":{}},
+	],"meta":{"StealPool":" [758, 758, 758]"}},
 	{"id":607,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":519},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":565},
@@ -27006,8 +27010,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":639},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":633}
 	],"battlerHue":360,"battlerName":"20190418_1389787","dropItems":[
-		{"kind":1,"dataId":671,"denominator":1},
-		{"kind":1,"dataId":683,"denominator":1},
+		{"kind":1,"dataId":764,"denominator":1},
+		{"kind":1,"dataId":764,"denominator":3},
 		{"kind":1,"dataId":212,"denominator":4}
 	],"exp":3500,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
@@ -27040,7 +27044,7 @@
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"影子鬼","note":"","params":[
+	],"gold":0,"name":"影子鬼","note":"<StealPool: [92, 93,94, 122, 152]>\n可偷道具：\n還魄丹\n贖魂燈\n孟婆湯\n地脈之沙\n魔力之沙\n","params":[
 		4500,
 		500,
 		450,
@@ -27049,7 +27053,7 @@
 		100,
 		300,
 		500
-	],"meta":{}},
+	],"meta":{"StealPool":" [92, 93,94, 122, 152]"}},
 	{"id":608,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":514},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":604},
@@ -27060,8 +27064,8 @@
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":1,"rating":9,"skillId":946}
 	],"battlerHue":360,"battlerName":"20190427_1401748","dropItems":[
 		{"kind":1,"dataId":103,"denominator":1},
-		{"kind":1,"dataId":341,"denominator":3},
-		{"kind":1,"dataId":342,"denominator":3}
+		{"kind":2,"dataId":301,"denominator":15},
+		{"kind":3,"dataId":437,"denominator":15}
 	],"exp":4000,"traits":[
 		{"code":22,"dataId":0,"value":0.95},
 		{"code":22,"dataId":2,"value":0.05},
@@ -27095,7 +27099,7 @@
 		{"code":13,"dataId":18,"value":1},
 		{"code":13,"dataId":19,"value":1},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":500,"name":"女忍者","note":"","params":[
+	],"gold":500,"name":"女忍者","note":"<StealPool: [338, 339,341, 342, 419, \"a80\"]>\n可偷道具：\n煙霧彈\n雷火彈\n粹毒手裡劍\n麻痺苦無\n女忍者的內褲\n影之頭巾+1","params":[
 		6000,
 		2000,
 		500,
@@ -27104,7 +27108,7 @@
 		350,
 		550,
 		400
-	],"meta":{}},
+	],"meta":{"StealPool":" [338, 339,341, 342, 419, \"a80\"]"}},
 	{"id":609,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":447},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":539},
@@ -27112,9 +27116,9 @@
 		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":2,"skillId":595},
 		{"conditionParam1":0,"conditionParam2":3,"conditionType":1,"rating":1,"skillId":580}
 	],"battlerHue":360,"battlerName":"20190429_1404628","dropItems":[
-		{"kind":1,"dataId":691,"denominator":1},
-		{"kind":1,"dataId":265,"denominator":1},
-		{"kind":1,"dataId":260,"denominator":1}
+		{"kind":2,"dataId":524,"denominator":15},
+		{"kind":1,"dataId":761,"denominator":1},
+		{"kind":1,"dataId":761,"denominator":1}
 	],"exp":8000,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0.1},
@@ -27150,7 +27154,7 @@
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"赤紅鬼","note":"","params":[
+	],"gold":0,"name":"赤紅鬼","note":"<StealPool: [20, 23, 762, 260, 265, \"a145\"]>\n可偷道具：\n神秘醃肉\n半生不熟的烤肉\n財寶袋\n高粱酒\n腥臭的兜擋布\n赤鬼之角+1","params":[
 		10000,
 		1000,
 		800,
@@ -27159,7 +27163,7 @@
 		200,
 		250,
 		400
-	],"meta":{}},
+	],"meta":{"StealPool":" [20, 23 ,756, 756, 757, 260]"}},
 	{"id":610,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":449},
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":1,"skillId":539},
@@ -27167,9 +27171,9 @@
 		{"conditionParam1":0,"conditionParam2":2,"conditionType":1,"rating":2,"skillId":595},
 		{"conditionParam1":0,"conditionParam2":3,"conditionType":1,"rating":1,"skillId":580}
 	],"battlerHue":219,"battlerName":"20190429_1404628","dropItems":[
-		{"kind":1,"dataId":691,"denominator":1},
-		{"kind":1,"dataId":265,"denominator":1},
-		{"kind":1,"dataId":261,"denominator":10}
+		{"kind":2,"dataId":524,"denominator":15},
+		{"kind":1,"dataId":761,"denominator":1},
+		{"kind":1,"dataId":761,"denominator":1}
 	],"exp":8000,"traits":[
 		{"code":22,"dataId":0,"value":0.85},
 		{"code":22,"dataId":2,"value":0.1},
@@ -27205,7 +27209,7 @@
 		{"code":13,"dataId":18,"value":0},
 		{"code":13,"dataId":19,"value":0},
 		{"code":13,"dataId":1,"value":0}
-	],"gold":0,"name":"藏青鬼","note":"","params":[
+	],"gold":0,"name":"藏青鬼","note":"<StealPool: [20, 23, 762, 260, 265, \"a143\"]>\n可偷道具：\n神秘醃肉\n半生不熟的烤肉\n財寶袋\n高粱酒\n腥臭的兜擋布\n青鬼之角+1","params":[
 		10000,
 		1000,
 		800,
@@ -27214,7 +27218,7 @@
 		200,
 		250,
 		400
-	],"meta":{}},
+	],"meta":{"StealPool":" [20, 23 ,756, 756, 757, 260]"}},
 	{"id":611,"actions":[
 		{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":1}
 	],"battlerHue":0,"battlerName":"","dropItems":[

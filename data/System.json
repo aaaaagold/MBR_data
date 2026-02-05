@@ -57,7 +57,7 @@
 	{"type":1,"weaponImageId":15},
 	{"type":1,"weaponImageId":0},
 	{"type":1,"weaponImageId":25}
-],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Castle2","battleback2Name":"Castle3","battlerHue":0,"battlerName":"Animal_04","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":1,"elements":[
+],"battleBgm":{"name":"魔王魂  ファンタジー15","pan":0,"pitch":100,"volume":50},"battleback1Name":"Castle2","battleback2Name":"Castle3","battlerHue":0,"battlerName":"Animal_04","boat":{"bgm":{"name":"Vehicle_1_2","pan":0,"pitch":100,"volume":50},"characterIndex":7,"characterName":"Vehicle","startMapId":0,"startX":0,"startY":0},"currencyUnit":"金幣","defeatMe":{"name":"Defeat1","pan":0,"pitch":100,"volume":50},"editMapId":647,"elements":[
 	"",
 	"斬屬性",
 	"刺屬性",
@@ -105,11 +105,12 @@
 	"技能",
 	"對策",
 	"聯誼",
-	"",
+	"調和",
 	"",
 	"兼用",
 	"魔女",
-	"奧義"
+	"奧義",
+	"被動"
 ],"sounds":[
 	{"name":"Cursor1","pan":0,"pitch":100,"volume":50},
 	{"name":"Decision2","pan":0,"pitch":100,"volume":50},
@@ -787,18 +788,18 @@
 	"命中",
 	"迴避"
 ],"messages":{"actionFailure":"對 %1 無效果！","actorDamage":"%1 遭受 %2 傷害！","actorDrain":"%1 耗盡 %2 %3！","actorGain":"%1 獲得 %2 %3！","actorLoss":"%1 損失 %2 %3！","actorNoDamage":"%1 未遭受傷害！","actorNoHit":"未擊中！%1 未遭受傷害！","actorRecovery":"%1 恢復了 %2 %3！","alwaysDash":"始終衝刺","bgmVolume":"BGM 音量","bgsVolume":"BGS 音量","buffAdd":"%1 的 %2 上升！","buffRemove":"%1 的 %2 恢復正常！","commandRemember":"命令記住","counterAttack":"%1 反擊！","criticalToActor":"危險！！","criticalToEnemy":"打得好！！","debuffAdd":"%1 的 %2 下降！","defeat":"%1 被擊敗。","emerge":"%1 出現！","enemyDamage":"%1 遭受 %2 傷害！","enemyDrain":"%1 耗盡 %2 %3！","enemyGain":"%1 獲得 %2 %3！","enemyLoss":"%1 損失 %2 %3！","enemyNoDamage":"%1 未遭受傷害！","enemyNoHit":"未擊中！%1 未遭受傷害！","enemyRecovery":"%1 恢復了 %2 %3！","escapeFailure":"然而，其未能跳脫！","escapeStart":"%1 開始逃跑！","evasion":"%1 閃避了攻擊！","expNext":"至下一個 %1","expTotal":"當前 %1","file":"檔案","levelUp":"%1 現在是 %2 %3！","loadMessage":"讀取哪個檔案？","magicEvasion":"%1 使魔法失效！","magicReflection":"%1 反射了魔法！","meVolume":"ME 音量","obtainExp":"收到 %1 %2！","obtainGold":"找到%1\\G！","obtainItem":"找到%1！","obtainSkill":"已學習%1！","partyName":"%1 的隊伍","possession":"持有數","preemptive":"%1 占上風！","saveMessage":"保存到哪個檔案？","seVolume":"SE 音量","substitute":"%1 保護了 %2！","surprise":"%1 被突襲！","useItem":"%1 使用 %2！","victory":"%1 獲勝！"}},"testBattlers":[
+	{"actorId":3,"equips":[
+		152,
+		0,
+		2,
+		302,
+		4
+	],"level":99},
 	{"actorId":1,"equips":[
-		28,
+		0,
 		1,
 		0,
 		3,
-		0
-	],"level":99},
-	{"actorId":17,"equips":[
-		95,
-		651,
-		0,
-		0,
 		0
 	],"level":99},
 	{"actorId":0,"equips":[
@@ -815,7 +816,7 @@
 		3,
 		0
 	],"level":1}
-],"testTroopId":1,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
+],"testTroopId":5,"title1Name":"Title_BlueMoonLegendRemake","title2Name":"","titleBgm":{"name":"03_Childhood_Memories","pan":0,"pitch":100,"volume":50},"variables":[
 	"",
 	"-共用判定用No1~100-",
 	"心理測驗用",
@@ -1317,7 +1318,7 @@
 	"機率累積",
 	"鎧特火把點數",
 	"鎧特火把點燃機率"
-],"versionId":96008178,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
+],"versionId":24921414,"victoryMe":{"name":"J戰鬥結束1","pan":0,"pitch":100,"volume":50},"weaponTypes":[
 	"",
 	"刀NO.1",
 	"劍NO.31",

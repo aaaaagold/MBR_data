@@ -14486,7 +14486,7 @@
 		{"code":126,"indent":2,"parameters":[806,0,0,1]},
 		{"code":250,"indent":2,"parameters":[{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}]},
 		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["可學習技能的角色不在隊伍中，或是並未習得此技能！"]},
+		{"code":401,"indent":2,"parameters":["可強化技能的角色不在隊伍中，或是並未習得此技能！"]},
 		{"code":0,"indent":2,"parameters":[]},
 		{"code":412,"indent":1,"parameters":[]},
 		{"code":0,"indent":1,"parameters":[]},
@@ -14764,281 +14764,11 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"馬大嬸寶箱","switchId":1,"trigger":0},
 	{"id":266,"list":[
-		{"code":122,"indent":0,"parameters":[21,21,0,2,1,1000]},
-		{"code":250,"indent":0,"parameters":[{"name":"Bell3","volume":90,"pitch":100,"pan":0}]},
-		{"code":230,"indent":0,"parameters":[30]},
-		{"code":111,"indent":0,"parameters":[1,21,0,720,2]},
-		{"code":108,"indent":1,"parameters":["四獎"]},
-		{"code":122,"indent":1,"parameters":[22,22,0,2,1,10]},
-		{"code":250,"indent":1,"parameters":[{"name":"Item1","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":1,"parameters":[1,22,0,10,0]},
-		{"code":126,"indent":2,"parameters":[212,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[212]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,9,0]},
-		{"code":126,"indent":2,"parameters":[216,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[216]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,8,0]},
-		{"code":126,"indent":2,"parameters":[264,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[264]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,7,0]},
-		{"code":126,"indent":2,"parameters":[288,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[288]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,6,0]},
-		{"code":126,"indent":2,"parameters":[297,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[297]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,5,0]},
-		{"code":126,"indent":2,"parameters":[76,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[76]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,4,0]},
-		{"code":108,"indent":2,"parameters":["小愛的百合花蜜"]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,3,0]},
-		{"code":108,"indent":2,"parameters":["水鴛鴦"]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,2,0]},
-		{"code":108,"indent":2,"parameters":["魔力吸收結晶"]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,22,0,1,0]},
-		{"code":108,"indent":2,"parameters":["防曬劑"]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":0,"indent":1,"parameters":[]},
-		{"code":411,"indent":0,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,21,0,970,2]},
-		{"code":108,"indent":2,"parameters":["三獎"]},
-		{"code":122,"indent":2,"parameters":[22,22,0,2,1,10]},
-		{"code":250,"indent":2,"parameters":[{"name":"Item3","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":2,"parameters":[1,22,0,10,0]},
-		{"code":126,"indent":3,"parameters":[127,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[127]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,9,0]},
-		{"code":126,"indent":3,"parameters":[156,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[156]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,8,0]},
-		{"code":126,"indent":3,"parameters":[101,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[101]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,7,0]},
-		{"code":126,"indent":3,"parameters":[80,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[80]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,6,0]},
-		{"code":126,"indent":3,"parameters":[213,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[213]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,5,0]},
-		{"code":126,"indent":3,"parameters":[295,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[295]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,4,0]},
-		{"code":126,"indent":3,"parameters":[296,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[296]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,3,0]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":3,"parameters":["防曬噴霧"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,2,0]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":3,"parameters":["交杯酒"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,22,0,1,0]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":3,"parameters":["毒酒膽"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":411,"indent":1,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,21,0,995,2]},
-		{"code":108,"indent":3,"parameters":["二獎"]},
-		{"code":122,"indent":3,"parameters":[22,22,0,2,1,6]},
-		{"code":249,"indent":3,"parameters":[{"name":"Item","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":3,"parameters":[1,22,0,6,0]},
-		{"code":126,"indent":4,"parameters":[214,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[214]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,5,0]},
-		{"code":126,"indent":4,"parameters":[308,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[308]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,4,0]},
-		{"code":126,"indent":4,"parameters":[96,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[96]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,3,0]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":4,"parameters":["升天飲"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,2,0]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":4,"parameters":["英雄藥水"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,1,0]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":4,"parameters":["炸藥包"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":411,"indent":2,"parameters":[]},
-		{"code":108,"indent":3,"parameters":["一獎"]},
-		{"code":122,"indent":3,"parameters":[22,22,0,2,1,5]},
-		{"code":249,"indent":3,"parameters":[{"name":"Fanfare3","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":3,"parameters":[1,22,0,5,0]},
-		{"code":126,"indent":4,"parameters":[215,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[215]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,4,0]},
-		{"code":126,"indent":4,"parameters":[261,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[261]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,3,0]},
-		{"code":126,"indent":4,"parameters":[298,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[298]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,2,0]},
-		{"code":126,"indent":4,"parameters":[304,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[304]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":111,"indent":3,"parameters":[1,22,0,1,0]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[]。"]},
-		{"code":108,"indent":4,"parameters":["TP藥水"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":0,"indent":1,"parameters":[]},
-		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"道具扭蛋","switchId":1,"trigger":0},
+	],"name":"","switchId":1,"trigger":0},
 	{"id":267,"list":[
-		{"code":122,"indent":0,"parameters":[21,21,0,2,1,1000]},
-		{"code":250,"indent":0,"parameters":[{"name":"Bell3","volume":90,"pitch":100,"pan":0}]},
-		{"code":230,"indent":0,"parameters":[30]},
-		{"code":111,"indent":0,"parameters":[1,21,0,720,2]},
-		{"code":108,"indent":1,"parameters":["四獎"]},
-		{"code":122,"indent":1,"parameters":[22,22,0,2,1,10]},
-		{"code":250,"indent":1,"parameters":[{"name":"Item1","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":1,"parameters":[1,22,0,10,0]},
-		{"code":126,"indent":2,"parameters":[212,0,0,1]},
-		{"code":101,"indent":2,"parameters":["",0,0,2]},
-		{"code":401,"indent":2,"parameters":["獲得\\na[212]。"]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":0,"indent":1,"parameters":[]},
-		{"code":411,"indent":0,"parameters":[]},
-		{"code":111,"indent":1,"parameters":[1,21,0,970,2]},
-		{"code":108,"indent":2,"parameters":["三獎"]},
-		{"code":122,"indent":2,"parameters":[22,22,0,2,1,10]},
-		{"code":250,"indent":2,"parameters":[{"name":"Item3","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":2,"parameters":[1,22,0,10,0]},
-		{"code":126,"indent":3,"parameters":[127,0,0,1]},
-		{"code":101,"indent":3,"parameters":["",0,0,2]},
-		{"code":401,"indent":3,"parameters":["獲得\\na[127]。"]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":411,"indent":1,"parameters":[]},
-		{"code":111,"indent":2,"parameters":[1,21,0,995,2]},
-		{"code":108,"indent":3,"parameters":["二獎"]},
-		{"code":122,"indent":3,"parameters":[22,22,0,2,1,6]},
-		{"code":249,"indent":3,"parameters":[{"name":"Item","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":3,"parameters":[1,22,0,6,0]},
-		{"code":126,"indent":4,"parameters":[214,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[214]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":411,"indent":2,"parameters":[]},
-		{"code":108,"indent":3,"parameters":["一獎"]},
-		{"code":122,"indent":3,"parameters":[22,22,0,2,1,5]},
-		{"code":249,"indent":3,"parameters":[{"name":"Fanfare3","volume":90,"pitch":100,"pan":0}]},
-		{"code":111,"indent":3,"parameters":[1,22,0,5,0]},
-		{"code":126,"indent":4,"parameters":[215,0,0,1]},
-		{"code":101,"indent":4,"parameters":["",0,0,2]},
-		{"code":401,"indent":4,"parameters":["獲得\\na[215]。"]},
-		{"code":0,"indent":4,"parameters":[]},
-		{"code":412,"indent":3,"parameters":[]},
-		{"code":0,"indent":3,"parameters":[]},
-		{"code":412,"indent":2,"parameters":[]},
-		{"code":0,"indent":2,"parameters":[]},
-		{"code":412,"indent":1,"parameters":[]},
-		{"code":0,"indent":1,"parameters":[]},
-		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"裝備扭蛋","switchId":1,"trigger":0},
+	],"name":"","switchId":1,"trigger":0},
 	{"id":268,"list":[
 		{"code":121,"indent":0,"parameters":[21,21,0]},
 		{"code":118,"indent":0,"parameters":["重骰場地效果"]},
@@ -18212,178 +17942,29 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"絕無城-哈瑞關，怪追人","switchId":1,"trigger":0},
 	{"id":292,"list":[
-		{"code":355,"indent":0,"parameters":["// --- 設定區 ---"]},
-		{"code":655,"indent":0,"parameters":["var user = BattleManager._subject;"]},
-		{"code":655,"indent":0,"parameters":["var blacklist = [307, 309, 310, 311, 313, 351, 459, 490]; // 不會被偷的道具 ID"]},
-		{"code":655,"indent":0,"parameters":["user._stolenItems = user._stolenItems || [];"]},
-		{"code":655,"indent":0,"parameters":["var seSuccess = { name: 'Miss', volume: 90, pitch: 120, pan: 0 }; "]},
-		{"code":655,"indent":0,"parameters":["var seFailure = { name: 'Miss', volume: 90, pitch: 80, pan: 0 }; "]},
-		{"code":655,"indent":0,"parameters":["// 1. 篩選道具 (普通道具 + 消耗品 + 非黑名單)"]},
-		{"code":655,"indent":0,"parameters":["var potentialItems = $gameParty.items().filter(function(item) {"]},
-		{"code":655,"indent":0,"parameters":["    return item.itypeId === 1 && !blacklist.contains(item.id) && item.consumable;"]},
-		{"code":655,"indent":0,"parameters":["});"]},
-		{"code":355,"indent":0,"parameters":["// 2. 執行邏輯"]},
-		{"code":655,"indent":0,"parameters":["if (potentialItems.length > 0) {"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seSuccess); // 播放 Miss 音效"]},
-		{"code":655,"indent":0,"parameters":["    "]},
-		{"code":655,"indent":0,"parameters":["    var count = Math.floor(Math.random() * 3) + 1; "]},
-		{"code":655,"indent":0,"parameters":["    for (var i = 0; i < count; i++) {"]},
-		{"code":655,"indent":0,"parameters":["        if (potentialItems.length === 0) break;"]},
-		{"code":655,"indent":0,"parameters":["        var randomIndex = Math.floor(Math.random() * potentialItems.length);"]},
-		{"code":655,"indent":0,"parameters":["        var item = potentialItems[randomIndex];"]},
-		{"code":655,"indent":0,"parameters":["        user._stolenItems.push(item.id);"]},
-		{"code":655,"indent":0,"parameters":["        $gameParty.loseItem(item, 1);"]},
-		{"code":355,"indent":0,"parameters":["SceneManager._scene._logWindow.addText(user.name() + \" 偷走了 \" + item.name + \"！\");"]},
-		{"code":655,"indent":0,"parameters":["        "]},
-		{"code":655,"indent":0,"parameters":["        if ($gameParty.numItems(item) <= 0) {"]},
-		{"code":655,"indent":0,"parameters":["            potentialItems.splice(randomIndex, 1);"]},
-		{"code":655,"indent":0,"parameters":["        }"]},
-		{"code":655,"indent":0,"parameters":["    }"]},
-		{"code":655,"indent":0,"parameters":["} else {"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seFailure); // 播放 Miss 音效"]},
-		{"code":655,"indent":0,"parameters":["    SceneManager._scene._logWindow.addText(user.name() + \" 試圖偷竊，但你身上窮到什麼也沒得偷。\");"]},
-		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":355,"indent":0,"parameters":["MyActions.stealItem();"]},
 		{"code":230,"indent":0,"parameters":[45]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"小怪妙手","switchId":1,"trigger":0},
+	],"name":"小怪偷竊","switchId":1,"trigger":0},
 	{"id":293,"list":[
-		{"code":355,"indent":0,"parameters":["// 獲取所有死亡的敵人"]},
-		{"code":655,"indent":0,"parameters":["var enemies = $gameTroop.deadMembers();"]},
-		{"code":655,"indent":0,"parameters":["var seRecover = { name: 'Item1', volume: 90, pitch: 100, pan: 0 }; "]},
-		{"code":655,"indent":0,"parameters":["var logWindow = SceneManager._scene._logWindow;"]},
-		{"code":655,"indent":0,"parameters":["var recoveredAny = false;"]},
-		{"code":655,"indent":0,"parameters":[""]},
-		{"code":655,"indent":0,"parameters":["enemies.forEach(function(enemy) {"]},
-		{"code":655,"indent":0,"parameters":["    if (enemy._stolenItems && enemy._stolenItems.length > 0) {"]},
-		{"code":655,"indent":0,"parameters":["        recoveredAny = true;"]},
-		{"code":355,"indent":0,"parameters":["enemy._stolenItems.forEach(function(stolenData) {"]},
-		{"code":655,"indent":0,"parameters":["            var item;"]},
-		{"code":655,"indent":0,"parameters":["            // 判斷存入的是不是新格式（包含 type 的物件）"]},
-		{"code":655,"indent":0,"parameters":["            if (typeof stolenData === 'object') {"]},
-		{"code":655,"indent":0,"parameters":["                // 自動根據 type 判斷要從哪個資料庫抓資料"]},
-		{"code":655,"indent":0,"parameters":["                item = (stolenData.type === 'armor') ? $dataArmors[stolenData.id] : $dataItems[stolenData.id];"]},
-		{"code":655,"indent":0,"parameters":["            } else {"]},
-		{"code":655,"indent":0,"parameters":["                // 兼容舊版：如果存的是單純的 ID，預設為普通道具"]},
-		{"code":655,"indent":0,"parameters":["                item = $dataItems[stolenData];"]},
-		{"code":655,"indent":0,"parameters":["            }"]},
-		{"code":355,"indent":0,"parameters":["if (item) {"]},
-		{"code":655,"indent":0,"parameters":["                $gameParty.gainItem(item, 1);"]},
-		{"code":655,"indent":0,"parameters":["                logWindow.addText(\"從 \" + enemy.name() + \" 身上取回了 \" + item.name + \"！\");"]},
-		{"code":655,"indent":0,"parameters":["                logWindow.push('wait'); "]},
-		{"code":655,"indent":0,"parameters":["                logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["            }"]},
-		{"code":655,"indent":0,"parameters":["        });"]},
-		{"code":655,"indent":0,"parameters":["        // 清空該敵人的小金庫"]},
-		{"code":655,"indent":0,"parameters":["        enemy._stolenItems = [];"]},
-		{"code":655,"indent":0,"parameters":["    }"]},
-		{"code":655,"indent":0,"parameters":["});"]},
-		{"code":355,"indent":0,"parameters":["if (recoveredAny) {"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seRecover);"]},
-		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":355,"indent":0,"parameters":["MyActions.bossStealAction();"]},
+		{"code":230,"indent":0,"parameters":[45]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"敵人死亡吐東西","switchId":1,"trigger":0},
+	],"name":"哈瑞偷竊","switchId":1,"trigger":0},
 	{"id":294,"list":[
-		{"code":355,"indent":0,"parameters":["$gameTroop.members().forEach(function(enemy) {"]},
-		{"code":655,"indent":0,"parameters":["    var note = enemy.enemy().note;"]},
-		{"code":655,"indent":0,"parameters":["    var match = note.match(/<StealPool:\\s*\\[(.+?)\\]>/);"]},
-		{"code":655,"indent":0,"parameters":["    if (match) {"]},
-		{"code":655,"indent":0,"parameters":["        // 將備註的字串轉成真正的陣列，存入 enemy._myStealPool"]},
-		{"code":655,"indent":0,"parameters":["        enemy._myStealPool = JSON.parse(\"[\" + match[1] + \"]\");"]},
-		{"code":655,"indent":0,"parameters":["    } else {"]},
-		{"code":655,"indent":0,"parameters":["        enemy._myStealPool = []; // 沒設定就給空陣列"]},
-		{"code":655,"indent":0,"parameters":["    }"]},
-		{"code":655,"indent":0,"parameters":["});"]},
-		{"code":0,"indent":0,"parameters":[]}
-	],"name":"動態偷竊","switchId":1,"trigger":0},
-	{"id":295,"list":[
-		{"code":355,"indent":0,"parameters":["var user = BattleManager._subject;"]},
-		{"code":655,"indent":0,"parameters":["var target = SceneManager._scene._enemyWindow.enemy(); // 獲取當前選中的敵人"]},
-		{"code":655,"indent":0,"parameters":["var logWindow = SceneManager._scene._logWindow;"]},
-		{"code":655,"indent":0,"parameters":[""]},
-		{"code":655,"indent":0,"parameters":["// 音效設定"]},
-		{"code":655,"indent":0,"parameters":["var seSuccess = { name: 'Miss', volume: 90, pitch: 120, pan: 0 };"]},
-		{"code":655,"indent":0,"parameters":["var seFailure = { name: 'Miss', volume: 90, pitch: 80, pan: 0 };"]},
-		{"code":655,"indent":0,"parameters":["if (target && target._myStealPool) {"]},
-		{"code":655,"indent":0,"parameters":["    if (target._myStealPool.length > 0) {"]},
-		{"code":655,"indent":0,"parameters":["        // 1. 隨機抽出一個索引並移除 (splice 會回傳被移除的元素)"]},
-		{"code":655,"indent":0,"parameters":["        var randomIndex = Math.floor(Math.random() * target._myStealPool.length);"]},
-		{"code":655,"indent":0,"parameters":["        var itemId = target._myStealPool.splice(randomIndex, 1)[0];"]},
-		{"code":355,"indent":0,"parameters":["// 2. 給予玩家物品"]},
-		{"code":655,"indent":0,"parameters":["        var item = $dataItems[itemId];"]},
-		{"code":655,"indent":0,"parameters":["        $gameParty.gainItem(item, 1);"]},
-		{"code":655,"indent":0,"parameters":["        "]},
-		{"code":655,"indent":0,"parameters":["        // 3. 播放成功音效與訊息"]},
-		{"code":655,"indent":0,"parameters":["        AudioManager.playSe(seSuccess);"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.addText(user.name() + \" 從 \" + target.name() + \" 身上偷到了 \" + item.name + \"！\");"]},
-		{"code":655,"indent":0,"parameters":["        "]},
-		{"code":655,"indent":0,"parameters":["        // 4. 加入你要求的 45 幀延遲 (約 3 個 wait)"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.push('wait');"]},
-		{"code":355,"indent":0,"parameters":["} else {"]},
-		{"code":655,"indent":0,"parameters":["        // 沒東西可偷了"]},
-		{"code":655,"indent":0,"parameters":["        AudioManager.playSe(seFailure);"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.addText(target.name() + \" 已經被你偷的連內褲都不剩了。\");"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["    }"]},
-		{"code":655,"indent":0,"parameters":["} else {"]},
-		{"code":655,"indent":0,"parameters":["    // 敵人沒設定 Note"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seFailure);"]},
-		{"code":655,"indent":0,"parameters":["    logWindow.addText(target.name() + \" 很窮，身上沒什麼好偷的。\");"]},
-		{"code":655,"indent":0,"parameters":["        logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":355,"indent":0,"parameters":["MyActions.playerStealFromEnemy();"]},
+		{"code":230,"indent":0,"parameters":[45]},
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"玩家偷竊","switchId":1,"trigger":0},
-	{"id":296,"list":[
-		{"code":355,"indent":0,"parameters":["var user = BattleManager._subject;"]},
-		{"code":655,"indent":0,"parameters":["var blacklist = [307, 309, 310, 311, 313, 351, 459, 490]; "]},
-		{"code":655,"indent":0,"parameters":["var priorityArmorIds = [622, 623, 625, 628, 629, 632, 633, 634, 635, 750, 751, 752, 753, 754, 755, 756, 757, 758, 759]; "]},
-		{"code":655,"indent":0,"parameters":["user._stolenItems = user._stolenItems || [];"]},
-		{"code":655,"indent":0,"parameters":["var seSuccess = { name: 'Miss', volume: 90, pitch: 120, pan: 0 }; "]},
-		{"code":655,"indent":0,"parameters":["var seFailure = { name: 'Miss', volume: 90, pitch: 80, pan: 0 }; "]},
-		{"code":655,"indent":0,"parameters":["var logWindow = SceneManager._scene._logWindow;"]},
-		{"code":655,"indent":0,"parameters":["var priorityPool = $gameParty.armors().filter(function(armor) {"]},
-		{"code":655,"indent":0,"parameters":["    return priorityArmorIds.contains(armor.id);"]},
-		{"code":655,"indent":0,"parameters":["});"]},
-		{"code":355,"indent":0,"parameters":["var potentialItems = [];"]},
-		{"code":655,"indent":0,"parameters":["if (priorityPool.length > 0) {"]},
-		{"code":655,"indent":0,"parameters":["    potentialItems = priorityPool;"]},
-		{"code":655,"indent":0,"parameters":["} else {"]},
-		{"code":655,"indent":0,"parameters":["    potentialItems = $gameParty.items().filter(function(item) {"]},
-		{"code":655,"indent":0,"parameters":["        return item.itypeId === 1 && !blacklist.contains(item.id) && item.consumable;"]},
-		{"code":655,"indent":0,"parameters":["    });"]},
-		{"code":655,"indent":0,"parameters":["}"]},
-		{"code":655,"indent":0,"parameters":["// 2. 執行邏輯"]},
-		{"code":655,"indent":0,"parameters":["if (potentialItems.length > 0) {"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seSuccess);"]},
-		{"code":655,"indent":0,"parameters":["    var speciesCount = Math.floor(Math.random() * 3) + 1;"]},
-		{"code":355,"indent":0,"parameters":["for (var i = 0; i < speciesCount; i++) {"]},
-		{"code":655,"indent":0,"parameters":["        if (potentialItems.length === 0) break;"]},
-		{"code":655,"indent":0,"parameters":["        "]},
-		{"code":655,"indent":0,"parameters":["        var randomIndex = Math.floor(Math.random() * potentialItems.length);"]},
-		{"code":655,"indent":0,"parameters":["        var targetItem = potentialItems[randomIndex];"]},
-		{"code":655,"indent":0,"parameters":["        var currentAmount = $gameParty.numItems(targetItem);"]},
-		{"code":655,"indent":0,"parameters":["if (currentAmount > 0) {"]},
-		{"code":655,"indent":0,"parameters":["            // 存入肚子（這裏標記類型，方便後續返還）"]},
-		{"code":655,"indent":0,"parameters":["            // 我們存入一個物件 {id: ID, type: 'item' 或是 'armor'}"]},
-		{"code":655,"indent":0,"parameters":["            var type = DataManager.isArmor(targetItem) ? 'armor' : 'item';"]},
-		{"code":655,"indent":0,"parameters":["            for (var j = 0; j < currentAmount; j++) {"]},
-		{"code":655,"indent":0,"parameters":["                user._stolenItems.push({ id: targetItem.id, type: type });"]},
-		{"code":355,"indent":0,"parameters":["}    "]},
-		{"code":655,"indent":0,"parameters":["            $gameParty.loseItem(targetItem, currentAmount);"]},
-		{"code":655,"indent":0,"parameters":["            // --- 修正處：補上引號與加號 ---"]},
-		{"code":655,"indent":0,"parameters":["            logWindow.addText(user.name() + \" 奪走了全部的 \" + targetItem.name + \"！\");"]},
-		{"code":655,"indent":0,"parameters":["            logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["            logWindow.push('wait');"]},
-		{"code":655,"indent":0,"parameters":["        }"]},
-		{"code":655,"indent":0,"parameters":["        potentialItems.splice(randomIndex, 1);"]},
-		{"code":655,"indent":0,"parameters":["    }"]},
-		{"code":355,"indent":0,"parameters":["} else {"]},
-		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seFailure);"]},
-		{"code":655,"indent":0,"parameters":["    logWindow.addText(user.name() + \" 盯著你看，但他對你身上的破爛沒興趣。\");"]},
-		{"code":655,"indent":0,"parameters":["}"]},
-		{"code":230,"indent":0,"parameters":[45]},
+	{"id":295,"list":[
+		{"code":355,"indent":0,"parameters":["MyActions.initEnemyStealPool();"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"哈瑞妙手","switchId":1,"trigger":0},
+	],"name":"敵人可偷物品定義","switchId":1,"trigger":0},
+	{"id":296,"list":[
+		{"code":355,"indent":0,"parameters":["MyActions.recoverStolenItems();"]},
+		{"code":230,"indent":0,"parameters":[30]},
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"敵人死亡返還偷竊品","switchId":1,"trigger":0},
 	{"id":297,"list":[
 		{"code":111,"indent":0,"parameters":[1,449,0,1,0]},
 		{"code":250,"indent":1,"parameters":[{"name":"Book1","volume":90,"pitch":100,"pan":0}]},
@@ -18567,8 +18148,51 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"星之風開門","switchId":1,"trigger":0},
 	{"id":299,"list":[
+		{"code":355,"indent":0,"parameters":["// 獲取所有死亡的敵人"]},
+		{"code":655,"indent":0,"parameters":["var enemies = $gameTroop.deadMembers();"]},
+		{"code":655,"indent":0,"parameters":["var seRecover = { name: 'Item1', volume: 90, pitch: 100, pan: 0 }; "]},
+		{"code":655,"indent":0,"parameters":["var logWindow = SceneManager._scene._logWindow;"]},
+		{"code":655,"indent":0,"parameters":["var recoveredAny = false;"]},
+		{"code":655,"indent":0,"parameters":["// 建立一個臨時陣列，統計所有物品與數量"]},
+		{"code":655,"indent":0,"parameters":["// 格式：{ \"藥草\": 5, \"皮甲\": 2 }"]},
+		{"code":655,"indent":0,"parameters":["var summary = {};"]},
+		{"code":355,"indent":0,"parameters":["enemies.forEach(function(enemy) {"]},
+		{"code":655,"indent":0,"parameters":["    if (enemy._stolenItems && enemy._stolenItems.length > 0) {"]},
+		{"code":655,"indent":0,"parameters":["        recoveredAny = true;"]},
+		{"code":655,"indent":0,"parameters":["        enemy._stolenItems.forEach(function(stolenData) {"]},
+		{"code":655,"indent":0,"parameters":["            var item;"]},
+		{"code":655,"indent":0,"parameters":["            if (typeof stolenData === 'object') {"]},
+		{"code":655,"indent":0,"parameters":["                item = (stolenData.type === 'armor') ? $dataArmors[stolenData.id] : $dataItems[stolenData.id];"]},
+		{"code":655,"indent":0,"parameters":["            } else {"]},
+		{"code":655,"indent":0,"parameters":["                item = $dataItems[stolenData];"]},
+		{"code":655,"indent":0,"parameters":["            }"]},
+		{"code":355,"indent":0,"parameters":["if (item) {"]},
+		{"code":655,"indent":0,"parameters":["                // 1. 實際增加物品到背包"]},
+		{"code":655,"indent":0,"parameters":["                $gameParty.gainItem(item, 1);"]},
+		{"code":655,"indent":0,"parameters":["                // 2. 統計數量供顯示用"]},
+		{"code":655,"indent":0,"parameters":["                if (!summary[item.name]) {"]},
+		{"code":655,"indent":0,"parameters":["                    summary[item.name] = 0;"]},
+		{"code":655,"indent":0,"parameters":["                }"]},
+		{"code":655,"indent":0,"parameters":["                summary[item.name] += 1;"]},
+		{"code":655,"indent":0,"parameters":["            }"]},
+		{"code":655,"indent":0,"parameters":["        });"]},
+		{"code":355,"indent":0,"parameters":["// 清空該敵人的暫存道具"]},
+		{"code":655,"indent":0,"parameters":["        enemy._stolenItems = [];"]},
+		{"code":655,"indent":0,"parameters":["    }"]},
+		{"code":655,"indent":0,"parameters":["});"]},
+		{"code":655,"indent":0,"parameters":["// 統一顯示統計後的訊息"]},
+		{"code":655,"indent":0,"parameters":["if (recoveredAny) {"]},
+		{"code":655,"indent":0,"parameters":["    AudioManager.playSe(seRecover);"]},
+		{"code":355,"indent":0,"parameters":["// 遍歷統計清單"]},
+		{"code":655,"indent":0,"parameters":["    for (var itemName in summary) {"]},
+		{"code":655,"indent":0,"parameters":["        var count = summary[itemName];"]},
+		{"code":655,"indent":0,"parameters":["        // 顯示格式：取回了 藥草 x5！"]},
+		{"code":655,"indent":0,"parameters":["        logWindow.addText(\"從敵人身上取回了 \" + itemName + count + \"個！\");"]},
+		{"code":655,"indent":0,"parameters":["        logWindow.push('wait'); "]},
+		{"code":655,"indent":0,"parameters":["    }"]},
+		{"code":655,"indent":0,"parameters":["}"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"敵人死亡吐東西","switchId":1,"trigger":0},
 	{"id":300,"list":[
 		{"code":231,"indent":0,"parameters":[1,"Actor_7",0,0,480,30,100,100,255,0]},
 		{"code":356,"indent":0,"parameters":["SetCommonEventMenuSettings Default Setup"]},
@@ -19199,26 +18823,167 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"小遊戲愛心血量","switchId":1,"trigger":0},
 	{"id":334,"list":[
+		{"code":250,"indent":0,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":212,"indent":0,"parameters":[-1,67,false]},
+		{"code":101,"indent":0,"parameters":["",0,0,2]},
+		{"code":401,"indent":0,"parameters":["手中的信籤自體燒掉了。"]},
+		{"code":122,"indent":0,"parameters":[21,21,0,0,60]},
+		{"code":122,"indent":0,"parameters":[22,22,0,0,27]},
+		{"code":117,"indent":0,"parameters":[258]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":250,"indent":0,"parameters":[{"name":"Open9","volume":90,"pitch":50,"pan":0}]},
+		{"code":122,"indent":0,"parameters":[449,449,0,0,0]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":122,"indent":0,"parameters":[21,21,0,0,60]},
+		{"code":122,"indent":0,"parameters":[22,22,0,0,-1]},
+		{"code":117,"indent":0,"parameters":[258]},
+		{"code":134,"indent":0,"parameters":[1]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"哈瑞正殿答題失敗","switchId":1,"trigger":0},
 	{"id":335,"list":[
+		{"code":250,"indent":0,"parameters":[{"name":"Equip2","volume":90,"pitch":100,"pan":0}]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":122,"indent":0,"parameters":[21,21,0,0,60]},
+		{"code":122,"indent":0,"parameters":[22,22,0,0,23]},
+		{"code":117,"indent":0,"parameters":[258]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":250,"indent":0,"parameters":[{"name":"Open9","volume":90,"pitch":50,"pan":0}]},
+		{"code":122,"indent":0,"parameters":[450,450,0,0,20]},
+		{"code":122,"indent":0,"parameters":[449,449,0,0,0]},
+		{"code":230,"indent":0,"parameters":[60]},
+		{"code":122,"indent":0,"parameters":[21,21,0,0,60]},
+		{"code":122,"indent":0,"parameters":[22,22,0,0,-1]},
+		{"code":117,"indent":0,"parameters":[258]},
+		{"code":134,"indent":0,"parameters":[1]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"哈瑞正殿答題成功","switchId":1,"trigger":0},
 	{"id":336,"list":[
+		{"code":250,"indent":0,"parameters":[{"name":"Equip3","volume":90,"pitch":150,"pan":0}]},
+		{"code":230,"indent":0,"parameters":[30]},
+		{"code":122,"indent":0,"parameters":[21,21,0,2,1,5]},
+		{"code":111,"indent":0,"parameters":[1,21,0,1,0]},
+		{"code":122,"indent":1,"parameters":[22,22,0,2,1,10]},
+		{"code":111,"indent":1,"parameters":[1,22,0,1,0]},
+		{"code":250,"indent":2,"parameters":[{"name":"Item1","volume":90,"pitch":100,"pan":0}]},
+		{"code":126,"indent":2,"parameters":[593,0,0,1]},
+		{"code":101,"indent":2,"parameters":["",0,0,2]},
+		{"code":401,"indent":2,"parameters":["獲得紅寶石。"]},
+		{"code":0,"indent":2,"parameters":[]},
+		{"code":411,"indent":1,"parameters":[]},
+		{"code":250,"indent":2,"parameters":[{"name":"Item1","volume":90,"pitch":100,"pan":0}]},
+		{"code":126,"indent":2,"parameters":[592,0,0,1]},
+		{"code":101,"indent":2,"parameters":["",0,0,2]},
+		{"code":401,"indent":2,"parameters":["獲得綠寶石。"]},
+		{"code":0,"indent":2,"parameters":[]},
+		{"code":412,"indent":1,"parameters":[]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":411,"indent":0,"parameters":[]},
+		{"code":122,"indent":1,"parameters":[1,1,0,2,1,30]},
+		{"code":122,"indent":1,"parameters":[1,1,3,0,100]},
+		{"code":125,"indent":1,"parameters":[0,1,1]},
+		{"code":250,"indent":1,"parameters":[{"name":"Coin","volume":90,"pitch":100,"pan":0}]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["獲得\\V[1]\\G。"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":412,"indent":0,"parameters":[]},
+		{"code":122,"indent":0,"parameters":[1,1,0,0,0]},
+		{"code":122,"indent":0,"parameters":[21,21,0,0,0]},
+		{"code":122,"indent":0,"parameters":[22,22,0,0,0]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"財寶袋","switchId":1,"trigger":0},
 	{"id":337,"list":[
+		{"code":355,"indent":0,"parameters":["MyActions.useSkillBook();"]},
+		{"code":655,"indent":0,"parameters":["MyActions.learnPassiveSkills();"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"技能書學習","switchId":1,"trigger":0},
 	{"id":338,"list":[
+		{"code":355,"indent":0,"parameters":["var itemId = 560; // 支援箭矢道具 ID"]},
+		{"code":655,"indent":0,"parameters":["var stateId = 613; // 支援箭矢對應狀態 ID"]},
+		{"code":655,"indent":0,"parameters":["var allowedActors = [4, 17]; // 允許學習的角色 ID"]},
+		{"code":655,"indent":0,"parameters":[""]},
+		{"code":655,"indent":0,"parameters":["var item = $dataItems[itemId];"]},
+		{"code":655,"indent":0,"parameters":["var actor = BattleManager._subject || $gameParty.menuActor();"]},
+		{"code":355,"indent":0,"parameters":["if (actor) {"]},
+		{"code":655,"indent":0,"parameters":["    // 1. 檢查是否為指定角色"]},
+		{"code":655,"indent":0,"parameters":["    if (!allowedActors.contains(actor.actorId())) {"]},
+		{"code":655,"indent":0,"parameters":["        AudioManager.playStaticSe({ name: \"Buzzer1\", volume: 90, pitch: 100, pan: 0 });"]},
+		{"code":655,"indent":0,"parameters":["        $gameMessage.add(\"此技能書僅限特定的射手角色使用。\");"]},
+		{"code":655,"indent":0,"parameters":["        $gameParty.gainItem(item, 1);"]},
+		{"code":655,"indent":0,"parameters":["    }"]},
+		{"code":655,"indent":0,"parameters":["else if (actor.isStateAffected(stateId)) {"]},
+		{"code":655,"indent":0,"parameters":["        AudioManager.playStaticSe({ name: \"Buzzer1\", volume: 90, pitch: 100, pan: 0 });"]},
+		{"code":655,"indent":0,"parameters":["        $gameMessage.add(\"您已學習過此被動技能！\");"]},
+		{"code":655,"indent":0,"parameters":["        $gameParty.gainItem(item, 1);"]},
+		{"code":655,"indent":0,"parameters":["    }"]},
+		{"code":355,"indent":0,"parameters":["else {"]},
+		{"code":655,"indent":0,"parameters":["        AudioManager.playStaticSe({ name: \"Chime2\", volume: 90, pitch: 100, pan: 0 });"]},
+		{"code":655,"indent":0,"parameters":["        actor.addState(stateId);"]},
+		{"code":655,"indent":0,"parameters":["        $gameMessage.add(actor.name() + \" 成功學會了新的被動技能！\");"]},
+		{"code":655,"indent":0,"parameters":["        // 刷新被動技能映射"]},
+		{"code":655,"indent":0,"parameters":["        if (typeof MyActions !== 'undefined' && MyActions.learnPassiveSkills) {"]},
+		{"code":655,"indent":0,"parameters":["            MyActions.learnPassiveSkills();"]},
+		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":655,"indent":0,"parameters":["    }"]},
+		{"code":655,"indent":0,"parameters":["}"]},
+		{"code":355,"indent":0,"parameters":["MyActions.learnPassiveSkills();"]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"射手用技能書學習","switchId":1,"trigger":0},
 	{"id":339,"list":[
+		{"code":111,"indent":0,"parameters":[4,3,0]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["攸特一邊翻著書，一邊回想起那遙遠的記憶。"]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["回憶起過去與夥伴們一同冒險的時光，以及與他們的"]},
+		{"code":401,"indent":1,"parameters":["誓言。"]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["他似乎想起了點什麼，想起了經過了三百多年，"]},
+		{"code":401,"indent":1,"parameters":["那些早已磨損的記憶，以及過去自己學習的點點滴滴。"]},
+		{"code":230,"indent":1,"parameters":[60]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":230,"indent":1,"parameters":[60]},
+		{"code":249,"indent":1,"parameters":[{"name":"Victory3","volume":90,"pitch":100,"pan":0}]},
+		{"code":320,"indent":1,"parameters":[75,"、MP"]},
+		{"code":320,"indent":1,"parameters":[76,"、MP 50 點"]},
+		{"code":313,"indent":1,"parameters":[0,3,0,481]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["\\N[3]的【淨化重生】、【恢復術】、【治療術】相關技能"]},
+		{"code":401,"indent":1,"parameters":["已成功強化！\\|\\|\\|\\^"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":411,"indent":0,"parameters":[]},
+		{"code":250,"indent":1,"parameters":[{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}]},
+		{"code":126,"indent":1,"parameters":[807,0,0,1]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["可強化技能的角色不在隊伍中！"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"攸特恢復技能強化","switchId":1,"trigger":0},
 	{"id":340,"list":[
+		{"code":111,"indent":0,"parameters":[4,3,0]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["攸特一邊翻著那本筆記，一邊研究一邊思考是否還有"]},
+		{"code":401,"indent":1,"parameters":["更多機會改良當年的配方。"]},
+		{"code":250,"indent":1,"parameters":[{"name":"Book2","volume":90,"pitch":100,"pan":0}]},
+		{"code":230,"indent":1,"parameters":[60]},
+		{"code":249,"indent":1,"parameters":[{"name":"Victory3","volume":90,"pitch":100,"pan":0}]},
+		{"code":313,"indent":1,"parameters":[0,3,0,615]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["\\N[3]學會了【調和】相關技能！\\|\\|\\|\\^"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":411,"indent":0,"parameters":[]},
+		{"code":250,"indent":1,"parameters":[{"name":"Buzzer1","volume":90,"pitch":100,"pan":0}]},
+		{"code":126,"indent":1,"parameters":[809,0,0,1]},
+		{"code":101,"indent":1,"parameters":["",0,0,2]},
+		{"code":401,"indent":1,"parameters":["可學習技能的角色不在隊伍中！"]},
+		{"code":0,"indent":1,"parameters":[]},
+		{"code":412,"indent":0,"parameters":[]},
 		{"code":0,"indent":0,"parameters":[]}
-	],"name":"","switchId":1,"trigger":0},
+	],"name":"攸特恢復技能強化","switchId":1,"trigger":0},
 	{"id":341,"list":[
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
@@ -19247,6 +19012,456 @@
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0},
 	{"id":350,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":351,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":352,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":353,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":354,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":355,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":356,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":357,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":358,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":359,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":360,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":361,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":362,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":363,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":364,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":365,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":366,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":367,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":368,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":369,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":370,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":371,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":372,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":373,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":374,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":375,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":376,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":377,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":378,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":379,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":380,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":381,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":382,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":383,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":384,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":385,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":386,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":387,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":388,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":389,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":390,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":391,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":392,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":393,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":394,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":395,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":396,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":397,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":398,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":399,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":400,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":401,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":402,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":403,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":404,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":405,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":406,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":407,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":408,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":409,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":410,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":411,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":412,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":413,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":414,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":415,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":416,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":417,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":418,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":419,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":420,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":421,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":422,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":423,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":424,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":425,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":426,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":427,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":428,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":429,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":430,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":431,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":432,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":433,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":434,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":435,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":436,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":437,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":438,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":439,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":440,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":441,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":442,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":443,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":444,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":445,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":446,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":447,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":448,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":449,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":450,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":451,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":452,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":453,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":454,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":455,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":456,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":457,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":458,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":459,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":460,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":461,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":462,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":463,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":464,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":465,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":466,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":467,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":468,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":469,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":470,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":471,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":472,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":473,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":474,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":475,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":476,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":477,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":478,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":479,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":480,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":481,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":482,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":483,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":484,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":485,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":486,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":487,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":488,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":489,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":490,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":491,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":492,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":493,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":494,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":495,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":496,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":497,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":498,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":499,"list":[
+		{"code":0,"indent":0,"parameters":[]}
+	],"name":"","switchId":1,"trigger":0},
+	{"id":500,"list":[
 		{"code":0,"indent":0,"parameters":[]}
 	],"name":"","switchId":1,"trigger":0}
 ]

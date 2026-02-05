@@ -31,7 +31,7 @@
 		303,
 		4
 	],"faceIndex":3,"faceName":"BLR_04_1","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\",\"女\"]>\n<女>","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」","meta":{"立繪if暱稱":"{\"村姑\":\"Actor_4_2\"}","usedOnTags":"[\"花香兔兔\",\"女\"]","女":true}},
+	],"initialLevel":1,"maxLevel":99,"name":"花香兔兔","nickname":"風之妖精","note":"<立繪if暱稱:{\"村姑\":\"Actor_4_2\"}>\n<usedOnTags:[\"花香兔兔\",\"女\",\"射手\"]>\n<女>\n","profile":"性情捉摸不定，可愛的森之妖精，為了去外面的世界擴展\n自己的眼界，正在四處跟自己的族人玩「空前絕後的捉迷藏」","meta":{"立繪if暱稱":"{\"村姑\":\"Actor_4_2\"}","usedOnTags":"[\"花香兔兔\",\"女\"]","女":true}},
 	{"id":5,"battlerName":"BLR_RinNaMZ_SV","characterIndex":1,"characterName":"BLR_Yuter_MV01","classId":5,"equips":[
 		122,
 		0,
@@ -174,7 +174,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"BLR_MainNPCs","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"<usedOnTags:[\"晨\",\"男\"]>\n<男>","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。","meta":{"usedOnTags":"[\"晨\",\"男\"]","男":true}},
+	],"initialLevel":1,"maxLevel":99,"name":"晨","nickname":"風之獵手","note":"<usedOnTags:[\"晨\",\"男\",\"射手\"]>\n<男>\n","profile":"傳統的妖精，似乎也是妖精族舉足輕重的人物，擁有明察秋毫\n的洞察力，對任何人都有防備心。","meta":{"usedOnTags":"[\"晨\",\"男\"]","男":true}},
 	{"id":18,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":15,"equips":[
 		0,
 		0,
@@ -649,7 +649,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"攸特技能說明用（、MP）","profile":"","meta":{}},
 	{"id":76,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,
@@ -657,7 +657,7 @@
 		0,
 		0
 	],"faceIndex":0,"faceName":"","traits":[
-	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":"","meta":{}},
+	],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"攸特技能說明用（、MP 50 點）","profile":"","meta":{}},
 	{"id":77,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[
 		0,
 		0,

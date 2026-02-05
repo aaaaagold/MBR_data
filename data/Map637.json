@@ -60525,13 +60525,19 @@
 	],"x":49,"y":5},
 	{"id":8,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"おっぱい↓","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"おっぱい↓","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -60578,131 +60584,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -60723,17 +60613,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":45,"y":50},
 	{"id":9,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ぺったん子","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ぺったん子","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -60780,131 +60676,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -60925,17 +60705,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":47,"y":50},
 	{"id":10,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"人妻","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"人妻","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -60982,131 +60768,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -61127,17 +60797,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":50},
 	{"id":11,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ストッキング","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ストッキング","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -61184,131 +60860,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -61329,17 +60889,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":52},
 	{"id":12,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"先生と生徒","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"先生と生徒","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -61386,131 +60952,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -61531,17 +60981,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":47,"y":52},
 	{"id":13,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"痴漢","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"痴漢","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -61588,131 +61044,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -61733,17 +61073,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":45,"y":52},
 	{"id":14,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"シスター","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"シスター","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -61790,131 +61136,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -61935,17 +61165,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":45,"y":54},
 	{"id":15,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"お尻","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"お尻","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -61992,131 +61228,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -62137,17 +61257,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":47,"y":54},
 	{"id":16,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"裸足","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"裸足","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -62194,131 +61320,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -62339,17 +61349,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":54},
 	{"id":17,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"近親相姦","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"近親相姦","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -62396,131 +61412,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -62541,17 +61441,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":48},
 	{"id":18,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ロリ","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ロリ","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -62598,131 +61504,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -62743,17 +61533,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":47,"y":48},
 	{"id":19,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"メイド","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"メイド","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -62800,131 +61596,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -62945,17 +61625,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":45,"y":48},
 	{"id":20,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ぶら","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"ぶら","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -63002,131 +61688,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -63147,17 +61717,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":45,"y":56},
 	{"id":21,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"パンツ","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"パンツ","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -63204,131 +61780,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -63349,17 +61809,23 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":47,"y":56},
 	{"id":22,"name":"下流梗1","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"脇下","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":0,"indent":0,"parameters":[
 			]}
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true},
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true},
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":449,"variableValid":true,"variableValue":1},"directionFix":false,"image":{"tileId":240,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"脇下","volume":100,"pitch":100,"pan":0}
+			]},
 			{"code":101,"indent":0,"parameters":[
 				"",
 				0,
@@ -63406,131 +61872,15 @@
 				449,
 				0
 			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				23
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				450,
-				450,
-				0,
-				0,
-				20
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				335
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
 			{"code":411,"indent":1,"parameters":[
 			]},
-			{"code":101,"indent":2,"parameters":[
-				"",
-				0,
-				0,
-				2
-			]},
-			{"code":401,"indent":2,"parameters":[
-				"手中的信籤自體燒掉了。"
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				27
-			]},
 			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":250,"indent":2,"parameters":[
-				{"name":"Open9","volume":90,"pitch":50,"pan":0}
-			]},
-			{"code":122,"indent":2,"parameters":[
-				449,
-				449,
-				0,
-				0,
-				0
-			]},
-			{"code":230,"indent":2,"parameters":[
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				21,
-				21,
-				0,
-				0,
-				60
-			]},
-			{"code":122,"indent":2,"parameters":[
-				22,
-				22,
-				0,
-				0,
-				-1
-			]},
-			{"code":117,"indent":2,"parameters":[
-				258
-			]},
-			{"code":134,"indent":2,"parameters":[
-				1
+				334
 			]},
 			{"code":0,"indent":2,"parameters":[
 			]},
@@ -63551,7 +61901,7 @@
 		],"moveFrequency":3,"moveRoute":{"list":[
 			{"code":0,"parameters":[
 			]}
-		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":0,"walkAnime":true}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":0,"stepAnime":false,"through":false,"trigger":1,"walkAnime":true}
 	],"x":49,"y":56},
 	{"id":23,"name":"EV023_正門下","note":"","pages":[
 		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":false,"image":{"tileId":427,"characterName":"","characterIndex":0,"direction":2,"pattern":0},"list":[
@@ -63624,10 +61974,10 @@
 				"前方乃餘香閣道場正殿之大門，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"需成功破解信籤之中的謎題方可叩響大門，"
+				"需\\C[2]成功破解信籤之中的謎題方可叩響大門，"
 			]},
 			{"code":401,"indent":1,"parameters":[
-				"並正坐於正確的蒲團上，大門便會為尊客敞開。"
+				"並正坐於正確的蒲團上，大門便會為尊客敞開。\\C[0]"
 			]},
 			{"code":401,"indent":1,"parameters":[
 				"若未能成功破解謎題，手上的信籤會被銷毀。"
@@ -63727,6 +62077,27 @@
 			{"code":402,"indent":2,"parameters":[
 				1,
 				"再看一次說明"
+			]},
+			{"code":250,"indent":3,"parameters":[
+				{"name":"Book1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":101,"indent":3,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"前方乃餘香閣道場正殿之大門，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"需\\C[2]成功破解信籤之中的謎題方可叩響大門，"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"並正坐於正確的蒲團上，大門便會為尊客敞開。\\C[0]"
+			]},
+			{"code":401,"indent":3,"parameters":[
+				"若未能成功破解謎題，手上的信籤會被銷毀。"
 			]},
 			{"code":0,"indent":3,"parameters":[
 			]},
@@ -67936,5 +66307,159 @@
 			{"code":0,"parameters":[
 			]}
 		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
-	],"x":48,"y":99}
+	],"x":48,"y":99},
+	{"id":86,"name":"EV086","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				215,
+				0,
+				0,
+				1
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[215]。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":56,"y":44},
+	{"id":87,"name":"EV087","note":"","pages":[
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":false,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":2,"pattern":1,"characterIndex":4},"list":[
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Chest1","pan":0,"pitch":100,"volume":90}
+			]},
+			{"code":205,"indent":0,"parameters":[
+				0,
+				{"list":[
+					{"code":36},
+					{"code":17},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":18},
+					{"code":15,"parameters":[
+						3
+					]},
+					{"code":0}
+				],"repeat":false,"skippable":false,"wait":true}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":36}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":17}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":18}
+			]},
+			{"code":505,"indent":0,"parameters":[
+				{"code":15,"parameters":[
+					3
+				]}
+			]},
+			{"code":123,"indent":0,"parameters":[
+				"A",
+				0
+			]},
+			{"code":251,"indent":0,"parameters":[
+			]},
+			{"code":250,"indent":0,"parameters":[
+				{"name":"Item1","volume":90,"pitch":100,"pan":0}
+			]},
+			{"code":126,"indent":0,"parameters":[
+				255,
+				0,
+				0,
+				3
+			]},
+			{"code":101,"indent":0,"parameters":[
+				"",
+				0,
+				0,
+				2
+			]},
+			{"code":401,"indent":0,"parameters":[
+				"獲得\\ni[255]三個。"
+			]},
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false},
+		{"conditions":{"actorId":1,"actorValid":false,"itemId":1,"itemValid":false,"selfSwitchCh":"A","selfSwitchValid":true,"switch1Id":1,"switch1Valid":false,"switch2Id":1,"switch2Valid":false,"variableId":1,"variableValid":false,"variableValue":0},"directionFix":true,"image":{"tileId":0,"characterName":"!Chest","direction":8,"pattern":1,"characterIndex":4},"list":[
+			{"code":0,"indent":0,"parameters":[
+			]}
+		],"moveFrequency":3,"moveRoute":{"list":[
+			{"code":0,"parameters":[
+			]}
+		],"repeat":true,"skippable":false,"wait":false},"moveSpeed":3,"moveType":0,"priorityType":1,"stepAnime":false,"through":false,"trigger":0,"walkAnime":false}
+	],"x":40,"y":47}
 ]}
